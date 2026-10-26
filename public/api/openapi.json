@@ -1,0 +1,194 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "Khoirul Mustofa Mengaji - Al-Qur'an Public REST API",
+    "version": "1.0.0",
+    "description": "API Publik Al-Qur'an gratis, berkecepatan tinggi, tanpa autentikasi, dan mendukung CORS untuk integrasi aplikasi mobile, web, dan bot.",
+    "contact": {
+      "name": "Khoirul Mustofa",
+      "url": "https://github.com/khoirulmustofa/alquran"
+    },
+    "license": {
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://khoirulmustofa.github.io/alquran",
+      "description": "Production GitHub Pages CDN (Fastly / Cloudflare)"
+    },
+    {
+      "url": "http://localhost:3000",
+      "description": "Development Server"
+    }
+  ],
+  "paths": {
+    "/data/quran/chapters.json": {
+      "get": {
+        "summary": "Daftar 114 Surah Al-Qur'an",
+        "description": "Mengembalikan daftar lengkap 114 surah dengan nama Arab, nama latin/simple, nomor wahyu, tempat turun (Makkiyyah/Madaniyyah), jumlah ayat, rentang halaman, dan terjemahan nama dalam bahasa Indonesia.",
+        "responses": {
+          "200": {
+            "description": "Daftar surah berhasil diambil",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Chapter"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/quran/surah/{id}.json": {
+      "get": {
+        "summary": "Detail Ayat Berdasarkan Nomor Surah",
+        "description": "Mengembalikan seluruh ayat dalam satu surah lengkap dengan teks Rasm Uthmani berharakat, info juz, hizb, ruku, manzil, serta terjemahan bahasa Indonesia resmi Kemenag RI.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "Nomor Surah (1 - 114)",
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 114,
+              "example": 36
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Data ayat per surah",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SurahResponse"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Surah tidak ditemukan"
+          }
+        }
+      }
+    },
+    "/data/quran/page/{page}.json": {
+      "get": {
+        "summary": "Detail Ayat Berdasarkan Halaman Mushaf Madinah",
+        "description": "Mengembalikan daftar ayat yang ada di halaman tertentu sesuai standar Mushaf Madinah (total 604 halaman), lengkap dengan teks Uthmani dan terjemahan Indonesia.",
+        "parameters": [
+          {
+            "name": "page",
+            "in": "path",
+            "required": true,
+            "description": "Nomor Halaman Mushaf (1 - 604)",
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 604,
+              "example": 1
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Data ayat per halaman mushaf",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PageResponse"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Halaman tidak ditemukan"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Chapter": {
+        "type": "object",
+        "properties": {
+          "id": { "type": "integer", "example": 1 },
+          "revelation_place": { "type": "string", "example": "makkah" },
+          "revelation_order": { "type": "integer", "example": 5 },
+          "bismillah_pre": { "type": "boolean", "example": false },
+          "name_simple": { "type": "string", "example": "Al-Fatihah" },
+          "name_complex": { "type": "string", "example": "Al-Fātiĥah" },
+          "name_arabic": { "type": "string", "example": "الفاتحة" },
+          "verses_count": { "type": "integer", "example": 7 },
+          "pages": {
+            "type": "array",
+            "items": { "type": "integer" },
+            "example": [1, 1]
+          },
+          "translated_name": {
+            "type": "object",
+            "properties": {
+              "language_name": { "type": "string", "example": "indonesian" },
+              "name": { "type": "string", "example": "Pembukaan" }
+            }
+          }
+        }
+      },
+      "Verse": {
+        "type": "object",
+        "properties": {
+          "id": { "type": "integer", "example": 1 },
+          "verse_number": { "type": "integer", "example": 1 },
+          "verse_key": { "type": "string", "example": "1:1" },
+          "hizb_number": { "type": "integer", "example": 1 },
+          "rub_el_hizb_number": { "type": "integer", "example": 1 },
+          "ruku_number": { "type": "integer", "example": 1 },
+          "manzil_number": { "type": "integer", "example": 1 },
+          "sajdah_number": { "type": "integer", "nullable": true, "example": null },
+          "text_uthmani": { "type": "string", "example": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ" },
+          "chapter_id": { "type": "integer", "example": 1 },
+          "page_number": { "type": "integer", "example": 1 },
+          "juz_number": { "type": "integer", "example": 1 },
+          "translations": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": { "type": "integer", "example": 181444 },
+                "resource_id": { "type": "integer", "example": 33 },
+                "text": { "type": "string", "example": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang." }
+              }
+            }
+          }
+        }
+      },
+      "SurahResponse": {
+        "type": "object",
+        "properties": {
+          "verses": {
+            "type": "array",
+            "items": { "$ref": "#/components/schemas/Verse" }
+          }
+        }
+      },
+      "PageResponse": {
+        "type": "object",
+        "properties": {
+          "verses": {
+            "type": "array",
+            "items": { "$ref": "#/components/schemas/Verse" }
+          }
+        }
+      }
+    }
+  }
+}

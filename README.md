@@ -120,6 +120,40 @@ node scripts/sync-quran.mjs
 
 ---
 
+## 📡 Public REST API & Dokumentasi
+
+Aplikasi ini juga berfungsi sebagai penyedia **Al-Qur'an Public REST API** gratis dan instan yang di-host langsung melalui **GitHub Pages CDN (Fastly / Cloudflare)**:
+- ⚡ **Latensi Rendah**: Data disajikan langsung dari edge CDN global.
+- 🌐 **CORS Diaktifkan**: Header `Access-Control-Allow-Origin: *` otomatis aktif, sehingga dapat langsung di-fetch dari web atau mobile app pihak ketiga mana pun tanpa server proxy.
+- 🆓 **Bebas Kuota & Tanpa Token**: Tidak memerlukan pendaftaran akun atau API Key.
+- 🧪 **Interactive Tester / Playground**: Coba langsung di [https://khoirulmustofa.github.io/alquran/api-docs/](https://khoirulmustofa.github.io/alquran/api-docs/).
+
+### Daftar Endpoint Resmi:
+
+| Method | Endpoint | Deskripsi | Contoh URL |
+| :--- | :--- | :--- | :--- |
+| `GET` | `/data/quran/chapters.json` | Daftar 114 Surah Al-Qur'an | [Link](https://khoirulmustofa.github.io/alquran/data/quran/chapters.json) |
+| `GET` | `/data/quran/surah/{id}.json` | Detail ayat & terjemahan per surah (id: 1 - 114) | [Surah Yasin (36)](https://khoirulmustofa.github.io/alquran/data/quran/surah/36.json) |
+| `GET` | `/data/quran/page/{page}.json` | Ayat per halaman Mushaf Madinah (page: 1 - 604) | [Halaman 1](https://khoirulmustofa.github.io/alquran/data/quran/page/1.json) |
+| `GET` | `/api/openapi.json` | OpenAPI 3.0 Specification | [OpenAPI Spec](https://khoirulmustofa.github.io/alquran/api/openapi.json) |
+| `GET` | `/api/index.json` | Root API Discovery Catalog | [API Index](https://khoirulmustofa.github.io/alquran/api/index.json) |
+
+### Contoh Penggunaan (cURL & JavaScript):
+
+```bash
+# Mengambil Surah Al-Fatihah
+curl -s -X GET "https://khoirulmustofa.github.io/alquran/data/quran/surah/1.json"
+```
+
+```javascript
+// JavaScript Fetch
+const res = await fetch("https://khoirulmustofa.github.io/alquran/data/quran/surah/36.json");
+const data = await res.json();
+console.log(`Jumlah ayat Surah Yasin: ${data.verses.length}`);
+```
+
+---
+
 ## 📄 Lisensi & Hak Cipta
 
 Dilisensikan di bawah [MIT License](LICENSE).  

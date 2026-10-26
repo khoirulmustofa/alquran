@@ -51,6 +51,24 @@
             <span>Surah</span>
           </NuxtLink>
 
+          <!-- API & Docs -->
+          <NuxtLink to="/api-docs" :class="[
+            'flex items-center gap-3 px-3 py-2 text-xs rounded-xl transition',
+            route.path.startsWith('/api-docs')
+              ? 'font-semibold text-blue-600 bg-blue-50/70 shadow-xs'
+              : 'font-medium text-slate-600 hover:text-blue-600 hover:bg-slate-50'
+          ]">
+            <svg class="w-4 h-4" :class="route.path.startsWith('/api-docs') ? 'text-blue-600' : 'text-slate-400'" fill="none"
+              stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
+            </svg>
+            <div class="flex items-center justify-between flex-1">
+              <span>API & Docs</span>
+              <span class="text-[9px] px-1.5 py-0.5 rounded-full font-bold bg-emerald-100 text-emerald-700">REST</span>
+            </div>
+          </NuxtLink>
+
           <!-- Doa -->
           <NuxtLink to="/#doa"
             class="flex items-center gap-3 px-3 py-2 text-xs font-medium text-slate-600 hover:text-blue-600 hover:bg-slate-50 rounded-xl transition">

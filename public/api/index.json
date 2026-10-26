@@ -1,0 +1,31 @@
+{
+  "name": "Khoirul Mustofa Mengaji - Al-Qur'an Public REST API",
+  "version": "1.0.0",
+  "description": "API Publik Al-Qur'an gratis, berkecepatan tinggi, tanpa autentikasi, dan mendukung CORS untuk integrasi aplikasi mobile, web, dan bot.",
+  "baseUrl": "https://khoirulmustofa.github.io/alquran",
+  "openapi": "https://khoirulmustofa.github.io/alquran/api/openapi.json",
+  "endpoints": {
+    "chapters": {
+      "method": "GET",
+      "path": "/data/quran/chapters.json",
+      "description": "Daftar seluruh 114 Surah Al-Qur'an",
+      "example": "https://khoirulmustofa.github.io/alquran/data/quran/chapters.json"
+    },
+    "surah": {
+      "method": "GET",
+      "path": "/data/quran/surah/{id}.json",
+      "description": "Seluruh ayat dan terjemahan per surah (id: 1 - 114)",
+      "example": "https://khoirulmustofa.github.io/alquran/data/quran/surah/1.json"
+    },
+    "page": {
+      "method": "GET",
+      "path": "/data/quran/page/{page}.json",
+      "description": "Ayat dan terjemahan per halaman Mushaf Madinah (page: 1 - 604)",
+      "example": "https://khoirulmustofa.github.io/alquran/data/quran/page/1.json"
+    }
+  },
+  "total_chapters": 114,
+  "total_pages": 604,
+  "license": "MIT",
+  "author": "Khoirul Mustofa"
+}
