@@ -1,7 +1,7 @@
 <template>
   <div class="bg-[#d5dbe3] min-h-screen p-2 sm:p-4 md:p-6 lg:p-8 flex items-center justify-center font-sans antialiased text-slate-700">
-    <!-- Outer window shell -->
-    <div class="w-full max-w-[1360px] h-[92vh] min-h-[720px] max-h-[960px] bg-white rounded-3xl shadow-2xl flex overflow-hidden border border-slate-200/80 relative">
+    <!-- Outer window shell representing the modern desktop app standard -->
+    <div class="w-full max-w-[1280px] h-[92vh] min-h-[680px] max-h-[960px] bg-white rounded-3xl shadow-2xl flex overflow-hidden border border-slate-200/80 relative">
       
       <!-- Mobile Sidebar Overlay & Drawer -->
       <div
@@ -30,10 +30,10 @@
         />
 
         <!-- Content Area: 2-Column Layout (Endpoints List + Interactive Console) -->
-        <div class="flex-1 flex flex-col lg:flex-row overflow-hidden relative">
+        <div class="flex-1 flex flex-col lg:flex-row overflow-hidden relative min-w-0">
           
-          <!-- Column 1: Endpoint Directory -->
-          <div class="w-full lg:w-80 shrink-0 border-r border-slate-100 flex flex-col bg-slate-50/40">
+          <!-- Column 1: Endpoint Directory (Matching 72 width of Quran reader) -->
+          <section class="w-full lg:w-72 shrink-0 border-r border-slate-100 flex flex-col bg-slate-50/40">
             <!-- Header -->
             <div class="p-4 border-b border-slate-100 flex items-center justify-between">
               <div>
@@ -92,10 +92,10 @@
                 </div>
               </div>
             </div>
-          </div>
+          </section>
 
           <!-- Column 2: Interactive Tester & Documentation -->
-          <div class="flex-1 flex flex-col overflow-y-auto bg-white p-4 sm:p-6 space-y-6">
+          <main class="flex-1 flex flex-col overflow-y-auto bg-white p-4 sm:p-6 md:p-8 space-y-6 min-w-0" data-purpose="api-tester-console">
             
             <!-- Endpoint Header & Live URL Bar -->
             <div class="space-y-3">
@@ -199,11 +199,11 @@
             </div>
 
             <!-- Response Panel -->
-            <div class="space-y-3">
-              <div class="flex items-center justify-between">
+            <div class="space-y-3 min-w-0">
+              <div class="flex flex-wrap items-center justify-between gap-2">
                 <div class="flex items-center gap-3">
                   <h3 class="text-xs font-bold text-slate-700 uppercase tracking-wider">Response Inspector</h3>
-                  <div v-if="responseMeta" class="flex items-center gap-2">
+                  <div v-if="responseMeta" class="flex flex-wrap items-center gap-1.5">
                     <span
                       :class="[
                         'text-[10px] font-bold px-2 py-0.5 rounded-full',
@@ -222,6 +222,22 @@
                 </div>
 
                 <div class="flex items-center gap-2">
+                  <!-- Expand/Collapse Height Toggle to prevent scroll traps -->
+                  <button
+                    v-if="responseRaw"
+                    @click="isJsonExpanded = !isJsonExpanded"
+                    class="px-2.5 py-1 text-xs font-medium text-slate-600 hover:text-blue-600 bg-slate-100 hover:bg-slate-200 rounded-lg transition flex items-center gap-1.5 cursor-pointer"
+                    :title="isJsonExpanded ? 'Kecilkan ke mode ringkas' : 'Perluas tampilan respons JSON'"
+                  >
+                    <svg v-if="!isJsonExpanded" class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5l-5-5m5 5v-4m0 4h-4" />
+                    </svg>
+                    <svg v-else class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 9L4 4m0 0v4m0-4h4m6 5l5-5m0 0h-4m4 0v4m-5 6l5 5m0 0v-4m0 4h-4m-6-5l-5 5m0 0h4m-4 0v-4" />
+                    </svg>
+                    <span>{{ isJsonExpanded ? 'Mode Ringkas' : 'Perluas JSON' }}</span>
+                  </button>
+
                   <button
                     v-if="responseRaw"
                     @click="copyToClipboard(responseRaw, 'json')"
@@ -236,7 +252,7 @@
               </div>
 
               <!-- JSON Display Console -->
-              <div class="relative rounded-2xl bg-slate-900 border border-slate-800 text-slate-200 overflow-hidden font-mono text-xs shadow-inner">
+              <div class="relative rounded-2xl bg-slate-900 border border-slate-800 text-slate-200 overflow-hidden font-mono text-xs shadow-inner min-w-0">
                 <div class="flex items-center justify-between px-4 py-2 border-b border-slate-800 bg-slate-950/60 text-[11px] text-slate-400">
                   <div class="flex items-center gap-2">
                     <span class="w-2.5 h-2.5 rounded-full bg-rose-500/80"></span>
@@ -244,11 +260,19 @@
                     <span class="w-2.5 h-2.5 rounded-full bg-emerald-500/80"></span>
                     <span class="ml-2 font-mono text-slate-300">application/json</span>
                   </div>
-                  <span>UTF-8</span>
+                  <div class="flex items-center gap-3">
+                    <span v-if="jsonLineCount" class="text-slate-500">{{ jsonLineCount }} baris</span>
+                    <span>UTF-8</span>
+                  </div>
                 </div>
                 
-                <div class="p-4 max-h-96 overflow-y-auto leading-relaxed select-text font-mono">
-                  <pre v-if="responseRaw" class="text-emerald-400 text-[11px] leading-5 whitespace-pre-wrap">{{ responseRaw }}</pre>
+                <div
+                  :class="[
+                    'p-4 overflow-y-auto overflow-x-auto leading-relaxed select-text font-mono transition-all duration-200 overscroll-contain min-w-0',
+                    isJsonExpanded ? 'max-h-[620px]' : 'max-h-80'
+                  ]"
+                >
+                  <pre v-if="responseRaw" class="text-emerald-400 text-[11px] leading-5 whitespace-pre break-normal min-w-0">{{ responseRaw }}</pre>
                   <div v-else class="text-slate-500 py-10 text-center italic">
                     Klik tombol "Kirim Request" di atas untuk menjalankan pengujian live endpoint.
                   </div>
@@ -257,7 +281,7 @@
             </div>
 
             <!-- Multi-Language Code Snippets Section -->
-            <div class="space-y-3 pt-2 border-t border-slate-100">
+            <div class="space-y-3 pt-2 border-t border-slate-100 min-w-0">
               <div class="flex items-center justify-between">
                 <h3 class="text-xs font-bold text-slate-700 uppercase tracking-wider">Integrasi Kode</h3>
                 <div class="flex rounded-lg bg-slate-100 p-0.5 text-[11px] font-semibold">
@@ -276,7 +300,7 @@
               </div>
 
               <!-- Snippet Box -->
-              <div class="relative rounded-2xl bg-slate-900 border border-slate-800 text-slate-200 overflow-hidden font-mono text-xs">
+              <div class="relative rounded-2xl bg-slate-900 border border-slate-800 text-slate-200 overflow-hidden font-mono text-xs min-w-0">
                 <div class="flex items-center justify-between px-4 py-2 border-b border-slate-800 bg-slate-950/60 text-[11px] text-slate-400">
                   <span>{{ currentSnippetHeader }}</span>
                   <button
@@ -289,13 +313,13 @@
                     <span>{{ copyStatus.code ? 'Tersalin!' : 'Salin Kode' }}</span>
                   </button>
                 </div>
-                <div class="p-4 overflow-x-auto text-blue-300 text-[11px] leading-5">
+                <div class="p-4 overflow-x-auto text-blue-300 text-[11px] leading-5 min-w-0">
                   <pre class="whitespace-pre">{{ currentSnippetCode }}</pre>
                 </div>
               </div>
             </div>
 
-          </div>
+          </main>
         </div>
 
       </div>
@@ -308,8 +332,14 @@ import { ref, computed, onMounted } from 'vue'
 
 const isMobileSidebarOpen = ref(false)
 const isLoading = ref(false)
+const isJsonExpanded = ref(false)
 const responseRaw = ref<string>('')
 const responseMeta = ref<{ status: number; statusText: string; time: number; size: string } | null>(null)
+
+const jsonLineCount = computed(() => {
+  if (!responseRaw.value) return 0
+  return responseRaw.value.split('\n').length
+})
 
 const copyStatus = ref<{ url: boolean; json: boolean; code: boolean }>({
   url: false,
