@@ -1,0 +1,242 @@
+{
+  "verses": [
+    {
+      "id": 2068,
+      "verse_number": 39,
+      "verse_key": "17:39",
+      "hizb_number": 29,
+      "rub_el_hizb_number": 114,
+      "ruku_number": 243,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "ذَٰلِكَ مِمَّآ أَوْحَىٰٓ إِلَيْكَ رَبُّكَ مِنَ ٱلْحِكْمَةِ ۗ وَلَا تَجْعَلْ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ فَتُلْقَىٰ فِى جَهَنَّمَ مَلُومًا مَّدْحُورًا",
+      "chapter_id": 17,
+      "page_number": 286,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182125,
+          "resource_id": 33,
+          "text": "Itulah sebagian hikmah yang diwahyukan Tuhan kepadamu (Muhammad). Dan janganlah engkau mengadakan tuhan yang lain di samping Allah, nanti engkau dilemparkan ke dalam neraka dalam keadaan tercela dan dijauhkan (dari rahmat Allah)."
+        }
+      ]
+    },
+    {
+      "id": 2069,
+      "verse_number": 40,
+      "verse_key": "17:40",
+      "hizb_number": 29,
+      "rub_el_hizb_number": 114,
+      "ruku_number": 243,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "أَفَأَصْفَىٰكُمْ رَبُّكُم بِٱلْبَنِينَ وَٱتَّخَذَ مِنَ ٱلْمَلَـٰٓئِكَةِ إِنَـٰثًا ۚ إِنَّكُمْ لَتَقُولُونَ قَوْلًا عَظِيمًا",
+      "chapter_id": 17,
+      "page_number": 286,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 181981,
+          "resource_id": 33,
+          "text": "Maka apakah pantas Tuhan memilihkan anak laki-laki untukmu dan Dia mengambil anak perempuan dari malaikat? Sungguh, kamu benar-benar mengucapkan perkataan yang besar (dosanya)."
+        }
+      ]
+    },
+    {
+      "id": 2070,
+      "verse_number": 41,
+      "verse_key": "17:41",
+      "hizb_number": 29,
+      "rub_el_hizb_number": 114,
+      "ruku_number": 244,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ صَرَّفْنَا فِى هَـٰذَا ٱلْقُرْءَانِ لِيَذَّكَّرُوا۟ وَمَا يَزِيدُهُمْ إِلَّا نُفُورًا",
+      "chapter_id": 17,
+      "page_number": 286,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182113,
+          "resource_id": 33,
+          "text": "Dan sungguh, dalam Alquran ini telah Kami (jelaskan) berulang-ulang (peringatan), agar mereka selalu ingat. Tetapi (peringatan) itu hanya menambah mereka lari (dari kebenaran)."
+        }
+      ]
+    },
+    {
+      "id": 2071,
+      "verse_number": 42,
+      "verse_key": "17:42",
+      "hizb_number": 29,
+      "rub_el_hizb_number": 114,
+      "ruku_number": 244,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قُل لَّوْ كَانَ مَعَهُۥٓ ءَالِهَةٌ كَمَا يَقُولُونَ إِذًا لَّٱبْتَغَوْا۟ إِلَىٰ ذِى ٱلْعَرْشِ سَبِيلًا",
+      "chapter_id": 17,
+      "page_number": 286,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182111,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"jika ada tuhan-tuhan disamping-Nya, sebagaimana yang mereka katakan, niscaya tuhan-tuhan itu mencari jalan kepada Tuhan yang mempunyai Arasy.\""
+        }
+      ]
+    },
+    {
+      "id": 2072,
+      "verse_number": 43,
+      "verse_key": "17:43",
+      "hizb_number": 29,
+      "rub_el_hizb_number": 114,
+      "ruku_number": 244,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يَقُولُونَ عُلُوًّا كَبِيرًا",
+      "chapter_id": 17,
+      "page_number": 286,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 181982,
+          "resource_id": 33,
+          "text": "Mahasuci dan Mahatinggi Dia dari apa yang mereka katakan, luhur dan agung (tidak ada bandingannya)."
+        }
+      ]
+    },
+    {
+      "id": 2073,
+      "verse_number": 44,
+      "verse_key": "17:44",
+      "hizb_number": 29,
+      "rub_el_hizb_number": 114,
+      "ruku_number": 244,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "تُسَبِّحُ لَهُ ٱلسَّمَـٰوَٰتُ ٱلسَّبْعُ وَٱلْأَرْضُ وَمَن فِيهِنَّ ۚ وَإِن مِّن شَىْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِۦ وَلَـٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا",
+      "chapter_id": 17,
+      "page_number": 286,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 181980,
+          "resource_id": 33,
+          "text": "Langit yang tujuh, bumi dan semua yang ada di dalamnya bertasbih kepada Allah. Dan tidak ada sesuatu pun melainkan bertasbih dengan memuji-Nya, tetapi kamu tidak mengerti tasbih mereka. Sungguh, Dia Maha Penyantun, Maha Pengampun."
+        }
+      ]
+    },
+    {
+      "id": 2074,
+      "verse_number": 45,
+      "verse_key": "17:45",
+      "hizb_number": 29,
+      "rub_el_hizb_number": 114,
+      "ruku_number": 244,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا قَرَأْتَ ٱلْقُرْءَانَ جَعَلْنَا بَيْنَكَ وَبَيْنَ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ حِجَابًا مَّسْتُورًا",
+      "chapter_id": 17,
+      "page_number": 286,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 181976,
+          "resource_id": 33,
+          "text": "Dan apabila engkau (Muhammad) membaca Alquran, Kami adakan suatu dinding yang tidak terlihat antara engkau dan orang-orang yang tidak beriman kepada kehidupan akhirat,"
+        }
+      ]
+    },
+    {
+      "id": 2075,
+      "verse_number": 46,
+      "verse_key": "17:46",
+      "hizb_number": 29,
+      "rub_el_hizb_number": 114,
+      "ruku_number": 244,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًا ۚ وَإِذَا ذَكَرْتَ رَبَّكَ فِى ٱلْقُرْءَانِ وَحْدَهُۥ وَلَّوْا۟ عَلَىٰٓ أَدْبَـٰرِهِمْ نُفُورًا",
+      "chapter_id": 17,
+      "page_number": 286,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 181968,
+          "resource_id": 33,
+          "text": "dan Kami jadikan hati mereka tertutup dan telinga mereka tersumbat, agar mereka tidak dapat memahaminya. Dan apabila engkau menyebut Tuhanmu saja dalam Alquran, mereka berpaling ke belakang melarikan diri (karena benci)."
+        }
+      ]
+    },
+    {
+      "id": 2076,
+      "verse_number": 47,
+      "verse_key": "17:47",
+      "hizb_number": 29,
+      "rub_el_hizb_number": 114,
+      "ruku_number": 244,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "نَّحْنُ أَعْلَمُ بِمَا يَسْتَمِعُونَ بِهِۦٓ إِذْ يَسْتَمِعُونَ إِلَيْكَ وَإِذْ هُمْ نَجْوَىٰٓ إِذْ يَقُولُ ٱلظَّـٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلًا مَّسْحُورًا",
+      "chapter_id": 17,
+      "page_number": 286,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 181952,
+          "resource_id": 33,
+          "text": "Kami lebih mengetahui dalam keadaan bagaimana mereka mendengarkan sewaktu mereka mendengarkan engkau (Muhammad), dan sewaktu mereka berbisik-bisik (yaitu) ketika orang zalim itu berkata, \"Kamu hanyalah mengikuti seorang laki-laki yang kena sihir.\""
+        }
+      ]
+    },
+    {
+      "id": 2077,
+      "verse_number": 48,
+      "verse_key": "17:48",
+      "hizb_number": 29,
+      "rub_el_hizb_number": 114,
+      "ruku_number": 244,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "ٱنظُرْ كَيْفَ ضَرَبُوا۟ لَكَ ٱلْأَمْثَالَ فَضَلُّوا۟ فَلَا يَسْتَطِيعُونَ سَبِيلًا",
+      "chapter_id": 17,
+      "page_number": 286,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182110,
+          "resource_id": 33,
+          "text": "Lihatlah bagaimana mereka membuat perumpamaan untukmu (Muhammad); karena itu mereka menjadi sesat dan tidak dapat lagi menemukan jalan (yang benar)."
+        }
+      ]
+    },
+    {
+      "id": 2078,
+      "verse_number": 49,
+      "verse_key": "17:49",
+      "hizb_number": 29,
+      "rub_el_hizb_number": 114,
+      "ruku_number": 244,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَـٰمًا وَرُفَـٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا",
+      "chapter_id": 17,
+      "page_number": 286,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182104,
+          "resource_id": 33,
+          "text": "Dan mereka berkata, \"Apabila kami telah menjadi tulang-belulang dan benda-benda yang hancur, apakah kami benar-benar akan dibangkitkan kembali sebagai makhluk yang baru?\""
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 11,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 11
+  }
+}

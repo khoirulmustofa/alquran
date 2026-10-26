@@ -1,0 +1,221 @@
+{
+  "verses": [
+    {
+      "id": 3460,
+      "verse_number": 51,
+      "verse_key": "30:51",
+      "hizb_number": 41,
+      "rub_el_hizb_number": 163,
+      "ruku_number": 354,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَئِنْ أَرْسَلْنَا رِيحًا فَرَأَوْهُ مُصْفَرًّا لَّظَلُّوا۟ مِنۢ بَعْدِهِۦ يَكْفُرُونَ",
+      "chapter_id": 30,
+      "page_number": 410,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177664,
+          "resource_id": 33,
+          "text": "Dan sungguh, jika Kami mengirimkan angin lalu mereka melihat (tumbuh-tumbuhan itu) menjadi kuning (kering), niscaya setelah itu mereka tetap ingkar."
+        }
+      ]
+    },
+    {
+      "id": 3461,
+      "verse_number": 52,
+      "verse_key": "30:52",
+      "hizb_number": 41,
+      "rub_el_hizb_number": 163,
+      "ruku_number": 354,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "فَإِنَّكَ لَا تُسْمِعُ ٱلْمَوْتَىٰ وَلَا تُسْمِعُ ٱلصُّمَّ ٱلدُّعَآءَ إِذَا وَلَّوْا۟ مُدْبِرِينَ",
+      "chapter_id": 30,
+      "page_number": 410,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177666,
+          "resource_id": 33,
+          "text": "Maka sungguh, engkau tidak akan sanggup menjadikan orang-orang yang mati itu dapat mendengar, dan menjadikan orang-orang yang tuli dapat mendengar seruan, apabila mereka berpaling ke belakang.<sup foot_note=135596>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 3462,
+      "verse_number": 53,
+      "verse_key": "30:53",
+      "hizb_number": 41,
+      "rub_el_hizb_number": 163,
+      "ruku_number": 354,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَنتَ بِهَـٰدِ ٱلْعُمْىِ عَن ضَلَـٰلَتِهِمْ ۖ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِـَٔايَـٰتِنَا فَهُم مُّسْلِمُونَ",
+      "chapter_id": 30,
+      "page_number": 410,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177665,
+          "resource_id": 33,
+          "text": "Dan engkau tidak akan dapat memberi petunjuk kepada orang-orang yang buta (mata hatinya) dari kesesatannya. Dan engkau tidak dapat memperdengarkan (petunjuk Tuhan) kecuali kepada orang-orang yang beriman dengan ayat-ayat Kami, maka mereka itulah orang-orang yang berserah diri (kepada Kami)."
+        }
+      ]
+    },
+    {
+      "id": 3463,
+      "verse_number": 54,
+      "verse_key": "30:54",
+      "hizb_number": 41,
+      "rub_el_hizb_number": 164,
+      "ruku_number": 355,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "۞ ٱللَّهُ ٱلَّذِى خَلَقَكُم مِّن ضَعْفٍ ثُمَّ جَعَلَ مِنۢ بَعْدِ ضَعْفٍ قُوَّةً ثُمَّ جَعَلَ مِنۢ بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً ۚ يَخْلُقُ مَا يَشَآءُ ۖ وَهُوَ ٱلْعَلِيمُ ٱلْقَدِيرُ",
+      "chapter_id": 30,
+      "page_number": 410,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177667,
+          "resource_id": 33,
+          "text": "Allah lah yang menciptakan kamu dari keadaan lemah, kemudian Dia menjadikan (kamu) setelah keadaan lemah itu menjadi kuat, kemudian Dia menjadikan (kamu) setelah kuat itu lemah (kembali) dan beruban. Dia menciptakan apa yang Dia kehendaki. Dan Dia Maha Mengetahui, Mahakuasa."
+        }
+      ]
+    },
+    {
+      "id": 3464,
+      "verse_number": 55,
+      "verse_key": "30:55",
+      "hizb_number": 41,
+      "rub_el_hizb_number": 164,
+      "ruku_number": 355,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يُقْسِمُ ٱلْمُجْرِمُونَ مَا لَبِثُوا۟ غَيْرَ سَاعَةٍ ۚ كَذَٰلِكَ كَانُوا۟ يُؤْفَكُونَ",
+      "chapter_id": 30,
+      "page_number": 410,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177668,
+          "resource_id": 33,
+          "text": "Dan pada hari (ketika) terjadinya Kiamat, orang-orang yang berdosa bersumpah, bahwa mereka berdiam (dalam kubur) hanya sesaat (saja). Begitulah dahulu mereka dipalingkan (dari kebenaran).<sup foot_note=135597>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 3465,
+      "verse_number": 56,
+      "verse_key": "30:56",
+      "hizb_number": 41,
+      "rub_el_hizb_number": 164,
+      "ruku_number": 355,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ وَٱلْإِيمَـٰنَ لَقَدْ لَبِثْتُمْ فِى كِتَـٰبِ ٱللَّهِ إِلَىٰ يَوْمِ ٱلْبَعْثِ ۖ فَهَـٰذَا يَوْمُ ٱلْبَعْثِ وَلَـٰكِنَّكُمْ كُنتُمْ لَا تَعْلَمُونَ",
+      "chapter_id": 30,
+      "page_number": 410,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177669,
+          "resource_id": 33,
+          "text": "Dan orang-orang yang diberi ilmu dan keimanan berkata (kepada orang-orang kafir), \"Sungguh, kamu telah berdiam (dalam kubur) menurut ketetapan Allah, sampai hari berbangkit. Maka inilah hari berbangkit itu, tetapi (dahulu) kamu tidak meyakini(nya).\""
+        }
+      ]
+    },
+    {
+      "id": 3466,
+      "verse_number": 57,
+      "verse_key": "30:57",
+      "hizb_number": 41,
+      "rub_el_hizb_number": 164,
+      "ruku_number": 355,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "فَيَوْمَئِذٍ لَّا يَنفَعُ ٱلَّذِينَ ظَلَمُوا۟ مَعْذِرَتُهُمْ وَلَا هُمْ يُسْتَعْتَبُونَ",
+      "chapter_id": 30,
+      "page_number": 410,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177670,
+          "resource_id": 33,
+          "text": "Maka pada hari itu tidak bermanfaat (lagi) permintaan maaf orang-orang yang zalim, dan mereka tidak pula diberi kesempatan bertobat lagi."
+        }
+      ]
+    },
+    {
+      "id": 3467,
+      "verse_number": 58,
+      "verse_key": "30:58",
+      "hizb_number": 41,
+      "rub_el_hizb_number": 164,
+      "ruku_number": 355,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِى هَـٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍ ۚ وَلَئِن جِئْتَهُم بِـَٔايَةٍ لَّيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ أَنتُمْ إِلَّا مُبْطِلُونَ",
+      "chapter_id": 30,
+      "page_number": 410,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177671,
+          "resource_id": 33,
+          "text": "Dan sesungguhnya telah Kami jelaskan kepada manusia segala macam perumpamaan dalam Alquran ini. Dan jika engkau membawa suatu ayat kepada mereka, pastilah orang-orang kafir itu akan berkata, \"Kamu hanyalah orang-orang yang membuat kepalsuan belaka.\""
+        }
+      ]
+    },
+    {
+      "id": 3468,
+      "verse_number": 59,
+      "verse_key": "30:59",
+      "hizb_number": 41,
+      "rub_el_hizb_number": 164,
+      "ruku_number": 355,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "كَذَٰلِكَ يَطْبَعُ ٱللَّهُ عَلَىٰ قُلُوبِ ٱلَّذِينَ لَا يَعْلَمُونَ",
+      "chapter_id": 30,
+      "page_number": 410,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177672,
+          "resource_id": 33,
+          "text": "Demikianlah Allah mengunci hati orang-orang yang tidak (mau) memahami."
+        }
+      ]
+    },
+    {
+      "id": 3469,
+      "verse_number": 60,
+      "verse_key": "30:60",
+      "hizb_number": 41,
+      "rub_el_hizb_number": 164,
+      "ruku_number": 355,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ ۖ وَلَا يَسْتَخِفَّنَّكَ ٱلَّذِينَ لَا يُوقِنُونَ",
+      "chapter_id": 30,
+      "page_number": 410,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177673,
+          "resource_id": 33,
+          "text": "Maka bersabarlah engkau (Muhammad), sungguh, janji Allah itu benar dan sekali-kali jangan sampai orang-orang yang tidak meyakini (kebenaran ayat-ayat Allah) itu menggelisahkan engkau."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 10
+  }
+}

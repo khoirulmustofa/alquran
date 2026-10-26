@@ -1,0 +1,158 @@
+{
+  "verses": [
+    {
+      "id": 1308,
+      "verse_number": 73,
+      "verse_key": "9:73",
+      "hizb_number": 20,
+      "rub_el_hizb_number": 79,
+      "ruku_number": 165,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ جَـٰهِدِ ٱلْكُفَّارَ وَٱلْمُنَـٰفِقِينَ وَٱغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَىٰهُمْ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+      "chapter_id": 9,
+      "page_number": 199,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 181283,
+          "resource_id": 33,
+          "text": "Wahai Nabi! Berjihadlah (melawan) orang-orang kafir dan orang-orang munafik, dan bersikap keraslah terhadap mereka. Tempat mereka adalah neraka Jahanam. Dan itulah seburuk-buruk tempat kembali."
+        }
+      ]
+    },
+    {
+      "id": 1309,
+      "verse_number": 74,
+      "verse_key": "9:74",
+      "hizb_number": 20,
+      "rub_el_hizb_number": 79,
+      "ruku_number": 165,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "يَحْلِفُونَ بِٱللَّهِ مَا قَالُوا۟ وَلَقَدْ قَالُوا۟ كَلِمَةَ ٱلْكُفْرِ وَكَفَرُوا۟ بَعْدَ إِسْلَـٰمِهِمْ وَهَمُّوا۟ بِمَا لَمْ يَنَالُوا۟ ۚ وَمَا نَقَمُوٓا۟ إِلَّآ أَنْ أَغْنَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ مِن فَضْلِهِۦ ۚ فَإِن يَتُوبُوا۟ يَكُ خَيْرًا لَّهُمْ ۖ وَإِن يَتَوَلَّوْا۟ يُعَذِّبْهُمُ ٱللَّهُ عَذَابًا أَلِيمًا فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۚ وَمَا لَهُمْ فِى ٱلْأَرْضِ مِن وَلِىٍّ وَلَا نَصِيرٍ",
+      "chapter_id": 9,
+      "page_number": 199,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 181282,
+          "resource_id": 33,
+          "text": "Mereka (orang munafik) bersumpah dengan (nama) Allah, bahwa mereka tidak mengatakan (sesuatu yang menyakiti Muhammad). Sungguh, mereka telah mengucapkan perkataan kekafiran, dan telah menjadi kafir setelah Islam, dan menginginkan apa yang mereka tidak mencapainya;<sup foot_note=135325>1</sup> dan mereka tidak mencela (Allah dan Rasul-Nya), sekiranya Allah dan Rasul-Nya telah melimpahkan karunia-Nya kepada mereka. Maka jika mereka bertobat, itu adalah lebih baik bagi mereka, dan jika mereka berpaling, niscaya Allah akan mengazab mereka dengan azab yang pedih di dunia dan akhirat; dan mereka tidak mempunyai pelindung dan tidak (pula) penolong di bumi."
+        }
+      ]
+    },
+    {
+      "id": 1310,
+      "verse_number": 75,
+      "verse_key": "9:75",
+      "hizb_number": 20,
+      "rub_el_hizb_number": 80,
+      "ruku_number": 165,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "۞ وَمِنْهُم مَّنْ عَـٰهَدَ ٱللَّهَ لَئِنْ ءَاتَىٰنَا مِن فَضْلِهِۦ لَنَصَّدَّقَنَّ وَلَنَكُونَنَّ مِنَ ٱلصَّـٰلِحِينَ",
+      "chapter_id": 9,
+      "page_number": 199,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 181284,
+          "resource_id": 33,
+          "text": "Dan di antara mereka ada orang yang telah berjanji kepada Allah, \"Sesungguhnya jika Allah memberikan sebagian dari karunia-Nya kepada kami, niscaya kami akan bersedekah dan niscaya kami termasuk orang-orang yang saleh.\""
+        }
+      ]
+    },
+    {
+      "id": 1311,
+      "verse_number": 76,
+      "verse_key": "9:76",
+      "hizb_number": 20,
+      "rub_el_hizb_number": 80,
+      "ruku_number": 165,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَمَّآ ءَاتَىٰهُم مِّن فَضْلِهِۦ بَخِلُوا۟ بِهِۦ وَتَوَلَّوا۟ وَّهُم مُّعْرِضُونَ",
+      "chapter_id": 9,
+      "page_number": 199,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 181286,
+          "resource_id": 33,
+          "text": "Ketika Allah memberikan kepada mereka sebagian dari karunia-Nya, mereka menjadi kikir dan berpaling, dan selalu menentang (kebenaran)."
+        }
+      ]
+    },
+    {
+      "id": 1312,
+      "verse_number": 77,
+      "verse_key": "9:77",
+      "hizb_number": 20,
+      "rub_el_hizb_number": 80,
+      "ruku_number": 165,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَعْقَبَهُمْ نِفَاقًا فِى قُلُوبِهِمْ إِلَىٰ يَوْمِ يَلْقَوْنَهُۥ بِمَآ أَخْلَفُوا۟ ٱللَّهَ مَا وَعَدُوهُ وَبِمَا كَانُوا۟ يَكْذِبُونَ",
+      "chapter_id": 9,
+      "page_number": 199,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 181287,
+          "resource_id": 33,
+          "text": "Maka Allah menanamkan kemunafikan dalam hati mereka sampai pada waktu mereka menemui-Nya, karena mereka telah mengingkari janji yang telah mereka ikrarkan kepada-Nya dan (juga) karena mereka selalu berdusta."
+        }
+      ]
+    },
+    {
+      "id": 1313,
+      "verse_number": 78,
+      "verse_key": "9:78",
+      "hizb_number": 20,
+      "rub_el_hizb_number": 80,
+      "ruku_number": 165,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَعْلَمُ سِرَّهُمْ وَنَجْوَىٰهُمْ وَأَنَّ ٱللَّهَ عَلَّـٰمُ ٱلْغُيُوبِ",
+      "chapter_id": 9,
+      "page_number": 199,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 181288,
+          "resource_id": 33,
+          "text": "Tidakkah mereka mengetahui bahwa Allah mengetahui rahasia dan bisikan mereka, dan bahwa Allah mengetahui segala yang gaib?"
+        }
+      ]
+    },
+    {
+      "id": 1314,
+      "verse_number": 79,
+      "verse_key": "9:79",
+      "hizb_number": 20,
+      "rub_el_hizb_number": 80,
+      "ruku_number": 165,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِينَ يَلْمِزُونَ ٱلْمُطَّوِّعِينَ مِنَ ٱلْمُؤْمِنِينَ فِى ٱلصَّدَقَـٰتِ وَٱلَّذِينَ لَا يَجِدُونَ إِلَّا جُهْدَهُمْ فَيَسْخَرُونَ مِنْهُمْ ۙ سَخِرَ ٱللَّهُ مِنْهُمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "chapter_id": 9,
+      "page_number": 199,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 181289,
+          "resource_id": 33,
+          "text": "(Orang munafik) yaitu mereka yang mencela orang-orang beriman yang memberikan sedekah dengan sukarela dan yang (mencela) orang-orang yang hanya punya (untuk disedekahkan) sekedar kesanggupannya, maka orang-orang munafik itu menghina mereka. Allah akan membalas penghinaan mereka, dan mereka akan mendapat azab yang pedih."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 7,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 7
+  }
+}

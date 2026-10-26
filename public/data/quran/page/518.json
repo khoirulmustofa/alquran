@@ -1,0 +1,326 @@
+{
+  "verses": [
+    {
+      "id": 4631,
+      "verse_number": 1,
+      "verse_key": "50:1",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 454,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " قٓ ۚ وَٱلْقُرْءَانِ ٱلْمَجِيدِ",
+      "chapter_id": 50,
+      "page_number": 518,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 177403,
+          "resource_id": 33,
+          "text": "Qāf. Demi Alquran yang mulia."
+        }
+      ]
+    },
+    {
+      "id": 4632,
+      "verse_number": 2,
+      "verse_key": "50:2",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 454,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "بَلْ عَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌ مِّنْهُمْ فَقَالَ ٱلْكَـٰفِرُونَ هَـٰذَا شَىْءٌ عَجِيبٌ",
+      "chapter_id": 50,
+      "page_number": 518,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179202,
+          "resource_id": 33,
+          "text": "(Mereka tidak menerimanya) bahkan mereka tercengang karena telah datang kepada mereka seorang pemberi peringatan dari (kalangan) mereka sendiri, maka berkatalah orang-orang kafir, \"Ini adalah sesuatu yang sangat ajaib.\""
+        }
+      ]
+    },
+    {
+      "id": 4633,
+      "verse_number": 3,
+      "verse_key": "50:3",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 454,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا ۖ ذَٰلِكَ رَجْعٌۢ بَعِيدٌ",
+      "chapter_id": 50,
+      "page_number": 518,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179214,
+          "resource_id": 33,
+          "text": "Apakah apabila kami telah mati dan sudah menjadi tanah (akan kembali lagi)? Itu adalah suatu pengembalian yang tidak mungkin."
+        }
+      ]
+    },
+    {
+      "id": 4634,
+      "verse_number": 4,
+      "verse_key": "50:4",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 454,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قَدْ عَلِمْنَا مَا تَنقُصُ ٱلْأَرْضُ مِنْهُمْ ۖ وَعِندَنَا كِتَـٰبٌ حَفِيظٌۢ",
+      "chapter_id": 50,
+      "page_number": 518,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179224,
+          "resource_id": 33,
+          "text": "Sungguh, Kami telah mengetahui apa yang ditelan bumi dari (tubuh) mereka, sebab pada Kami ada kitab (catatan) yang terpelihara baik."
+        }
+      ]
+    },
+    {
+      "id": 4635,
+      "verse_number": 5,
+      "verse_key": "50:5",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 454,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "بَلْ كَذَّبُوا۟ بِٱلْحَقِّ لَمَّا جَآءَهُمْ فَهُمْ فِىٓ أَمْرٍ مَّرِيجٍ",
+      "chapter_id": 50,
+      "page_number": 518,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179231,
+          "resource_id": 33,
+          "text": "Bahkan mereka telah mendustakan kebenaran ketika (kebenaran itu) datang kepada mereka, maka mereka berada dalam keadaan kacau balau."
+        }
+      ]
+    },
+    {
+      "id": 4636,
+      "verse_number": 6,
+      "verse_key": "50:6",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 454,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَفَلَمْ يَنظُرُوٓا۟ إِلَى ٱلسَّمَآءِ فَوْقَهُمْ كَيْفَ بَنَيْنَـٰهَا وَزَيَّنَّـٰهَا وَمَا لَهَا مِن فُرُوجٍ",
+      "chapter_id": 50,
+      "page_number": 518,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179232,
+          "resource_id": 33,
+          "text": "Maka tidakkah mereka memperhatikan langit yang ada di atas mereka, bagaimana cara Kami membangunnya dan menghiasinya, dan tidak terdapat retak-retak sedikit pun?"
+        }
+      ]
+    },
+    {
+      "id": 4637,
+      "verse_number": 7,
+      "verse_key": "50:7",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 454,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلْأَرْضَ مَدَدْنَـٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۭ بَهِيجٍ",
+      "chapter_id": 50,
+      "page_number": 518,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179233,
+          "resource_id": 33,
+          "text": "Dan bumi yang Kami hamparkan dan Kami pancangkan di atasnya gunung-gunung yang kokoh, dan Kami tumbuhkan di atasnya tanam-tanaman yang indah,"
+        }
+      ]
+    },
+    {
+      "id": 4638,
+      "verse_number": 8,
+      "verse_key": "50:8",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 454,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "تَبْصِرَةً وَذِكْرَىٰ لِكُلِّ عَبْدٍ مُّنِيبٍ",
+      "chapter_id": 50,
+      "page_number": 518,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 177833,
+          "resource_id": 33,
+          "text": "untuk menjadi pelajaran dan peringatan bagi setiap hamba yang kembali (tunduk kepada Allah)."
+        }
+      ]
+    },
+    {
+      "id": 4639,
+      "verse_number": 9,
+      "verse_key": "50:9",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 454,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَنَزَّلْنَا مِنَ ٱلسَّمَآءِ مَآءً مُّبَـٰرَكًا فَأَنۢبَتْنَا بِهِۦ جَنَّـٰتٍ وَحَبَّ ٱلْحَصِيدِ",
+      "chapter_id": 50,
+      "page_number": 518,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179234,
+          "resource_id": 33,
+          "text": "Dan dari langit Kami turunkan air yang memberi berkah, lalu Kami tumbuhkan dengan (air) itu pepohonan yang rindang dan biji-bijian yang dapat dipanen,"
+        }
+      ]
+    },
+    {
+      "id": 4640,
+      "verse_number": 10,
+      "verse_key": "50:10",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 454,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلنَّخْلَ بَاسِقَـٰتٍ لَّهَا طَلْعٌ نَّضِيدٌ",
+      "chapter_id": 50,
+      "page_number": 518,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179243,
+          "resource_id": 33,
+          "text": "dan pohon kurma yang tinggi-tinggi yang mempunyai mayang yang bersusun-susun,"
+        }
+      ]
+    },
+    {
+      "id": 4641,
+      "verse_number": 11,
+      "verse_key": "50:11",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 454,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "رِّزْقًا لِّلْعِبَادِ ۖ وَأَحْيَيْنَا بِهِۦ بَلْدَةً مَّيْتًا ۚ كَذَٰلِكَ ٱلْخُرُوجُ",
+      "chapter_id": 50,
+      "page_number": 518,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179195,
+          "resource_id": 33,
+          "text": "(sebagai) rezeki bagi hamba-hamba (Kami), dan Kami hidupkan dengan (air) itu negeri yang mati (tandus). Seperti itulah terjadinya kebangkitan (dari kubur)."
+        }
+      ]
+    },
+    {
+      "id": 4642,
+      "verse_number": 12,
+      "verse_key": "50:12",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 454,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَأَصْحَـٰبُ ٱلرَّسِّ وَثَمُودُ",
+      "chapter_id": 50,
+      "page_number": 518,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179192,
+          "resource_id": 33,
+          "text": "Sebelum mereka, kaum Nuh, penduduk Rass dan Samud telah mendustakan (rasul-rasul),"
+        }
+      ]
+    },
+    {
+      "id": 4643,
+      "verse_number": 13,
+      "verse_key": "50:13",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 454,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَعَادٌ وَفِرْعَوْنُ وَإِخْوَٰنُ لُوطٍ",
+      "chapter_id": 50,
+      "page_number": 518,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179193,
+          "resource_id": 33,
+          "text": "dan (demikian juga) kaum 'Ād, kaum Fir'aun dan kaum Luṭ,"
+        }
+      ]
+    },
+    {
+      "id": 4644,
+      "verse_number": 14,
+      "verse_key": "50:14",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 454,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍ ۚ كُلٌّ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+      "chapter_id": 50,
+      "page_number": 518,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179194,
+          "resource_id": 33,
+          "text": "dan (juga) penduduk Aikah serta kaum Tubba'. Semuanya telah mendustakan rasul-rasul, maka berlakulah ancaman-Ku (atas mereka)."
+        }
+      ]
+    },
+    {
+      "id": 4645,
+      "verse_number": 15,
+      "verse_key": "50:15",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 454,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَفَعَيِينَا بِٱلْخَلْقِ ٱلْأَوَّلِ ۚ بَلْ هُمْ فِى لَبْسٍ مِّنْ خَلْقٍ جَدِيدٍ",
+      "chapter_id": 50,
+      "page_number": 518,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179196,
+          "resource_id": 33,
+          "text": "Maka apakah Kami letih dengan penciptaan yang pertama? (Sama sekali tidak), bahkan mereka dalam keadaan ragu-ragu tentang penciptaan yang baru."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 15,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 15
+  }
+}

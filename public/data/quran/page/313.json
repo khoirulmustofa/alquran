@@ -1,0 +1,536 @@
+{
+  "verses": [
+    {
+      "id": 2361,
+      "verse_number": 13,
+      "verse_key": "20:13",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَنَا ٱخْتَرْتُكَ فَٱسْتَمِعْ لِمَا يُوحَىٰٓ",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182291,
+          "resource_id": 33,
+          "text": "Dan Aku telah memilih engkau, maka dengarkanlah apa yang akan diwahyukan (kepadamu)."
+        }
+      ]
+    },
+    {
+      "id": 2362,
+      "verse_number": 14,
+      "verse_key": "20:14",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّنِىٓ أَنَا ٱللَّهُ لَآ إِلَـٰهَ إِلَّآ أَنَا۠ فَٱعْبُدْنِى وَأَقِمِ ٱلصَّلَوٰةَ لِذِكْرِىٓ",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182307,
+          "resource_id": 33,
+          "text": "Sungguh, Aku ini Allah, tidak ada tuhan selain Aku, maka sembahlah Aku dan laksanakanlah salat untuk mengingat Aku."
+        }
+      ]
+    },
+    {
+      "id": 2363,
+      "verse_number": 15,
+      "verse_key": "20:15",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلسَّاعَةَ ءَاتِيَةٌ أَكَادُ أُخْفِيهَا لِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا تَسْعَىٰ",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182405,
+          "resource_id": 33,
+          "text": "Sungguh, hari Kiamat itu akan datang, Aku merahasiakan (waktunya) agar setiap orang dibalas sesuai dengan apa yang telah dia usahakan."
+        }
+      ]
+    },
+    {
+      "id": 2364,
+      "verse_number": 16,
+      "verse_key": "20:16",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَا يَصُدَّنَّكَ عَنْهَا مَن لَّا يُؤْمِنُ بِهَا وَٱتَّبَعَ هَوَىٰهُ فَتَرْدَىٰ",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182308,
+          "resource_id": 33,
+          "text": "Maka janganlah engkau dipalingkan dari (Kiamat) oleh orang yang tidak beriman kepadanya dan oleh orang yang mengikuti keinginannya, yang menyebabkan engkau binasa.\""
+        }
+      ]
+    },
+    {
+      "id": 2365,
+      "verse_number": 17,
+      "verse_key": "20:17",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا تِلْكَ بِيَمِينِكَ يَـٰمُوسَىٰ",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182408,
+          "resource_id": 33,
+          "text": "\"Dan apakah yang ada di tangan kananmu, wahai Musa?\""
+        }
+      ]
+    },
+    {
+      "id": 2366,
+      "verse_number": 18,
+      "verse_key": "20:18",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ هِىَ عَصَاىَ أَتَوَكَّؤُا۟ عَلَيْهَا وَأَهُشُّ بِهَا عَلَىٰ غَنَمِى وَلِىَ فِيهَا مَـَٔارِبُ أُخْرَىٰ",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182306,
+          "resource_id": 33,
+          "text": "Dia (Musa) berkata, \"Ini adalah tongkatku, aku bertumpu padanya, dan aku merontokkan (daun-daun) dengannya untuk (makanan) kambingku, dan bagiku masih ada lagi manfaat yang lain.\""
+        }
+      ]
+    },
+    {
+      "id": 2367,
+      "verse_number": 19,
+      "verse_key": "20:19",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ أَلْقِهَا يَـٰمُوسَىٰ",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182275,
+          "resource_id": 33,
+          "text": "Dia (Allah) berfirman, \"Lemparkanlah ia, wahai Musa!\""
+        }
+      ]
+    },
+    {
+      "id": 2368,
+      "verse_number": 20,
+      "verse_key": "20:20",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَلْقَىٰهَا فَإِذَا هِىَ حَيَّةٌ تَسْعَىٰ",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182337,
+          "resource_id": 33,
+          "text": "Lalu (Musa) melemparkan tongkat itu, maka tiba-tiba ia menjadi seekor ular yang merayap dengan cepat."
+        }
+      ]
+    },
+    {
+      "id": 2369,
+      "verse_number": 21,
+      "verse_key": "20:21",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ خُذْهَا وَلَا تَخَفْ ۖ سَنُعِيدُهَا سِيرَتَهَا ٱلْأُولَىٰ",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182294,
+          "resource_id": 33,
+          "text": "Dia (Allah) berfirman, \"Peganglah ia dan jangan takut, Kami akan mengembalikannya kepada keadaannya semula,"
+        }
+      ]
+    },
+    {
+      "id": 2370,
+      "verse_number": 22,
+      "verse_key": "20:22",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱضْمُمْ يَدَكَ إِلَىٰ جَنَاحِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ ءَايَةً أُخْرَىٰ",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182277,
+          "resource_id": 33,
+          "text": "dan kepitlah tanganmu ke ketiakmu, niscaya ia ke luar menjadi putih (bercahaya) tanpa cacat, sebagai mukjizat yang lain,"
+        }
+      ]
+    },
+    {
+      "id": 2371,
+      "verse_number": 23,
+      "verse_key": "20:23",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "لِنُرِيَكَ مِنْ ءَايَـٰتِنَا ٱلْكُبْرَى",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182397,
+          "resource_id": 33,
+          "text": "untuk Kami perlihatkan kepadamu (sebagian) dari tanda-tanda kebesaran Kami yang sangat besar."
+        }
+      ]
+    },
+    {
+      "id": 2372,
+      "verse_number": 24,
+      "verse_key": "20:24",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182396,
+          "resource_id": 33,
+          "text": "Pergilah kepada Fir'aun; dia benar-benar telah melampaui batas.\""
+        }
+      ]
+    },
+    {
+      "id": 2373,
+      "verse_number": 25,
+      "verse_key": "20:25",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ رَبِّ ٱشْرَحْ لِى صَدْرِى",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182314,
+          "resource_id": 33,
+          "text": "Dia (Musa) berkata, \"Ya Tuhanku, lapangkanlah dadaku,<sup foot_note=135462>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 2374,
+      "verse_number": 26,
+      "verse_key": "20:26",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَيَسِّرْ لِىٓ أَمْرِى",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182378,
+          "resource_id": 33,
+          "text": "dan mudahkanlah untukku urusanku,"
+        }
+      ]
+    },
+    {
+      "id": 2375,
+      "verse_number": 27,
+      "verse_key": "20:27",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱحْلُلْ عُقْدَةً مِّن لِّسَانِى",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182312,
+          "resource_id": 33,
+          "text": "dan lepaskanlah kekakuan dari lidahku,"
+        }
+      ]
+    },
+    {
+      "id": 2376,
+      "verse_number": 28,
+      "verse_key": "20:28",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "يَفْقَهُوا۟ قَوْلِى",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 177263,
+          "resource_id": 33,
+          "text": "agar mereka mengerti perkataanku,"
+        }
+      ]
+    },
+    {
+      "id": 2377,
+      "verse_number": 29,
+      "verse_key": "20:29",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱجْعَل لِّى وَزِيرًا مِّنْ أَهْلِى",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182332,
+          "resource_id": 33,
+          "text": "dan jadikanlah untukku seorang pembantu dari keluargaku,"
+        }
+      ]
+    },
+    {
+      "id": 2378,
+      "verse_number": 30,
+      "verse_key": "20:30",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "هَـٰرُونَ أَخِى",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182317,
+          "resource_id": 33,
+          "text": "(yaitu) Harun, saudaraku,"
+        }
+      ]
+    },
+    {
+      "id": 2379,
+      "verse_number": 31,
+      "verse_key": "20:31",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "ٱشْدُدْ بِهِۦٓ أَزْرِى",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182329,
+          "resource_id": 33,
+          "text": "teguhkanlah kekuatanku dengan (keberadaan) dia,"
+        }
+      ]
+    },
+    {
+      "id": 2380,
+      "verse_number": 32,
+      "verse_key": "20:32",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَشْرِكْهُ فِىٓ أَمْرِى",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182315,
+          "resource_id": 33,
+          "text": "dan jadikanlah dia teman dalam urusanku,"
+        }
+      ]
+    },
+    {
+      "id": 2381,
+      "verse_number": 33,
+      "verse_key": "20:33",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "كَىْ نُسَبِّحَكَ كَثِيرًا",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182318,
+          "resource_id": 33,
+          "text": "agar kami banyak bertasbih kepada-Mu,"
+        }
+      ]
+    },
+    {
+      "id": 2382,
+      "verse_number": 34,
+      "verse_key": "20:34",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَنَذْكُرَكَ كَثِيرًا",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 177533,
+          "resource_id": 33,
+          "text": "dan banyak mengingat-Mu,"
+        }
+      ]
+    },
+    {
+      "id": 2383,
+      "verse_number": 35,
+      "verse_key": "20:35",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّكَ كُنتَ بِنَا بَصِيرًا",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182322,
+          "resource_id": 33,
+          "text": "sesungguhnya Engkau Maha Melihat (keadaan) kami.\""
+        }
+      ]
+    },
+    {
+      "id": 2384,
+      "verse_number": 36,
+      "verse_key": "20:36",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ قَدْ أُوتِيتَ سُؤْلَكَ يَـٰمُوسَىٰ",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182311,
+          "resource_id": 33,
+          "text": "Dia (Allah) berfirman, \"Sungguh, telah diperkenankan permintaanmu, wahai Musa!"
+        }
+      ]
+    },
+    {
+      "id": 2385,
+      "verse_number": 37,
+      "verse_key": "20:37",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّةً أُخْرَىٰٓ",
+      "chapter_id": 20,
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182320,
+          "resource_id": 33,
+          "text": "Dan sungguh, Kami telah memberi nikmat kepadamu pada kesempatan yang lain (sebelum ini),"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 25,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 25
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "verses": [
+    {
+      "id": 5430,
+      "verse_number": 11,
+      "verse_key": "71:11",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 506,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًا",
+      "chapter_id": 71,
+      "page_number": 571,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180283,
+          "resource_id": 33,
+          "text": "niscaya Dia akan menurunkan hujan yang lebat dari langit kepadamu,"
+        }
+      ]
+    },
+    {
+      "id": 5431,
+      "verse_number": 12,
+      "verse_key": "71:12",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 506,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَيُمْدِدْكُم بِأَمْوَٰلٍ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّـٰتٍ وَيَجْعَل لَّكُمْ أَنْهَـٰرًا",
+      "chapter_id": 71,
+      "page_number": 571,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180249,
+          "resource_id": 33,
+          "text": "dan Dia memperbanyak harta dan anak-anakmu, dan mengadakan kebun-kebun untukmu dan mengadakan sungai-sungai untukmu.\""
+        }
+      ]
+    },
+    {
+      "id": 5432,
+      "verse_number": 13,
+      "verse_key": "71:13",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 506,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَّا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا",
+      "chapter_id": 71,
+      "page_number": 571,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180251,
+          "resource_id": 33,
+          "text": "Mengapa kamu tidak takut akan kebesaran Allah?"
+        }
+      ]
+    },
+    {
+      "id": 5433,
+      "verse_number": 14,
+      "verse_key": "71:14",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 506,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَدْ خَلَقَكُمْ أَطْوَارًا",
+      "chapter_id": 71,
+      "page_number": 571,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180253,
+          "resource_id": 33,
+          "text": "Dan sungguh, Dia telah menciptakan kamu dalam beberapa fase (kejadian).<sup foot_note=135821>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 5434,
+      "verse_number": 15,
+      "verse_key": "71:15",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 506,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَمْ تَرَوْا۟ كَيْفَ خَلَقَ ٱللَّهُ سَبْعَ سَمَـٰوَٰتٍ طِبَاقًا",
+      "chapter_id": 71,
+      "page_number": 571,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180255,
+          "resource_id": 33,
+          "text": "Tidakkah kamu memperhatikan bagaimana Allah telah menciptakan tujuh langit berlapis-lapis?"
+        }
+      ]
+    },
+    {
+      "id": 5435,
+      "verse_number": 16,
+      "verse_key": "71:16",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 506,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَجَعَلَ ٱلْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ ٱلشَّمْسَ سِرَاجًا",
+      "chapter_id": 71,
+      "page_number": 571,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180257,
+          "resource_id": 33,
+          "text": "Dan di sana Dia menciptakan bulan yang bercahaya dan menjadikan matahari sebagai pelita (yang cemerlang)?"
+        }
+      ]
+    },
+    {
+      "id": 5436,
+      "verse_number": 17,
+      "verse_key": "71:17",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 506,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلْأَرْضِ نَبَاتًا",
+      "chapter_id": 71,
+      "page_number": 571,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 175774,
+          "resource_id": 33,
+          "text": "Dan Allah menumbuhkan kamu dari tanah, tumbuh (berangsur-angsur),"
+        }
+      ]
+    },
+    {
+      "id": 5437,
+      "verse_number": 18,
+      "verse_key": "71:18",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 506,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا",
+      "chapter_id": 71,
+      "page_number": 571,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180260,
+          "resource_id": 33,
+          "text": "kemudian Dia akan mengembalikan kamu ke dalamnya (tanah) dan mengeluarkan kamu (pada hari Kiamat) dengan pasti."
+        }
+      ]
+    },
+    {
+      "id": 5438,
+      "verse_number": 19,
+      "verse_key": "71:19",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 506,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱللَّهُ جَعَلَ لَكُمُ ٱلْأَرْضَ بِسَاطًا",
+      "chapter_id": 71,
+      "page_number": 571,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180263,
+          "resource_id": 33,
+          "text": "Dan Allah menjadikan bumi untukmu sebagai hamparan,"
+        }
+      ]
+    },
+    {
+      "id": 5439,
+      "verse_number": 20,
+      "verse_key": "71:20",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 506,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لِّتَسْلُكُوا۟ مِنْهَا سُبُلًا فِجَاجًا",
+      "chapter_id": 71,
+      "page_number": 571,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180265,
+          "resource_id": 33,
+          "text": "agar kamu dapat pergi kian kemari di jalan-jalan yang luas."
+        }
+      ]
+    },
+    {
+      "id": 5440,
+      "verse_number": 21,
+      "verse_key": "71:21",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 507,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ نُوحٌ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًا",
+      "chapter_id": 71,
+      "page_number": 571,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180267,
+          "resource_id": 33,
+          "text": "Nuh berkata, \"Ya Tuhanku, sesungguhnya mereka durhaka kepadaku, dan mereka mengikuti orang-orang yang harta dan anak-anaknya hanya menambah kerugian baginya,"
+        }
+      ]
+    },
+    {
+      "id": 5441,
+      "verse_number": 22,
+      "verse_key": "71:22",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 507,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَكَرُوا۟ مَكْرًا كُبَّارًا",
+      "chapter_id": 71,
+      "page_number": 571,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180271,
+          "resource_id": 33,
+          "text": "dan mereka melakukan tipu daya yang sangat besar.\""
+        }
+      ]
+    },
+    {
+      "id": 5442,
+      "verse_number": 23,
+      "verse_key": "71:23",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 507,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَالُوا۟ لَا تَذَرُنَّ ءَالِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا",
+      "chapter_id": 71,
+      "page_number": 571,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180272,
+          "resource_id": 33,
+          "text": "Dan mereka berkata, \"Jangan sekali-kali kamu meninggalkan (penyembahan) tuhan-tuhan kamu dan jangan pula sekali-kali kamu meninggalkan (penyembahan) Wadd, dan jangan pula Suwā', Yagūṡ, Ya'ūq dan Nasr.\"<sup foot_note=135822>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 5443,
+      "verse_number": 24,
+      "verse_key": "71:24",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 507,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَدْ أَضَلُّوا۟ كَثِيرًا ۖ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا ضَلَـٰلًا",
+      "chapter_id": 71,
+      "page_number": 571,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180274,
+          "resource_id": 33,
+          "text": "Dan sungguh, mereka telah menyesatkan orang banyak; dan janganlah Engkau tambahkan bagi orang-orang yang zalim itu selain kesesatan."
+        }
+      ]
+    },
+    {
+      "id": 5444,
+      "verse_number": 25,
+      "verse_key": "71:25",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 507,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًا",
+      "chapter_id": 71,
+      "page_number": 571,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180276,
+          "resource_id": 33,
+          "text": "Disebabkan kesalahan-kesalahan mereka, mereka ditenggelamkan lalu dimasukkan ke neraka, maka mereka tidak mendapat penolong selain Allah."
+        }
+      ]
+    },
+    {
+      "id": 5445,
+      "verse_number": 26,
+      "verse_key": "71:26",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 507,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَـٰفِرِينَ دَيَّارًا",
+      "chapter_id": 71,
+      "page_number": 571,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180280,
+          "resource_id": 33,
+          "text": "Dan Nuh berkata, \"Ya Tuhanku, janganlah Engkau biarkan seorang pun di antara orang-orang kafir itu tinggal di atas bumi."
+        }
+      ]
+    },
+    {
+      "id": 5446,
+      "verse_number": 27,
+      "verse_key": "71:27",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 507,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا۟ عِبَادَكَ وَلَا يَلِدُوٓا۟ إِلَّا فَاجِرًا كَفَّارًا",
+      "chapter_id": 71,
+      "page_number": 571,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180281,
+          "resource_id": 33,
+          "text": "Sesungguhnya jika Engkau biarkan mereka tinggal, niscaya mereka akan menyesatkan hamba-hamba-Mu, dan mereka hanya akan melahirkan anak-anak yang jahat dan tidak tahu bersyukur."
+        }
+      ]
+    },
+    {
+      "id": 5447,
+      "verse_number": 28,
+      "verse_key": "71:28",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 507,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "رَّبِّ ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِمَن دَخَلَ بَيْتِىَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا تَبَارًۢا",
+      "chapter_id": 71,
+      "page_number": 571,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180285,
+          "resource_id": 33,
+          "text": "Ya Tuhanku, ampunilah aku, ibu bapakku, dan siapa pun yang memasuki rumahku dengan beriman dan semua orang yang beriman laki-laki dan perempuan. Dan janganlah Engkau tambahkan bagi orang-orang yang zalim itu selain kehancuran.\""
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 18,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 18
+  }
+}

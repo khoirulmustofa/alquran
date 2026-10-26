@@ -1,0 +1,578 @@
+{
+  "verses": [
+    {
+      "id": 5287,
+      "verse_number": 16,
+      "verse_key": "68:16",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "سَنَسِمُهُۥ عَلَى ٱلْخُرْطُومِ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180076,
+          "resource_id": 33,
+          "text": "Kelak dia akan Kami beri tanda pada belalai(nya).<sup foot_note=135797>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 5288,
+      "verse_number": 17,
+      "verse_key": "68:17",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180075,
+          "resource_id": 33,
+          "text": "Sungguh, Kami telah menguji mereka (orang musyrik Mekkah) sebagaimana Kami telah menguji pemilik-pemilik kebun, ketika mereka bersumpah pasti akan memetik (hasil)nya pada pagi hari,"
+        }
+      ]
+    },
+    {
+      "id": 5289,
+      "verse_number": 18,
+      "verse_key": "68:18",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَا يَسْتَثْنُونَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180079,
+          "resource_id": 33,
+          "text": "tetapi mereka tidak mengecualikan (dengan mengucapkan, \"Insya Allah\")."
+        }
+      ]
+    },
+    {
+      "id": 5290,
+      "verse_number": 19,
+      "verse_key": "68:19",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَطَافَ عَلَيْهَا طَآئِفٌ مِّن رَّبِّكَ وَهُمْ نَآئِمُونَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180077,
+          "resource_id": 33,
+          "text": "Lalu kebun itu ditimpa bencana (yang datang) dari Tuhanmu ketika mereka sedang tidur."
+        }
+      ]
+    },
+    {
+      "id": 5291,
+      "verse_number": 20,
+      "verse_key": "68:20",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَصْبَحَتْ كَٱلصَّرِيمِ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180080,
+          "resource_id": 33,
+          "text": "Maka jadilah kebun itu hitam seperti malam yang gelap gulita,<sup foot_note=135798>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 5292,
+      "verse_number": 21,
+      "verse_key": "68:21",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَتَنَادَوْا۟ مُصْبِحِينَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180081,
+          "resource_id": 33,
+          "text": "lalu pada pagi hari mereka saling memanggil."
+        }
+      ]
+    },
+    {
+      "id": 5293,
+      "verse_number": 22,
+      "verse_key": "68:22",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَنِ ٱغْدُوا۟ عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَـٰرِمِينَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180082,
+          "resource_id": 33,
+          "text": "\"Pergilah pagi-pagi ke kebunmu jika kamu hendak memetik hasil.\""
+        }
+      ]
+    },
+    {
+      "id": 5294,
+      "verse_number": 23,
+      "verse_key": "68:23",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَٱنطَلَقُوا۟ وَهُمْ يَتَخَـٰفَتُونَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180083,
+          "resource_id": 33,
+          "text": "Maka mereka pun berangkat sambil berbisik-bisik."
+        }
+      ]
+    },
+    {
+      "id": 5295,
+      "verse_number": 24,
+      "verse_key": "68:24",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَن لَّا يَدْخُلَنَّهَا ٱلْيَوْمَ عَلَيْكُم مِّسْكِينٌ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180084,
+          "resource_id": 33,
+          "text": "\"Pada hari ini jangan sampai ada orang miskin masuk ke dalam kebunmu.\""
+        }
+      ]
+    },
+    {
+      "id": 5296,
+      "verse_number": 25,
+      "verse_key": "68:25",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَغَدَوْا۟ عَلَىٰ حَرْدٍ قَـٰدِرِينَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180085,
+          "resource_id": 33,
+          "text": "Dan berangkatlah mereka di pagi hari dengan niat menghalangi (orang-orang miskin) padahal mereka mampu (menolongnya)."
+        }
+      ]
+    },
+    {
+      "id": 5297,
+      "verse_number": 26,
+      "verse_key": "68:26",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَمَّا رَأَوْهَا قَالُوٓا۟ إِنَّا لَضَآلُّونَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180087,
+          "resource_id": 33,
+          "text": "Maka ketika mereka melihat kebun itu, mereka berkata, \"Sungguh, kita ini benar-benar orang-orang yang sesat,"
+        }
+      ]
+    },
+    {
+      "id": 5298,
+      "verse_number": 27,
+      "verse_key": "68:27",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "بَلْ نَحْنُ مَحْرُومُونَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180088,
+          "resource_id": 33,
+          "text": "bahkan kita tak memperoleh apa pun.\""
+        }
+      ]
+    },
+    {
+      "id": 5299,
+      "verse_number": 28,
+      "verse_key": "68:28",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180089,
+          "resource_id": 33,
+          "text": "Berkatalah seorang yang paling bijak di antara mereka, \"Bukankah aku telah mengatakan kepadamu, mengapa kamu tidak bertasbih (kepada Tuhanmu).\"<sup foot_note=135799>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 5300,
+      "verse_number": 29,
+      "verse_key": "68:29",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ سُبْحَـٰنَ رَبِّنَآ إِنَّا كُنَّا ظَـٰلِمِينَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 179877,
+          "resource_id": 33,
+          "text": "Mereka mengucapkan, \"Mahasuci Tuhan kami, sungguh, kami adalah orang-orang yang zalim.\""
+        }
+      ]
+    },
+    {
+      "id": 5301,
+      "verse_number": 30,
+      "verse_key": "68:30",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَـٰوَمُونَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180093,
+          "resource_id": 33,
+          "text": "Lalu mereka saling berhadapan dan saling menyalahkan."
+        }
+      ]
+    },
+    {
+      "id": 5302,
+      "verse_number": 31,
+      "verse_key": "68:31",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ يَـٰوَيْلَنَآ إِنَّا كُنَّا طَـٰغِينَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180092,
+          "resource_id": 33,
+          "text": "Mereka berkata, \"Celaka kita! Sesungguhnya kita orang-orang yang melampaui batas."
+        }
+      ]
+    },
+    {
+      "id": 5303,
+      "verse_number": 32,
+      "verse_key": "68:32",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَسَىٰ رَبُّنَآ أَن يُبْدِلَنَا خَيْرًا مِّنْهَآ إِنَّآ إِلَىٰ رَبِّنَا رَٰغِبُونَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180094,
+          "resource_id": 33,
+          "text": "Mudah-mudahan Tuhan memberikan ganti kepada kita dengan (kebun) yang lebih baik daripada yang ini, sungguh, kita mengharapkan ampunan dari Tuhan kita."
+        }
+      ]
+    },
+    {
+      "id": 5304,
+      "verse_number": 33,
+      "verse_key": "68:33",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180095,
+          "resource_id": 33,
+          "text": "Seperti itulah azab (di dunia). Dan sungguh, azab akhirat lebih besar sekiranya mereka mengetahui.<sup foot_note=135800>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 5305,
+      "verse_number": 34,
+      "verse_key": "68:34",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ لِلْمُتَّقِينَ عِندَ رَبِّهِمْ جَنَّـٰتِ ٱلنَّعِيمِ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180096,
+          "resource_id": 33,
+          "text": "Sungguh, bagi orang-orang yang bertakwa (disediakan) surga yang penuh kenikmatan di sisi Tuhannya."
+        }
+      ]
+    },
+    {
+      "id": 5306,
+      "verse_number": 35,
+      "verse_key": "68:35",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَفَنَجْعَلُ ٱلْمُسْلِمِينَ كَٱلْمُجْرِمِينَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180097,
+          "resource_id": 33,
+          "text": "Apakah patut Kami memperlakukan orang-orang Islam itu seperti orang-orang yang berdosa (orang kafir)?<sup foot_note=135801>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 5307,
+      "verse_number": 36,
+      "verse_key": "68:36",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180098,
+          "resource_id": 33,
+          "text": "Mengapa kamu (berbuat demikian)? Bagaimana kamu mengambil keputusan?"
+        }
+      ]
+    },
+    {
+      "id": 5308,
+      "verse_number": 37,
+      "verse_key": "68:37",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَمْ لَكُمْ كِتَـٰبٌ فِيهِ تَدْرُسُونَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180101,
+          "resource_id": 33,
+          "text": "Atau apakah kamu mempunyai kitab (yang diturunkan Allah) yang kamu pelajari?"
+        }
+      ]
+    },
+    {
+      "id": 5309,
+      "verse_number": 38,
+      "verse_key": "68:38",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ لَكُمْ فِيهِ لَمَا تَخَيَّرُونَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180099,
+          "resource_id": 33,
+          "text": "sesungguhnya kamu dapat memilih apa saja yang ada di dalamnya."
+        }
+      ]
+    },
+    {
+      "id": 5310,
+      "verse_number": 39,
+      "verse_key": "68:39",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَمْ لَكُمْ أَيْمَـٰنٌ عَلَيْنَا بَـٰلِغَةٌ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ ۙ إِنَّ لَكُمْ لَمَا تَحْكُمُونَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180100,
+          "resource_id": 33,
+          "text": "Atau apakah kamu memperoleh (janji-janji yang diperkuat dengan) sumpah dari Kami, yang tetap berlaku sampai hari Kiamat; bahwa kamu dapat mengambil keputusan (sekehendakmu)?"
+        }
+      ]
+    },
+    {
+      "id": 5311,
+      "verse_number": 40,
+      "verse_key": "68:40",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "سَلْهُمْ أَيُّهُم بِذَٰلِكَ زَعِيمٌ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180104,
+          "resource_id": 33,
+          "text": "Tanyakanlah kepada mereka, \"Siapakah di antara mereka yang bertanggung jawab terhadap (keputusan yang diambil itu)?\""
+        }
+      ]
+    },
+    {
+      "id": 5312,
+      "verse_number": 41,
+      "verse_key": "68:41",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَمْ لَهُمْ شُرَكَآءُ فَلْيَأْتُوا۟ بِشُرَكَآئِهِمْ إِن كَانُوا۟ صَـٰدِقِينَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180105,
+          "resource_id": 33,
+          "text": "Atau apakah mereka mempunyai sekutu-sekutu? Kalau begitu hendaklah mereka mendatangkan sekutu-sekutunya jika mereka orang-orang yang benar."
+        }
+      ]
+    },
+    {
+      "id": 5313,
+      "verse_number": 42,
+      "verse_key": "68:42",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ",
+      "chapter_id": 68,
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180106,
+          "resource_id": 33,
+          "text": "(Ingatlah) pada hari ketika betis disingkapkan<sup foot_note=135802>1</sup> dan mereka diseru untuk bersujud; maka mereka tidak mampu,<sup foot_note=135803>2</sup>"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 26,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 26
+  }
+}

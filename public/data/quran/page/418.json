@@ -1,0 +1,137 @@
+{
+  "verses": [
+    {
+      "id": 3534,
+      "verse_number": 1,
+      "verse_key": "33:1",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 363,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": " يَـٰٓأَيُّهَا ٱلنَّبِىُّ ٱتَّقِ ٱللَّهَ وَلَا تُطِعِ ٱلْكَـٰفِرِينَ وَٱلْمُنَـٰفِقِينَ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "chapter_id": 33,
+      "page_number": 418,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177874,
+          "resource_id": 33,
+          "text": "Wahai Nabi! Bertakwalah kepada Allah dan janganlah engkau menuruti (keinginan) orang-orang kafir dan orang-orang munafik. Sesungguhnya Allah Maha Mengetahui, Mahabijaksana,"
+        }
+      ]
+    },
+    {
+      "id": 3535,
+      "verse_number": 2,
+      "verse_key": "33:2",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 363,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱتَّبِعْ مَا يُوحَىٰٓ إِلَيْكَ مِن رَّبِّكَ ۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+      "chapter_id": 33,
+      "page_number": 418,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177888,
+          "resource_id": 33,
+          "text": "dan ikutilah apa yang diwahyukan Tuhanmu kepadamu. Sungguh, Allah Mahateliti terhadap apa yang kamu kerjakan,"
+        }
+      ]
+    },
+    {
+      "id": 3536,
+      "verse_number": 3,
+      "verse_key": "33:3",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 363,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "chapter_id": 33,
+      "page_number": 418,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177327,
+          "resource_id": 33,
+          "text": "dan bertawakallah kepada Allah. Dan cukuplah Allah sebagai Pemelihara."
+        }
+      ]
+    },
+    {
+      "id": 3537,
+      "verse_number": 4,
+      "verse_key": "33:4",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 363,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "مَّا جَعَلَ ٱللَّهُ لِرَجُلٍ مِّن قَلْبَيْنِ فِى جَوْفِهِۦ ۚ وَمَا جَعَلَ أَزْوَٰجَكُمُ ٱلَّـٰٓـِٔى تُظَـٰهِرُونَ مِنْهُنَّ أُمَّهَـٰتِكُمْ ۚ وَمَا جَعَلَ أَدْعِيَآءَكُمْ أَبْنَآءَكُمْ ۚ ذَٰلِكُمْ قَوْلُكُم بِأَفْوَٰهِكُمْ ۖ وَٱللَّهُ يَقُولُ ٱلْحَقَّ وَهُوَ يَهْدِى ٱلسَّبِيلَ",
+      "chapter_id": 33,
+      "page_number": 418,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177910,
+          "resource_id": 33,
+          "text": "Allah tidak menjadikan bagi seseorang dua hati dalam rongganya; dan Dia tidak menjadikan istri-istrimu yang kamu zihar<sup foot_note=135615>1</sup> itu sebagai ibumu, dan Dia tidak menjadikan anak angkatmu sebagai anak kandungmu (sendiri). Yang demikian itu hanyalah perkataan di mulutmu saja. Allah mengatakan yang sebenarnya dan Dia menujukkan jalan (yang benar)."
+        }
+      ]
+    },
+    {
+      "id": 3538,
+      "verse_number": 5,
+      "verse_key": "33:5",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 363,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "ٱدْعُوهُمْ لِـَٔابَآئِهِمْ هُوَ أَقْسَطُ عِندَ ٱللَّهِ ۚ فَإِن لَّمْ تَعْلَمُوٓا۟ ءَابَآءَهُمْ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ وَمَوَٰلِيكُمْ ۚ وَلَيْسَ عَلَيْكُمْ جُنَاحٌ فِيمَآ أَخْطَأْتُم بِهِۦ وَلَـٰكِن مَّا تَعَمَّدَتْ قُلُوبُكُمْ ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "chapter_id": 33,
+      "page_number": 418,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177916,
+          "resource_id": 33,
+          "text": "Panggillah mereka (anak angkat itu) dengan (memakai) nama bapak-bapak mereka; itulah yang adil di sisi Allah, dan jika kamu tidak mengetahui bapak mereka, maka (panggillah mereka sebagai) saudara-saudaramu seagama dan maula-maulamu.<sup foot_note=135616>1</sup> Dan tidak ada dosa atasmu jika kamu khilaf tentang itu, tetapi (yang ada dosanya) apa yang disengaja oleh hatimu. Allah Maha Pengampun, Maha Penyayang."
+        }
+      ]
+    },
+    {
+      "id": 3539,
+      "verse_number": 6,
+      "verse_key": "33:6",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 363,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلنَّبِىُّ أَوْلَىٰ بِٱلْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ ۖ وَأَزْوَٰجُهُۥٓ أُمَّهَـٰتُهُمْ ۗ وَأُو۟لُوا۟ ٱلْأَرْحَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍ فِى كِتَـٰبِ ٱللَّهِ مِنَ ٱلْمُؤْمِنِينَ وَٱلْمُهَـٰجِرِينَ إِلَّآ أَن تَفْعَلُوٓا۟ إِلَىٰٓ أَوْلِيَآئِكُم مَّعْرُوفًا ۚ كَانَ ذَٰلِكَ فِى ٱلْكِتَـٰبِ مَسْطُورًا",
+      "chapter_id": 33,
+      "page_number": 418,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177930,
+          "resource_id": 33,
+          "text": "Nabi itu lebih utama bagi orang-orang mukmin dibandingkan diri mereka sendiri<sup foot_note=135617>1</sup> dan istri-istrinya adalah ibu-ibu mereka. Orang-orang yang mempunyai hubungan darah satu sama lain lebih berhak (waris-mewarisi) di dalam Kitab Allah daripada orang-orang mukmin dan orang-orang Muhajirin, kecuali kalau kamu hendak berbuat baik<sup foot_note=135618>2</sup> kepada saudara-saudaramu (seagama). Demikianlah telah tertulis dalam Kitab (Allah)."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 6,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 6
+  }
+}

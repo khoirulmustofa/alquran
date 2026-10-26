@@ -1,0 +1,158 @@
+{
+  "verses": [
+    {
+      "id": 2161,
+      "verse_number": 21,
+      "verse_key": "18:21",
+      "hizb_number": 30,
+      "rub_el_hizb_number": 118,
+      "ruku_number": 254,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَكَذَٰلِكَ أَعْثَرْنَا عَلَيْهِمْ لِيَعْلَمُوٓا۟ أَنَّ وَعْدَ ٱللَّهِ حَقٌّ وَأَنَّ ٱلسَّاعَةَ لَا رَيْبَ فِيهَآ إِذْ يَتَنَـٰزَعُونَ بَيْنَهُمْ أَمْرَهُمْ ۖ فَقَالُوا۟ ٱبْنُوا۟ عَلَيْهِم بُنْيَـٰنًا ۖ رَّبُّهُمْ أَعْلَمُ بِهِمْ ۚ قَالَ ٱلَّذِينَ غَلَبُوا۟ عَلَىٰٓ أَمْرِهِمْ لَنَتَّخِذَنَّ عَلَيْهِم مَّسْجِدًا",
+      "chapter_id": 18,
+      "page_number": 296,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182047,
+          "resource_id": 33,
+          "text": "Dan demikian (pula) Kami perlihatkan (manusia) dengan mereka, agar mereka tahu, bahwa janji Allah benar, dan bahwa (kedatangan) hari Kiamat tidak ada keraguan padanya. Ketika mereka berselisih tentang urusan mereka,<sup foot_note=135441>1</sup> maka mereka berkata, \"Dirikanlah suatu bangunan di atas (gua) mereka, Tuhan mereka lebih mengetahui tentang mereka.\" Orang yang berkuasa atas urusan mereka berkata, \"Kami pasti akan mendirikan suatu rumah ibadah di atasnya.\""
+        }
+      ]
+    },
+    {
+      "id": 2162,
+      "verse_number": 22,
+      "verse_key": "18:22",
+      "hizb_number": 30,
+      "rub_el_hizb_number": 118,
+      "ruku_number": 254,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "سَيَقُولُونَ ثَلَـٰثَةٌ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ رَجْمًۢا بِٱلْغَيْبِ ۖ وَيَقُولُونَ سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ ۚ قُل رَّبِّىٓ أَعْلَمُ بِعِدَّتِهِم مَّا يَعْلَمُهُمْ إِلَّا قَلِيلٌ ۗ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَآءً ظَـٰهِرًا وَلَا تَسْتَفْتِ فِيهِم مِّنْهُمْ أَحَدًا",
+      "chapter_id": 18,
+      "page_number": 296,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182051,
+          "resource_id": 33,
+          "text": "Nanti (ada orang yang akan) mengatakan,<sup foot_note=135442>1</sup>\" (Jumlah mereka) tiga (orang), yang ke empat adalah anjingnya,\" dan (yang lain) mengatakan, \"(Jumlah mereka) lima (orang), yang ke enam adalah anjingnya,\" sebagai terkaan terhadap yang gaib; dan (yang lain lagi) mengatakan, \"(Jumlah mereka) tujuh (orang), yang ke delapan adalah anjingnya.\" Katakanlah (Muhammad), \"Tuhanku lebih mengetahui jumlah mereka; tidak ada yang mengetahui (bilangan) mereka kecuali sedikit.\" Karena itu janganlah engkau (Muhammad) berbantah tentang hal mereka, kecuali perbantahan lahir saja dan jangan engkau menanyakan tentang mereka (pemuda-pemuda itu) kepada siapa pun."
+        }
+      ]
+    },
+    {
+      "id": 2163,
+      "verse_number": 23,
+      "verse_key": "18:23",
+      "hizb_number": 30,
+      "rub_el_hizb_number": 118,
+      "ruku_number": 255,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَا تَقُولَنَّ لِشَا۟ىْءٍ إِنِّى فَاعِلٌ ذَٰلِكَ غَدًا",
+      "chapter_id": 18,
+      "page_number": 296,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182037,
+          "resource_id": 33,
+          "text": "Dan jangan sekali-kali engkau mengatakan terhadap sesuatu, \"Aku pasti melakukan itu besok pagi,\""
+        }
+      ]
+    },
+    {
+      "id": 2164,
+      "verse_number": 24,
+      "verse_key": "18:24",
+      "hizb_number": 30,
+      "rub_el_hizb_number": 118,
+      "ruku_number": 255,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ وَٱذْكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَىٰٓ أَن يَهْدِيَنِ رَبِّى لِأَقْرَبَ مِنْ هَـٰذَا رَشَدًا",
+      "chapter_id": 18,
+      "page_number": 296,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182056,
+          "resource_id": 33,
+          "text": "kecuali (dengan mengatakan), \"Insyā Allah.\"<sup foot_note=135443>1</sup> Dan ingatlah kepada Tuhanmu apabila engkau lupa dan katakanlah, \"Mudah-mudahan Tuhanku akan memberi petunjuk kepadaku agar aku yang lebih dekat (kebenarannya) daripada ini.\""
+        }
+      ]
+    },
+    {
+      "id": 2165,
+      "verse_number": 25,
+      "verse_key": "18:25",
+      "hizb_number": 30,
+      "rub_el_hizb_number": 118,
+      "ruku_number": 255,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍ سِنِينَ وَٱزْدَادُوا۟ تِسْعًا",
+      "chapter_id": 18,
+      "page_number": 296,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182055,
+          "resource_id": 33,
+          "text": "Dan mereka tinggal dalam gua selama tiga ratus tahun dan ditambah sembilan tahun."
+        }
+      ]
+    },
+    {
+      "id": 2166,
+      "verse_number": 26,
+      "verse_key": "18:26",
+      "hizb_number": 30,
+      "rub_el_hizb_number": 118,
+      "ruku_number": 255,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قُلِ ٱللَّهُ أَعْلَمُ بِمَا لَبِثُوا۟ ۖ لَهُۥ غَيْبُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ أَبْصِرْ بِهِۦ وَأَسْمِعْ ۚ مَا لَهُم مِّن دُونِهِۦ مِن وَلِىٍّ وَلَا يُشْرِكُ فِى حُكْمِهِۦٓ أَحَدًا",
+      "chapter_id": 18,
+      "page_number": 296,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182057,
+          "resource_id": 33,
+          "text": "Katakanlah, \"Allah lebih mengetahui berapa lamanya mereka tinggal (di gua); milik-Nya semua yang tersembunyi di langit dan di bumi. Alangkah terang penglihatan-Nya dan alangkah tajam pendengaran-Nya; tidak ada seorang pelindung pun bagi mereka selain Dia; dan Dia tidak mengambil seorang pun menjadi sekutu-Nya dalam menetapkan keputusan.\""
+        }
+      ]
+    },
+    {
+      "id": 2167,
+      "verse_number": 27,
+      "verse_key": "18:27",
+      "hizb_number": 30,
+      "rub_el_hizb_number": 118,
+      "ruku_number": 255,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱتْلُ مَآ أُوحِىَ إِلَيْكَ مِن كِتَابِ رَبِّكَ ۖ لَا مُبَدِّلَ لِكَلِمَـٰتِهِۦ وَلَن تَجِدَ مِن دُونِهِۦ مُلْتَحَدًا",
+      "chapter_id": 18,
+      "page_number": 296,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182061,
+          "resource_id": 33,
+          "text": "Dan bacakanlah (Muhammad) apa yang diwahyukan kepadamu, yaitu Kitab Tuhanmu (Alquran). Tidak ada yang dapat mengubah kalimat-kalimat-Nya. Dan engkau tidak akan dapat menemukan tempat berlindung selain kepada-Nya."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 7,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 7
+  }
+}

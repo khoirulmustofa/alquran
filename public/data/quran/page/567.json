@@ -1,0 +1,557 @@
+{
+  "verses": [
+    {
+      "id": 5332,
+      "verse_number": 9,
+      "verse_key": "69:9",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَجَآءَ فِرْعَوْنُ وَمَن قَبْلَهُۥ وَٱلْمُؤْتَفِكَـٰتُ بِٱلْخَاطِئَةِ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180188,
+          "resource_id": 33,
+          "text": "Kemudian datang Fir'aun dan orang-orang yang sebelumnya dan (penduduk) negeri-negeri yang dijungkir balikkan karena kesalahan yang besar. <sup foot_note=135809>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 5333,
+      "verse_number": 10,
+      "verse_key": "69:10",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَعَصَوْا۟ رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَّابِيَةً",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180305,
+          "resource_id": 33,
+          "text": "Maka mereka mendurhakai utusan Tuhannya, Allah menyiksa mereka dengan siksaan yang sangat keras."
+        }
+      ]
+    },
+    {
+      "id": 5334,
+      "verse_number": 11,
+      "verse_key": "69:11",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا لَمَّا طَغَا ٱلْمَآءُ حَمَلْنَـٰكُمْ فِى ٱلْجَارِيَةِ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180139,
+          "resource_id": 33,
+          "text": "Sesungguhnya ketika air naik (sampai ke gunung), Kami membawa (nenek moyang) kamu<sup foot_note=135810>1</sup> ke dalam kapal,"
+        }
+      ]
+    },
+    {
+      "id": 5335,
+      "verse_number": 12,
+      "verse_key": "69:12",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَتَعِيَهَآ أُذُنٌ وَٰعِيَةٌ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180131,
+          "resource_id": 33,
+          "text": "agar Kami jadikan (peristiwa itu) sebagai peringatan bagi kamu dan agar diperhatikan oleh telinga yang mau mendengar."
+        }
+      ]
+    },
+    {
+      "id": 5336,
+      "verse_number": 13,
+      "verse_key": "69:13",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَإِذَا نُفِخَ فِى ٱلصُّورِ نَفْخَةٌ وَٰحِدَةٌ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180132,
+          "resource_id": 33,
+          "text": "Maka apabila sangkakala ditiup sekali tiup,<sup foot_note=135811>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 5337,
+      "verse_number": 14,
+      "verse_key": "69:14",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَحُمِلَتِ ٱلْأَرْضُ وَٱلْجِبَالُ فَدُكَّتَا دَكَّةً وَٰحِدَةً",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180135,
+          "resource_id": 33,
+          "text": "dan diangkatlah bumi dan gunung-gunung, lalu dibenturkan keduanya sekali benturan."
+        }
+      ]
+    },
+    {
+      "id": 5338,
+      "verse_number": 15,
+      "verse_key": "69:15",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَيَوْمَئِذٍ وَقَعَتِ ٱلْوَاقِعَةُ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180133,
+          "resource_id": 33,
+          "text": "Maka pada hari itu terjadilah hari Kiamat,"
+        }
+      ]
+    },
+    {
+      "id": 5339,
+      "verse_number": 16,
+      "verse_key": "69:16",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱنشَقَّتِ ٱلسَّمَآءُ فَهِىَ يَوْمَئِذٍ وَاهِيَةٌ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 179933,
+          "resource_id": 33,
+          "text": "dan terbelahlah langit, karena pada hari itu langit menjadi rapuh."
+        }
+      ]
+    },
+    {
+      "id": 5340,
+      "verse_number": 17,
+      "verse_key": "69:17",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلْمَلَكُ عَلَىٰٓ أَرْجَآئِهَا ۚ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَـٰنِيَةٌ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180134,
+          "resource_id": 33,
+          "text": "Dan para malaikat berada di berbagai penjuru langit. Pada hari itu delapan malaikat menjunjung Arasy (singgasana) Tuhanmu di atas (kepala) mereka."
+        }
+      ]
+    },
+    {
+      "id": 5341,
+      "verse_number": 18,
+      "verse_key": "69:18",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180136,
+          "resource_id": 33,
+          "text": "Pada hari itu kamu dihadapkan (kepada Tuhanmu), tidak ada sesuatu pun dari kamu yang tersembunyi (bagi Allah)."
+        }
+      ]
+    },
+    {
+      "id": 5342,
+      "verse_number": 19,
+      "verse_key": "69:19",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَـٰبِيَهْ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180137,
+          "resource_id": 33,
+          "text": "Adapun orang yang kitabnya<sup foot_note=135812>1</sup> diberikan di tangan kanannya, maka dia berkata, \"Ambillah, bacalah kitabku (ini).\""
+        }
+      ]
+    },
+    {
+      "id": 5343,
+      "verse_number": 20,
+      "verse_key": "69:20",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنِّى ظَنَنتُ أَنِّى مُلَـٰقٍ حِسَابِيَهْ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180233,
+          "resource_id": 33,
+          "text": "Sesungguhnya aku yakin, bahwa (suatu saat) aku akan menerima perhitungan terhadap diriku."
+        }
+      ]
+    },
+    {
+      "id": 5344,
+      "verse_number": 21,
+      "verse_key": "69:21",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180140,
+          "resource_id": 33,
+          "text": "Maka orang itu berada dalam kehidupan yang diridai,"
+        }
+      ]
+    },
+    {
+      "id": 5345,
+      "verse_number": 22,
+      "verse_key": "69:22",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِى جَنَّةٍ عَالِيَةٍ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180186,
+          "resource_id": 33,
+          "text": "dalam surga yang tinggi,"
+        }
+      ]
+    },
+    {
+      "id": 5346,
+      "verse_number": 23,
+      "verse_key": "69:23",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قُطُوفُهَا دَانِيَةٌ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180142,
+          "resource_id": 33,
+          "text": "buah-buahannya dekat,"
+        }
+      ]
+    },
+    {
+      "id": 5347,
+      "verse_number": 24,
+      "verse_key": "69:24",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَآ أَسْلَفْتُمْ فِى ٱلْأَيَّامِ ٱلْخَالِيَةِ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180141,
+          "resource_id": 33,
+          "text": "(kepada mereka dikatakan), \"Makan dan minumlah dengan nikmat karena amal yang telah kamu kerjakan pada hari-hari yang telah lalu.\""
+        }
+      ]
+    },
+    {
+      "id": 5348,
+      "verse_number": 25,
+      "verse_key": "69:25",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَـٰلَيْتَنِى لَمْ أُوتَ كِتَـٰبِيَهْ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180143,
+          "resource_id": 33,
+          "text": "Dan adapun orang yang kitabnya diberikan di tangan kirinya, maka dia berkata, \"Alangkah baiknya jika kitabku (ini) tidak diberikan kepadaku."
+        }
+      ]
+    },
+    {
+      "id": 5349,
+      "verse_number": 26,
+      "verse_key": "69:26",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَمْ أَدْرِ مَا حِسَابِيَهْ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180144,
+          "resource_id": 33,
+          "text": "Sehingga aku tidak mengetahui bagaimana perhitunganku,"
+        }
+      ]
+    },
+    {
+      "id": 5350,
+      "verse_number": 27,
+      "verse_key": "69:27",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰلَيْتَهَا كَانَتِ ٱلْقَاضِيَةَ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180148,
+          "resource_id": 33,
+          "text": "Wahai, kiranya (kematian) itulah yang menyudahi segala sesuatu."
+        }
+      ]
+    },
+    {
+      "id": 5351,
+      "verse_number": 28,
+      "verse_key": "69:28",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَآ أَغْنَىٰ عَنِّى مَالِيَهْ ۜ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180145,
+          "resource_id": 33,
+          "text": "Hartaku sama sekali tidak berguna bagiku."
+        }
+      ]
+    },
+    {
+      "id": 5352,
+      "verse_number": 29,
+      "verse_key": "69:29",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "هَلَكَ عَنِّى سُلْطَـٰنِيَهْ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180146,
+          "resource_id": 33,
+          "text": "Kekuasaanku telah hilang dariku.\""
+        }
+      ]
+    },
+    {
+      "id": 5353,
+      "verse_number": 30,
+      "verse_key": "69:30",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "خُذُوهُ فَغُلُّوهُ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180149,
+          "resource_id": 33,
+          "text": "(Allah berfirman), \"Tangkaplah dia lalu belenggulah tangannya ke lehernya.\""
+        }
+      ]
+    },
+    {
+      "id": 5354,
+      "verse_number": 31,
+      "verse_key": "69:31",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ ٱلْجَحِيمَ صَلُّوهُ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180150,
+          "resource_id": 33,
+          "text": "Kemudian masukkanlah dia ke dalam api neraka yang menyala-nyala."
+        }
+      ]
+    },
+    {
+      "id": 5355,
+      "verse_number": 32,
+      "verse_key": "69:32",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ فِى سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعًا فَٱسْلُكُوهُ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180151,
+          "resource_id": 33,
+          "text": "Kemudian belitlah dia dengan rantai yang panjangnya tujuh puluh hasta."
+        }
+      ]
+    },
+    {
+      "id": 5356,
+      "verse_number": 33,
+      "verse_key": "69:33",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّهُۥ كَانَ لَا يُؤْمِنُ بِٱللَّهِ ٱلْعَظِيمِ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180152,
+          "resource_id": 33,
+          "text": "Sesungguhnya dialah orang yang tidak beriman kepada Allah Yang Mahabesar."
+        }
+      ]
+    },
+    {
+      "id": 5357,
+      "verse_number": 34,
+      "verse_key": "69:34",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "chapter_id": 69,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180153,
+          "resource_id": 33,
+          "text": "Dan juga dia tidak mendorong (orang lain) untuk memberi makan orang miskin."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 27,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 27
+  }
+}

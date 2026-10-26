@@ -1,0 +1,158 @@
+{
+  "verses": [
+    {
+      "id": 5162,
+      "verse_number": 12,
+      "verse_key": "60:12",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 485,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَـٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ بِٱللَّهِ شَيْـًٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَـٰدَهُنَّ وَلَا يَأْتِينَ بِبُهْتَـٰنٍ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ ۙ فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "chapter_id": 60,
+      "page_number": 551,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179807,
+          "resource_id": 33,
+          "text": "Wahai Nabi! Apabila perempuan-perempuan mukmin datang kepadamu untuk mengadakan baiat (janji setia), bahwa mereka tidak akan mempersekutukan sesuatu apa pun dengan Allah; tidak akan mencuri, tidak akan berzina, tidak akan membunuh anak-anaknya, tidak akan berbuat dusta yang mereka ada-adakan antara tangan dan kaki mereka<sup foot_note=135791>1</sup> dan tidak akan mendurhakaimu dalam urusan yang baik, maka terimalah janji setia mereka dan mohonkanlah ampunan untuk mereka kepada Allah. Sungguh, Allah Maha Pengampun, Maha Penyayang."
+        }
+      ]
+    },
+    {
+      "id": 5163,
+      "verse_number": 13,
+      "verse_key": "60:13",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 485,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَوَلَّوْا۟ قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِمْ قَدْ يَئِسُوا۟ مِنَ ٱلْـَٔاخِرَةِ كَمَا يَئِسَ ٱلْكُفَّارُ مِنْ أَصْحَـٰبِ ٱلْقُبُورِ",
+      "chapter_id": 60,
+      "page_number": 551,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179808,
+          "resource_id": 33,
+          "text": "Wahai orang-orang yang beriman! Janganlah kamu jadikan orang-orang yang dimurkai Allah sebagai penolongmu, sungguh, mereka telah putus asa terhadap akhirat sebagaimana orang-orang kafir yang telah berada dalam kubur juga berputus asa."
+        }
+      ]
+    },
+    {
+      "id": 5164,
+      "verse_number": 1,
+      "verse_key": "61:1",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 486,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "chapter_id": 61,
+      "page_number": 551,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179829,
+          "resource_id": 33,
+          "text": "Apa yang ada di langit dan apa yang ada di bumi bertasbih kepada Allah; dan Dialah Yang Mahaperkasa, Mahabijaksana."
+        }
+      ]
+    },
+    {
+      "id": 5165,
+      "verse_number": 2,
+      "verse_key": "61:2",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 486,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ",
+      "chapter_id": 61,
+      "page_number": 551,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179843,
+          "resource_id": 33,
+          "text": "Wahai orang-orang yang beriman! Mengapa kamu mengatakan sesuatu yang tidak kamu kerjakan?"
+        }
+      ]
+    },
+    {
+      "id": 5166,
+      "verse_number": 3,
+      "verse_key": "61:3",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 486,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَبُرَ مَقْتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفْعَلُونَ",
+      "chapter_id": 61,
+      "page_number": 551,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179854,
+          "resource_id": 33,
+          "text": "(Itu) sangatlah dibenci di sisi Allah jika kamu mengatakan apa-apa yang tidak kamu kerjakan."
+        }
+      ]
+    },
+    {
+      "id": 5167,
+      "verse_number": 4,
+      "verse_key": "61:4",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 486,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَـٰتِلُونَ فِى سَبِيلِهِۦ صَفًّا كَأَنَّهُم بُنْيَـٰنٌ مَّرْصُوصٌ",
+      "chapter_id": 61,
+      "page_number": 551,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179879,
+          "resource_id": 33,
+          "text": "Sesungguhnya Allah mencintai orang-orang yang berperang di jalan-Nya dalam barisan yang teratur, mereka seakan-akan seperti suatu bangunan yang tersusun kokoh."
+        }
+      ]
+    },
+    {
+      "id": 5168,
+      "verse_number": 5,
+      "verse_key": "61:5",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 486,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَـٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ ۖ فَلَمَّا زَاغُوٓا۟ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ",
+      "chapter_id": 61,
+      "page_number": 551,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179880,
+          "resource_id": 33,
+          "text": "Dan (ingatlah) ketika Musa berkata kepada kaumnya, \"Wahai kaumku! Mengapa kamu menyakitiku, padahal kamu sungguh mengetahui bahwa sesungguhnya aku utusan Allah kepadamu?\" Maka ketika mereka berpaling (dari kebenaran), Allah memalingkan hati mereka.<sup foot_note=135792>1</sup> Dan Allah tidak memberi petunjuk kepada kaum yang fasik."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 7,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 7
+  }
+}

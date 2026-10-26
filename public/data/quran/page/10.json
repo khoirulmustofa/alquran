@@ -1,0 +1,179 @@
+{
+  "verses": [
+    {
+      "id": 69,
+      "verse_number": 62,
+      "verse_key": "2:62",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 4,
+      "ruku_number": 9,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلنَّصَـٰرَىٰ وَٱلصَّـٰبِـِٔينَ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَعَمِلَ صَـٰلِحًا فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "chapter_id": 2,
+      "page_number": 10,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 183343,
+          "resource_id": 33,
+          "text": "Sesungguhnya orang-orang yang beriman, orang-orang Yahudi, orang-orang Nasrani dan orang-orang ṣābiīn,<sup foot_note=134982>1</sup> siapa saja (diantara mereka) yang beriman kepada Allah dan hari akhir, dan melakukan kebajikan, mereka mendapat pahala dari Tuhannya, tidak ada rasa takut pada mereka, dan mereka tidak bersedih hati."
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "verse_number": 63,
+      "verse_key": "2:63",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 4,
+      "ruku_number": 9,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ أَخَذْنَا مِيثَـٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَـٰكُم بِقُوَّةٍ وَٱذْكُرُوا۟ مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ",
+      "chapter_id": 2,
+      "page_number": 10,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 183363,
+          "resource_id": 33,
+          "text": "Dan (ingatlah) ketika Kami mengambil janji kamu dan Kami angkat gunung (Sinai) di atasmu (seraya berfirman), \"Pegang teguhlah apa yang telah Kami berikan kepadamu dan ingatlah apa yang ada di dalamnya, agar kamu bertakwa.\""
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "verse_number": 64,
+      "verse_key": "2:64",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 4,
+      "ruku_number": 9,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ تَوَلَّيْتُم مِّنۢ بَعْدِ ذَٰلِكَ ۖ فَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ لَكُنتُم مِّنَ ٱلْخَـٰسِرِينَ",
+      "chapter_id": 2,
+      "page_number": 10,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 181796,
+          "resource_id": 33,
+          "text": "Kemudian setelah itu kamu berpaling. Maka sekiranya bukan karena karunia Allah dan rahmat-Nya kepadamu, pasti kamu termasuk orang yang rugi."
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "verse_number": 65,
+      "verse_key": "2:65",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 4,
+      "ruku_number": 9,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+      "chapter_id": 2,
+      "page_number": 10,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 183376,
+          "resource_id": 33,
+          "text": "Dan sungguh, kamu telah mengetahui orang-orang yang melakukan pelanggaran di antara kamu pada hari Sabat,<sup foot_note=134983>1</sup> lalu Kami katakan kepada mereka, \"Jadilah kamu kera yang hina!\"<sup foot_note=134984>2</sup>"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "verse_number": 66,
+      "verse_key": "2:66",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 4,
+      "ruku_number": 9,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "فَجَعَلْنَـٰهَا نَكَـٰلًا لِّمَا بَيْنَ يَدَيْهَا وَمَا خَلْفَهَا وَمَوْعِظَةً لِّلْمُتَّقِينَ",
+      "chapter_id": 2,
+      "page_number": 10,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 183384,
+          "resource_id": 33,
+          "text": "Maka Kami jadikan (yang demikian) itu peringatan bagi orang-orang pada masa itu, dan bagi mereka yang datang kemudian, serta menjadi pelajaran bagi orang-orang yang bertakwa."
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "verse_number": 67,
+      "verse_key": "2:67",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 4,
+      "ruku_number": 9,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦٓ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تَذْبَحُوا۟ بَقَرَةً ۖ قَالُوٓا۟ أَتَتَّخِذُنَا هُزُوًا ۖ قَالَ أَعُوذُ بِٱللَّهِ أَنْ أَكُونَ مِنَ ٱلْجَـٰهِلِينَ",
+      "chapter_id": 2,
+      "page_number": 10,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 183383,
+          "resource_id": 33,
+          "text": "Dan (ingatlah) ketika Musa berkata kepada kaumnya, \"Allah memerintahkan kamu agar menyembelih seekor sapi betina.\" Mereka bertanya, \"Apakah engkau akan menjadikan kami sebagai ejekan?\" <sup foot_note=134985>1</sup> Dia (Musa) menjawab, \"Aku berlindung kepada Allah agar tidak menjadi orang-orang yang bodoh.\""
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "verse_number": 68,
+      "verse_key": "2:68",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 4,
+      "ruku_number": 9,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ ۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا فَارِضٌ وَلَا بِكْرٌ عَوَانٌۢ بَيْنَ ذَٰلِكَ ۖ فَٱفْعَلُوا۟ مَا تُؤْمَرُونَ",
+      "chapter_id": 2,
+      "page_number": 10,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 183398,
+          "resource_id": 33,
+          "text": "Mereka berkata, \"Mohonkanlah kepada Tuhanmu untuk kami agar Dia menjelaskan kepada kami tentang (sapi betina) itu.\" Dia (Musa) menjawab, \"Dia (Allah) berfirman, bahwa sapi betina itu tidak tua dan tidak muda, (tetapi) pertengahan antara itu. Maka kerjakanlah apa yang diperintahkan kepadamu!\""
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "verse_number": 69,
+      "verse_key": "2:69",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 4,
+      "ruku_number": 9,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوْنُهَا ۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ صَفْرَآءُ فَاقِعٌ لَّوْنُهَا تَسُرُّ ٱلنَّـٰظِرِينَ",
+      "chapter_id": 2,
+      "page_number": 10,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 183382,
+          "resource_id": 33,
+          "text": "Mereka berkata, \"Mohonkanlah kepada Tuhanmu untuk kami agar Dia menjelaskan kepada kami apa warnanya.\" Dia (Musa) menjawab, \"Dia Allah berfirman, bahwa (sapi) itu adalah sapi betina yang kuning cerah warnanya, yang menyenangkan orang-orang yang memandang(nya).\""
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 8,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 8
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "verses": [
+    {
+      "id": 2933,
+      "verse_number": 1,
+      "verse_key": "26:1",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 147,
+      "ruku_number": 316,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": " طسٓمٓ",
+      "chapter_id": 26,
+      "page_number": 367,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 177465,
+          "resource_id": 33,
+          "text": "Ṭā Sīn Mīm."
+        }
+      ]
+    },
+    {
+      "id": 2934,
+      "verse_number": 2,
+      "verse_key": "26:2",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 147,
+      "ruku_number": 316,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْمُبِينِ",
+      "chapter_id": 26,
+      "page_number": 367,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 181759,
+          "resource_id": 33,
+          "text": "Inilah ayat-ayat Kitab (Alquran) yang jelas."
+        }
+      ]
+    },
+    {
+      "id": 2935,
+      "verse_number": 3,
+      "verse_key": "26:3",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 147,
+      "ruku_number": 316,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "لَعَلَّكَ بَـٰخِعٌ نَّفْسَكَ أَلَّا يَكُونُوا۟ مُؤْمِنِينَ",
+      "chapter_id": 26,
+      "page_number": 367,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183367,
+          "resource_id": 33,
+          "text": "Boleh jadi engkau (Muhammad) akan membinasakan dirimu (dengan kesedihan), karena mereka (penduduk Mekkah) tidak beriman."
+        }
+      ]
+    },
+    {
+      "id": 2936,
+      "verse_number": 4,
+      "verse_key": "26:4",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 147,
+      "ruku_number": 316,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِن نَّشَأْ نُنَزِّلْ عَلَيْهِم مِّنَ ٱلسَّمَآءِ ءَايَةً فَظَلَّتْ أَعْنَـٰقُهُمْ لَهَا خَـٰضِعِينَ",
+      "chapter_id": 26,
+      "page_number": 367,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183375,
+          "resource_id": 33,
+          "text": "Jika Kami menghendaki, niscaya Kami turunkan kepada mereka mukjizat dari langit, yang akan membuat tengkuk mereka tunduk dengan rendah hati kepadanya."
+        }
+      ]
+    },
+    {
+      "id": 2937,
+      "verse_number": 5,
+      "verse_key": "26:5",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 147,
+      "ruku_number": 316,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا يَأْتِيهِم مِّن ذِكْرٍ مِّنَ ٱلرَّحْمَـٰنِ مُحْدَثٍ إِلَّا كَانُوا۟ عَنْهُ مُعْرِضِينَ",
+      "chapter_id": 26,
+      "page_number": 367,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183369,
+          "resource_id": 33,
+          "text": "Dan setiap kali disampaikan kepada mereka suatu peringatan baru (ayat Alquran yang diturunkan) dari Tuhan Yang Maha Pengasih, mereka selalu berpaling darinya."
+        }
+      ]
+    },
+    {
+      "id": 2938,
+      "verse_number": 6,
+      "verse_key": "26:6",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 147,
+      "ruku_number": 316,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "فَقَدْ كَذَّبُوا۟ فَسَيَأْتِيهِمْ أَنۢبَـٰٓؤُا۟ مَا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "chapter_id": 26,
+      "page_number": 367,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183393,
+          "resource_id": 33,
+          "text": "Sungguh, mereka telah mendustakan (Alquran), maka kelak akan datang kepada mereka (kebenaran) berita-berita mengenai apa (azab) yang dulu mereka perolok-olokkan."
+        }
+      ]
+    },
+    {
+      "id": 2939,
+      "verse_number": 7,
+      "verse_key": "26:7",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 147,
+      "ruku_number": 316,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "أَوَلَمْ يَرَوْا۟ إِلَى ٱلْأَرْضِ كَمْ أَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍ كَرِيمٍ",
+      "chapter_id": 26,
+      "page_number": 367,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183400,
+          "resource_id": 33,
+          "text": "Dan apakah mereka tidak memperhatikan bumi, betapa banyak Kami tumbuhkan di bumi itu berbagai macam (tumbuh-tumbuhan) yang baik?"
+        }
+      ]
+    },
+    {
+      "id": 2940,
+      "verse_number": 8,
+      "verse_key": "26:8",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 147,
+      "ruku_number": 316,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+      "chapter_id": 26,
+      "page_number": 367,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183407,
+          "resource_id": 33,
+          "text": "Sungguh, pada yang demikian itu terdapat tanda (kebesaran Allah), tetapi kebanyakan mereka tidak beriman."
+        }
+      ]
+    },
+    {
+      "id": 2941,
+      "verse_number": 9,
+      "verse_key": "26:9",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 147,
+      "ruku_number": 316,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "chapter_id": 26,
+      "page_number": 367,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183464,
+          "resource_id": 33,
+          "text": "Dan sungguh, Tuhanmu Dialah Yang Mahaperkasa, Maha Penyayang."
+        }
+      ]
+    },
+    {
+      "id": 2942,
+      "verse_number": 10,
+      "verse_key": "26:10",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 147,
+      "ruku_number": 317,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+      "chapter_id": 26,
+      "page_number": 367,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 182748,
+          "resource_id": 33,
+          "text": "Dan (ingatlah) ketika Tuhanmu menyeru Musa (dengan firman-Nya), \"Datangilah kaum yang zalim itu,"
+        }
+      ]
+    },
+    {
+      "id": 2943,
+      "verse_number": 11,
+      "verse_key": "26:11",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 147,
+      "ruku_number": 317,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "قَوْمَ فِرْعَوْنَ ۚ أَلَا يَتَّقُونَ",
+      "chapter_id": 26,
+      "page_number": 367,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 181688,
+          "resource_id": 33,
+          "text": "(yaitu) kaum Fir'aun. Mengapa mereka tidak bertakwa?\""
+        }
+      ]
+    },
+    {
+      "id": 2944,
+      "verse_number": 12,
+      "verse_key": "26:12",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 147,
+      "ruku_number": 317,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ رَبِّ إِنِّىٓ أَخَافُ أَن يُكَذِّبُونِ",
+      "chapter_id": 26,
+      "page_number": 367,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 181694,
+          "resource_id": 33,
+          "text": "Dia (Musa) berkata, \"Ya Tuhanku, sungguh, aku takut mereka akan mendustakan aku,"
+        }
+      ]
+    },
+    {
+      "id": 2945,
+      "verse_number": 13,
+      "verse_key": "26:13",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 147,
+      "ruku_number": 317,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَيَضِيقُ صَدْرِى وَلَا يَنطَلِقُ لِسَانِى فَأَرْسِلْ إِلَىٰ هَـٰرُونَ",
+      "chapter_id": 26,
+      "page_number": 367,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183287,
+          "resource_id": 33,
+          "text": "sehingga dadaku terasa sempit dan lidahku tidak lancar maka utuslah Harun<sup foot_note=135533>1</sup> (bersamaku)."
+        }
+      ]
+    },
+    {
+      "id": 2946,
+      "verse_number": 14,
+      "verse_key": "26:14",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 147,
+      "ruku_number": 317,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَهُمْ عَلَىَّ ذَنۢبٌ فَأَخَافُ أَن يَقْتُلُونِ",
+      "chapter_id": 26,
+      "page_number": 367,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183297,
+          "resource_id": 33,
+          "text": "Sebab aku berdosa terhadap mereka,<sup foot_note=135534>1</sup> maka aku takut mereka akan membunuhku.\""
+        }
+      ]
+    },
+    {
+      "id": 2947,
+      "verse_number": 15,
+      "verse_key": "26:15",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 147,
+      "ruku_number": 317,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ كَلَّا ۖ فَٱذْهَبَا بِـَٔايَـٰتِنَآ ۖ إِنَّا مَعَكُم مُّسْتَمِعُونَ",
+      "chapter_id": 26,
+      "page_number": 367,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183307,
+          "resource_id": 33,
+          "text": "(Allah) berfirman, \"Jangan takut (mereka tidak akan dapat membunuhmu)! Maka pergilah kamu berdua dengan membawa ayat-ayat Kami (mukjizat-mukjizat); sungguh, Kami bersamamu mendengarkan (apa yang mereka katakan),"
+        }
+      ]
+    },
+    {
+      "id": 2948,
+      "verse_number": 16,
+      "verse_key": "26:16",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 147,
+      "ruku_number": 317,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "فَأْتِيَا فِرْعَوْنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلْعَـٰلَمِينَ",
+      "chapter_id": 26,
+      "page_number": 367,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183316,
+          "resource_id": 33,
+          "text": "maka datanglah kamu berdua kepada Fir'aun dan katakan, \"Sesungguhnya kami adalah rasul-rasul Tuhan seluruh alam,"
+        }
+      ]
+    },
+    {
+      "id": 2949,
+      "verse_number": 17,
+      "verse_key": "26:17",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 147,
+      "ruku_number": 317,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "أَنْ أَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ",
+      "chapter_id": 26,
+      "page_number": 367,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 181739,
+          "resource_id": 33,
+          "text": "lepaskanlah Bani Israil (pergi) bersama kami.\""
+        }
+      ]
+    },
+    {
+      "id": 2950,
+      "verse_number": 18,
+      "verse_key": "26:18",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 147,
+      "ruku_number": 317,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ أَلَمْ نُرَبِّكَ فِينَا وَلِيدًا وَلَبِثْتَ فِينَا مِنْ عُمُرِكَ سِنِينَ",
+      "chapter_id": 26,
+      "page_number": 367,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183309,
+          "resource_id": 33,
+          "text": "Dia (Fir'aun) menjawab, \"Bukankah kami telah mengasuhmu dalam lingkungan (keluarga) kami, waktu engkau masih kanak-kanak dan engkau tinggal bersama kami beberapa tahun dari umurmu.<sup foot_note=135535>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 2951,
+      "verse_number": 19,
+      "verse_key": "26:19",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 147,
+      "ruku_number": 317,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَفَعَلْتَ فَعْلَتَكَ ٱلَّتِى فَعَلْتَ وَأَنتَ مِنَ ٱلْكَـٰفِرِينَ",
+      "chapter_id": 26,
+      "page_number": 367,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183333,
+          "resource_id": 33,
+          "text": "Dan engkau (Musa) telah melakukan (kesalahan dari) perbuatan yang telah engkau lakukan<sup foot_note=135536>1</sup> dan engkau termasuk orang yang tidak tahu berterima kasih.\""
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 19,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 19
+  }
+}

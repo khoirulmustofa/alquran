@@ -1,0 +1,158 @@
+{
+  "verses": [
+    {
+      "id": 2812,
+      "verse_number": 21,
+      "verse_key": "24:21",
+      "hizb_number": 36,
+      "rub_el_hizb_number": 141,
+      "ruku_number": 303,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَـٰنِ ۚ وَمَن يَتَّبِعْ خُطُوَٰتِ ٱلشَّيْطَـٰنِ فَإِنَّهُۥ يَأْمُرُ بِٱلْفَحْشَآءِ وَٱلْمُنكَرِ ۚ وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ مَا زَكَىٰ مِنكُم مِّنْ أَحَدٍ أَبَدًا وَلَـٰكِنَّ ٱللَّهَ يُزَكِّى مَن يَشَآءُ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+      "chapter_id": 24,
+      "page_number": 352,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 183086,
+          "resource_id": 33,
+          "text": "Wahai orang-orang yang beriman! Janganlah kamu mengikuti langkah-langkah setan. Barang siapa mengikuti langkah-langkah setan, maka sesungguhnya dia (setan) menyuruh mengerjakan perbuatan yang keji dan mungkar. Kalau bukan karena karunia Allah dan rahmat-Nya kepadamu, niscaya tidak seorang pun di antara kamu bersih (dari perbuatan keji dan mungkar itu) selama-lamanya, tetapi Allah membersihkan siapa yang Dia kehendaki. Dan Allah Maha Mendengar, Maha Mengetahui."
+        }
+      ]
+    },
+    {
+      "id": 2813,
+      "verse_number": 22,
+      "verse_key": "24:22",
+      "hizb_number": 36,
+      "rub_el_hizb_number": 141,
+      "ruku_number": 303,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَا يَأْتَلِ أُو۟لُوا۟ ٱلْفَضْلِ مِنكُمْ وَٱلسَّعَةِ أَن يُؤْتُوٓا۟ أُو۟لِى ٱلْقُرْبَىٰ وَٱلْمَسَـٰكِينَ وَٱلْمُهَـٰجِرِينَ فِى سَبِيلِ ٱللَّهِ ۖ وَلْيَعْفُوا۟ وَلْيَصْفَحُوٓا۟ ۗ أَلَا تُحِبُّونَ أَن يَغْفِرَ ٱللَّهُ لَكُمْ ۗ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "chapter_id": 24,
+      "page_number": 352,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 183083,
+          "resource_id": 33,
+          "text": "Dan janganlah orang-orang yang mempunyai kelebihan dan kelapangan di antara kamu bersumpah bahwa mereka (tidak) akan memberi (bantuan) kepada kerabat(nya), orang-orang miskin dan orang-orang yang berhijrah di jalan Allah, dan hendaklah mereka memaafkan dan berlapang dada. Apakah kamu tidak suka kalau Allah mengampunimu? Dan Allah Maha Pengampun, Maha Penyayang."
+        }
+      ]
+    },
+    {
+      "id": 2814,
+      "verse_number": 23,
+      "verse_key": "24:23",
+      "hizb_number": 36,
+      "rub_el_hizb_number": 141,
+      "ruku_number": 303,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَـٰتِ ٱلْغَـٰفِلَـٰتِ ٱلْمُؤْمِنَـٰتِ لُعِنُوا۟ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "chapter_id": 24,
+      "page_number": 352,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 183092,
+          "resource_id": 33,
+          "text": "Sungguh, orang-orang yang menuduh perempuan-perempuan baik, yang lengah<sup foot_note=135512>1</sup> dan beriman (dengan tuduhan berzina), mereka dilaknat di dunia dan di akhirat, dan mereka akan mendapat azab yang besar,"
+        }
+      ]
+    },
+    {
+      "id": 2815,
+      "verse_number": 24,
+      "verse_key": "24:24",
+      "hizb_number": 36,
+      "rub_el_hizb_number": 141,
+      "ruku_number": 303,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَ تَشْهَدُ عَلَيْهِمْ أَلْسِنَتُهُمْ وَأَيْدِيهِمْ وَأَرْجُلُهُم بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "chapter_id": 24,
+      "page_number": 352,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 183093,
+          "resource_id": 33,
+          "text": "pada hari, (ketika) lidah, tangan dan kaki mereka menjadi saksi atas mereka terhadap apa yang dahulu mereka kerjakan."
+        }
+      ]
+    },
+    {
+      "id": 2816,
+      "verse_number": 25,
+      "verse_key": "24:25",
+      "hizb_number": 36,
+      "rub_el_hizb_number": 141,
+      "ruku_number": 303,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَئِذٍ يُوَفِّيهِمُ ٱللَّهُ دِينَهُمُ ٱلْحَقَّ وَيَعْلَمُونَ أَنَّ ٱللَّهَ هُوَ ٱلْحَقُّ ٱلْمُبِينُ",
+      "chapter_id": 24,
+      "page_number": 352,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 183091,
+          "resource_id": 33,
+          "text": "Pada hari itu Allah menyempurnakan balasan yang sebenarnya bagi mereka, dan mereka tahu bahwa Allah Mahabenar, Maha Menjelaskan."
+        }
+      ]
+    },
+    {
+      "id": 2817,
+      "verse_number": 26,
+      "verse_key": "24:26",
+      "hizb_number": 36,
+      "rub_el_hizb_number": 141,
+      "ruku_number": 303,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلْخَبِيثَـٰتُ لِلْخَبِيثِينَ وَٱلْخَبِيثُونَ لِلْخَبِيثَـٰتِ ۖ وَٱلطَّيِّبَـٰتُ لِلطَّيِّبِينَ وَٱلطَّيِّبُونَ لِلطَّيِّبَـٰتِ ۚ أُو۟لَـٰٓئِكَ مُبَرَّءُونَ مِمَّا يَقُولُونَ ۖ لَهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+      "chapter_id": 24,
+      "page_number": 352,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 183094,
+          "resource_id": 33,
+          "text": "Perempuan-perempuan yang keji untuk laki-laki yang keji, dan laki-laki yang keji untuk perempuan-perempuan yang keji (pula), sedangkan perempuan-perempuan yang baik untuk laki-laki yang baik dan laki-laki yang baik untuk perempuan-perempuan yang baik (pula). Mereka itu bersih dari apa yang dituduhkan orang. Mereka memperoleh ampunan dan rezeki yang mulia (surga).<sup foot_note=135513>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 2818,
+      "verse_number": 27,
+      "verse_key": "24:27",
+      "hizb_number": 36,
+      "rub_el_hizb_number": 141,
+      "ruku_number": 304,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتًا غَيْرَ بُيُوتِكُمْ حَتَّىٰ تَسْتَأْنِسُوا۟ وَتُسَلِّمُوا۟ عَلَىٰٓ أَهْلِهَا ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "chapter_id": 24,
+      "page_number": 352,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 183081,
+          "resource_id": 33,
+          "text": "Wahai orang-orang yang beriman! Janganlah kamu memasuki rumah yang bukan rumahmu sebelum meminta izin dan memberi salam kepada penghuninya. Yang demikian itu lebih baik bagimu, agar kamu (selalu) ingat."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 7,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 7
+  }
+}

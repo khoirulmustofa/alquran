@@ -1,0 +1,410 @@
+{
+  "verses": [
+    {
+      "id": 5268,
+      "verse_number": 27,
+      "verse_key": "67:27",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 225,
+      "ruku_number": 499,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَمَّا رَأَوْهُ زُلْفَةً سِيٓـَٔتْ وُجُوهُ ٱلَّذِينَ كَفَرُوا۟ وَقِيلَ هَـٰذَا ٱلَّذِى كُنتُم بِهِۦ تَدَّعُونَ",
+      "chapter_id": 67,
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180049,
+          "resource_id": 33,
+          "text": "Maka ketika mereka melihat azab (pada hari Kiamat) sudah dekat, wajah orang-orang kafir itu menjadi muram. Dan dikatakan (kepada mereka), \"Inilah (azab) yang dahulu kamu memintanya.\""
+        }
+      ]
+    },
+    {
+      "id": 5269,
+      "verse_number": 28,
+      "verse_key": "67:28",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 225,
+      "ruku_number": 499,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ أَرَءَيْتُمْ إِنْ أَهْلَكَنِىَ ٱللَّهُ وَمَن مَّعِىَ أَوْ رَحِمَنَا فَمَن يُجِيرُ ٱلْكَـٰفِرِينَ مِنْ عَذَابٍ أَلِيمٍ",
+      "chapter_id": 67,
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180050,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Tahukah kamu jika Allah mematikan aku dan orang-orang yang bersamaku atau memberi rahmat kepada kami, (maka kami akan masuk surga), lalu siapa yang dapat melindungi orang-orang kafir dari azab yang pedih?\""
+        }
+      ]
+    },
+    {
+      "id": 5270,
+      "verse_number": 29,
+      "verse_key": "67:29",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 225,
+      "ruku_number": 499,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ هُوَ ٱلرَّحْمَـٰنُ ءَامَنَّا بِهِۦ وَعَلَيْهِ تَوَكَّلْنَا ۖ فَسَتَعْلَمُونَ مَنْ هُوَ فِى ضَلَـٰلٍ مُّبِينٍ",
+      "chapter_id": 67,
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180053,
+          "resource_id": 33,
+          "text": "Katakanlah, \"Dialah Yang Maha Pengasih, kami beriman kepada-Nya dan kepada-Nya kami bertawakal. Maka kelak kamu akan tahu siapa yang berada dalam kesesatan yang nyata.\""
+        }
+      ]
+    },
+    {
+      "id": 5271,
+      "verse_number": 30,
+      "verse_key": "67:30",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 225,
+      "ruku_number": 499,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ أَرَءَيْتُمْ إِنْ أَصْبَحَ مَآؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم بِمَآءٍ مَّعِينٍۭ",
+      "chapter_id": 67,
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180066,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Terangkanlah kepadaku jika sumber air kamu menjadi kering; maka siapa yang akan memberimu air yang mengalir?\""
+        }
+      ]
+    },
+    {
+      "id": 5272,
+      "verse_number": 1,
+      "verse_key": "68:1",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " نٓ ۚ وَٱلْقَلَمِ وَمَا يَسْطُرُونَ",
+      "chapter_id": 68,
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 177452,
+          "resource_id": 33,
+          "text": "Nūn. Demi pena dan apa yang mereka tuliskan,"
+        }
+      ]
+    },
+    {
+      "id": 5273,
+      "verse_number": 2,
+      "verse_key": "68:2",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَآ أَنتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ",
+      "chapter_id": 68,
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180086,
+          "resource_id": 33,
+          "text": "dengan karunia Tuhanmu engkau (Muhammad) bukanlah orang gila."
+        }
+      ]
+    },
+    {
+      "id": 5274,
+      "verse_number": 3,
+      "verse_key": "68:3",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ",
+      "chapter_id": 68,
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180091,
+          "resource_id": 33,
+          "text": "Dan sesungguhnya engkau pasti mendapat pahala yang besar yang tidak putus-putusnya."
+        }
+      ]
+    },
+    {
+      "id": 5275,
+      "verse_number": 4,
+      "verse_key": "68:4",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ",
+      "chapter_id": 68,
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180122,
+          "resource_id": 33,
+          "text": "Dan sesungguhnya engkau benar-benar, berbudi pekerti yang luhur."
+        }
+      ]
+    },
+    {
+      "id": 5276,
+      "verse_number": 5,
+      "verse_key": "68:5",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَسَتُبْصِرُ وَيُبْصِرُونَ",
+      "chapter_id": 68,
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180115,
+          "resource_id": 33,
+          "text": "Maka kelak engkau akan melihat dan mereka (orang-orang kafir) pun akan melihat,"
+        }
+      ]
+    },
+    {
+      "id": 5277,
+      "verse_number": 6,
+      "verse_key": "68:6",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "بِأَييِّكُمُ ٱلْمَفْتُونُ",
+      "chapter_id": 68,
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180117,
+          "resource_id": 33,
+          "text": "siapa diantara kamu yang gila?"
+        }
+      ]
+    },
+    {
+      "id": 5278,
+      "verse_number": 7,
+      "verse_key": "68:7",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
+      "chapter_id": 68,
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180120,
+          "resource_id": 33,
+          "text": "Sungguh, Tuhanmu, Dialah yang paling mengetahui siapa yang sesat dari jalan-Nya; dan Dialah yang paling mengetahui siapa orang yang mendapat petunjuk."
+        }
+      ]
+    },
+    {
+      "id": 5279,
+      "verse_number": 8,
+      "verse_key": "68:8",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَا تُطِعِ ٱلْمُكَذِّبِينَ",
+      "chapter_id": 68,
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180126,
+          "resource_id": 33,
+          "text": "Maka janganlah engkau patuhi orang-orang yang mendustakan (ayat-ayat Allah)."
+        }
+      ]
+    },
+    {
+      "id": 5280,
+      "verse_number": 9,
+      "verse_key": "68:9",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ",
+      "chapter_id": 68,
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180124,
+          "resource_id": 33,
+          "text": "Mereka menginginkan agar engkau bersikap lunak maka mereka bersikap lunak (pula)."
+        }
+      ]
+    },
+    {
+      "id": 5281,
+      "verse_number": 10,
+      "verse_key": "68:10",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ",
+      "chapter_id": 68,
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180071,
+          "resource_id": 33,
+          "text": "Dan janganlah engkau patuhi setiap orang yang suka bersumpah dan suka menghina,"
+        }
+      ]
+    },
+    {
+      "id": 5282,
+      "verse_number": 11,
+      "verse_key": "68:11",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "هَمَّازٍ مَّشَّآءٍۭ بِنَمِيمٍ",
+      "chapter_id": 68,
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180128,
+          "resource_id": 33,
+          "text": "suka mencela, yang kian ke mari menyebarkan fitnah,"
+        }
+      ]
+    },
+    {
+      "id": 5283,
+      "verse_number": 12,
+      "verse_key": "68:12",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ",
+      "chapter_id": 68,
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180103,
+          "resource_id": 33,
+          "text": "yang merintangi segala yang baik, yang melampaui batas dan banyak dosa,"
+        }
+      ]
+    },
+    {
+      "id": 5284,
+      "verse_number": 13,
+      "verse_key": "68:13",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عُتُلٍّۭ بَعْدَ ذَٰلِكَ زَنِيمٍ",
+      "chapter_id": 68,
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180074,
+          "resource_id": 33,
+          "text": "yang bertabiat kasar, selain itu juga terkenal kejahatannya,"
+        }
+      ]
+    },
+    {
+      "id": 5285,
+      "verse_number": 14,
+      "verse_key": "68:14",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَن كَانَ ذَا مَالٍ وَبَنِينَ",
+      "chapter_id": 68,
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180072,
+          "resource_id": 33,
+          "text": "karena dia kaya dan banyak anak.<sup foot_note=135796>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 5286,
+      "verse_number": 15,
+      "verse_key": "68:15",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا قَالَ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+      "chapter_id": 68,
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180073,
+          "resource_id": 33,
+          "text": "Apabila ayat-ayat Kami dibacakan kepadanya, dia berkata, \"(Ini adalah) dongeng-dongeng orang dahulu.\""
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 20,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 20
+  }
+}

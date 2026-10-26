@@ -1,0 +1,599 @@
+{
+  "verses": [
+    {
+      "id": 3016,
+      "verse_number": 84,
+      "verse_key": "26:84",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 320,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱجْعَل لِّى لِسَانَ صِدْقٍ فِى ٱلْـَٔاخِرِينَ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183472,
+          "resource_id": 33,
+          "text": "dan jadikanlah aku buah tutur yang baik bagi orang-orang (yang datang) kemudian,"
+        }
+      ]
+    },
+    {
+      "id": 3017,
+      "verse_number": 85,
+      "verse_key": "26:85",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 320,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱجْعَلْنِى مِن وَرَثَةِ جَنَّةِ ٱلنَّعِيمِ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183468,
+          "resource_id": 33,
+          "text": "dan jadikanlah aku termasuk orang yang mewarisi surga yang penuh kenikmatan,"
+        }
+      ]
+    },
+    {
+      "id": 3018,
+      "verse_number": 86,
+      "verse_key": "26:86",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 320,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱغْفِرْ لِأَبِىٓ إِنَّهُۥ كَانَ مِنَ ٱلضَّآلِّينَ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183409,
+          "resource_id": 33,
+          "text": "dan ampunilah ayahku, sesungguhnya dia termasuk orang yang sesat,"
+        }
+      ]
+    },
+    {
+      "id": 3019,
+      "verse_number": 87,
+      "verse_key": "26:87",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 320,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَا تُخْزِنِى يَوْمَ يُبْعَثُونَ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183461,
+          "resource_id": 33,
+          "text": "dan janganlah Engkau hinakan aku pada hari mereka dibangkitkan,"
+        }
+      ]
+    },
+    {
+      "id": 3020,
+      "verse_number": 88,
+      "verse_key": "26:88",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 320,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183405,
+          "resource_id": 33,
+          "text": "(yaitu) pada hari (ketika) harta dan anak-anak tidak berguna,"
+        }
+      ]
+    },
+    {
+      "id": 3021,
+      "verse_number": 89,
+      "verse_key": "26:89",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 320,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّا مَنْ أَتَى ٱللَّهَ بِقَلْبٍ سَلِيمٍ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183397,
+          "resource_id": 33,
+          "text": "kecuali orang-orang yang menghadap Allah dengan hati yang bersih,"
+        }
+      ]
+    },
+    {
+      "id": 3022,
+      "verse_number": 90,
+      "verse_key": "26:90",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 320,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَأُزْلِفَتِ ٱلْجَنَّةُ لِلْمُتَّقِينَ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183353,
+          "resource_id": 33,
+          "text": "dan surga didekatkan kepada orang-orang yang bertakwa,"
+        }
+      ]
+    },
+    {
+      "id": 3023,
+      "verse_number": 91,
+      "verse_key": "26:91",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 320,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَبُرِّزَتِ ٱلْجَحِيمُ لِلْغَاوِينَ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183416,
+          "resource_id": 33,
+          "text": "dan neraka Jahim diperlihatkan dengan jelas kepada orang-orang yang sesat,\""
+        }
+      ]
+    },
+    {
+      "id": 3024,
+      "verse_number": 92,
+      "verse_key": "26:92",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 320,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَقِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تَعْبُدُونَ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183443,
+          "resource_id": 33,
+          "text": "dan dikatakan kepada mereka, \"Di mana berhala-berhala yang dahulu kamu sembah,"
+        }
+      ]
+    },
+    {
+      "id": 3025,
+      "verse_number": 93,
+      "verse_key": "26:93",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 320,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "مِن دُونِ ٱللَّهِ هَلْ يَنصُرُونَكُمْ أَوْ يَنتَصِرُونَ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183439,
+          "resource_id": 33,
+          "text": "selain Allah? Dapatkah mereka menolong kamu atau menolong diri mereka sendiri?\""
+        }
+      ]
+    },
+    {
+      "id": 3026,
+      "verse_number": 94,
+      "verse_key": "26:94",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 320,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "فَكُبْكِبُوا۟ فِيهَا هُمْ وَٱلْغَاوُۥنَ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183424,
+          "resource_id": 33,
+          "text": "Maka mereka (sesembahan itu) dijungkirkan ke dalam neraka bersama orang-orang yang sesat,"
+        }
+      ]
+    },
+    {
+      "id": 3027,
+      "verse_number": 95,
+      "verse_key": "26:95",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 320,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَجُنُودُ إِبْلِيسَ أَجْمَعُونَ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 177471,
+          "resource_id": 33,
+          "text": "dan bala tentara Iblis semuanya."
+        }
+      ]
+    },
+    {
+      "id": 3028,
+      "verse_number": 96,
+      "verse_key": "26:96",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 320,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ وَهُمْ فِيهَا يَخْتَصِمُونَ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183417,
+          "resource_id": 33,
+          "text": "Mereka berkata sambil bertengkar di dalamnya (neraka),"
+        }
+      ]
+    },
+    {
+      "id": 3029,
+      "verse_number": 97,
+      "verse_key": "26:97",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 320,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "تَٱللَّهِ إِن كُنَّا لَفِى ضَلَـٰلٍ مُّبِينٍ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183414,
+          "resource_id": 33,
+          "text": "\"Demi Allah, sesungguhnya kita dahulu (di dunia) dalam kesesatan yang nyata,"
+        }
+      ]
+    },
+    {
+      "id": 3030,
+      "verse_number": 98,
+      "verse_key": "26:98",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 320,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ نُسَوِّيكُم بِرَبِّ ٱلْعَـٰلَمِينَ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183415,
+          "resource_id": 33,
+          "text": "karena kita mempersamakan kamu (berhala-berhala) dengan Tuhan seluruh alam."
+        }
+      ]
+    },
+    {
+      "id": 3031,
+      "verse_number": 99,
+      "verse_key": "26:99",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 320,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَضَلَّنَآ إِلَّا ٱلْمُجْرِمُونَ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183422,
+          "resource_id": 33,
+          "text": "Dan tidak ada yang menyesatkan kita kecuali orang-orang yang berdosa."
+        }
+      ]
+    },
+    {
+      "id": 3032,
+      "verse_number": 100,
+      "verse_key": "26:100",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 320,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "فَمَا لَنَا مِن شَـٰفِعِينَ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 181593,
+          "resource_id": 33,
+          "text": "Maka (sekarang) kita tidak mempunyai seorang pun pemberi syafaat (penolong),"
+        }
+      ]
+    },
+    {
+      "id": 3033,
+      "verse_number": 101,
+      "verse_key": "26:101",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 320,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَا صَدِيقٍ حَمِيمٍ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 181623,
+          "resource_id": 33,
+          "text": "dan tidak pula mempunyai teman yang akrab."
+        }
+      ]
+    },
+    {
+      "id": 3034,
+      "verse_number": 102,
+      "verse_key": "26:102",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 320,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَوْ أَنَّ لَنَا كَرَّةً فَنَكُونَ مِنَ ٱلْمُؤْمِنِينَ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183278,
+          "resource_id": 33,
+          "text": "Maka seandainya kita dapat kembali (ke dunia) niscaya kita menjadi orang-orang yang beriman.\""
+        }
+      ]
+    },
+    {
+      "id": 3035,
+      "verse_number": 103,
+      "verse_key": "26:103",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 320,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183279,
+          "resource_id": 33,
+          "text": "Sungguh, pada yang demikian itu terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+        }
+      ]
+    },
+    {
+      "id": 3036,
+      "verse_number": 104,
+      "verse_key": "26:104",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 320,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183277,
+          "resource_id": 33,
+          "text": "Dan sungguh, Tuhanmu benar-benar Dialah Mahaperkasa, Maha Penyayang."
+        }
+      ]
+    },
+    {
+      "id": 3037,
+      "verse_number": 105,
+      "verse_key": "26:105",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 321,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "كَذَّبَتْ قَوْمُ نُوحٍ ٱلْمُرْسَلِينَ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 181682,
+          "resource_id": 33,
+          "text": "Kaum Nuh telah mendustakan para rasul."
+        }
+      ]
+    },
+    {
+      "id": 3038,
+      "verse_number": 106,
+      "verse_key": "26:106",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 321,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ قَالَ لَهُمْ أَخُوهُمْ نُوحٌ أَلَا تَتَّقُونَ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 181685,
+          "resource_id": 33,
+          "text": "Ketika saudara mereka (Nuh) berkata kepada mereka, \"Mengapa kamu tidak bertakwa?"
+        }
+      ]
+    },
+    {
+      "id": 3039,
+      "verse_number": 107,
+      "verse_key": "26:107",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 321,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 181686,
+          "resource_id": 33,
+          "text": "Sesungguhnya aku ini seorang rasul kepercayaan (yang diutus) kepadamu,"
+        }
+      ]
+    },
+    {
+      "id": 3040,
+      "verse_number": 108,
+      "verse_key": "26:108",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 321,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183281,
+          "resource_id": 33,
+          "text": "maka bertakwalah kamu kepada Allah dan taatlah kepadaku."
+        }
+      ]
+    },
+    {
+      "id": 3041,
+      "verse_number": 109,
+      "verse_key": "26:109",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 321,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَـٰلَمِينَ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183282,
+          "resource_id": 33,
+          "text": "Dan aku tidak meminta imbalan kepadamu atas ajakan ini; imbalanku hanyalah dari Tuhan seluruh alam,"
+        }
+      ]
+    },
+    {
+      "id": 3042,
+      "verse_number": 110,
+      "verse_key": "26:110",
+      "hizb_number": 37,
+      "rub_el_hizb_number": 148,
+      "ruku_number": 321,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183280,
+          "resource_id": 33,
+          "text": "maka bertakwalah kamu kepada Allah dan taatlah kepadaku.\""
+        }
+      ]
+    },
+    {
+      "id": 3043,
+      "verse_number": 111,
+      "verse_key": "26:111",
+      "hizb_number": 38,
+      "rub_el_hizb_number": 149,
+      "ruku_number": 321,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "۞ قَالُوٓا۟ أَنُؤْمِنُ لَكَ وَٱتَّبَعَكَ ٱلْأَرْذَلُونَ",
+      "chapter_id": 26,
+      "page_number": 371,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183276,
+          "resource_id": 33,
+          "text": "Mereka berkata, \"Apakah kami harus beriman kepadamu, padahal pengikut-pengikutmu orang-orang yang hina?\""
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 28,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 28
+  }
+}

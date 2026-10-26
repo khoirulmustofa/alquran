@@ -1,0 +1,179 @@
+{
+  "verses": [
+    {
+      "id": 6091,
+      "verse_number": 1,
+      "verse_key": "94:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "chapter_id": 94,
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181210,
+          "resource_id": 33,
+          "text": "Bukankah kami telah melapangkan dadamu (Muhammad)?"
+        }
+      ]
+    },
+    {
+      "id": 6092,
+      "verse_number": 2,
+      "verse_key": "94:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "chapter_id": 94,
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181212,
+          "resource_id": 33,
+          "text": "dan kami pun telah menurunkan beban darimu,<sup foot_note=135864>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 6093,
+      "verse_number": 3,
+      "verse_key": "94:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "chapter_id": 94,
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181218,
+          "resource_id": 33,
+          "text": "yang memberatkan punggungmu,"
+        }
+      ]
+    },
+    {
+      "id": 6094,
+      "verse_number": 4,
+      "verse_key": "94:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "chapter_id": 94,
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181214,
+          "resource_id": 33,
+          "text": "dan kami tinggikan sebutan (nama)mu<sup foot_note=135865>1</sup> bagimu."
+        }
+      ]
+    },
+    {
+      "id": 6095,
+      "verse_number": 5,
+      "verse_key": "94:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "chapter_id": 94,
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181216,
+          "resource_id": 33,
+          "text": "Maka sesungguhnya bersama kesulitan ada kemudahan,"
+        }
+      ]
+    },
+    {
+      "id": 6096,
+      "verse_number": 6,
+      "verse_key": "94:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "chapter_id": 94,
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181220,
+          "resource_id": 33,
+          "text": "sesungguhnya bersama kesulitan ada kemudahan."
+        }
+      ]
+    },
+    {
+      "id": 6097,
+      "verse_number": 7,
+      "verse_key": "94:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "chapter_id": 94,
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177516,
+          "resource_id": 33,
+          "text": "Maka apabila engkau telah selesai (dari suatu urusan), tetaplah bekerja keras (untuk urusan yang lain),<sup foot_note=135866>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 6098,
+      "verse_number": 8,
+      "verse_key": "94:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "chapter_id": 94,
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181226,
+          "resource_id": 33,
+          "text": "dan hanya kepada Tuhanmulah engkau berharap."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 300,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 8
+  }
+}

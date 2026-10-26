@@ -1,0 +1,284 @@
+{
+  "verses": [
+    {
+      "id": 2289,
+      "verse_number": 39,
+      "verse_key": "19:39",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 123,
+      "ruku_number": 265,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَنذِرْهُمْ يَوْمَ ٱلْحَسْرَةِ إِذْ قُضِىَ ٱلْأَمْرُ وَهُمْ فِى غَفْلَةٍ وَهُمْ لَا يُؤْمِنُونَ",
+      "chapter_id": 19,
+      "page_number": 308,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182197,
+          "resource_id": 33,
+          "text": "Dan berilah mereka peringatan tentang hari penyesalan, (yaitu) ketika segala perkara telah diputus, sedang mereka dalam kelalaian dan mereka tidak beriman."
+        }
+      ]
+    },
+    {
+      "id": 2290,
+      "verse_number": 40,
+      "verse_key": "19:40",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 123,
+      "ruku_number": 265,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا نَحْنُ نَرِثُ ٱلْأَرْضَ وَمَنْ عَلَيْهَا وَإِلَيْنَا يُرْجَعُونَ",
+      "chapter_id": 19,
+      "page_number": 308,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182199,
+          "resource_id": 33,
+          "text": "Sesungguhnya Kamilah yang mewarisi bumi<sup foot_note=135454>1</sup> dan semua yang ada di atasnya, dan hanya kepada Kami mereka dikembalikan."
+        }
+      ]
+    },
+    {
+      "id": 2291,
+      "verse_number": 41,
+      "verse_key": "19:41",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 123,
+      "ruku_number": 266,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِبْرَٰهِيمَ ۚ إِنَّهُۥ كَانَ صِدِّيقًا نَّبِيًّا",
+      "chapter_id": 19,
+      "page_number": 308,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182200,
+          "resource_id": 33,
+          "text": "Dan ceritakanlah (Muhammad) kisah Ibrahim di dalam Kitab (Alquran), sesungguhnya dia seorang yang sangat mencintai kebenaran,<sup foot_note=135455>1</sup> dan seorang nabi."
+        }
+      ]
+    },
+    {
+      "id": 2292,
+      "verse_number": 42,
+      "verse_key": "19:42",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 123,
+      "ruku_number": 266,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ قَالَ لِأَبِيهِ يَـٰٓأَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِى عَنكَ شَيْـًٔا",
+      "chapter_id": 19,
+      "page_number": 308,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182198,
+          "resource_id": 33,
+          "text": "(Ingatlah) ketika dia (Ibrahim) berkata kepada ayahnya, \"Wahai ayahku! Mengapa engkau menyembah sesuatu yang tidak mendengar, tidak melihat dan tidak dapat menolongmu sedikit pun?"
+        }
+      ]
+    },
+    {
+      "id": 2293,
+      "verse_number": 43,
+      "verse_key": "19:43",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 123,
+      "ruku_number": 266,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَبَتِ إِنِّى قَدْ جَآءَنِى مِنَ ٱلْعِلْمِ مَا لَمْ يَأْتِكَ فَٱتَّبِعْنِىٓ أَهْدِكَ صِرَٰطًا سَوِيًّا",
+      "chapter_id": 19,
+      "page_number": 308,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182203,
+          "resource_id": 33,
+          "text": "Wahai ayahku! Sungguh, telah sampai kepadaku sebagian ilmu yang tidak diberikan kepadamu, maka ikutilah aku, niscaya aku akan menunjukkan kepadamu jalan yang lurus."
+        }
+      ]
+    },
+    {
+      "id": 2294,
+      "verse_number": 44,
+      "verse_key": "19:44",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 123,
+      "ruku_number": 266,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَبَتِ لَا تَعْبُدِ ٱلشَّيْطَـٰنَ ۖ إِنَّ ٱلشَّيْطَـٰنَ كَانَ لِلرَّحْمَـٰنِ عَصِيًّا",
+      "chapter_id": 19,
+      "page_number": 308,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182144,
+          "resource_id": 33,
+          "text": "Wahai ayahku! Janganlah engkau menyembah setan. Sungguh, setan itu durhaka kepada Tuhan Yang Maha Pengasih."
+        }
+      ]
+    },
+    {
+      "id": 2295,
+      "verse_number": 45,
+      "verse_key": "19:45",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 123,
+      "ruku_number": 266,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَبَتِ إِنِّىٓ أَخَافُ أَن يَمَسَّكَ عَذَابٌ مِّنَ ٱلرَّحْمَـٰنِ فَتَكُونَ لِلشَّيْطَـٰنِ وَلِيًّا",
+      "chapter_id": 19,
+      "page_number": 308,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182204,
+          "resource_id": 33,
+          "text": "Wahai ayahku! Sungguh aku khawatir engkau akan ditimpa azab dari Tuhan Yang Maha Pengasih, sehingga engkau menjadi teman bagi setan.\""
+        }
+      ]
+    },
+    {
+      "id": 2296,
+      "verse_number": 46,
+      "verse_key": "19:46",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 123,
+      "ruku_number": 266,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ أَرَاغِبٌ أَنتَ عَنْ ءَالِهَتِى يَـٰٓإِبْرَٰهِيمُ ۖ لَئِن لَّمْ تَنتَهِ لَأَرْجُمَنَّكَ ۖ وَٱهْجُرْنِى مَلِيًّا",
+      "chapter_id": 19,
+      "page_number": 308,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182202,
+          "resource_id": 33,
+          "text": "Dia (ayahnya) berkata, \"Bencikah engkau kepada tuhan-tuhanku, wahai Ibrahim? Jika engkau tidak berhenti, pasti engkau akan kurajam, maka tinggalkanlah aku untuk waktu yang lama.\""
+        }
+      ]
+    },
+    {
+      "id": 2297,
+      "verse_number": 47,
+      "verse_key": "19:47",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 123,
+      "ruku_number": 266,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ سَلَـٰمٌ عَلَيْكَ ۖ سَأَسْتَغْفِرُ لَكَ رَبِّىٓ ۖ إِنَّهُۥ كَانَ بِى حَفِيًّا",
+      "chapter_id": 19,
+      "page_number": 308,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182206,
+          "resource_id": 33,
+          "text": "Dia (Ibrahim) berkata, \"Semoga keselamatan dilimpahkan kepadamu, aku akan memohonkan ampunan bagimu kepada Tuhanku. Sesungguhnya Dia sangat baik kepadaku."
+        }
+      ]
+    },
+    {
+      "id": 2298,
+      "verse_number": 48,
+      "verse_key": "19:48",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 123,
+      "ruku_number": 266,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِن دُونِ ٱللَّهِ وَأَدْعُوا۟ رَبِّى عَسَىٰٓ أَلَّآ أَكُونَ بِدُعَآءِ رَبِّى شَقِيًّا",
+      "chapter_id": 19,
+      "page_number": 308,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182207,
+          "resource_id": 33,
+          "text": "Dan aku akan menjauhkan diri darimu dan dari apa yang engkau sembah selain Allah, dan aku akan berdoa kepada Tuhanku, mudah-mudahan aku tidak akan kecewa dengan berdoa kepada Tuhanku.\""
+        }
+      ]
+    },
+    {
+      "id": 2299,
+      "verse_number": 49,
+      "verse_key": "19:49",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 123,
+      "ruku_number": 266,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَمَّا ٱعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِن دُونِ ٱللَّهِ وَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ ۖ وَكُلًّا جَعَلْنَا نَبِيًّا",
+      "chapter_id": 19,
+      "page_number": 308,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182205,
+          "resource_id": 33,
+          "text": "Maka ketika dia (Ibrahim) sudah menjauhkan diri dari mereka dan dari apa yang mereka sembah selain Allah, Kami anugerahkan kepadanya Ishak dan Yakub. Dan masing-masing Kami angkat menjadi nabi."
+        }
+      ]
+    },
+    {
+      "id": 2300,
+      "verse_number": 50,
+      "verse_key": "19:50",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 123,
+      "ruku_number": 266,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَوَهَبْنَا لَهُم مِّن رَّحْمَتِنَا وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّا",
+      "chapter_id": 19,
+      "page_number": 308,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182193,
+          "resource_id": 33,
+          "text": "Dan Kami anugerahkan kepada mereka sebagian dari rahmat Kami dan Kami jadikan mereka buah tutur yang baik dan mulia."
+        }
+      ]
+    },
+    {
+      "id": 2301,
+      "verse_number": 51,
+      "verse_key": "19:51",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 123,
+      "ruku_number": 267,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مُوسَىٰٓ ۚ إِنَّهُۥ كَانَ مُخْلَصًا وَكَانَ رَسُولًا نَّبِيًّا",
+      "chapter_id": 19,
+      "page_number": 308,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182176,
+          "resource_id": 33,
+          "text": "Dan ceritakanlah (Muhammad), kisah Musa di dalam Kitab (Alquran). Dia benar benar orang yang terpilih, seorang rasul dan nabi."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 13,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 13
+  }
+}

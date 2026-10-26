@@ -1,0 +1,158 @@
+{
+  "verses": [
+    {
+      "id": 1297,
+      "verse_number": 62,
+      "verse_key": "9:62",
+      "hizb_number": 20,
+      "rub_el_hizb_number": 79,
+      "ruku_number": 163,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "يَحْلِفُونَ بِٱللَّهِ لَكُمْ لِيُرْضُوكُمْ وَٱللَّهُ وَرَسُولُهُۥٓ أَحَقُّ أَن يُرْضُوهُ إِن كَانُوا۟ مُؤْمِنِينَ",
+      "chapter_id": 9,
+      "page_number": 197,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 181259,
+          "resource_id": 33,
+          "text": "Mereka bersumpah kepadamu dengan (nama) Allah untuk menyenangkan kamu, padahal Allah dan Rasul-Nya lebih pantas mereka cari keridaan-Nya jika mereka orang mukmin."
+        }
+      ]
+    },
+    {
+      "id": 1298,
+      "verse_number": 63,
+      "verse_key": "9:63",
+      "hizb_number": 20,
+      "rub_el_hizb_number": 79,
+      "ruku_number": 163,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَمْ يَعْلَمُوٓا۟ أَنَّهُۥ مَن يُحَادِدِ ٱللَّهَ وَرَسُولَهُۥ فَأَنَّ لَهُۥ نَارَ جَهَنَّمَ خَـٰلِدًا فِيهَا ۚ ذَٰلِكَ ٱلْخِزْىُ ٱلْعَظِيمُ",
+      "chapter_id": 9,
+      "page_number": 197,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 177476,
+          "resource_id": 33,
+          "text": "Tidakkah mereka (orang munafik) mengetahui bahwa barang siapa menentang Allah dan Rasul-Nya, maka sesungguhnya neraka Jahanamlah bagiannya, dia kekal di dalamnya. Itulah kehinaan yang besar."
+        }
+      ]
+    },
+    {
+      "id": 1299,
+      "verse_number": 64,
+      "verse_key": "9:64",
+      "hizb_number": 20,
+      "rub_el_hizb_number": 79,
+      "ruku_number": 163,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "يَحْذَرُ ٱلْمُنَـٰفِقُونَ أَن تُنَزَّلَ عَلَيْهِمْ سُورَةٌ تُنَبِّئُهُم بِمَا فِى قُلُوبِهِمْ ۚ قُلِ ٱسْتَهْزِءُوٓا۟ إِنَّ ٱللَّهَ مُخْرِجٌ مَّا تَحْذَرُونَ",
+      "chapter_id": 9,
+      "page_number": 197,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 181261,
+          "resource_id": 33,
+          "text": "Orang-orang munafik itu takut jika diturunkan suatu surah yang menerangkan apa yang tersembunyi di dalam hati mereka. Katakanlah (kepada mereka), \"Teruskanlah berolok-olok (terhadap Allah dan Rasul-Nya).\" Sesungguhnya Allah akan mengungkapkan apa yang kamu takuti itu."
+        }
+      ]
+    },
+    {
+      "id": 1300,
+      "verse_number": 65,
+      "verse_key": "9:65",
+      "hizb_number": 20,
+      "rub_el_hizb_number": 79,
+      "ruku_number": 163,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَئِن سَأَلْتَهُمْ لَيَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلْعَبُ ۚ قُلْ أَبِٱللَّهِ وَءَايَـٰتِهِۦ وَرَسُولِهِۦ كُنتُمْ تَسْتَهْزِءُونَ",
+      "chapter_id": 9,
+      "page_number": 197,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 181263,
+          "resource_id": 33,
+          "text": "Dan jika kamu tanyakan kepada mereka, niscaya mereka akan menjawab, \"Sesungguhnya kami hanya bersenda gurau dan bermain-main saja.\" Katakanlah, \"Mengapa kepada Allah, dan ayat-ayat-Nya serta Rasul-Nya kamu selalu berolok-olok?\""
+        }
+      ]
+    },
+    {
+      "id": 1301,
+      "verse_number": 66,
+      "verse_key": "9:66",
+      "hizb_number": 20,
+      "rub_el_hizb_number": 79,
+      "ruku_number": 163,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "لَا تَعْتَذِرُوا۟ قَدْ كَفَرْتُم بَعْدَ إِيمَـٰنِكُمْ ۚ إِن نَّعْفُ عَن طَآئِفَةٍ مِّنكُمْ نُعَذِّبْ طَآئِفَةًۢ بِأَنَّهُمْ كَانُوا۟ مُجْرِمِينَ",
+      "chapter_id": 9,
+      "page_number": 197,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 181265,
+          "resource_id": 33,
+          "text": "Tidak perlu kamu meminta maaf, karena kamu telah kafir setelah beriman. Jika Kami memaafkan sebagian dari kamu (karena telah tobat), niscaya Kami akan mengazab golongan (yang lain) karena sesungguhnya mereka adalah orang-orang yang (selalu) berbuat dosa."
+        }
+      ]
+    },
+    {
+      "id": 1302,
+      "verse_number": 67,
+      "verse_key": "9:67",
+      "hizb_number": 20,
+      "rub_el_hizb_number": 79,
+      "ruku_number": 164,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلْمُنَـٰفِقُونَ وَٱلْمُنَـٰفِقَـٰتُ بَعْضُهُم مِّنۢ بَعْضٍ ۚ يَأْمُرُونَ بِٱلْمُنكَرِ وَيَنْهَوْنَ عَنِ ٱلْمَعْرُوفِ وَيَقْبِضُونَ أَيْدِيَهُمْ ۚ نَسُوا۟ ٱللَّهَ فَنَسِيَهُمْ ۗ إِنَّ ٱلْمُنَـٰفِقِينَ هُمُ ٱلْفَـٰسِقُونَ",
+      "chapter_id": 9,
+      "page_number": 197,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 181266,
+          "resource_id": 33,
+          "text": "Orang-orang munafik laki-laki dan perempuan, satu dengan yang lain adalah (sama), mereka menyuruh (berbuat) yang mungkar dan mencegah (perbuatan) yang makruf dan mereka menggenggamkan tangannya (kikir). Mereka telah melupakan kepada Allah, maka Allah melupakan mereka (pula). Sesungguhnya orang-orang munafik itulah orang-orang yang fasik."
+        }
+      ]
+    },
+    {
+      "id": 1303,
+      "verse_number": 68,
+      "verse_key": "9:68",
+      "hizb_number": 20,
+      "rub_el_hizb_number": 79,
+      "ruku_number": 164,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَعَدَ ٱللَّهُ ٱلْمُنَـٰفِقِينَ وَٱلْمُنَـٰفِقَـٰتِ وَٱلْكُفَّارَ نَارَ جَهَنَّمَ خَـٰلِدِينَ فِيهَا ۚ هِىَ حَسْبُهُمْ ۚ وَلَعَنَهُمُ ٱللَّهُ ۖ وَلَهُمْ عَذَابٌ مُّقِيمٌ",
+      "chapter_id": 9,
+      "page_number": 197,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 181268,
+          "resource_id": 33,
+          "text": "Allah menjanjikan (mengancam) orang-orang munafik laki-laki dan perempuan dan orang-orang kafir dengan neraka Jahanam. Mereka kekal di dalamnya. Cukuplah (neraka) itu bagi mereka. Allah melaknat mereka; dan mereka mendapat azab yang kekal,"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 7,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 7
+  }
+}

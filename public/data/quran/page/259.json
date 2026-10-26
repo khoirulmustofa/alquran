@@ -1,0 +1,200 @@
+{
+  "verses": [
+    {
+      "id": 1775,
+      "verse_number": 25,
+      "verse_key": "14:25",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 103,
+      "ruku_number": 214,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "تُؤْتِىٓ أُكُلَهَا كُلَّ حِينٍۭ بِإِذْنِ رَبِّهَا ۗ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+      "chapter_id": 14,
+      "page_number": 259,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 181752,
+          "resource_id": 33,
+          "text": "(pohon) itu menghasilkan buahnya pada setiap waktu dengan seizin Tuhannya. Dan Allah membuat perumpamaan itu untuk manusia agar mereka selalu ingat."
+        }
+      ]
+    },
+    {
+      "id": 1776,
+      "verse_number": 26,
+      "verse_key": "14:26",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 103,
+      "ruku_number": 214,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ ٱجْتُثَّتْ مِن فَوْقِ ٱلْأَرْضِ مَا لَهَا مِن قَرَارٍ",
+      "chapter_id": 14,
+      "page_number": 259,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 181773,
+          "resource_id": 33,
+          "text": "Dan perumpamaan kalimat yang buruk<sup foot_note=135379>1</sup> seperti pohon yang buruk, yang telah dicabut akar-akarnya dari permukaan bumi; tidak dapat tetap (tegak) sedikit pun."
+        }
+      ]
+    },
+    {
+      "id": 1777,
+      "verse_number": 27,
+      "verse_key": "14:27",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 103,
+      "ruku_number": 214,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "يُثَبِّتُ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ بِٱلْقَوْلِ ٱلثَّابِتِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَفِى ٱلْـَٔاخِرَةِ ۖ وَيُضِلُّ ٱللَّهُ ٱلظَّـٰلِمِينَ ۚ وَيَفْعَلُ ٱللَّهُ مَا يَشَآءُ",
+      "chapter_id": 14,
+      "page_number": 259,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 181705,
+          "resource_id": 33,
+          "text": "Allah meneguhkan (iman) orang-orang yang beriman dengan ucapan yang teguh<sup foot_note=135380>1</sup> (dalam kehidupan) di dunia dan di akhirat; dan Allah menyesatkan orang-orang yang zalim dan Allah berbuat apa yang Dia kehendaki."
+        }
+      ]
+    },
+    {
+      "id": 1778,
+      "verse_number": 28,
+      "verse_key": "14:28",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 104,
+      "ruku_number": 215,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ بَدَّلُوا۟ نِعْمَتَ ٱللَّهِ كُفْرًا وَأَحَلُّوا۟ قَوْمَهُمْ دَارَ ٱلْبَوَارِ",
+      "chapter_id": 14,
+      "page_number": 259,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 181645,
+          "resource_id": 33,
+          "text": "Tidakkah kamu memperhatikan orang-orang yang telah menukar nikmat Allah dengan ingkar kepada Allah dan menjatuhkan kaumnya ke lembah kebinasaan,"
+        }
+      ]
+    },
+    {
+      "id": 1779,
+      "verse_number": 29,
+      "verse_key": "14:29",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 104,
+      "ruku_number": 215,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "جَهَنَّمَ يَصْلَوْنَهَا ۖ وَبِئْسَ ٱلْقَرَارُ",
+      "chapter_id": 14,
+      "page_number": 259,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 177248,
+          "resource_id": 33,
+          "text": "yaitu neraka Jahanam; mereka masuk ke dalamnya; dan itulah seburuk-buruk tempat kediaman."
+        }
+      ]
+    },
+    {
+      "id": 1780,
+      "verse_number": 30,
+      "verse_key": "14:30",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 104,
+      "ruku_number": 215,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "وَجَعَلُوا۟ لِلَّهِ أَندَادًا لِّيُضِلُّوا۟ عَن سَبِيلِهِۦ ۗ قُلْ تَمَتَّعُوا۟ فَإِنَّ مَصِيرَكُمْ إِلَى ٱلنَّارِ",
+      "chapter_id": 14,
+      "page_number": 259,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 182892,
+          "resource_id": 33,
+          "text": "Dan mereka (orang kafir) itu telah menjadikan tandingan bagi Allah untuk menyesatkan (manusia) dari jalan-Nya. Katakanlah (Muhammad), \"Bersenang-senanglah kamu, karena sesungguhnya tempat kembalimu ke neraka.\""
+        }
+      ]
+    },
+    {
+      "id": 1781,
+      "verse_number": 31,
+      "verse_key": "14:31",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 104,
+      "ruku_number": 215,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "قُل لِّعِبَادِىَ ٱلَّذِينَ ءَامَنُوا۟ يُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُنفِقُوا۟ مِمَّا رَزَقْنَـٰهُمْ سِرًّا وَعَلَانِيَةً مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا خِلَـٰلٌ",
+      "chapter_id": 14,
+      "page_number": 259,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 181770,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad) kepada hamba-hamba-Ku yang telah beriman, \"Hendaklah mereka melaksanakan salat, menginfakkan sebagian rezeki yang Kami berikan secara sembunyi atau terang-terangan sebelum datang hari, ketika tidak ada lagi jual beli dan persahabatan.\""
+        }
+      ]
+    },
+    {
+      "id": 1782,
+      "verse_number": 32,
+      "verse_key": "14:32",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 104,
+      "ruku_number": 215,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًا لَّكُمْ ۖ وَسَخَّرَ لَكُمُ ٱلْفُلْكَ لِتَجْرِىَ فِى ٱلْبَحْرِ بِأَمْرِهِۦ ۖ وَسَخَّرَ لَكُمُ ٱلْأَنْهَـٰرَ",
+      "chapter_id": 14,
+      "page_number": 259,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 182943,
+          "resource_id": 33,
+          "text": "Allah lah yang telah menciptakan langit dan bumi dan menurunkan air (hujan) dari langit, kemudian dengan (air hujan) itu Dia mengeluarkan berbagai buah-buahan sebagai rezeki untukmu; dan Dia telah menundukkan kapal bagimu agar berlayar di lautan dengan kehendak-Nya, dan Dia telah menundukkan sungai-sungai bagimu."
+        }
+      ]
+    },
+    {
+      "id": 1783,
+      "verse_number": 33,
+      "verse_key": "14:33",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 104,
+      "ruku_number": 215,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "وَسَخَّرَ لَكُمُ ٱلشَّمْسَ وَٱلْقَمَرَ دَآئِبَيْنِ ۖ وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ",
+      "chapter_id": 14,
+      "page_number": 259,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 182941,
+          "resource_id": 33,
+          "text": "Dan Dia telah menundukkan matahari dan bulan bagimu yang terus menerus beredar (dalam orbitnya); dan telah menundukkan malam dan siang bagimu."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 9,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 9
+  }
+}

@@ -1,0 +1,515 @@
+{
+  "verses": [
+    {
+      "id": 4682,
+      "verse_number": 7,
+      "verse_key": "51:7",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 457,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلسَّمَآءِ ذَاتِ ٱلْحُبُكِ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 176985,
+          "resource_id": 33,
+          "text": "Demi langit yang mempunyai jalan-jalan,<sup foot_note=135762>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 4683,
+      "verse_number": 8,
+      "verse_key": "51:8",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 457,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّكُمْ لَفِى قَوْلٍ مُّخْتَلِفٍ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179321,
+          "resource_id": 33,
+          "text": "sungguh, kamu benar-benar dalam keadaan berbeda-beda pendapat,<sup foot_note=135763>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 4684,
+      "verse_number": 9,
+      "verse_key": "51:9",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 457,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يُؤْفَكُ عَنْهُ مَنْ أُفِكَ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179323,
+          "resource_id": 33,
+          "text": "dipalingkan darinya (Alquran dan Rasul) orang yang dipalingkan."
+        }
+      ]
+    },
+    {
+      "id": 4685,
+      "verse_number": 10,
+      "verse_key": "51:10",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 457,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قُتِلَ ٱلْخَرَّٰصُونَ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 181852,
+          "resource_id": 33,
+          "text": "Terkutuklah orang-orang yang banyak berdusta,"
+        }
+      ]
+    },
+    {
+      "id": 4686,
+      "verse_number": 11,
+      "verse_key": "51:11",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 457,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِينَ هُمْ فِى غَمْرَةٍ سَاهُونَ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179256,
+          "resource_id": 33,
+          "text": "(yaitu) orang-orang yang terbenam dalam kebodohan dan kelalaian,"
+        }
+      ]
+    },
+    {
+      "id": 4687,
+      "verse_number": 12,
+      "verse_key": "51:12",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 457,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَسْـَٔلُونَ أَيَّانَ يَوْمُ ٱلدِّينِ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 181802,
+          "resource_id": 33,
+          "text": "mereka bertanya, \"Kapankah hari pembalasan itu?\""
+        }
+      ]
+    },
+    {
+      "id": 4688,
+      "verse_number": 13,
+      "verse_key": "51:13",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 457,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَ هُمْ عَلَى ٱلنَّارِ يُفْتَنُونَ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179261,
+          "resource_id": 33,
+          "text": "(Hari pembalasan itu ialah) pada hari (ketika) mereka diazab di dalam api neraka."
+        }
+      ]
+    },
+    {
+      "id": 4689,
+      "verse_number": 14,
+      "verse_key": "51:14",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 457,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ذُوقُوا۟ فِتْنَتَكُمْ هَـٰذَا ٱلَّذِى كُنتُم بِهِۦ تَسْتَعْجِلُونَ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179030,
+          "resource_id": 33,
+          "text": "(Dikatakan kepada mereka), \"Rasakanlah azabmu itu. Inilah azab yang dahulu kamu minta agar disegerakan.\""
+        }
+      ]
+    },
+    {
+      "id": 4690,
+      "verse_number": 15,
+      "verse_key": "51:15",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 457,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍ وَعُيُونٍ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179264,
+          "resource_id": 33,
+          "text": "Sesungguhnya orang-orang yang bertakwa berada di dalam taman-taman (surga) dan mata air,"
+        }
+      ]
+    },
+    {
+      "id": 4691,
+      "verse_number": 16,
+      "verse_key": "51:16",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 457,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ءَاخِذِينَ مَآ ءَاتَىٰهُمْ رَبُّهُمْ ۚ إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُحْسِنِينَ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179266,
+          "resource_id": 33,
+          "text": "mereka mengambil apa yang diberikan Tuhan kepada mereka. Sesungguhnya mereka sebelum itu (di dunia) adalah orang-orang yang berbuat baik;"
+        }
+      ]
+    },
+    {
+      "id": 4692,
+      "verse_number": 17,
+      "verse_key": "51:17",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 457,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَانُوا۟ قَلِيلًا مِّنَ ٱلَّيْلِ مَا يَهْجَعُونَ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 181857,
+          "resource_id": 33,
+          "text": "mereka sedikit sekali tidur pada waktu malam;"
+        }
+      ]
+    },
+    {
+      "id": 4693,
+      "verse_number": 18,
+      "verse_key": "51:18",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 457,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَبِٱلْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179269,
+          "resource_id": 33,
+          "text": "dan pada akhir malam mereka memohon ampunan (kepada Allah)."
+        }
+      ]
+    },
+    {
+      "id": 4694,
+      "verse_number": 19,
+      "verse_key": "51:19",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 457,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَفِىٓ أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179272,
+          "resource_id": 33,
+          "text": "Dan pada harta benda mereka ada hak untuk orang miskin yang meminta, dan orang miskin yang tidak meminta."
+        }
+      ]
+    },
+    {
+      "id": 4695,
+      "verse_number": 20,
+      "verse_key": "51:20",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 457,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَفِى ٱلْأَرْضِ ءَايَـٰتٌ لِّلْمُوقِنِينَ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179282,
+          "resource_id": 33,
+          "text": "Dan di bumi terdapat tanda-tanda (kebesaran Allah) bagi orang-orang yang yakin,"
+        }
+      ]
+    },
+    {
+      "id": 4696,
+      "verse_number": 21,
+      "verse_key": "51:21",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 457,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَفِىٓ أَنفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179273,
+          "resource_id": 33,
+          "text": "dan (juga) pada dirimu sendiri. Maka apakah kamu tidak memperhatikan?"
+        }
+      ]
+    },
+    {
+      "id": 4697,
+      "verse_number": 22,
+      "verse_key": "51:22",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 457,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَفِى ٱلسَّمَآءِ رِزْقُكُمْ وَمَا تُوعَدُونَ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179275,
+          "resource_id": 33,
+          "text": "Dan di langit terdapat (sebab-sebab) rezekimu dan apa yang dijanjikan kepadamu."
+        }
+      ]
+    },
+    {
+      "id": 4698,
+      "verse_number": 23,
+      "verse_key": "51:23",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 457,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَوَرَبِّ ٱلسَّمَآءِ وَٱلْأَرْضِ إِنَّهُۥ لَحَقٌّ مِّثْلَ مَآ أَنَّكُمْ تَنطِقُونَ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179274,
+          "resource_id": 33,
+          "text": "Maka demi Tuhan langit dan bumi, sungguh, apa yang dijanjikan itu pasti terjadi seperti apa yang kamu ucapkan."
+        }
+      ]
+    },
+    {
+      "id": 4699,
+      "verse_number": 24,
+      "verse_key": "51:24",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 458,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "هَلْ أَتَىٰكَ حَدِيثُ ضَيْفِ إِبْرَٰهِيمَ ٱلْمُكْرَمِينَ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179248,
+          "resource_id": 33,
+          "text": "Sudahkah sampai kepadamu (Muhammad) cerita tamu Ibrahim (malaikat-malaikat) yang dimuliakan?"
+        }
+      ]
+    },
+    {
+      "id": 4700,
+      "verse_number": 25,
+      "verse_key": "51:25",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 458,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَـٰمًا ۖ قَالَ سَلَـٰمٌ قَوْمٌ مُّنكَرُونَ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179276,
+          "resource_id": 33,
+          "text": "(Ingatlah) ketika mereka masuk ke tempatnya lalu mengucapkan, \"Salāman (salam)\", Ibrahim menjawab, \"Salāmun (salam)\". (Mereka itu) orang-orang yang belum dikenalnya."
+        }
+      ]
+    },
+    {
+      "id": 4701,
+      "verse_number": 26,
+      "verse_key": "51:26",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 458,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَرَاغَ إِلَىٰٓ أَهْلِهِۦ فَجَآءَ بِعِجْلٍ سَمِينٍ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179277,
+          "resource_id": 33,
+          "text": "Maka diam-diam dia (Ibrahim) pergi menemui keluarganya, kemudian dibawanya daging anak sapi gemuk (yang dibakar),"
+        }
+      ]
+    },
+    {
+      "id": 4702,
+      "verse_number": 27,
+      "verse_key": "51:27",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 458,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَقَرَّبَهُۥٓ إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179279,
+          "resource_id": 33,
+          "text": "lalu dihidangkannya kepada mereka (tetapi mereka tidak mau makan). Ibrahim berkata, \"Mengapa tidak kamu makan.\""
+        }
+      ]
+    },
+    {
+      "id": 4703,
+      "verse_number": 28,
+      "verse_key": "51:28",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 458,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَوْجَسَ مِنْهُمْ خِيفَةً ۖ قَالُوا۟ لَا تَخَفْ ۖ وَبَشَّرُوهُ بِغُلَـٰمٍ عَلِيمٍ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179278,
+          "resource_id": 33,
+          "text": "Maka dia (Ibrahim) merasa takut terhadap mereka. Mereka berkata, \"Janganlah kamu takut,\" dan mereka memberi kabar gembira kepadanya dengan (kelahiran) seorang anak yang alim (Ishak)."
+        }
+      ]
+    },
+    {
+      "id": 4704,
+      "verse_number": 29,
+      "verse_key": "51:29",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 458,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179280,
+          "resource_id": 33,
+          "text": "Kemudian istrinya datang memekik (tercengang) lalu menepuk wajahnya sendiri seraya bekata, \"(Aku ini) seorang perempuan tua yang mandul.\""
+        }
+      ]
+    },
+    {
+      "id": 4705,
+      "verse_number": 30,
+      "verse_key": "51:30",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 458,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ كَذَٰلِكِ قَالَ رَبُّكِ ۖ إِنَّهُۥ هُوَ ٱلْحَكِيمُ ٱلْعَلِيمُ",
+      "chapter_id": 51,
+      "page_number": 521,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179283,
+          "resource_id": 33,
+          "text": "Mereka berkata, \"Demikianlah Tuhanmu berfirman. Sungguh, Dialah Yang Mahabijaksana, Maha Mengetahui.\""
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 24,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 24
+  }
+}

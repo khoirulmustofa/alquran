@@ -1,0 +1,242 @@
+{
+  "verses": [
+    {
+      "id": 955,
+      "verse_number": 1,
+      "verse_key": "7:1",
+      "hizb_number": 16,
+      "rub_el_hizb_number": 61,
+      "ruku_number": 122,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": " الٓمٓصٓ",
+      "chapter_id": 7,
+      "page_number": 151,
+      "juz_number": 8,
+      "translations": [
+        {
+          "id": 180229,
+          "resource_id": 33,
+          "text": "Alif Lām Mīm ṣād."
+        }
+      ]
+    },
+    {
+      "id": 956,
+      "verse_number": 2,
+      "verse_key": "7:2",
+      "hizb_number": 16,
+      "rub_el_hizb_number": 61,
+      "ruku_number": 122,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "كِتَـٰبٌ أُنزِلَ إِلَيْكَ فَلَا يَكُن فِى صَدْرِكَ حَرَجٌ مِّنْهُ لِتُنذِرَ بِهِۦ وَذِكْرَىٰ لِلْمُؤْمِنِينَ",
+      "chapter_id": 7,
+      "page_number": 151,
+      "juz_number": 8,
+      "translations": [
+        {
+          "id": 180372,
+          "resource_id": 33,
+          "text": "(Inilah) Kitab yang diturunkan kepadamu (Muhammad); maka janganlah engkau sesak dada karenanya, agar engkau memberi peringatan dengan (Kitab) itu dan menjadi pelajaran bagi orang yang beriman."
+        }
+      ]
+    },
+    {
+      "id": 957,
+      "verse_number": 3,
+      "verse_key": "7:3",
+      "hizb_number": 16,
+      "rub_el_hizb_number": 61,
+      "ruku_number": 122,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "ٱتَّبِعُوا۟ مَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُمْ وَلَا تَتَّبِعُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ۗ قَلِيلًا مَّا تَذَكَّرُونَ",
+      "chapter_id": 7,
+      "page_number": 151,
+      "juz_number": 8,
+      "translations": [
+        {
+          "id": 180417,
+          "resource_id": 33,
+          "text": "Ikutilah apa yang diturunkan kepadamu dari Tuhanmu, dan janganlah kamu ikuti selain Dia sebagai pemimpin. Sedikit sekali kamu mengambil pelajaran."
+        }
+      ]
+    },
+    {
+      "id": 958,
+      "verse_number": 4,
+      "verse_key": "7:4",
+      "hizb_number": 16,
+      "rub_el_hizb_number": 61,
+      "ruku_number": 122,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَكَم مِّن قَرْيَةٍ أَهْلَكْنَـٰهَا فَجَآءَهَا بَأْسُنَا بَيَـٰتًا أَوْ هُمْ قَآئِلُونَ",
+      "chapter_id": 7,
+      "page_number": 151,
+      "juz_number": 8,
+      "translations": [
+        {
+          "id": 180447,
+          "resource_id": 33,
+          "text": "Betapa banyak negeri yang telah Kami binasakan, siksaan Kami datang (menimpa penduduk)nya pada malam hari, atau pada saat mereka beristirahat pada siang hari."
+        }
+      ]
+    },
+    {
+      "id": 959,
+      "verse_number": 5,
+      "verse_key": "7:5",
+      "hizb_number": 16,
+      "rub_el_hizb_number": 61,
+      "ruku_number": 122,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "فَمَا كَانَ دَعْوَىٰهُمْ إِذْ جَآءَهُم بَأْسُنَآ إِلَّآ أَن قَالُوٓا۟ إِنَّا كُنَّا ظَـٰلِمِينَ",
+      "chapter_id": 7,
+      "page_number": 151,
+      "juz_number": 8,
+      "translations": [
+        {
+          "id": 180509,
+          "resource_id": 33,
+          "text": "Maka ketika siksaan Kami datang menimpa mereka, keluhan mereka tidak lain, hanya mengucap, \"Sesungguhnya kami adalah orang-orang yang zalim.\""
+        }
+      ]
+    },
+    {
+      "id": 960,
+      "verse_number": 6,
+      "verse_key": "7:6",
+      "hizb_number": 16,
+      "rub_el_hizb_number": 61,
+      "ruku_number": 122,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَنَسْـَٔلَنَّ ٱلَّذِينَ أُرْسِلَ إِلَيْهِمْ وَلَنَسْـَٔلَنَّ ٱلْمُرْسَلِينَ",
+      "chapter_id": 7,
+      "page_number": 151,
+      "juz_number": 8,
+      "translations": [
+        {
+          "id": 180561,
+          "resource_id": 33,
+          "text": "Maka pasti akan Kami tanyakan kepada umat yang telah mendapat seruan (dari Rasul-rasul) dan Kami akan tanyai (pula) para rasul,"
+        }
+      ]
+    },
+    {
+      "id": 961,
+      "verse_number": 7,
+      "verse_key": "7:7",
+      "hizb_number": 16,
+      "rub_el_hizb_number": 61,
+      "ruku_number": 122,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَنَقُصَّنَّ عَلَيْهِم بِعِلْمٍ ۖ وَمَا كُنَّا غَآئِبِينَ",
+      "chapter_id": 7,
+      "page_number": 151,
+      "juz_number": 8,
+      "translations": [
+        {
+          "id": 180599,
+          "resource_id": 33,
+          "text": "dan pasti akan Kami beritakan kepada mereka dengan ilmu (Kami) dan Kami tidak jauh (dari mereka)."
+        }
+      ]
+    },
+    {
+      "id": 962,
+      "verse_number": 8,
+      "verse_key": "7:8",
+      "hizb_number": 16,
+      "rub_el_hizb_number": 61,
+      "ruku_number": 122,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلْوَزْنُ يَوْمَئِذٍ ٱلْحَقُّ ۚ فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "chapter_id": 7,
+      "page_number": 151,
+      "juz_number": 8,
+      "translations": [
+        {
+          "id": 180658,
+          "resource_id": 33,
+          "text": "Timbangan pada hari itu (menjadi ukuran) kebenaran. Maka barang siapa berat timbangan (kebaikan) nya, mereka itulah orang yang beruntung,"
+        }
+      ]
+    },
+    {
+      "id": 963,
+      "verse_number": 9,
+      "verse_key": "7:9",
+      "hizb_number": 16,
+      "rub_el_hizb_number": 61,
+      "ruku_number": 122,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ فَأُو۟لَـٰٓئِكَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُم بِمَا كَانُوا۟ بِـَٔايَـٰتِنَا يَظْلِمُونَ",
+      "chapter_id": 7,
+      "page_number": 151,
+      "juz_number": 8,
+      "translations": [
+        {
+          "id": 180709,
+          "resource_id": 33,
+          "text": "dan barang siapa ringan timbangan (kebaikan)nya, maka mereka itulah orang yang telah merugikan dirinya sendiri, karena mereka mengingkari ayat-ayat Kami."
+        }
+      ]
+    },
+    {
+      "id": 964,
+      "verse_number": 10,
+      "verse_key": "7:10",
+      "hizb_number": 16,
+      "rub_el_hizb_number": 61,
+      "ruku_number": 122,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ مَكَّنَّـٰكُمْ فِى ٱلْأَرْضِ وَجَعَلْنَا لَكُمْ فِيهَا مَعَـٰيِشَ ۗ قَلِيلًا مَّا تَشْكُرُونَ",
+      "chapter_id": 7,
+      "page_number": 151,
+      "juz_number": 8,
+      "translations": [
+        {
+          "id": 180228,
+          "resource_id": 33,
+          "text": "Dan sungguh, Kami telah menempatkan kamu di bumi dan di sana Kami sediakan (sumber) penghidupan untukmu. (Tetapi) sedikit sekali kamu yang bersyukur."
+        }
+      ]
+    },
+    {
+      "id": 965,
+      "verse_number": 11,
+      "verse_key": "7:11",
+      "hizb_number": 16,
+      "rub_el_hizb_number": 61,
+      "ruku_number": 123,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ خَلَقْنَـٰكُمْ ثُمَّ صَوَّرْنَـٰكُمْ ثُمَّ قُلْنَا لِلْمَلَـٰٓئِكَةِ ٱسْجُدُوا۟ لِـَٔادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّـٰجِدِينَ",
+      "chapter_id": 7,
+      "page_number": 151,
+      "juz_number": 8,
+      "translations": [
+        {
+          "id": 180242,
+          "resource_id": 33,
+          "text": "Dan sungguh, Kami telah menciptakan kamu, kemudian membentuk (tubuh)mu, kemudian Kami berfirman kepada para malaikat. \"Bersujudlah kamu kepada Adam,\" maka mereka pun sujud kecuali Iblis. Ia (Iblis) tidak termasuk mereka yang bersujud."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 11,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 11
+  }
+}

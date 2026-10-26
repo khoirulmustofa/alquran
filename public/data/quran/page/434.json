@@ -1,0 +1,200 @@
+{
+  "verses": [
+    {
+      "id": 3655,
+      "verse_number": 49,
+      "verse_key": "34:49",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 174,
+      "ruku_number": 377,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ جَآءَ ٱلْحَقُّ وَمَا يُبْدِئُ ٱلْبَـٰطِلُ وَمَا يُعِيدُ",
+      "chapter_id": 34,
+      "page_number": 434,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178005,
+          "resource_id": 33,
+          "text": "Katakanlah, \"Kebenaran telah datang dan yang batil itu tidak akan memulai dan tidak (pula) akan mengulangi.\"<sup foot_note=135655>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 3656,
+      "verse_number": 50,
+      "verse_key": "34:50",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 174,
+      "ruku_number": 377,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ إِن ضَلَلْتُ فَإِنَّمَآ أَضِلُّ عَلَىٰ نَفْسِى ۖ وَإِنِ ٱهْتَدَيْتُ فَبِمَا يُوحِىٓ إِلَىَّ رَبِّىٓ ۚ إِنَّهُۥ سَمِيعٌ قَرِيبٌ",
+      "chapter_id": 34,
+      "page_number": 434,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178008,
+          "resource_id": 33,
+          "text": "Katakanlah, \"Jika aku sesat maka sesungguhnya aku sesat untuk diriku sendiri; dan jika aku mendapat petunjuk maka itu disebabkan apa yang diwahyukan Tuhanku kepadaku. Sungguh, Dia Maha Mendengar, Mahadekat.\""
+        }
+      ]
+    },
+    {
+      "id": 3657,
+      "verse_number": 51,
+      "verse_key": "34:51",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 174,
+      "ruku_number": 377,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَوْ تَرَىٰٓ إِذْ فَزِعُوا۟ فَلَا فَوْتَ وَأُخِذُوا۟ مِن مَّكَانٍ قَرِيبٍ",
+      "chapter_id": 34,
+      "page_number": 434,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178011,
+          "resource_id": 33,
+          "text": "Dan (alangkah mengerikan) sekiranya engkau melihat mereka (orang-orang kafir) ketika terperanjat ketakutan (pada hari Kiamat); lalu mereka tidak dapat melepaskan diri dan mereka ditangkap dari tempat yang dekat (untuk dibawa ke neraka),"
+        }
+      ]
+    },
+    {
+      "id": 3658,
+      "verse_number": 52,
+      "verse_key": "34:52",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 174,
+      "ruku_number": 377,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَالُوٓا۟ ءَامَنَّا بِهِۦ وَأَنَّىٰ لَهُمُ ٱلتَّنَاوُشُ مِن مَّكَانٍۭ بَعِيدٍ",
+      "chapter_id": 34,
+      "page_number": 434,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178012,
+          "resource_id": 33,
+          "text": "dan (ketika) mereka berkata, \"Kami beriman kepada-Nya.\" Namun bagaimana mereka dapat mencapai (keimanan) dari tempat yang jauh?<sup foot_note=135656>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 3659,
+      "verse_number": 53,
+      "verse_key": "34:53",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 174,
+      "ruku_number": 377,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَدْ كَفَرُوا۟ بِهِۦ مِن قَبْلُ ۖ وَيَقْذِفُونَ بِٱلْغَيْبِ مِن مَّكَانٍۭ بَعِيدٍ",
+      "chapter_id": 34,
+      "page_number": 434,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178017,
+          "resource_id": 33,
+          "text": "Dan sungguh, mereka telah mengingkari Allah sebelum itu; dan mereka mendustakan tentang yang gaib dari tempat yang jauh."
+        }
+      ]
+    },
+    {
+      "id": 3660,
+      "verse_number": 54,
+      "verse_key": "34:54",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 174,
+      "ruku_number": 377,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَحِيلَ بَيْنَهُمْ وَبَيْنَ مَا يَشْتَهُونَ كَمَا فُعِلَ بِأَشْيَاعِهِم مِّن قَبْلُ ۚ إِنَّهُمْ كَانُوا۟ فِى شَكٍّ مُّرِيبٍۭ",
+      "chapter_id": 34,
+      "page_number": 434,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178013,
+          "resource_id": 33,
+          "text": "Dan diberi penghalang antara mereka dengan apa yang mereka inginkan<sup foot_note=135657>1</sup> sebagaimana yang dilakukan terhadap orang-orang yang sepaham dengan mereka yang terdahulu. Sesungguhnya mereka dahulu (di dunia) dalam keraguan yang mendalam."
+        }
+      ]
+    },
+    {
+      "id": 3661,
+      "verse_number": 1,
+      "verse_key": "35:1",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 174,
+      "ruku_number": 378,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": " ٱلْحَمْدُ لِلَّهِ فَاطِرِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ جَاعِلِ ٱلْمَلَـٰٓئِكَةِ رُسُلًا أُو۟لِىٓ أَجْنِحَةٍ مَّثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ ۚ يَزِيدُ فِى ٱلْخَلْقِ مَا يَشَآءُ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "chapter_id": 35,
+      "page_number": 434,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178025,
+          "resource_id": 33,
+          "text": "Segala puji bagi Allah Pencipta langit dan bumi, yang menjadikan malaikat sebagai utusan-utusan (untuk mengurus berbagai macam urusan) yang mempunyai sayap, masing-masing (ada yang) dua, tiga dan empat. Allah menambahkan pada ciptaan-Nya apa yang Dia kehendaki. Sungguh, Allah Mahakuasa atas segala sesuatu."
+        }
+      ]
+    },
+    {
+      "id": 3662,
+      "verse_number": 2,
+      "verse_key": "35:2",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 174,
+      "ruku_number": 378,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "مَّا يَفْتَحِ ٱللَّهُ لِلنَّاسِ مِن رَّحْمَةٍ فَلَا مُمْسِكَ لَهَا ۖ وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُۥ مِنۢ بَعْدِهِۦ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "chapter_id": 35,
+      "page_number": 434,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178036,
+          "resource_id": 33,
+          "text": "Apa saja di antara rahmat Allah yang dianugerahkan kepada manusia, maka tidak ada yang dapat menahannya; dan apa saja yang ditahan-Nya maka tidak ada yang sanggup untuk melepaskannya setelah itu. Dan Dia lah Yang Mahaperkasa, Mahabijaksana."
+        }
+      ]
+    },
+    {
+      "id": 3663,
+      "verse_number": 3,
+      "verse_key": "35:3",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 174,
+      "ruku_number": 378,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ ۚ هَلْ مِنْ خَـٰلِقٍ غَيْرُ ٱللَّهِ يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ فَأَنَّىٰ تُؤْفَكُونَ",
+      "chapter_id": 35,
+      "page_number": 434,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178049,
+          "resource_id": 33,
+          "text": "Wahai manusia! Ingatlah akan nikmat Allah kepadamu. Adakah pencipta selain Allah yang dapat memberikan rezeki kepadamu dari langit dan bumi? Tidak ada tuhan selain Dia; maka mengapa kamu berpaling (dari ketauhidan)?"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 9,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 9
+  }
+}

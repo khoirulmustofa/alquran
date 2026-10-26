@@ -1,0 +1,242 @@
+{
+  "verses": [
+    {
+      "id": 2585,
+      "verse_number": 102,
+      "verse_key": "21:102",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 284,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "لَا يَسْمَعُونَ حَسِيسَهَا ۖ وَهُمْ فِى مَا ٱشْتَهَتْ أَنفُسُهُمْ خَـٰلِدُونَ",
+      "chapter_id": 21,
+      "page_number": 331,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182414,
+          "resource_id": 33,
+          "text": "Mereka tidak mendengar bunyi desis (api neraka), dan mereka kekal dalam (menikmati) semua yang mereka ingini."
+        }
+      ]
+    },
+    {
+      "id": 2586,
+      "verse_number": 103,
+      "verse_key": "21:103",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 284,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "لَا يَحْزُنُهُمُ ٱلْفَزَعُ ٱلْأَكْبَرُ وَتَتَلَقَّىٰهُمُ ٱلْمَلَـٰٓئِكَةُ هَـٰذَا يَوْمُكُمُ ٱلَّذِى كُنتُمْ تُوعَدُونَ",
+      "chapter_id": 21,
+      "page_number": 331,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182415,
+          "resource_id": 33,
+          "text": "Kejutan yang dahsyat tidak membuat mereka merasa sedih, dan para malaikat akan menyambut mereka (dengan ucapan), \"Inilah harimu yang telah dijanjikan kepadamu.\""
+        }
+      ]
+    },
+    {
+      "id": 2587,
+      "verse_number": 104,
+      "verse_key": "21:104",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 284,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَ نَطْوِى ٱلسَّمَآءَ كَطَىِّ ٱلسِّجِلِّ لِلْكُتُبِ ۚ كَمَا بَدَأْنَآ أَوَّلَ خَلْقٍ نُّعِيدُهُۥ ۚ وَعْدًا عَلَيْنَآ ۚ إِنَّا كُنَّا فَـٰعِلِينَ",
+      "chapter_id": 21,
+      "page_number": 331,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182413,
+          "resource_id": 33,
+          "text": "(Ingatlah) pada hari langit Kami gulung seperti menggulung lembaran-lembaran kertas. Sebagaimana Kami telah memulai penciptaan pertama, begitulah Kami akan mengulanginya lagi. (Suatu) janji yang pasti Kami tepati; sungguh, Kami akan melaksanakannya."
+        }
+      ]
+    },
+    {
+      "id": 2588,
+      "verse_number": 105,
+      "verse_key": "21:105",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 284,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ كَتَبْنَا فِى ٱلزَّبُورِ مِنۢ بَعْدِ ٱلذِّكْرِ أَنَّ ٱلْأَرْضَ يَرِثُهَا عِبَادِىَ ٱلصَّـٰلِحُونَ",
+      "chapter_id": 21,
+      "page_number": 331,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182417,
+          "resource_id": 33,
+          "text": "Dan sungguh, telah Kami tulis di dalam Zabur<sup foot_note=135489>1</sup> setelah (tertulis) di dalam Aż-Żikr (Lauḥ Maḥfūẓ), bahwa bumi ini akan diwarisi oleh hamba-hamba-Ku yang saleh."
+        }
+      ]
+    },
+    {
+      "id": 2589,
+      "verse_number": 106,
+      "verse_key": "21:106",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 284,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ فِى هَـٰذَا لَبَلَـٰغًا لِّقَوْمٍ عَـٰبِدِينَ",
+      "chapter_id": 21,
+      "page_number": 331,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182429,
+          "resource_id": 33,
+          "text": "Sungguh, (apa yang disebutkan) di dalam (Alquran) ini, benar-benar menjadi petunjuk (yang lengkap) bagi orang-orang yang menyembah (Allah)."
+        }
+      ]
+    },
+    {
+      "id": 2590,
+      "verse_number": 107,
+      "verse_key": "21:107",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 284,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَرْسَلْنَـٰكَ إِلَّا رَحْمَةً لِّلْعَـٰلَمِينَ",
+      "chapter_id": 21,
+      "page_number": 331,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182416,
+          "resource_id": 33,
+          "text": "Dan Kami tidak mengutus engkau (Muhammad) melainkan untuk (menjadi) rahmat bagi seluruh alam."
+        }
+      ]
+    },
+    {
+      "id": 2591,
+      "verse_number": 108,
+      "verse_key": "21:108",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 284,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ إِنَّمَا يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ ۖ فَهَلْ أَنتُم مُّسْلِمُونَ",
+      "chapter_id": 21,
+      "page_number": 331,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182418,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Sungguh, apa yang diwahyukan kepadaku ialah bahwa Tuhanmu adalah Tuhan Yang Esa, maka apakah kamu telah berserah diri (kepada-Nya)?\""
+        }
+      ]
+    },
+    {
+      "id": 2592,
+      "verse_number": 109,
+      "verse_key": "21:109",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 284,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَإِن تَوَلَّوْا۟ فَقُلْ ءَاذَنتُكُمْ عَلَىٰ سَوَآءٍ ۖ وَإِنْ أَدْرِىٓ أَقَرِيبٌ أَم بَعِيدٌ مَّا تُوعَدُونَ",
+      "chapter_id": 21,
+      "page_number": 331,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182412,
+          "resource_id": 33,
+          "text": "Jika mereka berpaling, maka katakanlah (Muhammad), \"Aku telah menyampaikan kepadamu (ajaran) yang sama (antara kita) dan aku tidak tahu apakah yang diancamkan kepadamu itu sudah dekat atau masih jauh.\""
+        }
+      ]
+    },
+    {
+      "id": 2593,
+      "verse_number": 110,
+      "verse_key": "21:110",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 284,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ مِنَ ٱلْقَوْلِ وَيَعْلَمُ مَا تَكْتُمُونَ",
+      "chapter_id": 21,
+      "page_number": 331,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182423,
+          "resource_id": 33,
+          "text": "Sungguh Dia (Allah) mengetahui perkataan (yang kamu ucapkan) dengan terang-terangan, dan mengetahui (pula) apa yang kamu rahasiakan."
+        }
+      ]
+    },
+    {
+      "id": 2594,
+      "verse_number": 111,
+      "verse_key": "21:111",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 284,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنْ أَدْرِى لَعَلَّهُۥ فِتْنَةٌ لَّكُمْ وَمَتَـٰعٌ إِلَىٰ حِينٍ",
+      "chapter_id": 21,
+      "page_number": 331,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182421,
+          "resource_id": 33,
+          "text": "Dan aku tidak tahu, boleh jadi hal itu cobaan bagi kamu dan kesenangan sampai waktu yang ditentukan."
+        }
+      ]
+    },
+    {
+      "id": 2595,
+      "verse_number": 112,
+      "verse_key": "21:112",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 284,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَـٰلَ رَبِّ ٱحْكُم بِٱلْحَقِّ ۗ وَرَبُّنَا ٱلرَّحْمَـٰنُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+      "chapter_id": 21,
+      "page_number": 331,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182425,
+          "resource_id": 33,
+          "text": "Dia (Muhammad) berkata, \"Ya Tuhanku, berilah keputusan dengan adil. Dan Tuhan kami Maha Pengasih, tempat memohon segala pertolongan atas semua yang kamu katakan.\""
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 11,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 11
+  }
+}

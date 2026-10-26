@@ -1,0 +1,242 @@
+{
+  "verses": [
+    {
+      "id": 4115,
+      "verse_number": 57,
+      "verse_key": "39:57",
+      "hizb_number": 47,
+      "rub_el_hizb_number": 186,
+      "ruku_number": 403,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "أَوْ تَقُولَ لَوْ أَنَّ ٱللَّهَ هَدَىٰنِى لَكُنتُ مِنَ ٱلْمُتَّقِينَ",
+      "chapter_id": 39,
+      "page_number": 465,
+      "juz_number": 24,
+      "translations": [
+        {
+          "id": 178497,
+          "resource_id": 33,
+          "text": "atau (agar jangan) ada yang berkata, ‘Sekiranya Allah memberi petunjuk kepadaku tentulah aku termasuk orang-orang yang bertakwa,"
+        }
+      ]
+    },
+    {
+      "id": 4116,
+      "verse_number": 58,
+      "verse_key": "39:58",
+      "hizb_number": 47,
+      "rub_el_hizb_number": 186,
+      "ruku_number": 403,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "أَوْ تَقُولَ حِينَ تَرَى ٱلْعَذَابَ لَوْ أَنَّ لِى كَرَّةً فَأَكُونَ مِنَ ٱلْمُحْسِنِينَ",
+      "chapter_id": 39,
+      "page_number": 465,
+      "juz_number": 24,
+      "translations": [
+        {
+          "id": 178498,
+          "resource_id": 33,
+          "text": "atau (agar jangan) ada yang berkata ketika melihat azab, \"Sekiranya aku dapat kembali (ke dunia), tentu aku termasuk orang-orang yang berbuat baik.\""
+        }
+      ]
+    },
+    {
+      "id": 4117,
+      "verse_number": 59,
+      "verse_key": "39:59",
+      "hizb_number": 47,
+      "rub_el_hizb_number": 186,
+      "ruku_number": 403,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "بَلَىٰ قَدْ جَآءَتْكَ ءَايَـٰتِى فَكَذَّبْتَ بِهَا وَٱسْتَكْبَرْتَ وَكُنتَ مِنَ ٱلْكَـٰفِرِينَ",
+      "chapter_id": 39,
+      "page_number": 465,
+      "juz_number": 24,
+      "translations": [
+        {
+          "id": 178499,
+          "resource_id": 33,
+          "text": "Sungguh, \"sebenarnya keterangan-keterangan-Ku telah datang kepadamu, tetapi kamu mendustakannya, malah kamu menyombongkan diri dan termasuk orang kafir.\""
+        }
+      ]
+    },
+    {
+      "id": 4118,
+      "verse_number": 60,
+      "verse_key": "39:60",
+      "hizb_number": 47,
+      "rub_el_hizb_number": 186,
+      "ruku_number": 403,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَيَوْمَ ٱلْقِيَـٰمَةِ تَرَى ٱلَّذِينَ كَذَبُوا۟ عَلَى ٱللَّهِ وُجُوهُهُم مُّسْوَدَّةٌ ۚ أَلَيْسَ فِى جَهَنَّمَ مَثْوًى لِّلْمُتَكَبِّرِينَ",
+      "chapter_id": 39,
+      "page_number": 465,
+      "juz_number": 24,
+      "translations": [
+        {
+          "id": 178511,
+          "resource_id": 33,
+          "text": "Dan pada hari Kiamat engkau akan melihat orang-orang yang berbuat dusta terhadap Allah, wajahnya menghitam. Bukankah neraka Jahanam itu tempat tinggal bagi orang yang menyombongkan diri?"
+        }
+      ]
+    },
+    {
+      "id": 4119,
+      "verse_number": 61,
+      "verse_key": "39:61",
+      "hizb_number": 47,
+      "rub_el_hizb_number": 186,
+      "ruku_number": 403,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَيُنَجِّى ٱللَّهُ ٱلَّذِينَ ٱتَّقَوْا۟ بِمَفَازَتِهِمْ لَا يَمَسُّهُمُ ٱلسُّوٓءُ وَلَا هُمْ يَحْزَنُونَ",
+      "chapter_id": 39,
+      "page_number": 465,
+      "juz_number": 24,
+      "translations": [
+        {
+          "id": 178504,
+          "resource_id": 33,
+          "text": "Dan Allah menyelamatkan orang-orang yang bertakwa karena kemenangan mereka. Mereka tidak disentuh oleh azab dan tidak bersedih hati."
+        }
+      ]
+    },
+    {
+      "id": 4120,
+      "verse_number": 62,
+      "verse_key": "39:62",
+      "hizb_number": 47,
+      "rub_el_hizb_number": 186,
+      "ruku_number": 403,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "ٱللَّهُ خَـٰلِقُ كُلِّ شَىْءٍ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ وَكِيلٌ",
+      "chapter_id": 39,
+      "page_number": 465,
+      "juz_number": 24,
+      "translations": [
+        {
+          "id": 178505,
+          "resource_id": 33,
+          "text": "Allah pencipta segala sesuatu dan Dia Maha Pemelihara atas segala sesuatu."
+        }
+      ]
+    },
+    {
+      "id": 4121,
+      "verse_number": 63,
+      "verse_key": "39:63",
+      "hizb_number": 47,
+      "rub_el_hizb_number": 186,
+      "ruku_number": 403,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "لَّهُۥ مَقَالِيدُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ ٱللَّهِ أُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ",
+      "chapter_id": 39,
+      "page_number": 465,
+      "juz_number": 24,
+      "translations": [
+        {
+          "id": 178506,
+          "resource_id": 33,
+          "text": "Milik-Nyalah kunci-kunci (perbendaharaan) langit dan bumi. Dan orang-orang yang kafir terhadap ayat-ayat Allah, mereka itulah orang yang rugi."
+        }
+      ]
+    },
+    {
+      "id": 4122,
+      "verse_number": 64,
+      "verse_key": "39:64",
+      "hizb_number": 47,
+      "rub_el_hizb_number": 186,
+      "ruku_number": 404,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ أَفَغَيْرَ ٱللَّهِ تَأْمُرُوٓنِّىٓ أَعْبُدُ أَيُّهَا ٱلْجَـٰهِلُونَ",
+      "chapter_id": 39,
+      "page_number": 465,
+      "juz_number": 24,
+      "translations": [
+        {
+          "id": 178507,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Apakah kamu menyuruh aku menyembah selain Allah, wahai orang-orang yang bodoh?\""
+        }
+      ]
+    },
+    {
+      "id": 4123,
+      "verse_number": 65,
+      "verse_key": "39:65",
+      "hizb_number": 47,
+      "rub_el_hizb_number": 186,
+      "ruku_number": 404,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ أُوحِىَ إِلَيْكَ وَإِلَى ٱلَّذِينَ مِن قَبْلِكَ لَئِنْ أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+      "chapter_id": 39,
+      "page_number": 465,
+      "juz_number": 24,
+      "translations": [
+        {
+          "id": 178508,
+          "resource_id": 33,
+          "text": "Dan sungguh, telah diwahyukan kepadamu dan kepada (nabi-nabi) yang sebelummu, \"Sungguh, jika engkau mempersekutukan (Allah), niscaya akan terhapuslah amalmu dan tentulah engkau termasuk orang yang rugi."
+        }
+      ]
+    },
+    {
+      "id": 4124,
+      "verse_number": 66,
+      "verse_key": "39:66",
+      "hizb_number": 47,
+      "rub_el_hizb_number": 186,
+      "ruku_number": 404,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "بَلِ ٱللَّهَ فَٱعْبُدْ وَكُن مِّنَ ٱلشَّـٰكِرِينَ",
+      "chapter_id": 39,
+      "page_number": 465,
+      "juz_number": 24,
+      "translations": [
+        {
+          "id": 178509,
+          "resource_id": 33,
+          "text": "Karena itu, hendaklah Allah saja yang engkau sembah dan hendaklah engkau termasuk orang yang bersyukur.\""
+        }
+      ]
+    },
+    {
+      "id": 4125,
+      "verse_number": 67,
+      "verse_key": "39:67",
+      "hizb_number": 47,
+      "rub_el_hizb_number": 186,
+      "ruku_number": 404,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ وَٱلْأَرْضُ جَمِيعًا قَبْضَتُهُۥ يَوْمَ ٱلْقِيَـٰمَةِ وَٱلسَّمَـٰوَٰتُ مَطْوِيَّـٰتٌۢ بِيَمِينِهِۦ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ",
+      "chapter_id": 39,
+      "page_number": 465,
+      "juz_number": 24,
+      "translations": [
+        {
+          "id": 178510,
+          "resource_id": 33,
+          "text": "Dan mereka tidak mengagungkan Allah sebagaimana mestinya padahal bumi seluruhnya dalam genggaman-Nya pada hari Kiamat dan langit digulung dengan tangan kanan-Nya.<sup foot_note=135717>1</sup> Mahasuci Dia dan Mahatinggi Dia dari apa yang mereka persekutukan."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 11,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 11
+  }
+}

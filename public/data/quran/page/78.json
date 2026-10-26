@@ -1,0 +1,116 @@
+{
+  "verses": [
+    {
+      "id": 500,
+      "verse_number": 7,
+      "verse_key": "4:7",
+      "hizb_number": 8,
+      "rub_el_hizb_number": 31,
+      "ruku_number": 62,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "لِّلرِّجَالِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ ۚ نَصِيبًا مَّفْرُوضًا",
+      "chapter_id": 4,
+      "page_number": 78,
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 179081,
+          "resource_id": 33,
+          "text": "Bagi laki-laki ada hak bagian dari harta peninggalan kedua orang tua dan kerabatnya, dan bagi perempuan ada hak bagian (pula) dari harta peninggalan kedua orang tua dan kerabatnya, baik sedikit atau banyak menurut bagian yang telah ditetapkan."
+        }
+      ]
+    },
+    {
+      "id": 501,
+      "verse_number": 8,
+      "verse_key": "4:8",
+      "hizb_number": 8,
+      "rub_el_hizb_number": 31,
+      "ruku_number": 62,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا حَضَرَ ٱلْقِسْمَةَ أُو۟لُوا۟ ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينُ فَٱرْزُقُوهُم مِّنْهُ وَقُولُوا۟ لَهُمْ قَوْلًا مَّعْرُوفًا",
+      "chapter_id": 4,
+      "page_number": 78,
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 179126,
+          "resource_id": 33,
+          "text": "Dan apabila sewaktu pembagian itu hadir beberapa kerabat,<sup foot_note=135130>1</sup> anak-anak yatim dan orang-orang miskin, maka berilah mereka dari harta itu<sup foot_note=135131>2</sup> (sekedarnya) dan ucapkanlah kepada mereka perkataan yang baik."
+        }
+      ]
+    },
+    {
+      "id": 502,
+      "verse_number": 9,
+      "verse_key": "4:9",
+      "hizb_number": 8,
+      "rub_el_hizb_number": 31,
+      "ruku_number": 62,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَلْيَخْشَ ٱلَّذِينَ لَوْ تَرَكُوا۟ مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَـٰفًا خَافُوا۟ عَلَيْهِمْ فَلْيَتَّقُوا۟ ٱللَّهَ وَلْيَقُولُوا۟ قَوْلًا سَدِيدًا",
+      "chapter_id": 4,
+      "page_number": 78,
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 179166,
+          "resource_id": 33,
+          "text": "Dan hendaklah takut (kepada Allah) orang-orang yang sekiranya mereka meninggalkan keturunan yang lemah di belakang mereka yang mereka khawatir terhadap (kesejahteraan)nya. Oleh sebab itu, hendaklah mereka bertakwa kepada Allah, dan hendaklah mereka berbicara dengan tutur kata yang benar."
+        }
+      ]
+    },
+    {
+      "id": 503,
+      "verse_number": 10,
+      "verse_key": "4:10",
+      "hizb_number": 8,
+      "rub_el_hizb_number": 31,
+      "ruku_number": 62,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ يَأْكُلُونَ أَمْوَٰلَ ٱلْيَتَـٰمَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَارًا ۖ وَسَيَصْلَوْنَ سَعِيرًا",
+      "chapter_id": 4,
+      "page_number": 78,
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 178615,
+          "resource_id": 33,
+          "text": "Sesungguhnya orang-orang yang memakan harta anak yatim secara zalim, sebenarnya mereka itu menelan api dalam perutnya dan mereka akan masuk ke dalam api yang menyala-nyala (neraka)."
+        }
+      ]
+    },
+    {
+      "id": 504,
+      "verse_number": 11,
+      "verse_key": "4:11",
+      "hizb_number": 8,
+      "rub_el_hizb_number": 31,
+      "ruku_number": 63,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَـٰدِكُمْ ۖ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ ۚ فَإِن كُنَّ نِسَآءً فَوْقَ ٱثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ ۖ وَإِن كَانَتْ وَٰحِدَةً فَلَهَا ٱلنِّصْفُ ۚ وَلِأَبَوَيْهِ لِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدٌ ۚ فَإِن لَّمْ يَكُن لَّهُۥ وَلَدٌ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ ۚ فَإِن كَانَ لَهُۥٓ إِخْوَةٌ فَلِأُمِّهِ ٱلسُّدُسُ ۚ مِنۢ بَعْدِ وَصِيَّةٍ يُوصِى بِهَآ أَوْ دَيْنٍ ۗ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا ۚ فَرِيضَةً مِّنَ ٱللَّهِ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "chapter_id": 4,
+      "page_number": 78,
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 178629,
+          "resource_id": 33,
+          "text": "Allah mensyariatkan (mewajibkan) kepadamu tentang (pembagian warisan untuk) anak-anakmu, (yaitu) bagian seorang anak laki-laki sama dengan bagian dua orang anak perempuan.<sup foot_note=135132>1</sup> Dan jika anak itu semuanya perempuan yang jumlahnya lebih dari dua, maka bagian mereka dua pertiga dari harta yang ditinggalkan. Jika dia (anak perempuan) itu seorang saja, maka dia memperoleh setengah (harta yang ditinggalkan). Dan untuk kedua ibu-bapak, bagian masing-masing seperenam dari harta yang ditinggalkan, jika dia (yang meninggal) mempunyai anak. Jika dia (yang meninggal) tidak mempunyai anak dan dia diwarisi oleh kedua ibu-bapaknya (saja), maka ibunya mendapat sepertiga. Jika dia (yang meninggal) mempunyai beberapa saudara, maka ibunya mendapat seperenam. (Pembagian-pembagian tersebut di atas) setelah (dipenuhi) wasiat yang dibuatnya atau (dan setelah dibayar) hutangnya. (Tentang) orang tuamu dan anak-anakmu, kamu tidak mengetahui siapa di antara mereka yang lebih banyak manfaatnya bagimu. Ini adalah ketetapan Allah. Sungguh, Allah Maha Mengetahui, Mahabijaksana."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 5,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 5
+  }
+}

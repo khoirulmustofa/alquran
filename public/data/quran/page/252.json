@@ -1,0 +1,221 @@
+{
+  "verses": [
+    {
+      "id": 1726,
+      "verse_number": 19,
+      "verse_key": "13:19",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 101,
+      "ruku_number": 207,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "۞ أَفَمَن يَعْلَمُ أَنَّمَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ٱلْحَقُّ كَمَنْ هُوَ أَعْمَىٰٓ ۚ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+      "chapter_id": 13,
+      "page_number": 252,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 183147,
+          "resource_id": 33,
+          "text": "Maka apakah orang yang mengetahui bahwa apa yang diturunkan Tuhan kepadamu adalah kebenaran, sama dengan orang yang buta? Hanya orang berakal saja yang dapat mengambil pelajaran,"
+        }
+      ]
+    },
+    {
+      "id": 1727,
+      "verse_number": 20,
+      "verse_key": "13:20",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 101,
+      "ruku_number": 207,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِينَ يُوفُونَ بِعَهْدِ ٱللَّهِ وَلَا يَنقُضُونَ ٱلْمِيثَـٰقَ",
+      "chapter_id": 13,
+      "page_number": 252,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 177246,
+          "resource_id": 33,
+          "text": "(yaitu) orang yang memenuhi janji Allah dan tidak melanggar perjanjian,"
+        }
+      ]
+    },
+    {
+      "id": 1728,
+      "verse_number": 21,
+      "verse_key": "13:21",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 101,
+      "ruku_number": 207,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ يَصِلُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيَخْشَوْنَ رَبَّهُمْ وَيَخَافُونَ سُوٓءَ ٱلْحِسَابِ",
+      "chapter_id": 13,
+      "page_number": 252,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 183148,
+          "resource_id": 33,
+          "text": "dan orang-orang yang menghubungkan apa yang diperintahkan Allah agar dihubungkan,<sup foot_note=135370>1</sup> dan mereka takut kepada Tuhannya dan takut kepada hisab yang buruk."
+        }
+      ]
+    },
+    {
+      "id": 1729,
+      "verse_number": 22,
+      "verse_key": "13:22",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 101,
+      "ruku_number": 207,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ صَبَرُوا۟ ٱبْتِغَآءَ وَجْهِ رَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقْنَـٰهُمْ سِرًّا وَعَلَانِيَةً وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ أُو۟لَـٰٓئِكَ لَهُمْ عُقْبَى ٱلدَّارِ",
+      "chapter_id": 13,
+      "page_number": 252,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 183132,
+          "resource_id": 33,
+          "text": "Dan orang yang sabar karena mengharap keridaan Tuhannya, melaksanakan salat, dan menginfakkan sebagian rezeki yang Kami berikan kepada mereka, secara sembunyi atau terang-terangan serta menolak kejahatan dengan kebaikan; orang itulah yang mendapat tempat kesudahan (yang baik),"
+        }
+      ]
+    },
+    {
+      "id": 1730,
+      "verse_number": 23,
+      "verse_key": "13:23",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 101,
+      "ruku_number": 207,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "جَنَّـٰتُ عَدْنٍ يَدْخُلُونَهَا وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّـٰتِهِمْ ۖ وَٱلْمَلَـٰٓئِكَةُ يَدْخُلُونَ عَلَيْهِم مِّن كُلِّ بَابٍ",
+      "chapter_id": 13,
+      "page_number": 252,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 181729,
+          "resource_id": 33,
+          "text": "(yaitu) surga-surga 'Ādn, mereka masuk ke dalamnya bersama dengan orang yang saleh dari nenek moyangnya, pasangan-pasangannya dan anak cucunya, sedangkan para malaikat masuk ke tempat-tempat mereka dari semua pintu;"
+        }
+      ]
+    },
+    {
+      "id": 1731,
+      "verse_number": 24,
+      "verse_key": "13:24",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 101,
+      "ruku_number": 207,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "سَلَـٰمٌ عَلَيْكُم بِمَا صَبَرْتُمْ ۚ فَنِعْمَ عُقْبَى ٱلدَّارِ",
+      "chapter_id": 13,
+      "page_number": 252,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 181716,
+          "resource_id": 33,
+          "text": "(sambil mengucapkan), \"Selamat sejahtera atasmu karena kesabaranmu.\" Maka alangkah nikmatnya tempat kesudahan itu."
+        }
+      ]
+    },
+    {
+      "id": 1732,
+      "verse_number": 25,
+      "verse_key": "13:25",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 101,
+      "ruku_number": 207,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِنۢ بَعْدِ مِيثَـٰقِهِۦ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفْسِدُونَ فِى ٱلْأَرْضِ ۙ أُو۟لَـٰٓئِكَ لَهُمُ ٱللَّعْنَةُ وَلَهُمْ سُوٓءُ ٱلدَّارِ",
+      "chapter_id": 13,
+      "page_number": 252,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 181723,
+          "resource_id": 33,
+          "text": "Dan orang-orang yang melanggar janji Allah setelah diikrarkannya, dan memutuskan apa yang Allah perintahkan agar disambung dan berbuat kerusakan di bumi; mereka itu memperoleh kutukan dan tempat kediaman yang buruk (Jahanam)."
+        }
+      ]
+    },
+    {
+      "id": 1733,
+      "verse_number": 26,
+      "verse_key": "13:26",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 101,
+      "ruku_number": 207,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ وَفَرِحُوا۟ بِٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا فِى ٱلْـَٔاخِرَةِ إِلَّا مَتَـٰعٌ",
+      "chapter_id": 13,
+      "page_number": 252,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 183096,
+          "resource_id": 33,
+          "text": "Allah melapangkan rezeki bagi siapa yang Dia kehendaki dan membatasi (bagi siapa yang Dia kehendaki). Mereka bergembira dengan kehidupan dunia, padahal kehidupan dunia hanyalah kesenangan (yang sedikit) dibanding kehidupan akhirat."
+        }
+      ]
+    },
+    {
+      "id": 1734,
+      "verse_number": 27,
+      "verse_key": "13:27",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 101,
+      "ruku_number": 208,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌ مِّن رَّبِّهِۦ ۗ قُلْ إِنَّ ٱللَّهَ يُضِلُّ مَن يَشَآءُ وَيَهْدِىٓ إِلَيْهِ مَنْ أَنَابَ",
+      "chapter_id": 13,
+      "page_number": 252,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 183131,
+          "resource_id": 33,
+          "text": "Dan orang-orang kafir berkata, \"Mengapa tidak diturunkan kepadanya (Muhammad) tanda (mukjizat) dari Tuhannya?\" Katakanlah (Muhammad), \"Sesungguhnya Allah menyesatkan<sup foot_note=135371>1</sup> siapa yang Dia kehendaki dan memberi petunjuk orang yang bertobat kepada-Nya,\""
+        }
+      ]
+    },
+    {
+      "id": 1735,
+      "verse_number": 28,
+      "verse_key": "13:28",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 101,
+      "ruku_number": 208,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِينَ ءَامَنُوا۟ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ ٱللَّهِ ۗ أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ",
+      "chapter_id": 13,
+      "page_number": 252,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 181719,
+          "resource_id": 33,
+          "text": "(yaitu) orang-orang yang beriman dan hati mereka menjadi tenteram dengan mengingat Allah. Ingatlah, hanya dengan mengingat Allah hati menjadi tenteram."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 10
+  }
+}

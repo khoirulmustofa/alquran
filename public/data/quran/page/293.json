@@ -1,0 +1,242 @@
+{
+  "verses": [
+    {
+      "id": 2134,
+      "verse_number": 105,
+      "verse_key": "17:105",
+      "hizb_number": 30,
+      "rub_el_hizb_number": 117,
+      "ruku_number": 251,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَبِٱلْحَقِّ أَنزَلْنَـٰهُ وَبِٱلْحَقِّ نَزَلَ ۗ وَمَآ أَرْسَلْنَـٰكَ إِلَّا مُبَشِّرًا وَنَذِيرًا",
+      "chapter_id": 17,
+      "page_number": 293,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182506,
+          "resource_id": 33,
+          "text": "Dan Kami turunkan (Alquran) itu dengan sebenarnya dan (Alquran) itu turun dengan (membawa) kebenaran. Dan Kami mengutus engkau (Muhammad), hanya sebagai pembawa berita gembira dan pemberi peringatan."
+        }
+      ]
+    },
+    {
+      "id": 2135,
+      "verse_number": 106,
+      "verse_key": "17:106",
+      "hizb_number": 30,
+      "rub_el_hizb_number": 117,
+      "ruku_number": 251,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَقُرْءَانًا فَرَقْنَـٰهُ لِتَقْرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكْثٍ وَنَزَّلْنَـٰهُ تَنزِيلًا",
+      "chapter_id": 17,
+      "page_number": 293,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 181963,
+          "resource_id": 33,
+          "text": "Dan Alquran (kami turunkan) berangsur-angsur agar engkau (Muhammad) membacakannya kepada manusia perlahan-lahan dan Kami menurunkannya secara bertahap."
+        }
+      ]
+    },
+    {
+      "id": 2136,
+      "verse_number": 107,
+      "verse_key": "17:107",
+      "hizb_number": 30,
+      "rub_el_hizb_number": 117,
+      "ruku_number": 251,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ ءَامِنُوا۟ بِهِۦٓ أَوْ لَا تُؤْمِنُوٓا۟ ۚ إِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مِن قَبْلِهِۦٓ إِذَا يُتْلَىٰ عَلَيْهِمْ يَخِرُّونَ لِلْأَذْقَانِ سُجَّدًا",
+      "chapter_id": 17,
+      "page_number": 293,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182504,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Berimanlah kamu kepadanya (Alquran) atau tidak usah beriman (sama saja bagi Allah). Sesungguhnya orang yang telah diberi pengetahuan sebelumnya, apabila (Alquran) dibacakan kepada mereka, mereka menyungkurkan wajah bersujud,\""
+        }
+      ]
+    },
+    {
+      "id": 2137,
+      "verse_number": 108,
+      "verse_key": "17:108",
+      "hizb_number": 30,
+      "rub_el_hizb_number": 117,
+      "ruku_number": 251,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَيَقُولُونَ سُبْحَـٰنَ رَبِّنَآ إِن كَانَ وَعْدُ رَبِّنَا لَمَفْعُولًا",
+      "chapter_id": 17,
+      "page_number": 293,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182491,
+          "resource_id": 33,
+          "text": "dan mereka berkata, \"Mahasuci Tuhan kami; sungguh, janji Tuhan kami pasti dipenuhi.\""
+        }
+      ]
+    },
+    {
+      "id": 2138,
+      "verse_number": 109,
+      "verse_key": "17:109",
+      "hizb_number": 30,
+      "rub_el_hizb_number": 117,
+      "ruku_number": 251,
+      "manzil_number": 4,
+      "sajdah_number": 4,
+      "text_uthmani": "وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًا ۩",
+      "chapter_id": 17,
+      "page_number": 293,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182266,
+          "resource_id": 33,
+          "text": "Dan mereka menyungkurkan wajah sambil menangis dan mereka bertambah khusyuk."
+        }
+      ]
+    },
+    {
+      "id": 2139,
+      "verse_number": 110,
+      "verse_key": "17:110",
+      "hizb_number": 30,
+      "rub_el_hizb_number": 117,
+      "ruku_number": 251,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قُلِ ٱدْعُوا۟ ٱللَّهَ أَوِ ٱدْعُوا۟ ٱلرَّحْمَـٰنَ ۖ أَيًّا مَّا تَدْعُوا۟ فَلَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ ۚ وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَٱبْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا",
+      "chapter_id": 17,
+      "page_number": 293,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 181962,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Serulah Allah atau serulah Ar-Raḥmān. Dengan nama yang mana saja kamu dapat menyeru, karena Dia mempunyai nama-nama yang terbaik (Asmāul Ḥusnā) dan janganlah engkau mengeraskan suaramu dalam salat dan janganlah (pula) merendahkannya dan usahakan jalan tengah di antara kedua itu.\""
+        }
+      ]
+    },
+    {
+      "id": 2140,
+      "verse_number": 111,
+      "verse_key": "17:111",
+      "hizb_number": 30,
+      "rub_el_hizb_number": 117,
+      "ruku_number": 251,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَقُلِ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُۥ شَرِيكٌ فِى ٱلْمُلْكِ وَلَمْ يَكُن لَّهُۥ وَلِىٌّ مِّنَ ٱلذُّلِّ ۖ وَكَبِّرْهُ تَكْبِيرًۢا",
+      "chapter_id": 17,
+      "page_number": 293,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182486,
+          "resource_id": 33,
+          "text": "Dan katakanlah, \"Segala puji bagi Allah yang tidak mempunyai anak dan tidak (pula) mempunyai sekutu dalam kerajaan-Nya dan Dia tidak memerlukan penolong dari kehinaan dan agungkanlah Dia seagung-agungnya."
+        }
+      ]
+    },
+    {
+      "id": 2141,
+      "verse_number": 1,
+      "verse_key": "18:1",
+      "hizb_number": 30,
+      "rub_el_hizb_number": 117,
+      "ruku_number": 252,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": " ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَنزَلَ عَلَىٰ عَبْدِهِ ٱلْكِتَـٰبَ وَلَمْ يَجْعَل لَّهُۥ عِوَجَا ۜ",
+      "chapter_id": 18,
+      "page_number": 293,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 181983,
+          "resource_id": 33,
+          "text": "Segala puji bagi Allah yang telah menurunkan Kitab (Alquran) kepada hamba-Nya dan Dia tidak menjadikannya bengkok;<sup foot_note=135435>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 2142,
+      "verse_number": 2,
+      "verse_key": "18:2",
+      "hizb_number": 30,
+      "rub_el_hizb_number": 117,
+      "ruku_number": 252,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَيِّمًا لِّيُنذِرَ بَأْسًا شَدِيدًا مِّن لَّدُنْهُ وَيُبَشِّرَ ٱلْمُؤْمِنِينَ ٱلَّذِينَ يَعْمَلُونَ ٱلصَّـٰلِحَـٰتِ أَنَّ لَهُمْ أَجْرًا حَسَنًا",
+      "chapter_id": 18,
+      "page_number": 293,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182041,
+          "resource_id": 33,
+          "text": "sebagai bimbingan yang lurus, untuk memperingatkan akan siksa yang sangat pedih dari sisi-Nya dan memberikan kabar gembira kepada orang-orang mukmin yang mengerjakan kebajikan bahwa mereka akan mendapat balasan yang baik,"
+        }
+      ]
+    },
+    {
+      "id": 2143,
+      "verse_number": 3,
+      "verse_key": "18:3",
+      "hizb_number": 30,
+      "rub_el_hizb_number": 117,
+      "ruku_number": 252,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "مَّـٰكِثِينَ فِيهِ أَبَدًا",
+      "chapter_id": 18,
+      "page_number": 293,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182063,
+          "resource_id": 33,
+          "text": "mereka kekal di dalamnya untuk selama-lamanya."
+        }
+      ]
+    },
+    {
+      "id": 2144,
+      "verse_number": 4,
+      "verse_key": "18:4",
+      "hizb_number": 30,
+      "rub_el_hizb_number": 117,
+      "ruku_number": 252,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَيُنذِرَ ٱلَّذِينَ قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًا",
+      "chapter_id": 18,
+      "page_number": 293,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 177265,
+          "resource_id": 33,
+          "text": "Dan untuk memperingatkan kepada orang yang berkata, \"Allah mengambil seorang anak.\""
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 11,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 11
+  }
+}

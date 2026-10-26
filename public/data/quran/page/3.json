@@ -1,0 +1,238 @@
+{
+  "source": "quran_foundation",
+  "page_number": 3,
+  "total_verses": 11,
+  "verses": [
+    {
+      "id": 13,
+      "verse_number": 6,
+      "verse_key": "2:6",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "ruku_number": 2,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+      "chapter_id": 2,
+      "page_number": 3,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 183271,
+          "resource_id": 33,
+          "text": "Sesungguhnya orang-orang kafir,<sup foot_note=134959>1</sup> sama saja bagi mereka, engkau (Muhammad) beri peringatan atau tidak engkau beri peringatan, mereka tidak akan beriman."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "verse_number": 7,
+      "verse_key": "2:7",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "ruku_number": 2,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰٓ أَبْصَـٰرِهِمْ غِشَـٰوَةٌ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "chapter_id": 2,
+      "page_number": 3,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 183421,
+          "resource_id": 33,
+          "text": "Allah telah mengunci hati dan pendengaran mereka,<sup foot_note=134960>1</sup> penglihatan mereka telah tertutup, dan mereka akan mendapat azab yang berat."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "verse_number": 8,
+      "verse_key": "2:8",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "ruku_number": 3,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ وَبِٱلْيَوْمِ ٱلْـَٔاخِرِ وَمَا هُم بِمُؤْمِنِينَ",
+      "chapter_id": 2,
+      "page_number": 3,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 177330,
+          "resource_id": 33,
+          "text": "Dan di antara manusia ada yang berkata, \"Kami beriman kepada Allah dan hari akhir,\" padahal sesungguhnya mereka itu bukanlah orang-orang yang beriman."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "verse_number": 9,
+      "verse_key": "2:9",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "ruku_number": 3,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "يُخَـٰدِعُونَ ٱللَّهَ وَٱلَّذِينَ ءَامَنُوا۟ وَمَا يَخْدَعُونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
+      "chapter_id": 2,
+      "page_number": 3,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 177526,
+          "resource_id": 33,
+          "text": "Mereka menipu Allah dan orang-orang yang beriman, padahal mereka hanyalah menipu diri sendiri tanpa mereka sadari."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "verse_number": 10,
+      "verse_key": "2:10",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "ruku_number": 3,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "فِى قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ ٱللَّهُ مَرَضًا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْذِبُونَ",
+      "chapter_id": 2,
+      "page_number": 3,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 182390,
+          "resource_id": 33,
+          "text": "Dalam hati mereka terdapat penyakit,<sup foot_note=134961>1</sup> lalu Allah menambah penyakitnya itu; dan mereka mendapat azab yang pedih, karena mereka berdusta."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "verse_number": 11,
+      "verse_key": "2:11",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "ruku_number": 3,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ قَالُوٓا۟ إِنَّمَا نَحْنُ مُصْلِحُونَ",
+      "chapter_id": 2,
+      "page_number": 3,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 182407,
+          "resource_id": 33,
+          "text": "Dan apabila dikatakan kepada mereka, \"Janganlah berbuat kerusakan di bumi!\"<sup foot_note=134962>1</sup> Mereka menjawab, \"Sesungguhnya kami justru orang-orang yang melakukan perbaikan.\""
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "verse_number": 12,
+      "verse_key": "2:12",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "ruku_number": 3,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَآ إِنَّهُمْ هُمُ ٱلْمُفْسِدُونَ وَلَـٰكِن لَّا يَشْعُرُونَ",
+      "chapter_id": 2,
+      "page_number": 3,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 182445,
+          "resource_id": 33,
+          "text": "Ingatlah, sesungguhnya merekalah yang berbuat kerusakan, tetapi mereka tidak menyadari."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "verse_number": 13,
+      "verse_key": "2:13",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "ruku_number": 3,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا قِيلَ لَهُمْ ءَامِنُوا۟ كَمَآ ءَامَنَ ٱلنَّاسُ قَالُوٓا۟ أَنُؤْمِنُ كَمَآ ءَامَنَ ٱلسُّفَهَآءُ ۗ أَلَآ إِنَّهُمْ هُمُ ٱلسُّفَهَآءُ وَلَـٰكِن لَّا يَعْلَمُونَ",
+      "chapter_id": 2,
+      "page_number": 3,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 182402,
+          "resource_id": 33,
+          "text": "Dan apabila dikatakan kepada mereka, \"Berimanlah kamu sebagaimana orang lain yang telah beriman!\" Mereka menjawab, \"Apakah kami akan beriman seperti orang-orang yang kurang akal itu beriman?\" Ingatlah, sesungguhnya mereka itulah orang-orang yang kurang akal, tetapi mereka tidak tahu."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "verse_number": 14,
+      "verse_key": "2:14",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "ruku_number": 3,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا لَقُوا۟ ٱلَّذِينَ ءَامَنُوا۟ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ إِلَىٰ شَيَـٰطِينِهِمْ قَالُوٓا۟ إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ مُسْتَهْزِءُونَ",
+      "chapter_id": 2,
+      "page_number": 3,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 182488,
+          "resource_id": 33,
+          "text": "Dan apabila mereka berjumpa dengan orang yang beriman, mereka berkata, \"Kami telah beriman.\" Tetapi apabila mereka kembali kepada setan-setan (para pemimpin) mereka, mereka berkata, \"Sesungguhnya kami bersama kamu, kami hanya berolok-olok.\""
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "verse_number": 15,
+      "verse_key": "2:15",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "ruku_number": 3,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "ٱللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِى طُغْيَـٰنِهِمْ يَعْمَهُونَ",
+      "chapter_id": 2,
+      "page_number": 3,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 182519,
+          "resource_id": 33,
+          "text": "Allah akan memperolok-olokkan mereka dan membiarkan mereka terombang-ambing dalam kesesatan."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "verse_number": 16,
+      "verse_key": "2:16",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "ruku_number": 3,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلضَّلَـٰلَةَ بِٱلْهُدَىٰ فَمَا رَبِحَت تِّجَـٰرَتُهُمْ وَمَا كَانُوا۟ مُهْتَدِينَ",
+      "chapter_id": 2,
+      "page_number": 3,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 182539,
+          "resource_id": 33,
+          "text": "Mereka itulah yang membeli kesesatan dengan petunjuk. Maka perdagangan mereka itu tidak beruntung dan mereka tidak mendapat petunjuk."
+        }
+      ]
+    }
+  ]
+}

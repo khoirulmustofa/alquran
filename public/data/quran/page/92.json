@@ -1,0 +1,116 @@
+{
+  "verses": [
+    {
+      "id": 580,
+      "verse_number": 87,
+      "verse_key": "4:87",
+      "hizb_number": 9,
+      "rub_el_hizb_number": 36,
+      "ruku_number": 72,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ ۗ وَمَنْ أَصْدَقُ مِنَ ٱللَّهِ حَدِيثًا",
+      "chapter_id": 4,
+      "page_number": 92,
+      "juz_number": 5,
+      "translations": [
+        {
+          "id": 179168,
+          "resource_id": 33,
+          "text": "Allah, tidak ada tuhan selain Dia. Dia pasti akan mengumpulkan kamu pada hari Kiamat yang tidak diragukan kejadiannya. Siapakah yang lebih benar perkataan(nya) daripada Allah?"
+        }
+      ]
+    },
+    {
+      "id": 581,
+      "verse_number": 88,
+      "verse_key": "4:88",
+      "hizb_number": 10,
+      "rub_el_hizb_number": 37,
+      "ruku_number": 73,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "۞ فَمَا لَكُمْ فِى ٱلْمُنَـٰفِقِينَ فِئَتَيْنِ وَٱللَّهُ أَرْكَسَهُم بِمَا كَسَبُوٓا۟ ۚ أَتُرِيدُونَ أَن تَهْدُوا۟ مَنْ أَضَلَّ ٱللَّهُ ۖ وَمَن يُضْلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلًا",
+      "chapter_id": 4,
+      "page_number": 92,
+      "juz_number": 5,
+      "translations": [
+        {
+          "id": 179162,
+          "resource_id": 33,
+          "text": "Maka mengapa kamu (terpecah) menjadi dua golongan<sup foot_note=135162>1</sup> dalam (menghadapi) orang-orang munafik, padahal Allah telah mengembalikan mereka (kepada kekafiran), disebabkan usaha mereka sendiri? Apakah kamu bermaksud memberi petunjuk kepada orang yang telah dibiarkan sesat oleh Allah? Barang siapa dibiarkan sesat oleh Allah, kamu tidak akan mendapatkan jalan (untuk memberi petunjuk) baginya."
+        }
+      ]
+    },
+    {
+      "id": 582,
+      "verse_number": 89,
+      "verse_key": "4:89",
+      "hizb_number": 10,
+      "rub_el_hizb_number": 37,
+      "ruku_number": 73,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَدُّوا۟ لَوْ تَكْفُرُونَ كَمَا كَفَرُوا۟ فَتَكُونُونَ سَوَآءً ۖ فَلَا تَتَّخِذُوا۟ مِنْهُمْ أَوْلِيَآءَ حَتَّىٰ يُهَاجِرُوا۟ فِى سَبِيلِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَخُذُوهُمْ وَٱقْتُلُوهُمْ حَيْثُ وَجَدتُّمُوهُمْ ۖ وَلَا تَتَّخِذُوا۟ مِنْهُمْ وَلِيًّا وَلَا نَصِيرًا",
+      "chapter_id": 4,
+      "page_number": 92,
+      "juz_number": 5,
+      "translations": [
+        {
+          "id": 179164,
+          "resource_id": 33,
+          "text": "Mereka ingin agar kamu menjadi kafir sebagaimana mereka telah menjadi kafir, sehingga kamu menjadi sama (dengan mereka). Janganlah kamu jadikan dari antara mereka sebagai teman-teman(mu), sebelum mereka berpindah pada jalan Allah. Apabila mereka berpaling,<sup foot_note=135163>1</sup> maka tawanlah mereka dan bunuhlah mereka dimanapun mereka kamu temukan, dan janganlah kamu jadikan seorang pun di antara mereka sebagai teman setia dan penolong,"
+        }
+      ]
+    },
+    {
+      "id": 583,
+      "verse_number": 90,
+      "verse_key": "4:90",
+      "hizb_number": 10,
+      "rub_el_hizb_number": 37,
+      "ruku_number": 73,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّا ٱلَّذِينَ يَصِلُونَ إِلَىٰ قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَـٰقٌ أَوْ جَآءُوكُمْ حَصِرَتْ صُدُورُهُمْ أَن يُقَـٰتِلُوكُمْ أَوْ يُقَـٰتِلُوا۟ قَوْمَهُمْ ۚ وَلَوْ شَآءَ ٱللَّهُ لَسَلَّطَهُمْ عَلَيْكُمْ فَلَقَـٰتَلُوكُمْ ۚ فَإِنِ ٱعْتَزَلُوكُمْ فَلَمْ يُقَـٰتِلُوكُمْ وَأَلْقَوْا۟ إِلَيْكُمُ ٱلسَّلَمَ فَمَا جَعَلَ ٱللَّهُ لَكُمْ عَلَيْهِمْ سَبِيلًا",
+      "chapter_id": 4,
+      "page_number": 92,
+      "juz_number": 5,
+      "translations": [
+        {
+          "id": 179167,
+          "resource_id": 33,
+          "text": "kecuali orang-orang yang meminta perlindungan kepada sesuatu kaum, yang antara kamu dan kaum itu telah ada perjanjian (damai)<sup foot_note=135164>1</sup> atau orang yang datang kepadamu sedang hati mereka merasa keberatan untuk memerangi kamu atau memerangi kaumnya.<sup foot_note=135165>2</sup> Sekiranya Allah menghendaki, niscaya diberikan-Nya kekuasaan kepada mereka (dalam) menghadapi kamu, maka pastilah mereka memerangimu. Tetapi jika mereka membiarkan kamu, dan tidak memerangimu serta menawarkan perdamaian kepadamu (menyerah) maka Allah tidak memberi jalan bagimu (untuk menawan dan membunuh) mereka."
+        }
+      ]
+    },
+    {
+      "id": 584,
+      "verse_number": 91,
+      "verse_key": "4:91",
+      "hizb_number": 10,
+      "rub_el_hizb_number": 37,
+      "ruku_number": 73,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "سَتَجِدُونَ ءَاخَرِينَ يُرِيدُونَ أَن يَأْمَنُوكُمْ وَيَأْمَنُوا۟ قَوْمَهُمْ كُلَّ مَا رُدُّوٓا۟ إِلَى ٱلْفِتْنَةِ أُرْكِسُوا۟ فِيهَا ۚ فَإِن لَّمْ يَعْتَزِلُوكُمْ وَيُلْقُوٓا۟ إِلَيْكُمُ ٱلسَّلَمَ وَيَكُفُّوٓا۟ أَيْدِيَهُمْ فَخُذُوهُمْ وَٱقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ ۚ وَأُو۟لَـٰٓئِكُمْ جَعَلْنَا لَكُمْ عَلَيْهِمْ سُلْطَـٰنًا مُّبِينًا",
+      "chapter_id": 4,
+      "page_number": 92,
+      "juz_number": 5,
+      "translations": [
+        {
+          "id": 179169,
+          "resource_id": 33,
+          "text": "Kelak akan kamu dapati (golongan-golongan) yang lain, yang menginginkan agar mereka hidup aman bersamamu dan aman (pula) bersama kaumnya. Setiap kali mereka diajak kembali kepada fitnah (syirik), mereka pun terjun ke dalamnya. Karena itu jika mereka tidak membiarkan kamu dan tidak mau menawarkan perdamaian kepadamu, serta tidak menahan tangan mereka (dari memerangimu), maka tawanlah mereka dan bunuhlah mereka dimana saja kamu temui, dan merekalah orang yang Kami berikan kepadamu alasan yang nyata (untuk memerangi, menawan dan membunuh) mereka."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 5,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 5
+  }
+}

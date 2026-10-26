@@ -1,0 +1,158 @@
+{
+  "verses": [
+    {
+      "id": 884,
+      "verse_number": 95,
+      "verse_key": "6:95",
+      "hizb_number": 14,
+      "rub_el_hizb_number": 56,
+      "ruku_number": 113,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "۞ إِنَّ ٱللَّهَ فَالِقُ ٱلْحَبِّ وَٱلنَّوَىٰ ۖ يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَمُخْرِجُ ٱلْمَيِّتِ مِنَ ٱلْحَىِّ ۚ ذَٰلِكُمُ ٱللَّهُ ۖ فَأَنَّىٰ تُؤْفَكُونَ",
+      "chapter_id": 6,
+      "page_number": 140,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 180172,
+          "resource_id": 33,
+          "text": "Sungguh, Allah menumbuhkan butir (padi-padian) dan biji (kurma). Dia mengeluarkan yang hidup dari yang mati dan mengeluarkan yang mati dari yang hidup. Itulah (kekuasaan) Allah, maka mengapa kamu masih berpaling?"
+        }
+      ]
+    },
+    {
+      "id": 885,
+      "verse_number": 96,
+      "verse_key": "6:96",
+      "hizb_number": 14,
+      "rub_el_hizb_number": 56,
+      "ruku_number": 113,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "فَالِقُ ٱلْإِصْبَاحِ وَجَعَلَ ٱلَّيْلَ سَكَنًا وَٱلشَّمْسَ وَٱلْقَمَرَ حُسْبَانًا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+      "chapter_id": 6,
+      "page_number": 140,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 180177,
+          "resource_id": 33,
+          "text": "Dia menyingsingkan pagi dan menjadikan malam untuk beristirahat, dan (menjadikan) matahari dan bulan untuk perhitungan. Itulah ketetapan Allah Yang Mahaperkasa, Maha Mengetahui."
+        }
+      ]
+    },
+    {
+      "id": 886,
+      "verse_number": 97,
+      "verse_key": "6:97",
+      "hizb_number": 14,
+      "rub_el_hizb_number": 56,
+      "ruku_number": 113,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَهُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلنُّجُومَ لِتَهْتَدُوا۟ بِهَا فِى ظُلُمَـٰتِ ٱلْبَرِّ وَٱلْبَحْرِ ۗ قَدْ فَصَّلْنَا ٱلْـَٔايَـٰتِ لِقَوْمٍ يَعْلَمُونَ",
+      "chapter_id": 6,
+      "page_number": 140,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 180179,
+          "resource_id": 33,
+          "text": "Dan Dialah yang menjadikan bintang-bintang bagimu, agar kamu menjadikannya petunjuk dalam kegelapan di darat dan di laut. Kami telah menjelaskan tanda-tanda (kekuasaan Kami) kepada orang-orang yang mengetahui."
+        }
+      ]
+    },
+    {
+      "id": 887,
+      "verse_number": 98,
+      "verse_key": "6:98",
+      "hizb_number": 14,
+      "rub_el_hizb_number": 56,
+      "ruku_number": 113,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَهُوَ ٱلَّذِىٓ أَنشَأَكُم مِّن نَّفْسٍ وَٰحِدَةٍ فَمُسْتَقَرٌّ وَمُسْتَوْدَعٌ ۗ قَدْ فَصَّلْنَا ٱلْـَٔايَـٰتِ لِقَوْمٍ يَفْقَهُونَ",
+      "chapter_id": 6,
+      "page_number": 140,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 180182,
+          "resource_id": 33,
+          "text": "Dan Dialah yang menciptakan kamu dari diri yang satu (Adam), maka (bagimu) ada tempat menetap dan tempat simpanan.<sup foot_note=135270>1</sup> Sesungguhnya telah Kami jelaskan tanda-tanda (kebesaran Kami) kepada orang-orang yang mengetahui."
+        }
+      ]
+    },
+    {
+      "id": 888,
+      "verse_number": 99,
+      "verse_key": "6:99",
+      "hizb_number": 14,
+      "rub_el_hizb_number": 56,
+      "ruku_number": 113,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَهُوَ ٱلَّذِىٓ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجْنَا بِهِۦ نَبَاتَ كُلِّ شَىْءٍ فَأَخْرَجْنَا مِنْهُ خَضِرًا نُّخْرِجُ مِنْهُ حَبًّا مُّتَرَاكِبًا وَمِنَ ٱلنَّخْلِ مِن طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّـٰتٍ مِّنْ أَعْنَابٍ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُشْتَبِهًا وَغَيْرَ مُتَشَـٰبِهٍ ۗ ٱنظُرُوٓا۟ إِلَىٰ ثَمَرِهِۦٓ إِذَآ أَثْمَرَ وَيَنْعِهِۦٓ ۚ إِنَّ فِى ذَٰلِكُمْ لَـَٔايَـٰتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+      "chapter_id": 6,
+      "page_number": 140,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 180185,
+          "resource_id": 33,
+          "text": "Dan Dialah yang menurunkan air dari langit, lalu Kami tumbuhkan dengan air itu segala macam tumbuh-tumbuhan, maka Kami keluarkan dari tumbuh-tumbuhan itu tanaman yang menghijau, Kami keluarkan dari tanaman yang menghijau itu butir yang banyak; dan dari mayang kurma, mengurai tangkai-tangkai yang menjulai, dan kebun-kebun anggur, dan (Kami keluarkan pula) zaitun dan delima yang serupa dan yang tidak serupa. Perhatikanlah buahnya pada waktu berbuah, dan menjadi masak. Sungguh, pada yang demikian itu ada tanda-tanda (kekuasaan Allah) bagi orang-orang yang beriman."
+        }
+      ]
+    },
+    {
+      "id": 889,
+      "verse_number": 100,
+      "verse_key": "6:100",
+      "hizb_number": 14,
+      "rub_el_hizb_number": 56,
+      "ruku_number": 113,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَجَعَلُوا۟ لِلَّهِ شُرَكَآءَ ٱلْجِنَّ وَخَلَقَهُمْ ۖ وَخَرَقُوا۟ لَهُۥ بَنِينَ وَبَنَـٰتٍۭ بِغَيْرِ عِلْمٍ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يَصِفُونَ",
+      "chapter_id": 6,
+      "page_number": 140,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 179816,
+          "resource_id": 33,
+          "text": "Dan mereka (orang-orang musyrik) menjadikan Jin itu sekutu-sekutu Allah, padahal Dia yang menciptakannya (jin-jin itu), dan mereka berbohong (dengan mengatakan), \"Allah mempunyai anak laki-laki dan anak perempuan,\" tanpa (dasar) pengetahuan.<sup foot_note=135271>1</sup> Maha Suci Allah dan Mahatinggi dari sifat-sifat yang mereka gambarkan."
+        }
+      ]
+    },
+    {
+      "id": 890,
+      "verse_number": 101,
+      "verse_key": "6:101",
+      "hizb_number": 14,
+      "rub_el_hizb_number": 56,
+      "ruku_number": 114,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "بَدِيعُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ أَنَّىٰ يَكُونُ لَهُۥ وَلَدٌ وَلَمْ تَكُن لَّهُۥ صَـٰحِبَةٌ ۖ وَخَلَقَ كُلَّ شَىْءٍ ۖ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "chapter_id": 6,
+      "page_number": 140,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 177442,
+          "resource_id": 33,
+          "text": "Dia (Allah) Pencipta langit dan bumi. Bagaimana (mungkin) Dia mempunyai anak padahal Dia tidak mempunyai istri. Dia menciptakan segala sesuatu; dan Dia mengetahui segala sesuatu."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 7,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 7
+  }
+}

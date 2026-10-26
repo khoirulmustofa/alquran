@@ -1,0 +1,158 @@
+{
+  "verses": [
+    {
+      "id": 783,
+      "verse_number": 114,
+      "verse_key": "5:114",
+      "hizb_number": 13,
+      "rub_el_hizb_number": 51,
+      "ruku_number": 100,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ عِيسَى ٱبْنُ مَرْيَمَ ٱللَّهُمَّ رَبَّنَآ أَنزِلْ عَلَيْنَا مَآئِدَةً مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيدًا لِّأَوَّلِنَا وَءَاخِرِنَا وَءَايَةً مِّنكَ ۖ وَٱرْزُقْنَا وَأَنتَ خَيْرُ ٱلرَّٰزِقِينَ",
+      "chapter_id": 5,
+      "page_number": 127,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 179260,
+          "resource_id": 33,
+          "text": "Isa putra Maryam berdoa, \"Ya Tuhan kami, turunkanlah kepada kami hidangan dari langit (yang hari turunnya) akan menjadi hari raya bagi kami, yaitu bagi orang-orang yang sekarang bersama kami maupun yang datang setelah kami, dan menjadi tanda bagi kekuasaan Engkau; berilah kami rezeki, dan Engkaulah sebaik-baik pemberi rezeki.\""
+        }
+      ]
+    },
+    {
+      "id": 784,
+      "verse_number": 115,
+      "verse_key": "5:115",
+      "hizb_number": 13,
+      "rub_el_hizb_number": 51,
+      "ruku_number": 100,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ ٱللَّهُ إِنِّى مُنَزِّلُهَا عَلَيْكُمْ ۖ فَمَن يَكْفُرْ بَعْدُ مِنكُمْ فَإِنِّىٓ أُعَذِّبُهُۥ عَذَابًا لَّآ أُعَذِّبُهُۥٓ أَحَدًا مِّنَ ٱلْعَـٰلَمِينَ",
+      "chapter_id": 5,
+      "page_number": 127,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 179262,
+          "resource_id": 33,
+          "text": "Allah berfirman, \"Sungguh, Aku akan menurunkan hidangan itu kepadamu, tetapi barang siapa kafir di antaramu setelah (turun hidangan) itu, maka sungguh, Aku akan mengazabnya dengan azab yang tidak pernah Aku timpakan kepada seorang pun di antara umat manusia (seluruh alam).\""
+        }
+      ]
+    },
+    {
+      "id": 785,
+      "verse_number": 116,
+      "verse_key": "5:116",
+      "hizb_number": 13,
+      "rub_el_hizb_number": 51,
+      "ruku_number": 101,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ قَالَ ٱللَّهُ يَـٰعِيسَى ٱبْنَ مَرْيَمَ ءَأَنتَ قُلْتَ لِلنَّاسِ ٱتَّخِذُونِى وَأُمِّىَ إِلَـٰهَيْنِ مِن دُونِ ٱللَّهِ ۖ قَالَ سُبْحَـٰنَكَ مَا يَكُونُ لِىٓ أَنْ أَقُولَ مَا لَيْسَ لِى بِحَقٍّ ۚ إِن كُنتُ قُلْتُهُۥ فَقَدْ عَلِمْتَهُۥ ۚ تَعْلَمُ مَا فِى نَفْسِى وَلَآ أَعْلَمُ مَا فِى نَفْسِكَ ۚ إِنَّكَ أَنتَ عَلَّـٰمُ ٱلْغُيُوبِ",
+      "chapter_id": 5,
+      "page_number": 127,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 179263,
+          "resource_id": 33,
+          "text": "Dan (ingatlah) ketika Allah berfirman, \"Wahai Isa putra Maryam! Engkaukah yang mengatakan kepada orang-orang, Jadikanlah aku dan ibuku sebagai dua Tuhan selain Allah?\" (Isa) menjawab, \"Maha Suci Engkau, tidak patut bagiku mengatakan apa yang bukan hakku. Jika aku pernah mengatakannya tentulah Engkau telah mengetahuinya. Engkau mengetahui apa yang ada pada diriku dan aku tidak mengetahui apa yang ada pada-Mu. Sungguh, Engkaulah Yang Maha Mengetahui segala yang gaib.\""
+        }
+      ]
+    },
+    {
+      "id": 786,
+      "verse_number": 117,
+      "verse_key": "5:117",
+      "hizb_number": 13,
+      "rub_el_hizb_number": 51,
+      "ruku_number": 101,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "مَا قُلْتُ لَهُمْ إِلَّا مَآ أَمَرْتَنِى بِهِۦٓ أَنِ ٱعْبُدُوا۟ ٱللَّهَ رَبِّى وَرَبَّكُمْ ۚ وَكُنتُ عَلَيْهِمْ شَهِيدًا مَّا دُمْتُ فِيهِمْ ۖ فَلَمَّا تَوَفَّيْتَنِى كُنتَ أَنتَ ٱلرَّقِيبَ عَلَيْهِمْ ۚ وَأَنتَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+      "chapter_id": 5,
+      "page_number": 127,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 179265,
+          "resource_id": 33,
+          "text": "Aku tidak pernah mengatakan kepada mereka kecuali apa yang Engkau perintahkan kepadaku (yaitu), \"Sembahlah Allah, Tuhanku dan Tuhanmu,\" dan aku menjadi saksi terhadap mereka, selama aku berada di tengah-tengah mereka. Maka setelah Engkau mewafatkan aku, Engkaulah yang mengawasi mereka. Dan Engkaulah Yang Maha Menyaksikan atas segala sesuatu."
+        }
+      ]
+    },
+    {
+      "id": 787,
+      "verse_number": 118,
+      "verse_key": "5:118",
+      "hizb_number": 13,
+      "rub_el_hizb_number": 51,
+      "ruku_number": 101,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "إِن تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ ۖ وَإِن تَغْفِرْ لَهُمْ فَإِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "chapter_id": 5,
+      "page_number": 127,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 179267,
+          "resource_id": 33,
+          "text": "Jika Engkau menyiksa mereka, maka sesungguhnya mereka adalah hamba-hamba-Mu, dan jika Engkau mengampuni mereka, sesungguhnya Engkaulah Yang Mahaperkasa, Mahabijaksana.\""
+        }
+      ]
+    },
+    {
+      "id": 788,
+      "verse_number": 119,
+      "verse_key": "5:119",
+      "hizb_number": 13,
+      "rub_el_hizb_number": 51,
+      "ruku_number": 101,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ ٱللَّهُ هَـٰذَا يَوْمُ يَنفَعُ ٱلصَّـٰدِقِينَ صِدْقُهُمْ ۚ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "chapter_id": 5,
+      "page_number": 127,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 179268,
+          "resource_id": 33,
+          "text": "Allah berfirman, \"Inilah saat orang yang benar memperoleh manfaat dari kebenarannya. Mereka memperoleh surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya selama-lamanya. Allah rida kepada mereka dan mereka pun rida kepada-Nya. Itulah kemenangan yang agung.\""
+        }
+      ]
+    },
+    {
+      "id": 789,
+      "verse_number": 120,
+      "verse_key": "5:120",
+      "hizb_number": 13,
+      "rub_el_hizb_number": 51,
+      "ruku_number": 101,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "لِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا فِيهِنَّ ۚ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌۢ",
+      "chapter_id": 5,
+      "page_number": 127,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 181860,
+          "resource_id": 33,
+          "text": "Milik Allah kerajaan langit dan bumi dan apa yang ada di dalamnya; dan Dia Mahakuasa atas segala sesuatu."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 7,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 7
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "verses": [
+    {
+      "id": 3705,
+      "verse_number": 45,
+      "verse_key": "35:45",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 176,
+      "ruku_number": 382,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَوْ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ بِمَا كَسَبُوا۟ مَا تَرَكَ عَلَىٰ ظَهْرِهَا مِن دَآبَّةٍ وَلَـٰكِن يُؤَخِّرُهُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۖ فَإِذَا جَآءَ أَجَلُهُمْ فَإِنَّ ٱللَّهَ كَانَ بِعِبَادِهِۦ بَصِيرًۢا",
+      "chapter_id": 35,
+      "page_number": 440,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178067,
+          "resource_id": 33,
+          "text": "Dan sekiranya Allah menghukum manusia disebabkan apa yang telah mereka perbuat, niscaya Dia tidak akan menyisakan satu pun makhluk bergerak yang bernyawa di bumi ini, tetapi Dia menangguhkan (hukuman)-nya, sampai waktu yang sudah ditentukan. Nanti apabila ajal mereka tiba, maka Allah Maha Melihat (keadaan) hamba-hamba-Nya."
+        }
+      ]
+    },
+    {
+      "id": 3706,
+      "verse_number": 1,
+      "verse_key": "36:1",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 176,
+      "ruku_number": 383,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": " يسٓ",
+      "chapter_id": 36,
+      "page_number": 440,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 177339,
+          "resource_id": 33,
+          "text": "Yā Sīn"
+        }
+      ]
+    },
+    {
+      "id": 3707,
+      "verse_number": 2,
+      "verse_key": "36:2",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 176,
+      "ruku_number": 383,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلْقُرْءَانِ ٱلْحَكِيمِ",
+      "chapter_id": 36,
+      "page_number": 440,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178096,
+          "resource_id": 33,
+          "text": "Demi Alquran yang penuh hikmah,"
+        }
+      ]
+    },
+    {
+      "id": 3708,
+      "verse_number": 3,
+      "verse_key": "36:3",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 176,
+      "ruku_number": 383,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّكَ لَمِنَ ٱلْمُرْسَلِينَ",
+      "chapter_id": 36,
+      "page_number": 440,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178104,
+          "resource_id": 33,
+          "text": "sungguh, engkau (Muhammad) adalah salah seorang dari rasul-rasul,"
+        }
+      ]
+    },
+    {
+      "id": 3709,
+      "verse_number": 4,
+      "verse_key": "36:4",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 176,
+      "ruku_number": 383,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "chapter_id": 36,
+      "page_number": 440,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 181297,
+          "resource_id": 33,
+          "text": "(yang berada) di atas jalan yang lurus,"
+        }
+      ]
+    },
+    {
+      "id": 3710,
+      "verse_number": 5,
+      "verse_key": "36:5",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 176,
+      "ruku_number": 383,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "تَنزِيلَ ٱلْعَزِيزِ ٱلرَّحِيمِ",
+      "chapter_id": 36,
+      "page_number": 440,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178126,
+          "resource_id": 33,
+          "text": "(sebagai wahyu) yang diturunkan oleh (Allah) Yang Mahaperkasa, Maha Penyayang,"
+        }
+      ]
+    },
+    {
+      "id": 3711,
+      "verse_number": 6,
+      "verse_key": "36:6",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 176,
+      "ruku_number": 383,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "لِتُنذِرَ قَوْمًا مَّآ أُنذِرَ ءَابَآؤُهُمْ فَهُمْ غَـٰفِلُونَ",
+      "chapter_id": 36,
+      "page_number": 440,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178138,
+          "resource_id": 33,
+          "text": "agar engkau memberi peringatan kepada suatu kaum yang nenek moyangnya belum pernah diberi peringatan, karena itu mereka lalai."
+        }
+      ]
+    },
+    {
+      "id": 3712,
+      "verse_number": 7,
+      "verse_key": "36:7",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 176,
+      "ruku_number": 383,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "لَقَدْ حَقَّ ٱلْقَوْلُ عَلَىٰٓ أَكْثَرِهِمْ فَهُمْ لَا يُؤْمِنُونَ",
+      "chapter_id": 36,
+      "page_number": 440,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178149,
+          "resource_id": 33,
+          "text": "Sungguh, pasti berlaku perkataan (hukuman) terhadap kebanyakan mereka, karena mereka tidak beriman."
+        }
+      ]
+    },
+    {
+      "id": 3713,
+      "verse_number": 8,
+      "verse_key": "36:8",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 176,
+      "ruku_number": 383,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا جَعَلْنَا فِىٓ أَعْنَـٰقِهِمْ أَغْلَـٰلًا فَهِىَ إِلَى ٱلْأَذْقَانِ فَهُم مُّقْمَحُونَ",
+      "chapter_id": 36,
+      "page_number": 440,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178161,
+          "resource_id": 33,
+          "text": "Sungguh, Kami telah memasang belenggu di leher mereka, lalu tangan mereka (diangkat) ke dagu, karena itu mereka tertengadah."
+        }
+      ]
+    },
+    {
+      "id": 3714,
+      "verse_number": 9,
+      "verse_key": "36:9",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 176,
+      "ruku_number": 383,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَجَعَلْنَا مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَـٰهُمْ فَهُمْ لَا يُبْصِرُونَ",
+      "chapter_id": 36,
+      "page_number": 440,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178167,
+          "resource_id": 33,
+          "text": "Dan Kami jadikan di hadapan mereka sekat (dinding) dan di belakang mereka juga sekat, dan Kami tutup (mata) mereka sehingga mereka tidak dapat melihat."
+        }
+      ]
+    },
+    {
+      "id": 3715,
+      "verse_number": 10,
+      "verse_key": "36:10",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 176,
+      "ruku_number": 383,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+      "chapter_id": 36,
+      "page_number": 440,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178083,
+          "resource_id": 33,
+          "text": "Dan sama saja bagi mereka, apakah engkau memberi peringatan kepada mereka atau engkau tidak memberi peringatan kepada mereka, mereka tidak akan beriman juga."
+        }
+      ]
+    },
+    {
+      "id": 3716,
+      "verse_number": 11,
+      "verse_key": "36:11",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 176,
+      "ruku_number": 383,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّمَا تُنذِرُ مَنِ ٱتَّبَعَ ٱلذِّكْرَ وَخَشِىَ ٱلرَّحْمَـٰنَ بِٱلْغَيْبِ ۖ فَبَشِّرْهُ بِمَغْفِرَةٍ وَأَجْرٍ كَرِيمٍ",
+      "chapter_id": 36,
+      "page_number": 440,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178082,
+          "resource_id": 33,
+          "text": "Sesungguhnya engkau hanya memberi peringatan kepada orang-orang yang mau mengikuti peringatan<sup foot_note=135668>1</sup> dan yang takut kepada Tuhan Yang Maha Pengasih, walaupun mereka tidak melihat-Nya. Maka berilah mereka kabar gembira dengan ampunan dan pahala yang mulia."
+        }
+      ]
+    },
+    {
+      "id": 3717,
+      "verse_number": 12,
+      "verse_key": "36:12",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 176,
+      "ruku_number": 383,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا نَحْنُ نُحْىِ ٱلْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا۟ وَءَاثَـٰرَهُمْ ۚ وَكُلَّ شَىْءٍ أَحْصَيْنَـٰهُ فِىٓ إِمَامٍ مُّبِينٍ",
+      "chapter_id": 36,
+      "page_number": 440,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178086,
+          "resource_id": 33,
+          "text": "Sungguh, Kamilah yang menghidupkan orang-orang yang mati, dan Kamilah yang mencatat apa yang telah mereka kerjakan dan bekas-bekas yang mereka (tinggalkan). Dan segala sesuatu Kami kumpulkan dalam Kitab yang jelas (Lauḥ Maḥfūẓ)."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 13,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 13
+  }
+}

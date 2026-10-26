@@ -1,0 +1,200 @@
+{
+  "verses": [
+    {
+      "id": 355,
+      "verse_number": 62,
+      "verse_key": "3:62",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 23,
+      "ruku_number": 47,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ هَـٰذَا لَهُوَ ٱلْقَصَصُ ٱلْحَقُّ ۚ وَمَا مِنْ إِلَـٰهٍ إِلَّا ٱللَّهُ ۚ وَإِنَّ ٱللَّهَ لَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "chapter_id": 3,
+      "page_number": 58,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 178091,
+          "resource_id": 33,
+          "text": "Sungguh, ini adalah kisah yang benar. Tidak ada tuhan selain Allah, dan sungguh, Allah Mahaperkasa, Mahabijaksana."
+        }
+      ]
+    },
+    {
+      "id": 356,
+      "verse_number": 63,
+      "verse_key": "3:63",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 23,
+      "ruku_number": 47,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ عَلِيمٌۢ بِٱلْمُفْسِدِينَ",
+      "chapter_id": 3,
+      "page_number": 58,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 178103,
+          "resource_id": 33,
+          "text": "Kemudian jika mereka berpaling, maka (ketahuilah) bahwa Allah Maha Mengetahui orang-orang yang berbuat kerusakan."
+        }
+      ]
+    },
+    {
+      "id": 357,
+      "verse_number": 64,
+      "verse_key": "3:64",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 23,
+      "ruku_number": 48,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِّن دُونِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ",
+      "chapter_id": 3,
+      "page_number": 58,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 178113,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Wahai Ahli Kitab! Marilah (kita) menuju kepada satu kalimat (pegangan) yang sama antara kami dan kamu, bahwa kita tidak menyembah selain Allah dan kita tidak mempersekutukan-Nya dengan sesuatu pun, dan bahwa kita tidak menjadikan satu sama lain tuhan-tuhan selain Allah. Jika mereka berpaling maka katakanlah (kepada mereka), \"Saksikanlah, bahwa kami adalah orang Muslim.\""
+        }
+      ]
+    },
+    {
+      "id": 358,
+      "verse_number": 65,
+      "verse_key": "3:65",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 23,
+      "ruku_number": 48,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تُحَآجُّونَ فِىٓ إِبْرَٰهِيمَ وَمَآ أُنزِلَتِ ٱلتَّوْرَىٰةُ وَٱلْإِنجِيلُ إِلَّا مِنۢ بَعْدِهِۦٓ ۚ أَفَلَا تَعْقِلُونَ",
+      "chapter_id": 3,
+      "page_number": 58,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 178125,
+          "resource_id": 33,
+          "text": "Wahai Ahli Kitab! Mengapa kamu berbantah-bantahan<sup foot_note=135073>1</sup> tentang Ibrahim, padahal Taurat dan Injil diturunkan setelah dia (Ibrahim)? Apakah kamu tidak mengerti?"
+        }
+      ]
+    },
+    {
+      "id": 359,
+      "verse_number": 66,
+      "verse_key": "3:66",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 23,
+      "ruku_number": 48,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "هَـٰٓأَنتُمْ هَـٰٓؤُلَآءِ حَـٰجَجْتُمْ فِيمَا لَكُم بِهِۦ عِلْمٌ فَلِمَ تُحَآجُّونَ فِيمَا لَيْسَ لَكُم بِهِۦ عِلْمٌ ۚ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+      "chapter_id": 3,
+      "page_number": 58,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 178137,
+          "resource_id": 33,
+          "text": "Begitulah kamu! Kamu berbantah-bantahan tentang apa yang kamu ketahui,<sup foot_note=135074>1</sup> tetapi mengapa kamu berbantah-bantahan juga tentang apa yang tidak kamu ketahui?<sup foot_note=135075>2</sup> Allah mengetahui sedang kamu tidak mengetahui."
+        }
+      ]
+    },
+    {
+      "id": 360,
+      "verse_number": 67,
+      "verse_key": "3:67",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 23,
+      "ruku_number": 48,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "مَا كَانَ إِبْرَٰهِيمُ يَهُودِيًّا وَلَا نَصْرَانِيًّا وَلَـٰكِن كَانَ حَنِيفًا مُّسْلِمًا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ",
+      "chapter_id": 3,
+      "page_number": 58,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 178148,
+          "resource_id": 33,
+          "text": "Ibrahim bukanlah seorang Yahudi dan bukan (pula) seorang Nasrani, tetapi dia adalah seorang yang lurus,<sup foot_note=135076>1</sup> muslim dan dia tidaklah termasuk orang-orang musyrik."
+        }
+      ]
+    },
+    {
+      "id": 361,
+      "verse_number": 68,
+      "verse_key": "3:68",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 23,
+      "ruku_number": 48,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ أَوْلَى ٱلنَّاسِ بِإِبْرَٰهِيمَ لَلَّذِينَ ٱتَّبَعُوهُ وَهَـٰذَا ٱلنَّبِىُّ وَٱلَّذِينَ ءَامَنُوا۟ ۗ وَٱللَّهُ وَلِىُّ ٱلْمُؤْمِنِينَ",
+      "chapter_id": 3,
+      "page_number": 58,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 178160,
+          "resource_id": 33,
+          "text": "Orang yang paling dekat kepada Ibrahim ialah orang yang mengikutinya, dan Nabi ini (Muhammad), dan orang yang beriman. Allah adalah pelindung orang-orang yang beriman."
+        }
+      ]
+    },
+    {
+      "id": 362,
+      "verse_number": 69,
+      "verse_key": "3:69",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 23,
+      "ruku_number": 48,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَدَّت طَّآئِفَةٌ مِّنْ أَهْلِ ٱلْكِتَـٰبِ لَوْ يُضِلُّونَكُمْ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
+      "chapter_id": 3,
+      "page_number": 58,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 178166,
+          "resource_id": 33,
+          "text": "Segolongan Ahli Kitab ingin menyesatkan kamu. Padahal (sesungguhnya), mereka tidak menyesatkan melainkan diri mereka sendiri, tetapi mereka tidak menyadari."
+        }
+      ]
+    },
+    {
+      "id": 363,
+      "verse_number": 70,
+      "verse_key": "3:70",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 23,
+      "ruku_number": 48,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَأَنتُمْ تَشْهَدُونَ",
+      "chapter_id": 3,
+      "page_number": 58,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 181831,
+          "resource_id": 33,
+          "text": "Wahai Ahli Kitab! Mengapa kamu mengingkari ayat-ayat Allah,<sup foot_note=135077>1</sup> padahal kamu mengetahui (kebenarannya)?"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 9,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 9
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "verses": [
+    {
+      "id": 936,
+      "verse_number": 147,
+      "verse_key": "6:147",
+      "hizb_number": 15,
+      "rub_el_hizb_number": 59,
+      "ruku_number": 119,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "فَإِن كَذَّبُوكَ فَقُل رَّبُّكُمْ ذُو رَحْمَةٍ وَٰسِعَةٍ وَلَا يُرَدُّ بَأْسُهُۥ عَنِ ٱلْقَوْمِ ٱلْمُجْرِمِينَ",
+      "chapter_id": 6,
+      "page_number": 148,
+      "juz_number": 8,
+      "translations": [
+        {
+          "id": 179876,
+          "resource_id": 33,
+          "text": "Maka jika mereka mendustakan kamu, katakanlah, \"Tuhanmu mempunyai rahmat yang luas, dan siksa-Nya kepada orang-orang yang berdosa tidak dapat dielakkan.\""
+        }
+      ]
+    },
+    {
+      "id": 937,
+      "verse_number": 148,
+      "verse_key": "6:148",
+      "hizb_number": 15,
+      "rub_el_hizb_number": 59,
+      "ruku_number": 119,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "سَيَقُولُ ٱلَّذِينَ أَشْرَكُوا۟ لَوْ شَآءَ ٱللَّهُ مَآ أَشْرَكْنَا وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن شَىْءٍ ۚ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ حَتَّىٰ ذَاقُوا۟ بَأْسَنَا ۗ قُلْ هَلْ عِندَكُم مِّنْ عِلْمٍ فَتُخْرِجُوهُ لَنَآ ۖ إِن تَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ أَنتُمْ إِلَّا تَخْرُصُونَ",
+      "chapter_id": 6,
+      "page_number": 148,
+      "juz_number": 8,
+      "translations": [
+        {
+          "id": 179878,
+          "resource_id": 33,
+          "text": "Orang-orang musyrik akan berkata, \"Jika Allah menghendaki, tentu kami tidak akan mempersekutukan-Nya, begitu pula nenek moyang kami, dan kami tidak akan mengharamkan apa pun.\" Demikian pula orang-orang sebelum mereka yang telah mendustakan (para Rasul) sampai mereka merasakan azab Kami. Katakanlah (Muhammad), \"Apakah kamu mempunyai pengetahuan yang dapat kamu kemukakan kepada kami? Yang kamu ikuti hanya persangkaan belaka, dan kamu hanya mengira.\""
+        }
+      ]
+    },
+    {
+      "id": 938,
+      "verse_number": 149,
+      "verse_key": "6:149",
+      "hizb_number": 15,
+      "rub_el_hizb_number": 59,
+      "ruku_number": 119,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ فَلِلَّهِ ٱلْحُجَّةُ ٱلْبَـٰلِغَةُ ۖ فَلَوْ شَآءَ لَهَدَىٰكُمْ أَجْمَعِينَ",
+      "chapter_id": 6,
+      "page_number": 148,
+      "juz_number": 8,
+      "translations": [
+        {
+          "id": 179884,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Alasan yang kuat hanya pada Allah. Maka kalau Dia menghendaki, niscaya kamu semua mendapat petunjuk.\""
+        }
+      ]
+    },
+    {
+      "id": 939,
+      "verse_number": 150,
+      "verse_key": "6:150",
+      "hizb_number": 15,
+      "rub_el_hizb_number": 59,
+      "ruku_number": 119,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ هَلُمَّ شُهَدَآءَكُمُ ٱلَّذِينَ يَشْهَدُونَ أَنَّ ٱللَّهَ حَرَّمَ هَـٰذَا ۖ فَإِن شَهِدُوا۟ فَلَا تَشْهَدْ مَعَهُمْ ۚ وَلَا تَتَّبِعْ أَهْوَآءَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ وَهُم بِرَبِّهِمْ يَعْدِلُونَ",
+      "chapter_id": 6,
+      "page_number": 148,
+      "juz_number": 8,
+      "translations": [
+        {
+          "id": 179882,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Bawalah saksi-saksimu yang dapat membuktikan bahwa Allah mengharamkan ini.\" Jika mereka memberikan kesaksian, engkau jangan (ikut pula) memberikan kesaksian bersama mereka. Jangan engkau ikuti keinginan orang-orang yang mendustakan ayat-ayat Kami dan orang-orang yang tidak beriman kepada akhirat, dan mereka mempersekutukan Tuhan."
+        }
+      ]
+    },
+    {
+      "id": 940,
+      "verse_number": 151,
+      "verse_key": "6:151",
+      "hizb_number": 15,
+      "rub_el_hizb_number": 60,
+      "ruku_number": 120,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "۞ قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ ۖ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًا ۖ وَلَا تَقْتُلُوٓا۟ أَوْلَـٰدَكُم مِّنْ إِمْلَـٰقٍ ۖ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ ۖ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ ۖ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ",
+      "chapter_id": 6,
+      "page_number": 148,
+      "juz_number": 8,
+      "translations": [
+        {
+          "id": 179883,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Marilah aku bacakan apa yang diharamkan Tuhan kepadamu. Jangan mempersekutukan-Nya dengan apa pun, berbuat baik kepada ibu bapak, janganlah membunuh anak-anakmu karena miskin. Kamilah yang memberi rezeki kepadamu dan kepada mereka; janganlah kamu mendekati perbuatan keji, baik yang terlihat ataupun yang tersembunyi, janganlah kamu membunuh orang yang diharamkan Allah kecuali dengan alasan yang benar.<sup foot_note=135279>1</sup> Demikianlah Dia memerintahkan kepadamu agar kamu mengerti."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 5,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 5
+  }
+}

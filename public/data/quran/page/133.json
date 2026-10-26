@@ -1,0 +1,179 @@
+{
+  "verses": [
+    {
+      "id": 834,
+      "verse_number": 45,
+      "verse_key": "6:45",
+      "hizb_number": 14,
+      "rub_el_hizb_number": 53,
+      "ruku_number": 106,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "فَقُطِعَ دَابِرُ ٱلْقَوْمِ ٱلَّذِينَ ظَلَمُوا۟ ۚ وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+      "chapter_id": 6,
+      "page_number": 133,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 179971,
+          "resource_id": 33,
+          "text": "Maka orang-orang yang zalim itu dimusnahkan sampai ke akar-akarnya. Dan segala puji bagi Allah, Tuhan seluruh alam."
+        }
+      ]
+    },
+    {
+      "id": 835,
+      "verse_number": 46,
+      "verse_key": "6:46",
+      "hizb_number": 14,
+      "rub_el_hizb_number": 53,
+      "ruku_number": 106,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ أَرَءَيْتُمْ إِنْ أَخَذَ ٱللَّهُ سَمْعَكُمْ وَأَبْصَـٰرَكُمْ وَخَتَمَ عَلَىٰ قُلُوبِكُم مَّنْ إِلَـٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِهِ ۗ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْـَٔايَـٰتِ ثُمَّ هُمْ يَصْدِفُونَ",
+      "chapter_id": 6,
+      "page_number": 133,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 179973,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Terangkanlah kepadaku jika Allah mencabut pendengaran dan penglihatan serta menutup hatimu, siapakah tuhan selain Allah yang kuasa mengembalikannya kepadamu?\" Perhatikanlah, bagaimana Kami menjelaskan berulang-ulang (kepada mereka) tanda-tanda kekuasaan (Kami), tetapi mereka tetap berpaling."
+        }
+      ]
+    },
+    {
+      "id": 836,
+      "verse_number": 47,
+      "verse_key": "6:47",
+      "hizb_number": 14,
+      "rub_el_hizb_number": 53,
+      "ruku_number": 106,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ أَرَءَيْتَكُمْ إِنْ أَتَىٰكُمْ عَذَابُ ٱللَّهِ بَغْتَةً أَوْ جَهْرَةً هَلْ يُهْلَكُ إِلَّا ٱلْقَوْمُ ٱلظَّـٰلِمُونَ",
+      "chapter_id": 6,
+      "page_number": 133,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 179976,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Terangkanlah kepadaku jika siksaan Allah sampai kepadamu secara tiba-tiba atau terang-terangan, maka adakah yang dibinasakan (Allah) selain orang-orang yang zalim?\""
+        }
+      ]
+    },
+    {
+      "id": 837,
+      "verse_number": 48,
+      "verse_key": "6:48",
+      "hizb_number": 14,
+      "rub_el_hizb_number": 53,
+      "ruku_number": 106,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا نُرْسِلُ ٱلْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ ۖ فَمَنْ ءَامَنَ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "chapter_id": 6,
+      "page_number": 133,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 179978,
+          "resource_id": 33,
+          "text": "Para Rasul yang Kami utus itu adalah untuk memberi kabar gembira dan memberi peringatan. Barang siapa beriman dan mengadakan perbaikan, maka tidak ada rasa takut pada mereka dan mereka tidak bersedih hati."
+        }
+      ]
+    },
+    {
+      "id": 838,
+      "verse_number": 49,
+      "verse_key": "6:49",
+      "hizb_number": 14,
+      "rub_el_hizb_number": 53,
+      "ruku_number": 106,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا يَمَسُّهُمُ ٱلْعَذَابُ بِمَا كَانُوا۟ يَفْسُقُونَ",
+      "chapter_id": 6,
+      "page_number": 133,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 179948,
+          "resource_id": 33,
+          "text": "Dan orang-orang yang mendustakan ayat-ayat Kami, akan ditimpa azab karena mereka selalu berbuat fasik (berbuat dosa)."
+        }
+      ]
+    },
+    {
+      "id": 839,
+      "verse_number": 50,
+      "verse_key": "6:50",
+      "hizb_number": 14,
+      "rub_el_hizb_number": 53,
+      "ruku_number": 106,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "قُل لَّآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ وَلَآ أَقُولُ لَكُمْ إِنِّى مَلَكٌ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ ۚ أَفَلَا تَتَفَكَّرُونَ",
+      "chapter_id": 6,
+      "page_number": 133,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 179983,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Aku tidak mengatakan kepadamu, bahwa perbendaharaan Allah ada padaku, dan aku tidak mengetahui yang gaib dan aku tidak (pula) mengatakan kepadamu bahwa aku malaikat. Aku hanya mengikuti apa yang diwahyukan kepadaku.\" Katakanlah, \"Apakah sama antara orang yang buta dengan orang yang melihat? Apakah kamu tidak memikirkan (nya)?\""
+        }
+      ]
+    },
+    {
+      "id": 840,
+      "verse_number": 51,
+      "verse_key": "6:51",
+      "hizb_number": 14,
+      "rub_el_hizb_number": 53,
+      "ruku_number": 107,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَنذِرْ بِهِ ٱلَّذِينَ يَخَافُونَ أَن يُحْشَرُوٓا۟ إِلَىٰ رَبِّهِمْ ۙ لَيْسَ لَهُم مِّن دُونِهِۦ وَلِىٌّ وَلَا شَفِيعٌ لَّعَلَّهُمْ يَتَّقُونَ",
+      "chapter_id": 6,
+      "page_number": 133,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 179985,
+          "resource_id": 33,
+          "text": "Peringatkanlah dengannya (Alquran) itu orang yang takut akan dikumpulkan menghadap Tuhannya (pada hari Kiamat), tidak ada bagi mereka pelindung dan pemberi syafaat (pertolongan) selain Allah, agar mereka bertakwa."
+        }
+      ]
+    },
+    {
+      "id": 841,
+      "verse_number": 52,
+      "verse_key": "6:52",
+      "hizb_number": 14,
+      "rub_el_hizb_number": 53,
+      "ruku_number": 107,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَا تَطْرُدِ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ مَا عَلَيْكَ مِنْ حِسَابِهِم مِّن شَىْءٍ وَمَا مِنْ حِسَابِكَ عَلَيْهِم مِّن شَىْءٍ فَتَطْرُدَهُمْ فَتَكُونَ مِنَ ٱلظَّـٰلِمِينَ",
+      "chapter_id": 6,
+      "page_number": 133,
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 179990,
+          "resource_id": 33,
+          "text": "Janganlah engkau mengusir orang-orang yang menyeru Tuhannya di pagi hari dan petang hari, mereka mengharapkan keridaan-Nya. Engkau tidak memikul tanggung jawab sedikit pun terhadap perbuatan mereka dan mereka tidak memikul tanggung jawab sedikit pun terhadap perbuatanmu, yang menyebabkan engkau (berhak) mengusir mereka, sehingga engkau termasuk orang-orang yang zalim.<sup foot_note=135261>1</sup>"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 8,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 8
+  }
+}

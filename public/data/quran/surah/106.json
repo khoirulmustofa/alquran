@@ -1,0 +1,95 @@
+{
+  "verses": [
+    {
+      "id": 6194,
+      "verse_number": 1,
+      "verse_key": "106:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 550,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " لِإِيلَـٰفِ قُرَيْشٍ",
+      "chapter_id": 106,
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181997,
+          "resource_id": 33,
+          "text": "Karena kebiasaan orang-orang Quraisy,"
+        }
+      ]
+    },
+    {
+      "id": 6195,
+      "verse_number": 2,
+      "verse_key": "106:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 550,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+      "chapter_id": 106,
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181398,
+          "resource_id": 33,
+          "text": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas.<sup foot_note=135877>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 6196,
+      "verse_number": 3,
+      "verse_key": "106:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 550,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ",
+      "chapter_id": 106,
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181347,
+          "resource_id": 33,
+          "text": "Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka'bah),"
+        }
+      ]
+    },
+    {
+      "id": 6197,
+      "verse_number": 4,
+      "verse_key": "106:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 550,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+      "chapter_id": 106,
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181375,
+          "resource_id": 33,
+          "text": "yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 300,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 4
+  }
+}

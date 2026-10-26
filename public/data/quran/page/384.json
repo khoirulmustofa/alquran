@@ -1,0 +1,263 @@
+{
+  "verses": [
+    {
+      "id": 3236,
+      "verse_number": 77,
+      "verse_key": "27:77",
+      "hizb_number": 39,
+      "rub_el_hizb_number": 153,
+      "ruku_number": 332,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّهُۥ لَهُدًى وَرَحْمَةٌ لِّلْمُؤْمِنِينَ",
+      "chapter_id": 27,
+      "page_number": 384,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177259,
+          "resource_id": 33,
+          "text": "Dan Sungguh, (Alquran) itu benar-benar menjadi petunjuk dan rahmat bagi orang-orang yang beriman."
+        }
+      ]
+    },
+    {
+      "id": 3237,
+      "verse_number": 78,
+      "verse_key": "27:78",
+      "hizb_number": 39,
+      "rub_el_hizb_number": 153,
+      "ruku_number": 332,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ رَبَّكَ يَقْضِى بَيْنَهُم بِحُكْمِهِۦ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْعَلِيمُ",
+      "chapter_id": 27,
+      "page_number": 384,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177295,
+          "resource_id": 33,
+          "text": "Sungguh, Tuhanmu akan menyelesaikannya (perkara) di antara mereka dengan hukum-Nya, dan Dia Mahaperkasa, Maha Mengetahui."
+        }
+      ]
+    },
+    {
+      "id": 3238,
+      "verse_number": 79,
+      "verse_key": "27:79",
+      "hizb_number": 39,
+      "rub_el_hizb_number": 153,
+      "ruku_number": 332,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "فَتَوَكَّلْ عَلَى ٱللَّهِ ۖ إِنَّكَ عَلَى ٱلْحَقِّ ٱلْمُبِينِ",
+      "chapter_id": 27,
+      "page_number": 384,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177298,
+          "resource_id": 33,
+          "text": "Maka bertawakallah kepada Allah, sungguh engkau (Muhammad) berada di atas kebenaran yang nyata."
+        }
+      ]
+    },
+    {
+      "id": 3239,
+      "verse_number": 80,
+      "verse_key": "27:80",
+      "hizb_number": 39,
+      "rub_el_hizb_number": 153,
+      "ruku_number": 332,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّكَ لَا تُسْمِعُ ٱلْمَوْتَىٰ وَلَا تُسْمِعُ ٱلصُّمَّ ٱلدُّعَآءَ إِذَا وَلَّوْا۟ مُدْبِرِينَ",
+      "chapter_id": 27,
+      "page_number": 384,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177301,
+          "resource_id": 33,
+          "text": "Sungguh, engkau tidak dapat menjadikan orang yang mati dapat mendengar dan (tidak pula) menjadikan orang yang tuli dapat mendengar seruan, apabila mereka telah berpaling ke belakang."
+        }
+      ]
+    },
+    {
+      "id": 3240,
+      "verse_number": 81,
+      "verse_key": "27:81",
+      "hizb_number": 39,
+      "rub_el_hizb_number": 153,
+      "ruku_number": 332,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَنتَ بِهَـٰدِى ٱلْعُمْىِ عَن ضَلَـٰلَتِهِمْ ۖ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِـَٔايَـٰتِنَا فَهُم مُّسْلِمُونَ",
+      "chapter_id": 27,
+      "page_number": 384,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177303,
+          "resource_id": 33,
+          "text": "Dan engkau tidak akan dapat memberi petunjuk orang buta dari kesesatannya. Engkau tidak dapat menjadikan (seorang pun) mendengar, kecuali orang-orang yang beriman kepada ayat-ayat Kami, lalu mereka berserah diri."
+        }
+      ]
+    },
+    {
+      "id": 3241,
+      "verse_number": 82,
+      "verse_key": "27:82",
+      "hizb_number": 39,
+      "rub_el_hizb_number": 154,
+      "ruku_number": 332,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "۞ وَإِذَا وَقَعَ ٱلْقَوْلُ عَلَيْهِمْ أَخْرَجْنَا لَهُمْ دَآبَّةً مِّنَ ٱلْأَرْضِ تُكَلِّمُهُمْ أَنَّ ٱلنَّاسَ كَانُوا۟ بِـَٔايَـٰتِنَا لَا يُوقِنُونَ",
+      "chapter_id": 27,
+      "page_number": 384,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177308,
+          "resource_id": 33,
+          "text": "Dan apabila perkataan (ketentuan masa kehancuran alam) telah berlaku atas mereka, Kami keluarkan makhluk bergerak yang bernyawa dari bumi yang akan mengatakan kepada mereka bahwa manusia dahulu tidak yakin kepada ayat-ayat Kami."
+        }
+      ]
+    },
+    {
+      "id": 3242,
+      "verse_number": 83,
+      "verse_key": "27:83",
+      "hizb_number": 39,
+      "rub_el_hizb_number": 154,
+      "ruku_number": 333,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَيَوْمَ نَحْشُرُ مِن كُلِّ أُمَّةٍ فَوْجًا مِّمَّن يُكَذِّبُ بِـَٔايَـٰتِنَا فَهُمْ يُوزَعُونَ",
+      "chapter_id": 27,
+      "page_number": 384,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177306,
+          "resource_id": 33,
+          "text": "Dan (ingatlah) pada hari (ketika) Kami mengumpulkan dari setiap umat, segolongan orang yang mendustakan ayat-ayat Kami, lalu mereka dibagi-bagi (dalam kelompok-kelompok)."
+        }
+      ]
+    },
+    {
+      "id": 3243,
+      "verse_number": 84,
+      "verse_key": "27:84",
+      "hizb_number": 39,
+      "rub_el_hizb_number": 154,
+      "ruku_number": 333,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "حَتَّىٰٓ إِذَا جَآءُو قَالَ أَكَذَّبْتُم بِـَٔايَـٰتِى وَلَمْ تُحِيطُوا۟ بِهَا عِلْمًا أَمَّاذَا كُنتُمْ تَعْمَلُونَ",
+      "chapter_id": 27,
+      "page_number": 384,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177310,
+          "resource_id": 33,
+          "text": "Hingga apabila mereka datang, Dia (Allah) berfirman, \"Mengapa kamu dulu mendustakan ayat-ayat-Ku, padahal kamu tidak mempunyai pengetahuan tentang itu,<sup foot_note=135555>1</sup> atau apakah yang telah kamu kerjakan?\""
+        }
+      ]
+    },
+    {
+      "id": 3244,
+      "verse_number": 85,
+      "verse_key": "27:85",
+      "hizb_number": 39,
+      "rub_el_hizb_number": 154,
+      "ruku_number": 333,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَوَقَعَ ٱلْقَوْلُ عَلَيْهِم بِمَا ظَلَمُوا۟ فَهُمْ لَا يَنطِقُونَ",
+      "chapter_id": 27,
+      "page_number": 384,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177312,
+          "resource_id": 33,
+          "text": "Dan berlakulah perkataan (janji azab) atas mereka karena kezaliman mereka, maka mereka tidak dapat berkata."
+        }
+      ]
+    },
+    {
+      "id": 3245,
+      "verse_number": 86,
+      "verse_key": "27:86",
+      "hizb_number": 39,
+      "rub_el_hizb_number": 154,
+      "ruku_number": 333,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَمْ يَرَوْا۟ أَنَّا جَعَلْنَا ٱلَّيْلَ لِيَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+      "chapter_id": 27,
+      "page_number": 384,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177314,
+          "resource_id": 33,
+          "text": "Apakah mereka tidak memperhatikan bahwa Kami telah menjadikan malam agar mereka beristirahat padanya dan (menjadikan) siang yang menerangi? Sungguh, pada yang demikian itu terdapat tanda-tanda (kebesaran Allah) bagi orang-orang yang beriman."
+        }
+      ]
+    },
+    {
+      "id": 3246,
+      "verse_number": 87,
+      "verse_key": "27:87",
+      "hizb_number": 39,
+      "rub_el_hizb_number": 154,
+      "ruku_number": 333,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَيَوْمَ يُنفَخُ فِى ٱلصُّورِ فَفَزِعَ مَن فِى ٱلسَّمَـٰوَٰتِ وَمَن فِى ٱلْأَرْضِ إِلَّا مَن شَآءَ ٱللَّهُ ۚ وَكُلٌّ أَتَوْهُ دَٰخِرِينَ",
+      "chapter_id": 27,
+      "page_number": 384,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177320,
+          "resource_id": 33,
+          "text": "Dan (ingatlah) pada hari (ketika) sangkakala ditiup, maka terkejutlah apa yang ada di langit dan apa yang ada di bumi, kecuali siapa yang dikehendaki Allah. Dan semua mereka datang menghadap-Nya dengan merendahkan diri."
+        }
+      ]
+    },
+    {
+      "id": 3247,
+      "verse_number": 88,
+      "verse_key": "27:88",
+      "hizb_number": 39,
+      "rub_el_hizb_number": 154,
+      "ruku_number": 333,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَتَرَى ٱلْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِىَ تَمُرُّ مَرَّ ٱلسَّحَابِ ۚ صُنْعَ ٱللَّهِ ٱلَّذِىٓ أَتْقَنَ كُلَّ شَىْءٍ ۚ إِنَّهُۥ خَبِيرٌۢ بِمَا تَفْعَلُونَ",
+      "chapter_id": 27,
+      "page_number": 384,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177318,
+          "resource_id": 33,
+          "text": "Dan engkau akan melihat gunung-gunung, yang engkau kira tetap di tempatnya, padahal ia berjalan (seperti) awan berjalan. (Itulah) ciptaan Allah yang mencipta dengan sempurna segala sesuatu. Sungguh, Dia Mahateliti atas apa yang kamu kerjakan."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 12,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 12
+  }
+}

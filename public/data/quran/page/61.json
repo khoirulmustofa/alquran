@@ -1,0 +1,179 @@
+{
+  "verses": [
+    {
+      "id": 377,
+      "verse_number": 84,
+      "verse_key": "3:84",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 24,
+      "ruku_number": 50,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ عَلَيْنَا وَمَآ أُنزِلَ عَلَىٰٓ إِبْرَٰهِيمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَٱلنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ",
+      "chapter_id": 3,
+      "page_number": 61,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 178383,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Kami beriman kepada Allah dan kepada apa yang diturunkan kepada kami dan yang diturunkan kepada Ibrahim, Ismail, Ishak, Yakub, dan anak cucunya, dan apa yang diberikan kepada Musa, Isa dan para Nabi dari Tuhan mereka. Kami tidak membeda-bedakan seorang pun diantara mereka dan hanya kepada-Nya kami berserah diri.\""
+        }
+      ]
+    },
+    {
+      "id": 378,
+      "verse_number": 85,
+      "verse_key": "3:85",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 24,
+      "ruku_number": 50,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَن يَبْتَغِ غَيْرَ ٱلْإِسْلَـٰمِ دِينًا فَلَن يُقْبَلَ مِنْهُ وَهُوَ فِى ٱلْـَٔاخِرَةِ مِنَ ٱلْخَـٰسِرِينَ",
+      "chapter_id": 3,
+      "page_number": 61,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 178396,
+          "resource_id": 33,
+          "text": "Dan barang siapa mencari agama selain Islam, dia tidak akan diterima, dan di akhirat dia termasuk orang yang rugi."
+        }
+      ]
+    },
+    {
+      "id": 379,
+      "verse_number": 86,
+      "verse_key": "3:86",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 24,
+      "ruku_number": 50,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "كَيْفَ يَهْدِى ٱللَّهُ قَوْمًا كَفَرُوا۟ بَعْدَ إِيمَـٰنِهِمْ وَشَهِدُوٓا۟ أَنَّ ٱلرَّسُولَ حَقٌّ وَجَآءَهُمُ ٱلْبَيِّنَـٰتُ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+      "chapter_id": 3,
+      "page_number": 61,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 178410,
+          "resource_id": 33,
+          "text": "Bagaimana Allah akan memberi petunjuk kepada suatu kaum yang kafir setelah mereka beriman, serta mengakui bahwa Rasul (Muhammad) itu benar-benar (rasul), dan bukti-bukti yang jelas telah sampai kepada mereka? Allah tidak memberi petunjuk kepada orang zalim."
+        }
+      ]
+    },
+    {
+      "id": 380,
+      "verse_number": 87,
+      "verse_key": "3:87",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 24,
+      "ruku_number": 50,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "أُو۟لَـٰٓئِكَ جَزَآؤُهُمْ أَنَّ عَلَيْهِمْ لَعْنَةَ ٱللَّهِ وَٱلْمَلَـٰٓئِكَةِ وَٱلنَّاسِ أَجْمَعِينَ",
+      "chapter_id": 3,
+      "page_number": 61,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 177352,
+          "resource_id": 33,
+          "text": "Mereka itu, balasannya ialah ditimpa laknat Allah, para malaikat, dan manusia seluruhnya,"
+        }
+      ]
+    },
+    {
+      "id": 381,
+      "verse_number": 88,
+      "verse_key": "3:88",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 24,
+      "ruku_number": 50,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "خَـٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ",
+      "chapter_id": 3,
+      "page_number": 61,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 178430,
+          "resource_id": 33,
+          "text": "mereka kekal di dalamnya, tidak akan diringankan azabnya, dan mereka tidak diberi penangguhan,"
+        }
+      ]
+    },
+    {
+      "id": 382,
+      "verse_number": 89,
+      "verse_key": "3:89",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 24,
+      "ruku_number": 50,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّا ٱلَّذِينَ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ وَأَصْلَحُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "chapter_id": 3,
+      "page_number": 61,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 178438,
+          "resource_id": 33,
+          "text": "kecuali orang-orang yang bertobat setelah itu, dan melakukan perbaikan, maka sungguh, Allah Maha Pengampun, Maha Penyayang."
+        }
+      ]
+    },
+    {
+      "id": 383,
+      "verse_number": 90,
+      "verse_key": "3:90",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 24,
+      "ruku_number": 50,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ بَعْدَ إِيمَـٰنِهِمْ ثُمَّ ٱزْدَادُوا۟ كُفْرًا لَّن تُقْبَلَ تَوْبَتُهُمْ وَأُو۟لَـٰٓئِكَ هُمُ ٱلضَّآلُّونَ",
+      "chapter_id": 3,
+      "page_number": 61,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 178443,
+          "resource_id": 33,
+          "text": "Sungguh, orang-orang yang kafir setelah beriman, kemudian bertambah kekafirannya, tidak akan diterima tobatnya, dan mereka itulah orang-orang yang sesat."
+        }
+      ]
+    },
+    {
+      "id": 384,
+      "verse_number": 91,
+      "verse_key": "3:91",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 24,
+      "ruku_number": 50,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يُقْبَلَ مِنْ أَحَدِهِم مِّلْءُ ٱلْأَرْضِ ذَهَبًا وَلَوِ ٱفْتَدَىٰ بِهِۦٓ ۗ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ وَمَا لَهُم مِّن نَّـٰصِرِينَ",
+      "chapter_id": 3,
+      "page_number": 61,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 178442,
+          "resource_id": 33,
+          "text": "Sungguh, orang-orang yang kafir dan mati dalam kekafiran, tidak akan diterima (tebusan) dari seseorang di antara mereka sekalipun (berupa) emas sepenuh bumi, sekiranya dia hendak menebus diri dengannya. Mereka itulah orang-orang yang mendapat azab yang pedih dan tidak memperoleh penolong."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 8,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 8
+  }
+}

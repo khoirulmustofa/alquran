@@ -1,0 +1,200 @@
+{
+  "verses": [
+    {
+      "id": 385,
+      "verse_number": 92,
+      "verse_key": "3:92",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 24,
+      "ruku_number": 51,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "لَن تَنَالُوا۟ ٱلْبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَ ۚ وَمَا تُنفِقُوا۟ مِن شَىْءٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ",
+      "chapter_id": 3,
+      "page_number": 62,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 178453,
+          "resource_id": 33,
+          "text": "Kamu tidak akan memperoleh kebajikan, sebelum kamu menginfakkan sebagian harta yang kamu cintai. Dan apa pun yang kamu infakkan, tentang hal itu sungguh, Allah Maha Mengetahui."
+        }
+      ]
+    },
+    {
+      "id": 386,
+      "verse_number": 93,
+      "verse_key": "3:93",
+      "hizb_number": 7,
+      "rub_el_hizb_number": 25,
+      "ruku_number": 51,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "۞ كُلُّ ٱلطَّعَامِ كَانَ حِلًّا لِّبَنِىٓ إِسْرَٰٓءِيلَ إِلَّا مَا حَرَّمَ إِسْرَٰٓءِيلُ عَلَىٰ نَفْسِهِۦ مِن قَبْلِ أَن تُنَزَّلَ ٱلتَّوْرَىٰةُ ۗ قُلْ فَأْتُوا۟ بِٱلتَّوْرَىٰةِ فَٱتْلُوهَآ إِن كُنتُمْ صَـٰدِقِينَ",
+      "chapter_id": 3,
+      "page_number": 62,
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 178465,
+          "resource_id": 33,
+          "text": "Semua makanan itu halal bagi Bani Israil, kecuali makanan yang diharamkan oleh Israil (Yakub) atas dirinya sebelum Taurat diturunkan.<sup foot_note=135082>1</sup> Katakanlah (Muhammad), \"Maka bawalah Taurat lalu bacalah, jika kamu orang-orang yang benar.\""
+        }
+      ]
+    },
+    {
+      "id": 387,
+      "verse_number": 94,
+      "verse_key": "3:94",
+      "hizb_number": 7,
+      "rub_el_hizb_number": 25,
+      "ruku_number": 51,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "فَمَنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ مِنۢ بَعْدِ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+      "chapter_id": 3,
+      "page_number": 62,
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 178476,
+          "resource_id": 33,
+          "text": "Maka barang siapa mengada-adakan kebohongan terhadap Allah<sup foot_note=135083>1</sup> setelah itu, maka mereka itulah orang-orang zalim."
+        }
+      ]
+    },
+    {
+      "id": 388,
+      "verse_number": 95,
+      "verse_key": "3:95",
+      "hizb_number": 7,
+      "rub_el_hizb_number": 25,
+      "ruku_number": 51,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ صَدَقَ ٱللَّهُ ۗ فَٱتَّبِعُوا۟ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ",
+      "chapter_id": 3,
+      "page_number": 62,
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 178489,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Benarlah (segala yang difirmankan) Allah.\" Maka ikutilah agama Ibrahim yang lurus, dan dia tidaklah termasuk orang musyrik."
+        }
+      ]
+    },
+    {
+      "id": 389,
+      "verse_number": 96,
+      "verse_key": "3:96",
+      "hizb_number": 7,
+      "rub_el_hizb_number": 25,
+      "ruku_number": 51,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكًا وَهُدًى لِّلْعَـٰلَمِينَ",
+      "chapter_id": 3,
+      "page_number": 62,
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 178500,
+          "resource_id": 33,
+          "text": "Sesungguhnya rumah (ibadah) pertama yang dibangun untuk manusia, ialah (Baitullah) yang di Bakkah (Mekah)<sup foot_note=135084>1</sup> yang diberkahi dan menjadi petunjuk bagi seluruh alam."
+        }
+      ]
+    },
+    {
+      "id": 390,
+      "verse_number": 97,
+      "verse_key": "3:97",
+      "hizb_number": 7,
+      "rub_el_hizb_number": 25,
+      "ruku_number": 51,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "فِيهِ ءَايَـٰتٌۢ بَيِّنَـٰتٌ مَّقَامُ إِبْرَٰهِيمَ ۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنًا ۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًا ۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ",
+      "chapter_id": 3,
+      "page_number": 62,
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 178514,
+          "resource_id": 33,
+          "text": "Di sana terdapat tanda-tanda yang jelas, (di antaranya) maqam Ibrahim.<sup foot_note=135085>1</sup> Barang siapa memasukinya (Baitullah) amanlah dia. Dan (di antara) kewajiban manusia terhadap Allah adalah melaksanakan ibadah haji ke Baitullah, yaitu bagi orang-orang yang mampu<sup foot_note=135086>2</sup> mengadakan perjalanan ke sana. Barang siapa mengingkari (kewajiban) haji, maka ketahuilah bahwa Allah Mahakaya (tidak memerlukan sesuatu) dari seluruh alam."
+        }
+      ]
+    },
+    {
+      "id": 391,
+      "verse_number": 98,
+      "verse_key": "3:98",
+      "hizb_number": 7,
+      "rub_el_hizb_number": 25,
+      "ruku_number": 51,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَٱللَّهُ شَهِيدٌ عَلَىٰ مَا تَعْمَلُونَ",
+      "chapter_id": 3,
+      "page_number": 62,
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 177360,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Wahai Ahli Kitab! Mengapa kamu mengingkari ayat-ayat Allah, padahal Allah Maha Menyaksikan apa yang kamu kerjakan?\""
+        }
+      ]
+    },
+    {
+      "id": 392,
+      "verse_number": 99,
+      "verse_key": "3:99",
+      "hizb_number": 7,
+      "rub_el_hizb_number": 25,
+      "ruku_number": 51,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ تَبْغُونَهَا عِوَجًا وَأَنتُمْ شُهَدَآءُ ۗ وَمَا ٱللَّهُ بِغَـٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "chapter_id": 3,
+      "page_number": 62,
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 178525,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Wahai Ahli Kitab! Mengapa kamu menghalang-halangi orang-orang yang beriman dari jalan Allah, kamu menghendakinya (jalan Allah) bengkok, padahal kamu menyaksikan?\"<sup foot_note=135087>1</sup> Dan Allah tidak lengah terhadap apa yang kamu kerjakan."
+        }
+      ]
+    },
+    {
+      "id": 393,
+      "verse_number": 100,
+      "verse_key": "3:100",
+      "hizb_number": 7,
+      "rub_el_hizb_number": 25,
+      "ruku_number": 51,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تُطِيعُوا۟ فَرِيقًا مِّنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ يَرُدُّوكُم بَعْدَ إِيمَـٰنِكُمْ كَـٰفِرِينَ",
+      "chapter_id": 3,
+      "page_number": 62,
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 177681,
+          "resource_id": 33,
+          "text": "Wahai orang-orang yang beriman! Jika kamu mengikuti sebagian dari orang yang diberi Kitab, niscaya mereka akan mengembalikan kamu menjadi orang kafir setelah beriman."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 9,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 9
+  }
+}

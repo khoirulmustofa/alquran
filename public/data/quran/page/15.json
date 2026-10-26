@@ -1,0 +1,179 @@
+{
+  "verses": [
+    {
+      "id": 101,
+      "verse_number": 94,
+      "verse_key": "2:94",
+      "hizb_number": 2,
+      "rub_el_hizb_number": 6,
+      "ruku_number": 12,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ إِن كَانَتْ لَكُمُ ٱلدَّارُ ٱلْـَٔاخِرَةُ عِندَ ٱللَّهِ خَالِصَةً مِّن دُونِ ٱلنَّاسِ فَتَمَنَّوُا۟ ٱلْمَوْتَ إِن كُنتُمْ صَـٰدِقِينَ",
+      "chapter_id": 2,
+      "page_number": 15,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 177577,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Jika negeri akhirat di sisi Allah, khusus untukmu saja bukan untuk orang lain, maka mintalah kematian jika kamu orang yang benar.\""
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "verse_number": 95,
+      "verse_key": "2:95",
+      "hizb_number": 2,
+      "rub_el_hizb_number": 6,
+      "ruku_number": 12,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَن يَتَمَنَّوْهُ أَبَدًۢا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّـٰلِمِينَ",
+      "chapter_id": 2,
+      "page_number": 15,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 177588,
+          "resource_id": 33,
+          "text": "Tetapi mereka tidak akan menginginkan kematian itu sama sekali, karena dosa-dosa yang telah dilakukan tangan-tangan mereka. Dan Allah Maha Mengetahui orang-orang zalim."
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "verse_number": 96,
+      "verse_key": "2:96",
+      "hizb_number": 2,
+      "rub_el_hizb_number": 6,
+      "ruku_number": 12,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَتَجِدَنَّهُمْ أَحْرَصَ ٱلنَّاسِ عَلَىٰ حَيَوٰةٍ وَمِنَ ٱلَّذِينَ أَشْرَكُوا۟ ۚ يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِۦ مِنَ ٱلْعَذَابِ أَن يُعَمَّرَ ۗ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ",
+      "chapter_id": 2,
+      "page_number": 15,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 177598,
+          "resource_id": 33,
+          "text": "Dan sungguh, engkau (Muhammad) akan mendapati mereka (orang-orang Yahudi), manusia yang paling tamak akan kehidupan (dunia), bahkan (lebih tamak) dari orang-orang musyrik.<sup foot_note=134993>1</sup> Masing-masing dari mereka, ingin diberi umur seribu tahun, padahal umur panjang itu tidak akan menjauhkan mereka dari azab. Dan Allah Maha melihat apa yang mereka kerjakan."
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "verse_number": 97,
+      "verse_key": "2:97",
+      "hizb_number": 2,
+      "rub_el_hizb_number": 6,
+      "ruku_number": 13,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ مَن كَانَ عَدُوًّا لِّجِبْرِيلَ فَإِنَّهُۥ نَزَّلَهُۥ عَلَىٰ قَلْبِكَ بِإِذْنِ ٱللَّهِ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَهُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ",
+      "chapter_id": 2,
+      "page_number": 15,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 177612,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Barang siapa menjadi musuh Jibril, maka (ketahuilah) bahwa dialah yang telah menurunkan (Alquran) ke dalam hatimu dengan izin Allah membenarkan apa (kitab-kitab) yang terdahulu, dan menjadi petunjuk serta berita gembira bagi orang-orang beriman.\""
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "verse_number": 98,
+      "verse_key": "2:98",
+      "hizb_number": 2,
+      "rub_el_hizb_number": 6,
+      "ruku_number": 13,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "مَن كَانَ عَدُوًّا لِّلَّهِ وَمَلَـٰٓئِكَتِهِۦ وَرُسُلِهِۦ وَجِبْرِيلَ وَمِيكَىٰلَ فَإِنَّ ٱللَّهَ عَدُوٌّ لِّلْكَـٰفِرِينَ",
+      "chapter_id": 2,
+      "page_number": 15,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 177615,
+          "resource_id": 33,
+          "text": "Barang siapa menjadi musuh Allah, malaikat-malaikat-Nya, rasul-rasul-Nya, Jibril dan Mikail, maka sesungguhnya Allah musuh bagi orang-orang kafir."
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "verse_number": 99,
+      "verse_key": "2:99",
+      "hizb_number": 2,
+      "rub_el_hizb_number": 6,
+      "ruku_number": 13,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ أَنزَلْنَآ إِلَيْكَ ءَايَـٰتٍۭ بَيِّنَـٰتٍ ۖ وَمَا يَكْفُرُ بِهَآ إِلَّا ٱلْفَـٰسِقُونَ",
+      "chapter_id": 2,
+      "page_number": 15,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 177679,
+          "resource_id": 33,
+          "text": "Dan sungguh, Kami telah menurunkan ayat-ayat yang jelas kepadamu (Muhammad), dan tidaklah ada yang mengingkarinya selain orang-orang fasik."
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "verse_number": 100,
+      "verse_key": "2:100",
+      "hizb_number": 2,
+      "rub_el_hizb_number": 6,
+      "ruku_number": 13,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "أَوَكُلَّمَا عَـٰهَدُوا۟ عَهْدًا نَّبَذَهُۥ فَرِيقٌ مِّنْهُم ۚ بَلْ أَكْثَرُهُمْ لَا يُؤْمِنُونَ",
+      "chapter_id": 2,
+      "page_number": 15,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 182388,
+          "resource_id": 33,
+          "text": "Dan mengapa setiap kali mereka mengikat janji, sekelompok mereka melanggarnya? Sedangkan sebagian besar mereka tidak beriman."
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "verse_number": 101,
+      "verse_key": "2:101",
+      "hizb_number": 2,
+      "rub_el_hizb_number": 6,
+      "ruku_number": 13,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَمَّا جَآءَهُمْ رَسُولٌ مِّنْ عِندِ ٱللَّهِ مُصَدِّقٌ لِّمَا مَعَهُمْ نَبَذَ فَرِيقٌ مِّنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ كِتَـٰبَ ٱللَّهِ وَرَآءَ ظُهُورِهِمْ كَأَنَّهُمْ لَا يَعْلَمُونَ",
+      "chapter_id": 2,
+      "page_number": 15,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 182392,
+          "resource_id": 33,
+          "text": "Dan setelah datang kepada mereka seorang Rasul (Muhammad) dari Allah yang membenarkan apa yang ada pada mereka, sebagian dari orang-orang yang diberi Kitab (Taurat) melemparkan Kitab Allah itu ke belakang (punggung), seakan-akan mereka tidak tahu."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 8,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 8
+  }
+}

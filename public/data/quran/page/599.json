@@ -1,0 +1,389 @@
+{
+  "verses": [
+    {
+      "id": 6138,
+      "verse_number": 8,
+      "verse_key": "98:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 542,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّـٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ",
+      "chapter_id": 98,
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181310,
+          "resource_id": 33,
+          "text": "Balasan mereka di sisi Tuhan mereka ialah surga 'Ādn yang mengalir di bawahnya sungai-sungai; mereka kekal di dalamnya selama-lamanya. Allah rida terhadap mereka dan mereka pun rida kepada-Nya. Yang demikian itu adalah (balasan) bagi orang yang takut kepada Tuhannya."
+        }
+      ]
+    },
+    {
+      "id": 6139,
+      "verse_number": 1,
+      "verse_key": "99:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+      "chapter_id": 99,
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181316,
+          "resource_id": 33,
+          "text": "Apabila bumi diguncangkan dengan guncangan yang dahsyat,"
+        }
+      ]
+    },
+    {
+      "id": 6140,
+      "verse_number": 2,
+      "verse_key": "99:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+      "chapter_id": 99,
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181318,
+          "resource_id": 33,
+          "text": "dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya,"
+        }
+      ]
+    },
+    {
+      "id": 6141,
+      "verse_number": 3,
+      "verse_key": "99:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+      "chapter_id": 99,
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181320,
+          "resource_id": 33,
+          "text": "dan manusia bertanya, \"Apa yang terjadi pada bumi ini?\""
+        }
+      ]
+    },
+    {
+      "id": 6142,
+      "verse_number": 4,
+      "verse_key": "99:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+      "chapter_id": 99,
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181894,
+          "resource_id": 33,
+          "text": "Pada hari itu bumi menyampaikan beritanya,"
+        }
+      ]
+    },
+    {
+      "id": 6143,
+      "verse_number": 5,
+      "verse_key": "99:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "chapter_id": 99,
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181324,
+          "resource_id": 33,
+          "text": "karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) padanya."
+        }
+      ]
+    },
+    {
+      "id": 6144,
+      "verse_number": 6,
+      "verse_key": "99:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+      "chapter_id": 99,
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181325,
+          "resource_id": 33,
+          "text": "Pada hari itu manusia keluar dari kuburnya dalam keadaan berkelompok-kelompok,<sup foot_note=135873>1</sup> untuk diperlihatkan kepada mereka (balasan) semua amal perbuatannya."
+        }
+      ]
+    },
+    {
+      "id": 6145,
+      "verse_number": 7,
+      "verse_key": "99:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+      "chapter_id": 99,
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177521,
+          "resource_id": 33,
+          "text": "Maka barangsiapa mengerjakan kebaikan seberat zarah, niscaya dia akan melihat (balasan)nya."
+        }
+      ]
+    },
+    {
+      "id": 6146,
+      "verse_number": 8,
+      "verse_key": "99:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+      "chapter_id": 99,
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181330,
+          "resource_id": 33,
+          "text": "Dan barangsiapa mengerjakan kejahatan seberat zarah, niscaya dia akan melihat (balasan)nya."
+        }
+      ]
+    },
+    {
+      "id": 6147,
+      "verse_number": 1,
+      "verse_key": "100:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " وَٱلْعَـٰدِيَـٰتِ ضَبْحًا",
+      "chapter_id": 100,
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 178813,
+          "resource_id": 33,
+          "text": "Demi kuda perang yang berlari kencang terengah-engah,"
+        }
+      ]
+    },
+    {
+      "id": 6148,
+      "verse_number": 2,
+      "verse_key": "100:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَٱلْمُورِيَـٰتِ قَدْحًا",
+      "chapter_id": 100,
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177917,
+          "resource_id": 33,
+          "text": "dan kuda yang memercikkan bunga api (dengan pukulan kuku kakinya),"
+        }
+      ]
+    },
+    {
+      "id": 6149,
+      "verse_number": 3,
+      "verse_key": "100:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَٱلْمُغِيرَٰتِ صُبْحًا",
+      "chapter_id": 100,
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 178601,
+          "resource_id": 33,
+          "text": "dan kuda yang menyerang (dengan tiba-tiba) pada waktu pagi,"
+        }
+      ]
+    },
+    {
+      "id": 6150,
+      "verse_number": 4,
+      "verse_key": "100:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَثَرْنَ بِهِۦ نَقْعًا",
+      "chapter_id": 100,
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 178625,
+          "resource_id": 33,
+          "text": "sehingga menerbangkan debu,"
+        }
+      ]
+    },
+    {
+      "id": 6151,
+      "verse_number": 5,
+      "verse_key": "100:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+      "chapter_id": 100,
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 178604,
+          "resource_id": 33,
+          "text": "lalu menyerbu ke tengah-tengah kumpulan musuh,"
+        }
+      ]
+    },
+    {
+      "id": 6152,
+      "verse_number": 6,
+      "verse_key": "100:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+      "chapter_id": 100,
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177864,
+          "resource_id": 33,
+          "text": "sungguh, manusia itu sangat ingkar, (tidak bersyukur) kepada Tuhannya,"
+        }
+      ]
+    },
+    {
+      "id": 6153,
+      "verse_number": 7,
+      "verse_key": "100:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+      "chapter_id": 100,
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 178624,
+          "resource_id": 33,
+          "text": "dan sesungguhnya dia (manusia) menyaksikan (mengakui) keingkarannya,"
+        }
+      ]
+    },
+    {
+      "id": 6154,
+      "verse_number": 8,
+      "verse_key": "100:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+      "chapter_id": 100,
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177830,
+          "resource_id": 33,
+          "text": "dan sesungguhnya cintanya kepada harta benar-benar berlebihan."
+        }
+      ]
+    },
+    {
+      "id": 6155,
+      "verse_number": 9,
+      "verse_key": "100:9",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+      "chapter_id": 100,
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 178568,
+          "resource_id": 33,
+          "text": "Maka tidakkah dia mengetahui apabila apa yang di dalam kubur dikeluarkan,"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 16,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 16
+  }
+}

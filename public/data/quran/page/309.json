@@ -1,0 +1,284 @@
+{
+  "verses": [
+    {
+      "id": 2302,
+      "verse_number": 52,
+      "verse_key": "19:52",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 123,
+      "ruku_number": 267,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَنَـٰدَيْنَـٰهُ مِن جَانِبِ ٱلطُّورِ ٱلْأَيْمَنِ وَقَرَّبْنَـٰهُ نَجِيًّا",
+      "chapter_id": 19,
+      "page_number": 309,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182213,
+          "resource_id": 33,
+          "text": "Dan Kami telah memanggilnya dari sebelah kanan gunung (Sinai) dan Kami dekatkan dia untuk bercakap-cakap."
+        }
+      ]
+    },
+    {
+      "id": 2303,
+      "verse_number": 53,
+      "verse_key": "19:53",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 123,
+      "ruku_number": 267,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَوَهَبْنَا لَهُۥ مِن رَّحْمَتِنَآ أَخَاهُ هَـٰرُونَ نَبِيًّا",
+      "chapter_id": 19,
+      "page_number": 309,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182214,
+          "resource_id": 33,
+          "text": "Dan Kami telah menganugerahkan sebagian rahmat Kami kepadanya, yaitu (bahwa) saudaranya, Harun, menjadi seorang nabi."
+        }
+      ]
+    },
+    {
+      "id": 2304,
+      "verse_number": 54,
+      "verse_key": "19:54",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 123,
+      "ruku_number": 267,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِسْمَـٰعِيلَ ۚ إِنَّهُۥ كَانَ صَادِقَ ٱلْوَعْدِ وَكَانَ رَسُولًا نَّبِيًّا",
+      "chapter_id": 19,
+      "page_number": 309,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182224,
+          "resource_id": 33,
+          "text": "Dan ceritakanlah (Muhammad) kisah Ismail di dalam Kitab (Alquran). Dia benar-benar seorang yang benar janjinya, seorang rasul dan nabi."
+        }
+      ]
+    },
+    {
+      "id": 2305,
+      "verse_number": 55,
+      "verse_key": "19:55",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 123,
+      "ruku_number": 267,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَكَانَ يَأْمُرُ أَهْلَهُۥ بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ وَكَانَ عِندَ رَبِّهِۦ مَرْضِيًّا",
+      "chapter_id": 19,
+      "page_number": 309,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182212,
+          "resource_id": 33,
+          "text": "Dan dia menyuruh keluarganya<sup foot_note=135456>1</sup> untuk (melaksanakan) salat dan (menunaikan) zakat, dan dia seorang yang diridai di sisi Tuhannya."
+        }
+      ]
+    },
+    {
+      "id": 2306,
+      "verse_number": 56,
+      "verse_key": "19:56",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 123,
+      "ruku_number": 267,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِدْرِيسَ ۚ إِنَّهُۥ كَانَ صِدِّيقًا نَّبِيًّا",
+      "chapter_id": 19,
+      "page_number": 309,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182216,
+          "resource_id": 33,
+          "text": "Dan ceritakanlah (Muhammad), kisah Idris di dalam Kitab (Alquran). Sesungguhnya dia seorang yang sangat mencintai kebenaran dan seorang nabi,"
+        }
+      ]
+    },
+    {
+      "id": 2307,
+      "verse_number": 57,
+      "verse_key": "19:57",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 123,
+      "ruku_number": 267,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+      "chapter_id": 19,
+      "page_number": 309,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182215,
+          "resource_id": 33,
+          "text": "dan Kami telah mengangkatnya ke martabat yang tinggi."
+        }
+      ]
+    },
+    {
+      "id": 2308,
+      "verse_number": 58,
+      "verse_key": "19:58",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 123,
+      "ruku_number": 267,
+      "manzil_number": 4,
+      "sajdah_number": 5,
+      "text_uthmani": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّـۧنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُ ٱلرَّحْمَـٰنِ خَرُّوا۟ سُجَّدًا وَبُكِيًّا ۩",
+      "chapter_id": 19,
+      "page_number": 309,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182217,
+          "resource_id": 33,
+          "text": "Mereka itulah orang yang telah diberi nikmat oleh Allah, yaitu dari (golongan) para nabi dari keturunan Adam, dan dari orang yang Kami bawa (dalam kapal) bersama Nuh, dan dari keturunan Ibrahim dan Israil (Yakub) dan dari orang yang telah Kami beri petunjuk dan telah Kami pilih. Apabila dibacakan ayat-ayat Allah Yang Maha Pengasih kepada mereka, maka mereka tunduk sujud dan menangis."
+        }
+      ]
+    },
+    {
+      "id": 2309,
+      "verse_number": 59,
+      "verse_key": "19:59",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 267,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "۞ فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ أَضَاعُوا۟ ٱلصَّلَوٰةَ وَٱتَّبَعُوا۟ ٱلشَّهَوَٰتِ ۖ فَسَوْفَ يَلْقَوْنَ غَيًّا",
+      "chapter_id": 19,
+      "page_number": 309,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182211,
+          "resource_id": 33,
+          "text": "Kemudian datanglah setelah mereka, pengganti yang mengabaikan salat dan memperturutkan nafsunya, maka mereka kelak akan tersesat,"
+        }
+      ]
+    },
+    {
+      "id": 2310,
+      "verse_number": 60,
+      "verse_key": "19:60",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 267,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَـٰلِحًا فَأُو۟لَـٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ شَيْـًٔا",
+      "chapter_id": 19,
+      "page_number": 309,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182221,
+          "resource_id": 33,
+          "text": "kecuali orang yang bertobat, beriman dan mengerjakan kebajikan, maka mereka itu akan masuk surga dan tidak dizalimi (dirugikan) sedikit pun,"
+        }
+      ]
+    },
+    {
+      "id": 2311,
+      "verse_number": 61,
+      "verse_key": "19:61",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 267,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "جَنَّـٰتِ عَدْنٍ ٱلَّتِى وَعَدَ ٱلرَّحْمَـٰنُ عِبَادَهُۥ بِٱلْغَيْبِ ۚ إِنَّهُۥ كَانَ وَعْدُهُۥ مَأْتِيًّا",
+      "chapter_id": 19,
+      "page_number": 309,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182219,
+          "resource_id": 33,
+          "text": "yaitu surga Aden yang telah dijanjikan oleh Tuhan Yang Maha Pengasih kepada hamba-Nya, sekalipun (surga itu) tidak tampak. Sungguh, (janji Allah) itu pasti ditepati."
+        }
+      ]
+    },
+    {
+      "id": 2312,
+      "verse_number": 62,
+      "verse_key": "19:62",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 267,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا إِلَّا سَلَـٰمًا ۖ وَلَهُمْ رِزْقُهُمْ فِيهَا بُكْرَةً وَعَشِيًّا",
+      "chapter_id": 19,
+      "page_number": 309,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182225,
+          "resource_id": 33,
+          "text": "Di dalamnya mereka tidak mendengar perkataan yang tidak berguna, kecuali (ucapan) salam. Dan di dalamnya bagi mereka ada rezeki pagi dan petang."
+        }
+      ]
+    },
+    {
+      "id": 2313,
+      "verse_number": 63,
+      "verse_key": "19:63",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 267,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "تِلْكَ ٱلْجَنَّةُ ٱلَّتِى نُورِثُ مِنْ عِبَادِنَا مَن كَانَ تَقِيًّا",
+      "chapter_id": 19,
+      "page_number": 309,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182229,
+          "resource_id": 33,
+          "text": "Itulah surga yang akan Kami wariskan kepada hamba-hamba Kami yang selalu bertakwa."
+        }
+      ]
+    },
+    {
+      "id": 2314,
+      "verse_number": 64,
+      "verse_key": "19:64",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 267,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا نَتَنَزَّلُ إِلَّا بِأَمْرِ رَبِّكَ ۖ لَهُۥ مَا بَيْنَ أَيْدِينَا وَمَا خَلْفَنَا وَمَا بَيْنَ ذَٰلِكَ ۚ وَمَا كَانَ رَبُّكَ نَسِيًّا",
+      "chapter_id": 19,
+      "page_number": 309,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182223,
+          "resource_id": 33,
+          "text": "Dan tidaklah kami (Jibril) turun, kecuali atas perintah Tuhanmu. Milik-Nya segala yang ada dihadapan kita, yang ada di belakang kita dan segala yang ada di antara keduanya, dan Tuhanmu tidak lupa."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 13,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 13
+  }
+}

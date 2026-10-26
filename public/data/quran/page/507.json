@@ -1,0 +1,242 @@
+{
+  "verses": [
+    {
+      "id": 4546,
+      "verse_number": 1,
+      "verse_key": "47:1",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 444,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": " ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَـٰلَهُمْ",
+      "chapter_id": 47,
+      "page_number": 507,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179083,
+          "resource_id": 33,
+          "text": "Orang-orang yang kafir dan menghalang-halangi (manusia) dari jalan Allah, maka Allah menghapus segala amal mereka."
+        }
+      ]
+    },
+    {
+      "id": 4547,
+      "verse_number": 2,
+      "verse_key": "47:2",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 444,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ",
+      "chapter_id": 47,
+      "page_number": 507,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179097,
+          "resource_id": 33,
+          "text": "Dan orang-orang yang beriman (kepada Allah) dan mengerjakan kebajikan serta beriman kepada apa yang diturunkan kepada Muhammad, dan itulah kebenaran dari Tuhan mereka; Allah menghapus kesalahan-kesalahan mereka, dan memperbaiki keadaan mereka."
+        }
+      ]
+    },
+    {
+      "id": 4548,
+      "verse_number": 3,
+      "verse_key": "47:3",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 444,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "ذَٰلِكَ بِأَنَّ ٱلَّذِينَ كَفَرُوا۟ ٱتَّبَعُوا۟ ٱلْبَـٰطِلَ وَأَنَّ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّبَعُوا۟ ٱلْحَقَّ مِن رَّبِّهِمْ ۚ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ لِلنَّاسِ أَمْثَـٰلَهُمْ",
+      "chapter_id": 47,
+      "page_number": 507,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179106,
+          "resource_id": 33,
+          "text": "Yang demikian itu, karena sesungguhnya orang-orang kafir mengikuti yang batil (sesat), dan sesungguhnya orang-orang yang beriman mengikuti kebenaran dari Tuhan mereka. Demikianlah Allah membuat perumpamaan-perumpamaan bagi manusia."
+        }
+      ]
+    },
+    {
+      "id": 4549,
+      "verse_number": 4,
+      "verse_key": "47:4",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 444,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "فَإِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُوا۟ فَضَرْبَ ٱلرِّقَابِ حَتَّىٰٓ إِذَآ أَثْخَنتُمُوهُمْ فَشُدُّوا۟ ٱلْوَثَاقَ فَإِمَّا مَنًّۢا بَعْدُ وَإِمَّا فِدَآءً حَتَّىٰ تَضَعَ ٱلْحَرْبُ أَوْزَارَهَا ۚ ذَٰلِكَ وَلَوْ يَشَآءُ ٱللَّهُ لَٱنتَصَرَ مِنْهُمْ وَلَـٰكِن لِّيَبْلُوَا۟ بَعْضَكُم بِبَعْضٍ ۗ وَٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ فَلَن يُضِلَّ أَعْمَـٰلَهُمْ",
+      "chapter_id": 47,
+      "page_number": 507,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179117,
+          "resource_id": 33,
+          "text": "Maka apabila kamu bertemu dengan orang-orang kafir (di medan perang), maka pukullah batang leher mereka. Selanjutnya apabila kamu telah mengalahkan mereka, tawanlah mereka, dan setelah itu kamu boleh membebaskan mereka atau menerima tebusan, sampai perang selesai. Demikianlah, dan sekiranya Allah menghendaki, niscaya Dia membinasakan mereka, tetapi Dia hendak menguji kamu satu sama lain. Dan orang-orang yang gugur di jalan Allah, maka Allah tidak akan menyia-nyiakan amal mereka."
+        }
+      ]
+    },
+    {
+      "id": 4550,
+      "verse_number": 5,
+      "verse_key": "47:5",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 444,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "سَيَهْدِيهِمْ وَيُصْلِحُ بَالَهُمْ",
+      "chapter_id": 47,
+      "page_number": 507,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 177394,
+          "resource_id": 33,
+          "text": "Allah akan memberi petunjuk kepada mereka dan memperbaiki keadaan mereka,"
+        }
+      ]
+    },
+    {
+      "id": 4551,
+      "verse_number": 6,
+      "verse_key": "47:6",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 444,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَيُدْخِلُهُمُ ٱلْجَنَّةَ عَرَّفَهَا لَهُمْ",
+      "chapter_id": 47,
+      "page_number": 507,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179122,
+          "resource_id": 33,
+          "text": "dan memasukkan mereka ke dalam surga yang telah diperkenalkan-Nya kepada mereka."
+        }
+      ]
+    },
+    {
+      "id": 4552,
+      "verse_number": 7,
+      "verse_key": "47:7",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 444,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تَنصُرُوا۟ ٱللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ",
+      "chapter_id": 47,
+      "page_number": 507,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179124,
+          "resource_id": 33,
+          "text": "Wahai orang-orang yang beriman! Jika kamu menolong (agama) Allah, niscaya Dia akan menolongmu dan meneguhkan kedudukanmu."
+        }
+      ]
+    },
+    {
+      "id": 4553,
+      "verse_number": 8,
+      "verse_key": "47:8",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 444,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ كَفَرُوا۟ فَتَعْسًا لَّهُمْ وَأَضَلَّ أَعْمَـٰلَهُمْ",
+      "chapter_id": 47,
+      "page_number": 507,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179148,
+          "resource_id": 33,
+          "text": "Dan orang-orang yang kafir, maka celakalah mereka, dan Allah menghapus segala amalnya."
+        }
+      ]
+    },
+    {
+      "id": 4554,
+      "verse_number": 9,
+      "verse_key": "47:9",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 444,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "ذَٰلِكَ بِأَنَّهُمْ كَرِهُوا۟ مَآ أَنزَلَ ٱللَّهُ فَأَحْبَطَ أَعْمَـٰلَهُمْ",
+      "chapter_id": 47,
+      "page_number": 507,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179125,
+          "resource_id": 33,
+          "text": "Yang demikian itu karena mereka membenci apa (Alquran) yang diturunkan Allah, maka Allah menghapus segala amal mereka."
+        }
+      ]
+    },
+    {
+      "id": 4555,
+      "verse_number": 10,
+      "verse_key": "47:10",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 203,
+      "ruku_number": 444,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "۞ أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ دَمَّرَ ٱللَّهُ عَلَيْهِمْ ۖ وَلِلْكَـٰفِرِينَ أَمْثَـٰلُهَا",
+      "chapter_id": 47,
+      "page_number": 507,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179084,
+          "resource_id": 33,
+          "text": "Maka apakah mereka tidak pernah mengadakan perjalanan di bumi, sehingga dapat memperhatikan bagaimana kesudahan orang-orang yang sebelum mereka. Allah telah membinasakan mereka, dan bagi orang-orang kafir akan menerima (nasib) yang serupa."
+        }
+      ]
+    },
+    {
+      "id": 4556,
+      "verse_number": 11,
+      "verse_key": "47:11",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 203,
+      "ruku_number": 444,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "ذَٰلِكَ بِأَنَّ ٱللَّهَ مَوْلَى ٱلَّذِينَ ءَامَنُوا۟ وَأَنَّ ٱلْكَـٰفِرِينَ لَا مَوْلَىٰ لَهُمْ",
+      "chapter_id": 47,
+      "page_number": 507,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179087,
+          "resource_id": 33,
+          "text": "Yang demikian itu karena Allah pelindung bagi orang-orang yang beriman; sedang orang-orang kafir tidak ada pelindung bagi mereka."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 11,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 11
+  }
+}

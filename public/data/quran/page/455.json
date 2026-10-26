@@ -1,0 +1,347 @@
+{
+  "verses": [
+    {
+      "id": 3997,
+      "verse_number": 27,
+      "verse_key": "38:27",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا خَلَقْنَا ٱلسَّمَآءَ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا بَـٰطِلًا ۚ ذَٰلِكَ ظَنُّ ٱلَّذِينَ كَفَرُوا۟ ۚ فَوَيْلٌ لِّلَّذِينَ كَفَرُوا۟ مِنَ ٱلنَّارِ",
+      "chapter_id": 38,
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178369,
+          "resource_id": 33,
+          "text": "Dan Kami tidak menciptakan langit dan bumi dan apa yang ada di antara keduanya dengan sia-sia. Itu anggapan orang-orang kafir, maka celakalah orang-orang yang kafir itu karena mereka akan masuk neraka."
+        }
+      ]
+    },
+    {
+      "id": 3998,
+      "verse_number": 28,
+      "verse_key": "38:28",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "أَمْ نَجْعَلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ كَٱلْمُفْسِدِينَ فِى ٱلْأَرْضِ أَمْ نَجْعَلُ ٱلْمُتَّقِينَ كَٱلْفُجَّارِ",
+      "chapter_id": 38,
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178370,
+          "resource_id": 33,
+          "text": "Pantaskah Kami memperlakukan orang-orang yang beriman dan mengerjakan kebajikan sama dengan orang-orang yang berbuat kerusakan di bumi? Atau pantaskah Kami mengangggap orang-orang yang bertakwa sama dengan orang-orang yang jahat?"
+        }
+      ]
+    },
+    {
+      "id": 3999,
+      "verse_number": 29,
+      "verse_key": "38:29",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ مُبَـٰرَكٌ لِّيَدَّبَّرُوٓا۟ ءَايَـٰتِهِۦ وَلِيَتَذَكَّرَ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+      "chapter_id": 38,
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178385,
+          "resource_id": 33,
+          "text": "Kitab (Alquran) yang Kami turunkan kepadamu penuh berkah agar mereka menghayati ayat-ayatnya dan agar orang-orang yang berakal sehat mendapat pelajaran."
+        }
+      ]
+    },
+    {
+      "id": 4000,
+      "verse_number": 30,
+      "verse_key": "38:30",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَوَهَبْنَا لِدَاوُۥدَ سُلَيْمَـٰنَ ۚ نِعْمَ ٱلْعَبْدُ ۖ إِنَّهُۥٓ أَوَّابٌ",
+      "chapter_id": 38,
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178374,
+          "resource_id": 33,
+          "text": "Dan kepada Dawud Kami karuniakan (anak bernama) Sulaiman; dia adalah sebaik-baik hamba. Sungguh, dia sangat taat (kepada Allah)."
+        }
+      ]
+    },
+    {
+      "id": 4001,
+      "verse_number": 31,
+      "verse_key": "38:31",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ عُرِضَ عَلَيْهِ بِٱلْعَشِىِّ ٱلصَّـٰفِنَـٰتُ ٱلْجِيَادُ",
+      "chapter_id": 38,
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178375,
+          "resource_id": 33,
+          "text": "(Ingatlah) ketika suatu sore dipertunjukkan kepadanya (kuda-kuda) yang jinak, (tetapi) sangat cepat larinya,"
+        }
+      ]
+    },
+    {
+      "id": 4002,
+      "verse_number": 32,
+      "verse_key": "38:32",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "فَقَالَ إِنِّىٓ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ عَن ذِكْرِ رَبِّى حَتَّىٰ تَوَارَتْ بِٱلْحِجَابِ",
+      "chapter_id": 38,
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178376,
+          "resource_id": 33,
+          "text": "maka dia berkata, \"Sesungguhnya aku menyukai segala yang baik (kuda), yang membuat aku ingat akan (kebesaran) Tuhanku, sampai matahari terbenam.\"<sup foot_note=135702>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 4003,
+      "verse_number": 33,
+      "verse_key": "38:33",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "رُدُّوهَا عَلَىَّ ۖ فَطَفِقَ مَسْحًۢا بِٱلسُّوقِ وَٱلْأَعْنَاقِ",
+      "chapter_id": 38,
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 177350,
+          "resource_id": 33,
+          "text": "\"Bawalah semua kuda itu kembali kepadaku.\" Lalu dia mengusap-usap kaki dan leher kuda itu.<sup foot_note=135703>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 4004,
+      "verse_number": 34,
+      "verse_key": "38:34",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ فَتَنَّا سُلَيْمَـٰنَ وَأَلْقَيْنَا عَلَىٰ كُرْسِيِّهِۦ جَسَدًا ثُمَّ أَنَابَ",
+      "chapter_id": 38,
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178377,
+          "resource_id": 33,
+          "text": "Dan sungguh, Kami telah menguji Sulaiman dan Kami jadikan (dia) tergeletak di atas kursinya sebagai tubuh (yang lemah karena sakit), kemudian dia bertobat.<sup foot_note=135704>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 4005,
+      "verse_number": 35,
+      "verse_key": "38:35",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ رَبِّ ٱغْفِرْ لِى وَهَبْ لِى مُلْكًا لَّا يَنۢبَغِى لِأَحَدٍ مِّنۢ بَعْدِىٓ ۖ إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+      "chapter_id": 38,
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178378,
+          "resource_id": 33,
+          "text": "Dia berkata, \"Ya Tuhanku, ampunilah aku dan anugerahkanlah kepadaku kerajaan yang tidak dimiliki oleh siapa pun setelahku. Sungguh, Engkaulah Yang Maha Pemberi.\""
+        }
+      ]
+    },
+    {
+      "id": 4006,
+      "verse_number": 36,
+      "verse_key": "38:36",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "فَسَخَّرْنَا لَهُ ٱلرِّيحَ تَجْرِى بِأَمْرِهِۦ رُخَآءً حَيْثُ أَصَابَ",
+      "chapter_id": 38,
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178379,
+          "resource_id": 33,
+          "text": "Kemudian Kami tundukkan kepadanya angin yang berhembus dengan baik menurut perintahnya ke mana saja yang dikehendakinya,"
+        }
+      ]
+    },
+    {
+      "id": 4007,
+      "verse_number": 37,
+      "verse_key": "38:37",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلشَّيَـٰطِينَ كُلَّ بَنَّآءٍ وَغَوَّاصٍ",
+      "chapter_id": 38,
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178380,
+          "resource_id": 33,
+          "text": "dan (Kami tundukkan pula kepadanya) setan-setan, semuanya ahli bangunan dan penyelam,"
+        }
+      ]
+    },
+    {
+      "id": 4008,
+      "verse_number": 38,
+      "verse_key": "38:38",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَءَاخَرِينَ مُقَرَّنِينَ فِى ٱلْأَصْفَادِ",
+      "chapter_id": 38,
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178382,
+          "resource_id": 33,
+          "text": "dan (setan) lain yang terikat dalam belenggu."
+        }
+      ]
+    },
+    {
+      "id": 4009,
+      "verse_number": 39,
+      "verse_key": "38:39",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "هَـٰذَا عَطَآؤُنَا فَٱمْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍ",
+      "chapter_id": 38,
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178381,
+          "resource_id": 33,
+          "text": "Inilah anugerah Kami; maka berikanlah (kepada orang lain) atau tahanlah (untuk dirimu sendiri) tanpa perhitungan."
+        }
+      ]
+    },
+    {
+      "id": 4010,
+      "verse_number": 40,
+      "verse_key": "38:40",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّ لَهُۥ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍ",
+      "chapter_id": 38,
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178386,
+          "resource_id": 33,
+          "text": "Dan sungguh, dia mempunyai kedudukan yang dekat pada sisi Kami dan tempat kembali yang baik."
+        }
+      ]
+    },
+    {
+      "id": 4011,
+      "verse_number": 41,
+      "verse_key": "38:41",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍ وَعَذَابٍ",
+      "chapter_id": 38,
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178387,
+          "resource_id": 33,
+          "text": "Dan ingatlah akan hamba Kami Ayyub ketika dia menyeru Tuhannya, \"Sesungguhnya aku diganggu setan dengan penderitaan dan bencana.\""
+        }
+      ]
+    },
+    {
+      "id": 4012,
+      "verse_number": 42,
+      "verse_key": "38:42",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌ وَشَرَابٌ",
+      "chapter_id": 38,
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178388,
+          "resource_id": 33,
+          "text": "(Allah berfirman), \"Hentakkanlah kakimu; inilah air yang sejuk untuk mandi dan untuk minum.\""
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 16,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 16
+  }
+}

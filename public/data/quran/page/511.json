@@ -1,0 +1,200 @@
+{
+  "verses": [
+    {
+      "id": 4584,
+      "verse_number": 1,
+      "verse_key": "48:1",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 448,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": " إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا",
+      "chapter_id": 48,
+      "page_number": 511,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179132,
+          "resource_id": 33,
+          "text": "Sungguh, Kami telah memberikan kepadamu kemenangan yang nyata."
+        }
+      ]
+    },
+    {
+      "id": 4585,
+      "verse_number": 2,
+      "verse_key": "48:2",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 448,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "لِّيَغْفِرَ لَكَ ٱللَّهُ مَا تَقَدَّمَ مِن ذَنۢبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُۥ عَلَيْكَ وَيَهْدِيَكَ صِرَٰطًا مُّسْتَقِيمًا",
+      "chapter_id": 48,
+      "page_number": 511,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179116,
+          "resource_id": 33,
+          "text": "Agar Allah memberikan ampunan kepadamu (Muhammad) atas dosamu yang lalu dan yang akan datang, serta menyempurnakan nikmat-Nya atasmu dan menunjukimu ke jalan yang lurus,"
+        }
+      ]
+    },
+    {
+      "id": 4586,
+      "verse_number": 3,
+      "verse_key": "48:3",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 448,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَيَنصُرَكَ ٱللَّهُ نَصْرًا عَزِيزًا",
+      "chapter_id": 48,
+      "page_number": 511,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179170,
+          "resource_id": 33,
+          "text": "dan agar Allah menolongmu dengan pertolongan yang kuat (banyak)."
+        }
+      ]
+    },
+    {
+      "id": 4587,
+      "verse_number": 4,
+      "verse_key": "48:4",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 448,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "هُوَ ٱلَّذِىٓ أَنزَلَ ٱلسَّكِينَةَ فِى قُلُوبِ ٱلْمُؤْمِنِينَ لِيَزْدَادُوٓا۟ إِيمَـٰنًا مَّعَ إِيمَـٰنِهِمْ ۗ وَلِلَّهِ جُنُودُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+      "chapter_id": 48,
+      "page_number": 511,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179158,
+          "resource_id": 33,
+          "text": "Dialah yang telah menurunkan ketenangan ke dalam hati orang-orang mukmin untuk menambah keimanan atas keimanan mereka (yang telah ada). Dan milik Allah lah bala tentara langit dan bumi,<sup foot_note=135757>1</sup> dan Allah Maha Mengetahui, Mahabijaksana,"
+        }
+      ]
+    },
+    {
+      "id": 4588,
+      "verse_number": 5,
+      "verse_key": "48:5",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 448,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "لِّيُدْخِلَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ ۚ وَكَانَ ذَٰلِكَ عِندَ ٱللَّهِ فَوْزًا عَظِيمًا",
+      "chapter_id": 48,
+      "page_number": 511,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179160,
+          "resource_id": 33,
+          "text": "Agar Dia masukkan orang-orang mukmin laki-laki dan perempuan ke dalam surga yang mengalir di bawahnya sungai-sungai. Mereka kekal di dalamnya dan Dia akan menghapus kesalahan-kesalahan mereka. Dan yang demikian itu menurut Allah suatu keuntungan yang besar,"
+        }
+      ]
+    },
+    {
+      "id": 4589,
+      "verse_number": 6,
+      "verse_key": "48:6",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 448,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَيُعَذِّبَ ٱلْمُنَـٰفِقِينَ وَٱلْمُنَـٰفِقَـٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَـٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ ۚ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ ۖ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ ۖ وَسَآءَتْ مَصِيرًا",
+      "chapter_id": 48,
+      "page_number": 511,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179161,
+          "resource_id": 33,
+          "text": "dan Dia mengazab orang-orang munafik laki-laki dan perempuan, dan (juga) orang-orang musyrik laki-laki dan perempuan yang berprasangka buruk terhadap Allah. Mereka akan mendapat giliran (azab) yang buruk, dan Allah murka kepada mereka dan mengutuk mereka, serta menyediakan neraka Jahanam bagi mereka. Dan (neraka Jahanam) itu seburuk-buruk tempat kembali."
+        }
+      ]
+    },
+    {
+      "id": 4590,
+      "verse_number": 7,
+      "verse_key": "48:7",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 448,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَلِلَّهِ جُنُودُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا",
+      "chapter_id": 48,
+      "page_number": 511,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 177401,
+          "resource_id": 33,
+          "text": "Dan milik Allah bala tentara langit dan bumi. Dan Allah Mahaperkasa, Mahabijaksana."
+        }
+      ]
+    },
+    {
+      "id": 4591,
+      "verse_number": 8,
+      "verse_key": "48:8",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 448,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّآ أَرْسَلْنَـٰكَ شَـٰهِدًا وَمُبَشِّرًا وَنَذِيرًا",
+      "chapter_id": 48,
+      "page_number": 511,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179163,
+          "resource_id": 33,
+          "text": "Sungguh, Kami mengutus engkau (Muhammad) sebagai saksi, pembawa berita gembira dan pemberi peringatan,"
+        }
+      ]
+    },
+    {
+      "id": 4592,
+      "verse_number": 9,
+      "verse_key": "48:9",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 448,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "لِّتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ وَتُسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
+      "chapter_id": 48,
+      "page_number": 511,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179165,
+          "resource_id": 33,
+          "text": "agar kamu semua beriman kepada Allah dan Rasul-Nya, menguatkan (agama)-Nya, membesarkan-Nya, dan bertasbih kepada-Nya pagi dan petang."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 9,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 9
+  }
+}

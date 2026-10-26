@@ -1,0 +1,305 @@
+{
+  "verses": [
+    {
+      "id": 6208,
+      "verse_number": 1,
+      "verse_key": "109:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+      "chapter_id": 109,
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181243,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Wahai orang-orang kafir!"
+        }
+      ]
+    },
+    {
+      "id": 6209,
+      "verse_number": 2,
+      "verse_key": "109:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+      "chapter_id": 109,
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181433,
+          "resource_id": 33,
+          "text": "aku tidak akan menyembah apa yang kamu sembah,"
+        }
+      ]
+    },
+    {
+      "id": 6210,
+      "verse_number": 3,
+      "verse_key": "109:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "chapter_id": 109,
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181437,
+          "resource_id": 33,
+          "text": "dan kamu bukan penyembah apa yang aku sembah,"
+        }
+      ]
+    },
+    {
+      "id": 6211,
+      "verse_number": 4,
+      "verse_key": "109:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+      "chapter_id": 109,
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181436,
+          "resource_id": 33,
+          "text": "dan aku tidak pernah menjadi penyembah apa yang kamu sembah,"
+        }
+      ]
+    },
+    {
+      "id": 6212,
+      "verse_number": 5,
+      "verse_key": "109:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "chapter_id": 109,
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181445,
+          "resource_id": 33,
+          "text": "dan kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah."
+        }
+      ]
+    },
+    {
+      "id": 6213,
+      "verse_number": 6,
+      "verse_key": "109:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+      "chapter_id": 109,
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181442,
+          "resource_id": 33,
+          "text": "Untukmu agamamu, dan untukku agamaku.\""
+        }
+      ]
+    },
+    {
+      "id": 6214,
+      "verse_number": 1,
+      "verse_key": "110:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 554,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+      "chapter_id": 110,
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181439,
+          "resource_id": 33,
+          "text": "Apabila telah datang pertolongan Allah dan kemenangan,"
+        }
+      ]
+    },
+    {
+      "id": 6215,
+      "verse_number": 2,
+      "verse_key": "110:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 554,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+      "chapter_id": 110,
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181452,
+          "resource_id": 33,
+          "text": "dan engkau melihat manusia berbondong-bondong masuk agama Allah."
+        }
+      ]
+    },
+    {
+      "id": 6216,
+      "verse_number": 3,
+      "verse_key": "110:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 554,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+      "chapter_id": 110,
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181440,
+          "resource_id": 33,
+          "text": "maka bertasbihlah dengan memuji Tuhanmu dan mohonlah ampunan kepada-Nya. Sungguh, Dia Maha Penerima tobat."
+        }
+      ]
+    },
+    {
+      "id": 6217,
+      "verse_number": 1,
+      "verse_key": "111:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 555,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+      "chapter_id": 111,
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181462,
+          "resource_id": 33,
+          "text": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia!<sup foot_note=135881>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 6218,
+      "verse_number": 2,
+      "verse_key": "111:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 555,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "chapter_id": 111,
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177230,
+          "resource_id": 33,
+          "text": "Tidaklah berguna baginya hartanya dan apa yang dia usahakan."
+        }
+      ]
+    },
+    {
+      "id": 6219,
+      "verse_number": 3,
+      "verse_key": "111:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 555,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "chapter_id": 111,
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181484,
+          "resource_id": 33,
+          "text": "Kelak dia akan masuk ke dalam api yang bergejolak (neraka)."
+        }
+      ]
+    },
+    {
+      "id": 6220,
+      "verse_number": 4,
+      "verse_key": "111:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 555,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+      "chapter_id": 111,
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181486,
+          "resource_id": 33,
+          "text": "Dan (begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah)."
+        }
+      ]
+    },
+    {
+      "id": 6221,
+      "verse_number": 5,
+      "verse_key": "111:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 555,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+      "chapter_id": 111,
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177415,
+          "resource_id": 33,
+          "text": "Di lehernya ada tali dari sabut yang dipintal."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 14,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 14
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "verses": [
+    {
+      "id": 84,
+      "verse_number": 77,
+      "verse_key": "2:77",
+      "hizb_number": 2,
+      "rub_el_hizb_number": 5,
+      "ruku_number": 10,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "أَوَلَا يَعْلَمُونَ أَنَّ ٱللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ",
+      "chapter_id": 2,
+      "page_number": 12,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 177276,
+          "resource_id": 33,
+          "text": "Dan tidakkah mereka tahu bahwa Allah mengetahui apa yang mereka sembunyikan dan apa yang mereka tampakkan?"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "verse_number": 78,
+      "verse_key": "2:78",
+      "hizb_number": 2,
+      "rub_el_hizb_number": 5,
+      "ruku_number": 10,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ ٱلْكِتَـٰبَ إِلَّآ أَمَانِىَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ",
+      "chapter_id": 2,
+      "page_number": 12,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 177297,
+          "resource_id": 33,
+          "text": "Dan di antara mereka ada yang buta huruf, tidak memahami Kitab (Taurat), kecuali hanya berangan-angan dan mereka hanya menduga-duga."
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "verse_number": 79,
+      "verse_key": "2:79",
+      "hizb_number": 2,
+      "rub_el_hizb_number": 5,
+      "ruku_number": 10,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "فَوَيْلٌ لِّلَّذِينَ يَكْتُبُونَ ٱلْكِتَـٰبَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَـٰذَا مِنْ عِندِ ٱللَّهِ لِيَشْتَرُوا۟ بِهِۦ ثَمَنًا قَلِيلًا ۖ فَوَيْلٌ لَّهُم مِّمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌ لَّهُم مِّمَّا يَكْسِبُونَ",
+      "chapter_id": 2,
+      "page_number": 12,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 177322,
+          "resource_id": 33,
+          "text": "Maka celakalah orang-orang yang menulis kitab dengan tangan mereka (sendiri), kemudian berkata, \"Ini dari Allah,\" (dengan maksud) untuk menjualnya dengan harga murah. Maka celakalah mereka, karena tulisan tangan mereka, dan celakalah mereka karena apa yang mereka perbuat.<sup foot_note=134988>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "verse_number": 80,
+      "verse_key": "2:80",
+      "hizb_number": 2,
+      "rub_el_hizb_number": 5,
+      "ruku_number": 10,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامًا مَّعْدُودَةً ۚ قُلْ أَتَّخَذْتُمْ عِندَ ٱللَّهِ عَهْدًا فَلَن يُخْلِفَ ٱللَّهُ عَهْدَهُۥٓ ۖ أَمْ تَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+      "chapter_id": 2,
+      "page_number": 12,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 177332,
+          "resource_id": 33,
+          "text": "Dan mereka berkata, \"Neraka tidak akan menyentuh kami, kecuali beberapa hari saja.\" Katakanlah, \"Sudahkah kamu menerima janji dari Allah, sehingga Allah tidak akan mengingkari janji-Nya, ataukah kamu mengatakan tentang Allah, sesuatu yang tidak kamu ketahui?\""
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "verse_number": 81,
+      "verse_key": "2:81",
+      "hizb_number": 2,
+      "rub_el_hizb_number": 5,
+      "ruku_number": 10,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "بَلَىٰ مَن كَسَبَ سَيِّئَةً وَأَحَـٰطَتْ بِهِۦ خَطِيٓـَٔتُهُۥ فَأُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+      "chapter_id": 2,
+      "page_number": 12,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 177342,
+          "resource_id": 33,
+          "text": "Tidaklah demikian! Barang siapa berbuat keburukan dan dosanya telah menenggelamkannya, maka mereka itu penghuni neraka. Mereka kekal di dalamnya."
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "verse_number": 82,
+      "verse_key": "2:82",
+      "hizb_number": 2,
+      "rub_el_hizb_number": 5,
+      "ruku_number": 10,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَنَّةِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+      "chapter_id": 2,
+      "page_number": 12,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 177357,
+          "resource_id": 33,
+          "text": "Dan orang-orang yang beriman dan mengerjakan kebajikan, mereka itu penghuni surga. Mereka kekal di dalamnya."
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "verse_number": 83,
+      "verse_key": "2:83",
+      "hizb_number": 2,
+      "rub_el_hizb_number": 5,
+      "ruku_number": 11,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ أَخَذْنَا مِيثَـٰقَ بَنِىٓ إِسْرَٰٓءِيلَ لَا تَعْبُدُونَ إِلَّا ٱللَّهَ وَبِٱلْوَٰلِدَيْنِ إِحْسَانًا وَذِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَقُولُوا۟ لِلنَّاسِ حُسْنًا وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ",
+      "chapter_id": 2,
+      "page_number": 12,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 177381,
+          "resource_id": 33,
+          "text": "Dan (ingatlah) ketika Kami mengambil janji dari Bani Israil, \"Janganlah kamu menyembah selain Allah, dan berbuat baiklah kepada kedua orang tua, kerabat, anak-anak yatim, dan orang-orang miskin. Dan bertutur katalah yang baik kepada manusia, laksanakan salat dan tunaikanlah zakat.\" Tetapi kemudian kamu berpaling (mengingkari), kecuali sebagian kecil dari kamu, dan kamu (masih menjadi) pembangkang."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 7,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 7
+  }
+}

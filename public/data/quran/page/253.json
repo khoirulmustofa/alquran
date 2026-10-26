@@ -1,0 +1,137 @@
+{
+  "verses": [
+    {
+      "id": 1736,
+      "verse_number": 29,
+      "verse_key": "13:29",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 101,
+      "ruku_number": 208,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ طُوبَىٰ لَهُمْ وَحُسْنُ مَـَٔابٍ",
+      "chapter_id": 13,
+      "page_number": 253,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 183121,
+          "resource_id": 33,
+          "text": "Orang-orang yang beriman dan mengerjakan kebajikan, mereka mendapat kebahagiaan dan tempat kembali yang baik."
+        }
+      ]
+    },
+    {
+      "id": 1737,
+      "verse_number": 30,
+      "verse_key": "13:30",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 101,
+      "ruku_number": 208,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "كَذَٰلِكَ أَرْسَلْنَـٰكَ فِىٓ أُمَّةٍ قَدْ خَلَتْ مِن قَبْلِهَآ أُمَمٌ لِّتَتْلُوَا۟ عَلَيْهِمُ ٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَهُمْ يَكْفُرُونَ بِٱلرَّحْمَـٰنِ ۚ قُلْ هُوَ رَبِّى لَآ إِلَـٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ مَتَابِ",
+      "chapter_id": 13,
+      "page_number": 253,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 181707,
+          "resource_id": 33,
+          "text": "Demikianlah, Kami telah mengutus engkau (Muhammad) kepada suatu umat yang sungguh sebelumnya telah berlalu beberapa umat, agar engkau bacakan kepada mereka (Alquran) yang Kami wahyukan kepadamu, padahal mereka ingkar kepada Tuhan Yang Maha Pengasih. Katakanlah, \"Dia Tuhanku, tidak ada tuhan selain Dia; hanya kepada-Nya aku bertawakal dan hanya kepada-Nya aku bertobat.\""
+        }
+      ]
+    },
+    {
+      "id": 1738,
+      "verse_number": 31,
+      "verse_key": "13:31",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 101,
+      "ruku_number": 208,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَوْ أَنَّ قُرْءَانًا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ ۗ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًا ۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟ قَارِعَةٌ أَوْ تَحُلُّ قَرِيبًا مِّن دَارِهِمْ حَتَّىٰ يَأْتِىَ وَعْدُ ٱللَّهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ",
+      "chapter_id": 13,
+      "page_number": 253,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 183126,
+          "resource_id": 33,
+          "text": "Dan sekiranya ada suatu bacaan (Kitab Suci) yang dengan itu gunung-gunung dapat digoncangkan, atau bumi jadi terbelah, atau orang yang sudah mati dapat berbicara, (itulah Alquran). Sebenarnya segala urusan itu milik Allah. Maka tidakkah orang-orang yang beriman mengetahui bahwa sekiranya Allah menghendaki (semua manusia beriman), tentu Allah memberi petunjuk kepada manusia semuanya. Dan orang-orang kafir senantiasa ditimpa bencana disebabkan perbuatan mereka sendiri atau bencana itu terjadi dekat tempat kediaman mereka, sampai datang janji Allah (penaklukan Mekkah). Sungguh, Allah tidak menyalahi janji."
+        }
+      ]
+    },
+    {
+      "id": 1739,
+      "verse_number": 32,
+      "verse_key": "13:32",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 101,
+      "ruku_number": 209,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَأَمْلَيْتُ لِلَّذِينَ كَفَرُوا۟ ثُمَّ أَخَذْتُهُمْ ۖ فَكَيْفَ كَانَ عِقَابِ",
+      "chapter_id": 13,
+      "page_number": 253,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 183117,
+          "resource_id": 33,
+          "text": "Dan sesungguhnya beberapa rasul sebelum engkau (Muhammad) telah diperolok-olokan, maka Aku beri tenggang waktu kepada orang-orang kafir itu, kemudian Aku binasakan mereka. Maka alangkah hebatnya siksaan-Ku itu!"
+        }
+      ]
+    },
+    {
+      "id": 1740,
+      "verse_number": 33,
+      "verse_key": "13:33",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 101,
+      "ruku_number": 209,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "أَفَمَنْ هُوَ قَآئِمٌ عَلَىٰ كُلِّ نَفْسٍۭ بِمَا كَسَبَتْ ۗ وَجَعَلُوا۟ لِلَّهِ شُرَكَآءَ قُلْ سَمُّوهُمْ ۚ أَمْ تُنَبِّـُٔونَهُۥ بِمَا لَا يَعْلَمُ فِى ٱلْأَرْضِ أَم بِظَـٰهِرٍ مِّنَ ٱلْقَوْلِ ۗ بَلْ زُيِّنَ لِلَّذِينَ كَفَرُوا۟ مَكْرُهُمْ وَصُدُّوا۟ عَنِ ٱلسَّبِيلِ ۗ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ",
+      "chapter_id": 13,
+      "page_number": 253,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 181726,
+          "resource_id": 33,
+          "text": "Maka apakah Tuhan yang menjaga setiap jiwa terhadap apa yang diperbuatnya (sama dengan yang lain)? Mereka menjadikan sekutu-sekutu bagi Allah. Katakanlah, \"Sebutkanlah sifat-sifat mereka itu!\" Atau apakah kamu hendak memberitahukan kepada Allah apa yang tidak diketahui-Nya di bumi, atau (mengatakan tentang hal itu) sekedar perkataan pada lahirnya saja. Sebenarnya bagi orang kafir, tipu daya mereka itu dijadikan terasa indah, dan mereka dihalangi dari jalan (yang benar). Dan barang siapa disesatkan Allah, maka tidak ada seorang pun yang memberi petunjuk baginya."
+        }
+      ]
+    },
+    {
+      "id": 1741,
+      "verse_number": 34,
+      "verse_key": "13:34",
+      "hizb_number": 26,
+      "rub_el_hizb_number": 101,
+      "ruku_number": 209,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "لَّهُمْ عَذَابٌ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَشَقُّ ۖ وَمَا لَهُم مِّنَ ٱللَّهِ مِن وَاقٍ",
+      "chapter_id": 13,
+      "page_number": 253,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 181532,
+          "resource_id": 33,
+          "text": "Mereka mendapat siksaan dalam kehidupan dunia, dan azab akhirat pasti lebih keras. Tidak ada seorang pun yang melindungi mereka dari (azab) Allah."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 6,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 6
+  }
+}

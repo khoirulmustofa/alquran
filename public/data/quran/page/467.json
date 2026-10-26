@@ -1,0 +1,179 @@
+{
+  "verses": [
+    {
+      "id": 4133,
+      "verse_number": 75,
+      "verse_key": "39:75",
+      "hizb_number": 47,
+      "rub_el_hizb_number": 186,
+      "ruku_number": 405,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَتَرَى ٱلْمَلَـٰٓئِكَةَ حَآفِّينَ مِنْ حَوْلِ ٱلْعَرْشِ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ ۖ وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَقِيلَ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+      "chapter_id": 39,
+      "page_number": 467,
+      "juz_number": 24,
+      "translations": [
+        {
+          "id": 178521,
+          "resource_id": 33,
+          "text": "Dan engkau (Muhammad) akan melihat malaikat-malaikat melingkar di sekeliling Arasy, bertasbih sambil memuji Tuhannya; lalu diberikan keputusan di antara mereka (hamba-hamba Allah) secara adil dan dikatakan, \"Segala puji bagi Allah, Tuhan seluruh alam.\""
+        }
+      ]
+    },
+    {
+      "id": 4134,
+      "verse_number": 1,
+      "verse_key": "40:1",
+      "hizb_number": 47,
+      "rub_el_hizb_number": 187,
+      "ruku_number": 406,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": " حمٓ",
+      "chapter_id": 40,
+      "page_number": 467,
+      "juz_number": 24,
+      "translations": [
+        {
+          "id": 177502,
+          "resource_id": 33,
+          "text": "Ḥā Mīm."
+        }
+      ]
+    },
+    {
+      "id": 4135,
+      "verse_number": 2,
+      "verse_key": "40:2",
+      "hizb_number": 47,
+      "rub_el_hizb_number": 187,
+      "ruku_number": 406,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "تَنزِيلُ ٱلْكِتَـٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+      "chapter_id": 40,
+      "page_number": 467,
+      "juz_number": 24,
+      "translations": [
+        {
+          "id": 178538,
+          "resource_id": 33,
+          "text": "Kitab ini (Alquran) di turunkan dari Allah Yang Mahaperkasa, Maha Mengetahui,"
+        }
+      ]
+    },
+    {
+      "id": 4136,
+      "verse_number": 3,
+      "verse_key": "40:3",
+      "hizb_number": 47,
+      "rub_el_hizb_number": 187,
+      "ruku_number": 406,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "غَافِرِ ٱلذَّنۢبِ وَقَابِلِ ٱلتَّوْبِ شَدِيدِ ٱلْعِقَابِ ذِى ٱلطَّوْلِ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ إِلَيْهِ ٱلْمَصِيرُ",
+      "chapter_id": 40,
+      "page_number": 467,
+      "juz_number": 24,
+      "translations": [
+        {
+          "id": 178548,
+          "resource_id": 33,
+          "text": "yang mengampuni dosa dan menerima tobat dan keras hukuman-Nya; yang memiliki karunia. Tidak ada tuhan selain Dia. Hanya kepada-Nyalah (semua makhluk) kembali."
+        }
+      ]
+    },
+    {
+      "id": 4137,
+      "verse_number": 4,
+      "verse_key": "40:4",
+      "hizb_number": 47,
+      "rub_el_hizb_number": 187,
+      "ruku_number": 406,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "مَا يُجَـٰدِلُ فِىٓ ءَايَـٰتِ ٱللَّهِ إِلَّا ٱلَّذِينَ كَفَرُوا۟ فَلَا يَغْرُرْكَ تَقَلُّبُهُمْ فِى ٱلْبِلَـٰدِ",
+      "chapter_id": 40,
+      "page_number": 467,
+      "juz_number": 24,
+      "translations": [
+        {
+          "id": 178559,
+          "resource_id": 33,
+          "text": "Tidak ada yang memperdebatkan tentang ayat-ayat Allah, kecuali orang-orang yang kafir. Karena itu janganlah engkau (Muhammad) tertipu oleh keberhasilan usaha mereka di seluruh negeri."
+        }
+      ]
+    },
+    {
+      "id": 4138,
+      "verse_number": 5,
+      "verse_key": "40:5",
+      "hizb_number": 47,
+      "rub_el_hizb_number": 187,
+      "ruku_number": 406,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَٱلْأَحْزَابُ مِنۢ بَعْدِهِمْ ۖ وَهَمَّتْ كُلُّ أُمَّةٍۭ بِرَسُولِهِمْ لِيَأْخُذُوهُ ۖ وَجَـٰدَلُوا۟ بِٱلْبَـٰطِلِ لِيُدْحِضُوا۟ بِهِ ٱلْحَقَّ فَأَخَذْتُهُمْ ۖ فَكَيْفَ كَانَ عِقَابِ",
+      "chapter_id": 40,
+      "page_number": 467,
+      "juz_number": 24,
+      "translations": [
+        {
+          "id": 178571,
+          "resource_id": 33,
+          "text": "Sebelum mereka, kaum Nuh dan golongan-golongan yang bersekutu setelah mereka telah mendustakan (rasul) dan setiap umat telah merencanakan (tipu daya) terhadap rasul mereka untuk menawannya dan mereka membantah dengan (alasan) yang batil untuk melenyapkan kebenaran; karena itu Aku tawan mereka (dengan azab). Maka betapa (pedihnya) azab-Ku?"
+        }
+      ]
+    },
+    {
+      "id": 4139,
+      "verse_number": 6,
+      "verse_key": "40:6",
+      "hizb_number": 47,
+      "rub_el_hizb_number": 187,
+      "ruku_number": 406,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَكَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ كَفَرُوٓا۟ أَنَّهُمْ أَصْحَـٰبُ ٱلنَّارِ",
+      "chapter_id": 40,
+      "page_number": 467,
+      "juz_number": 24,
+      "translations": [
+        {
+          "id": 178581,
+          "resource_id": 33,
+          "text": "Dan demikianlah telah pasti berlaku ketetapan Tuhanmu terhadap orang-orang kafir, (yaitu) sesungguhnya mereka adalah penghuni neraka."
+        }
+      ]
+    },
+    {
+      "id": 4140,
+      "verse_number": 7,
+      "verse_key": "40:7",
+      "hizb_number": 47,
+      "rub_el_hizb_number": 187,
+      "ruku_number": 406,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِينَ يَحْمِلُونَ ٱلْعَرْشَ وَمَنْ حَوْلَهُۥ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِۦ وَيَسْتَغْفِرُونَ لِلَّذِينَ ءَامَنُوا۟ رَبَّنَا وَسِعْتَ كُلَّ شَىْءٍ رَّحْمَةً وَعِلْمًا فَٱغْفِرْ لِلَّذِينَ تَابُوا۟ وَٱتَّبَعُوا۟ سَبِيلَكَ وَقِهِمْ عَذَابَ ٱلْجَحِيمِ",
+      "chapter_id": 40,
+      "page_number": 467,
+      "juz_number": 24,
+      "translations": [
+        {
+          "id": 178592,
+          "resource_id": 33,
+          "text": "(Malaikat-malaikat) yang memikul Arasy dan (malaikat) yang berada di sekelilingnya bertasbih dengan memuji Tuhannya dan mereka beriman kepada-Nya serta memohonkan ampunan untuk orang-orang yang beriman (seraya berkata), \"Ya Tuhan kami, rahmat dan ilmu yang ada pada-Mu meliputi segala sesuatu, maka berilah ampunan kepada orang-orang yang bertobat dan mengikuti jalan (agama)-Mu dan peliharalah mereka dari azab neraka."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 8,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 8
+  }
+}

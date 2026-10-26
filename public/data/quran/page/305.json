@@ -1,0 +1,242 @@
+{
+  "verses": [
+    {
+      "id": 2251,
+      "verse_number": 1,
+      "verse_key": "19:1",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 122,
+      "ruku_number": 264,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": " كٓهيعٓصٓ",
+      "chapter_id": 19,
+      "page_number": 305,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182168,
+          "resource_id": 33,
+          "text": "Kāf Hā Yā` 'Aīn Ṣād."
+        }
+      ]
+    },
+    {
+      "id": 2252,
+      "verse_number": 2,
+      "verse_key": "19:2",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 122,
+      "ruku_number": 264,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "ذِكْرُ رَحْمَتِ رَبِّكَ عَبْدَهُۥ زَكَرِيَّآ",
+      "chapter_id": 19,
+      "page_number": 305,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182145,
+          "resource_id": 33,
+          "text": "(Yang dibacakan ini adalah) penjelasan tentang rahmat Tuhanmu kepada hamba-Nya, Zakaria,"
+        }
+      ]
+    },
+    {
+      "id": 2253,
+      "verse_number": 3,
+      "verse_key": "19:3",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 122,
+      "ruku_number": 264,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيًّا",
+      "chapter_id": 19,
+      "page_number": 305,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182461,
+          "resource_id": 33,
+          "text": "(yaitu) ketika dia berdoa kepada Tuhannya dengan suara yang lembut."
+        }
+      ]
+    },
+    {
+      "id": 2254,
+      "verse_number": 4,
+      "verse_key": "19:4",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 122,
+      "ruku_number": 264,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ رَبِّ إِنِّى وَهَنَ ٱلْعَظْمُ مِنِّى وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًا وَلَمْ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيًّا",
+      "chapter_id": 19,
+      "page_number": 305,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182195,
+          "resource_id": 33,
+          "text": "Dia (Zakaria) berkata, \"Ya Tuhanku, sungguh tulangku telah melemah dan kepalaku telah dipenuhi uban, sedang aku belum pernah kecewa dalam berdoa kepada-Mu, ya Tuhanku."
+        }
+      ]
+    },
+    {
+      "id": 2255,
+      "verse_number": 5,
+      "verse_key": "19:5",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 122,
+      "ruku_number": 264,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّا",
+      "chapter_id": 19,
+      "page_number": 305,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182201,
+          "resource_id": 33,
+          "text": "Dan sungguh, aku khawatir terhadap kerabatku sepeninggalku, padahal istriku seorang yang mandul, maka anugerahilah aku seorang anak dari sisi-Mu,"
+        }
+      ]
+    },
+    {
+      "id": 2256,
+      "verse_number": 6,
+      "verse_key": "19:6",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 122,
+      "ruku_number": 264,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "يَرِثُنِى وَيَرِثُ مِنْ ءَالِ يَعْقُوبَ ۖ وَٱجْعَلْهُ رَبِّ رَضِيًّا",
+      "chapter_id": 19,
+      "page_number": 305,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182220,
+          "resource_id": 33,
+          "text": "yang akan mewarisi aku dan mewarisi dari keluarga Yakub; dan jadikanlah dia, ya Tuhanku, seorang yang diridai.\""
+        }
+      ]
+    },
+    {
+      "id": 2257,
+      "verse_number": 7,
+      "verse_key": "19:7",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 122,
+      "ruku_number": 264,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَـٰمٍ ٱسْمُهُۥ يَحْيَىٰ لَمْ نَجْعَل لَّهُۥ مِن قَبْلُ سَمِيًّا",
+      "chapter_id": 19,
+      "page_number": 305,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182232,
+          "resource_id": 33,
+          "text": "(Allah berfirman), \"Wahai Zakaria! Kami memberi kabar gembira kepadamu dengan seorang anak laki-laki namanya Yahya, yang Kami belum pernah memberikan nama seperti itu sebelumnya."
+        }
+      ]
+    },
+    {
+      "id": 2258,
+      "verse_number": 8,
+      "verse_key": "19:8",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 122,
+      "ruku_number": 264,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌ وَكَانَتِ ٱمْرَأَتِى عَاقِرًا وَقَدْ بَلَغْتُ مِنَ ٱلْكِبَرِ عِتِيًّا",
+      "chapter_id": 19,
+      "page_number": 305,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182238,
+          "resource_id": 33,
+          "text": "Dia (Zakaria) berkata, \"Ya Tuhanku, bagaimana aku akan mempunyai anak, padahal istriku seorang yang mandul dan aku (sendiri) sesungguhnya sudah mencapai usia yang sangat tua?\""
+        }
+      ]
+    },
+    {
+      "id": 2259,
+      "verse_number": 9,
+      "verse_key": "19:9",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 122,
+      "ruku_number": 264,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَىَّ هَيِّنٌ وَقَدْ خَلَقْتُكَ مِن قَبْلُ وَلَمْ تَكُ شَيْـًٔا",
+      "chapter_id": 19,
+      "page_number": 305,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182248,
+          "resource_id": 33,
+          "text": "(Allah) berfirman, \"Demikianlah.\" Tuhanmu berfirman, \"Hal itu mudah bagi-Ku; sungguh, engkau telah Aku ciptakan sebelum itu, padahal (pada waktu itu) engkau belum berwujud sama sekali.\""
+        }
+      ]
+    },
+    {
+      "id": 2260,
+      "verse_number": 10,
+      "verse_key": "19:10",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 122,
+      "ruku_number": 264,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةً ۚ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَـٰثَ لَيَالٍ سَوِيًّا",
+      "chapter_id": 19,
+      "page_number": 305,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182166,
+          "resource_id": 33,
+          "text": "Dia (Zakaria) berkata, \"Ya Tuhanku, berilah aku suatu tanda.\" (Allah) berfirman, \"Tandamu ialah engkau tidak dapat bercakap-cakap dengan manusia selama tiga malam, padahal engkau sehat.\""
+        }
+      ]
+    },
+    {
+      "id": 2261,
+      "verse_number": 11,
+      "verse_key": "19:11",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 122,
+      "ruku_number": 264,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ مِنَ ٱلْمِحْرَابِ فَأَوْحَىٰٓ إِلَيْهِمْ أَن سَبِّحُوا۟ بُكْرَةً وَعَشِيًّا",
+      "chapter_id": 19,
+      "page_number": 305,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182162,
+          "resource_id": 33,
+          "text": "Maka dia keluar dari mihrab menuju kaumnya, lalu dia memberi isyarat kepada mereka; bertasbihlah kamu pada waktu pagi dan petang."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 11,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 11
+  }
+}

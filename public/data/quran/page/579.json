@@ -1,0 +1,431 @@
+{
+  "verses": [
+    {
+      "id": 5597,
+      "verse_number": 6,
+      "verse_key": "76:6",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَيْنًا يَشْرَبُ بِهَا عِبَادُ ٱللَّهِ يُفَجِّرُونَهَا تَفْجِيرًا",
+      "chapter_id": 76,
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180592,
+          "resource_id": 33,
+          "text": "(yaitu) mata air (dalam surga) yang di minum oleh hamba-hamba Allah dan mereka dapat memancarkannya dengan sebaik-baiknya."
+        }
+      ]
+    },
+    {
+      "id": 5598,
+      "verse_number": 7,
+      "verse_key": "76:7",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يُوفُونَ بِٱلنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُۥ مُسْتَطِيرًا",
+      "chapter_id": 76,
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180594,
+          "resource_id": 33,
+          "text": "Mereka memenuhi nazar<sup foot_note=135835>1</sup> dan takut akan suatu hari yang azabnya merata di mana-mana."
+        }
+      ]
+    },
+    {
+      "id": 5599,
+      "verse_number": 8,
+      "verse_key": "76:8",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا",
+      "chapter_id": 76,
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180596,
+          "resource_id": 33,
+          "text": "Dan mereka memberikan makanan yang disukainya kepada orang miskin, anak yatim dan orang yang ditawan,"
+        }
+      ]
+    },
+    {
+      "id": 5600,
+      "verse_number": 9,
+      "verse_key": "76:9",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ ٱللَّهِ لَا نُرِيدُ مِنكُمْ جَزَآءً وَلَا شُكُورًا",
+      "chapter_id": 76,
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180600,
+          "resource_id": 33,
+          "text": "(sambil berkata), \"Sesungguhnya kami memberi makanan kepadamu hanyalah karena mengharapkan keridaan Allah, kami tidak mengharap balasan dan terima kasih dari kamu."
+        }
+      ]
+    },
+    {
+      "id": 5601,
+      "verse_number": 10,
+      "verse_key": "76:10",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا نَخَافُ مِن رَّبِّنَا يَوْمًا عَبُوسًا قَمْطَرِيرًا",
+      "chapter_id": 76,
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180565,
+          "resource_id": 33,
+          "text": "Sungguh, kami takut akan (azab) Tuhan pada hari (ketika) orang-orang berwajah masam penuh kesulitan.\""
+        }
+      ]
+    },
+    {
+      "id": 5602,
+      "verse_number": 11,
+      "verse_key": "76:11",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَوَقَىٰهُمُ ٱللَّهُ شَرَّ ذَٰلِكَ ٱلْيَوْمِ وَلَقَّىٰهُمْ نَضْرَةً وَسُرُورًا",
+      "chapter_id": 76,
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180566,
+          "resource_id": 33,
+          "text": "Maka Allah melindungi mereka dari kesusahan hari itu, dan memberikan kepada mereka keceriaan dan kegembiraan."
+        }
+      ]
+    },
+    {
+      "id": 5603,
+      "verse_number": 12,
+      "verse_key": "76:12",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَجَزَىٰهُم بِمَا صَبَرُوا۟ جَنَّةً وَحَرِيرًا",
+      "chapter_id": 76,
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180567,
+          "resource_id": 33,
+          "text": "Dan Dia memberi balasan kepada mereka karena kesabarannya (berupa) surga dan (pakaian) sutera."
+        }
+      ]
+    },
+    {
+      "id": 5604,
+      "verse_number": 13,
+      "verse_key": "76:13",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلْأَرَآئِكِ ۖ لَا يَرَوْنَ فِيهَا شَمْسًا وَلَا زَمْهَرِيرًا",
+      "chapter_id": 76,
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180568,
+          "resource_id": 33,
+          "text": "di sana mereka duduk bersandar di atas dipan, di sana mereka tidak melihat (merasakan teriknya) matahari dan tidak pula dingin yang berlebihan."
+        }
+      ]
+    },
+    {
+      "id": 5605,
+      "verse_number": 14,
+      "verse_key": "76:14",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَدَانِيَةً عَلَيْهِمْ ظِلَـٰلُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا",
+      "chapter_id": 76,
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180569,
+          "resource_id": 33,
+          "text": "Dan naungan (pepohonan)nya dekat di atas mereka dan dimudahkan semudah-mudahnya untuk memetik (buah)nya."
+        }
+      ]
+    },
+    {
+      "id": 5606,
+      "verse_number": 15,
+      "verse_key": "76:15",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَيُطَافُ عَلَيْهِم بِـَٔانِيَةٍ مِّن فِضَّةٍ وَأَكْوَابٍ كَانَتْ قَوَارِيرَا۠",
+      "chapter_id": 76,
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180570,
+          "resource_id": 33,
+          "text": "Dan kepada mereka diedarkan bejana-bejana dari perak dan piala-piala yang bening laksana kristal,"
+        }
+      ]
+    },
+    {
+      "id": 5607,
+      "verse_number": 16,
+      "verse_key": "76:16",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قَوَارِيرَا۟ مِن فِضَّةٍ قَدَّرُوهَا تَقْدِيرًا",
+      "chapter_id": 76,
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180574,
+          "resource_id": 33,
+          "text": "kristal yang jernih terbuat dari perak, mereka tentukan ukurannya yang sesuai (dengan kehendak mereka)."
+        }
+      ]
+    },
+    {
+      "id": 5608,
+      "verse_number": 17,
+      "verse_key": "76:17",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَيُسْقَوْنَ فِيهَا كَأْسًا كَانَ مِزَاجُهَا زَنجَبِيلًا",
+      "chapter_id": 76,
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180571,
+          "resource_id": 33,
+          "text": "Dan di sana mereka diberi segelas minuman bercampur jahe."
+        }
+      ]
+    },
+    {
+      "id": 5609,
+      "verse_number": 18,
+      "verse_key": "76:18",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَيْنًا فِيهَا تُسَمَّىٰ سَلْسَبِيلًا",
+      "chapter_id": 76,
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180572,
+          "resource_id": 33,
+          "text": "(Yang didatangkan dari) suatu mata air (di surga) yang dinamakan Salsabīl."
+        }
+      ]
+    },
+    {
+      "id": 5610,
+      "verse_number": 19,
+      "verse_key": "76:19",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 232,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "۞ وَيَطُوفُ عَلَيْهِمْ وِلْدَٰنٌ مُّخَلَّدُونَ إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًا مَّنثُورًا",
+      "chapter_id": 76,
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180573,
+          "resource_id": 33,
+          "text": "Dan mereka dikelilingi oleh para pemuda-pemuda yang tetap muda. Apabila kamu melihatnya, akan kamu kira mereka, mutiara yang bertaburan."
+        }
+      ]
+    },
+    {
+      "id": 5611,
+      "verse_number": 20,
+      "verse_key": "76:20",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 232,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا رَأَيْتَ ثَمَّ رَأَيْتَ نَعِيمًا وَمُلْكًا كَبِيرًا",
+      "chapter_id": 76,
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180577,
+          "resource_id": 33,
+          "text": "Dan apabila engkau melihat (keadaan) di sana (surga), niscaya engkau akan melihat berbagai macam kenikmatan dan kerajaan yang besar."
+        }
+      ]
+    },
+    {
+      "id": 5612,
+      "verse_number": 21,
+      "verse_key": "76:21",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 232,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَـٰلِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌ وَإِسْتَبْرَقٌ ۖ وَحُلُّوٓا۟ أَسَاوِرَ مِن فِضَّةٍ وَسَقَىٰهُمْ رَبُّهُمْ شَرَابًا طَهُورًا",
+      "chapter_id": 76,
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180578,
+          "resource_id": 33,
+          "text": "Mereka berpakaian sutera halus yang hijau dan sutera tebal dan memakai gelang terbuat dari perak, dan Tuhan memberikan kepada mereka minuman yang bersih (dan suci)."
+        }
+      ]
+    },
+    {
+      "id": 5613,
+      "verse_number": 22,
+      "verse_key": "76:22",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 232,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ هَـٰذَا كَانَ لَكُمْ جَزَآءً وَكَانَ سَعْيُكُم مَّشْكُورًا",
+      "chapter_id": 76,
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180579,
+          "resource_id": 33,
+          "text": "Inilah balasan untukmu, dan segala usahamu diterima dan diakui (Allah)."
+        }
+      ]
+    },
+    {
+      "id": 5614,
+      "verse_number": 23,
+      "verse_key": "76:23",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 232,
+      "ruku_number": 517,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا نَحْنُ نَزَّلْنَا عَلَيْكَ ٱلْقُرْءَانَ تَنزِيلًا",
+      "chapter_id": 76,
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180581,
+          "resource_id": 33,
+          "text": "Sesungguhnya Kamilah yang menurunkan Alquran kepadamu (Muhammad) secara berangsur-angsur."
+        }
+      ]
+    },
+    {
+      "id": 5615,
+      "verse_number": 24,
+      "verse_key": "76:24",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 232,
+      "ruku_number": 517,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ ءَاثِمًا أَوْ كَفُورًا",
+      "chapter_id": 76,
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180580,
+          "resource_id": 33,
+          "text": "Maka bersabarlah untuk (melaksanakan) ketetapan Tuhanmu, dan janganlah engkau ikuti orang yang berdosa dan orang yang kafir di antara mereka."
+        }
+      ]
+    },
+    {
+      "id": 5616,
+      "verse_number": 25,
+      "verse_key": "76:25",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 232,
+      "ruku_number": 517,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱذْكُرِ ٱسْمَ رَبِّكَ بُكْرَةً وَأَصِيلًا",
+      "chapter_id": 76,
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180478,
+          "resource_id": 33,
+          "text": "Dan sebutlah nama Tuhanmu pada (waktu) pagi dan petang."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 20,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 20
+  }
+}

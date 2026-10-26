@@ -1,0 +1,431 @@
+{
+  "verses": [
+    {
+      "id": 1873,
+      "verse_number": 71,
+      "verse_key": "15:71",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 106,
+      "ruku_number": 222,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ هَـٰٓؤُلَآءِ بَنَاتِىٓ إِن كُنتُمْ فَـٰعِلِينَ",
+      "chapter_id": 15,
+      "page_number": 266,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 182855,
+          "resource_id": 33,
+          "text": "Dia (Luṭ) berkata, \"Mereka itulah putri-putri (negeri)ku (nikahlah dengan mereka), jika kamu hendak berbuat.\""
+        }
+      ]
+    },
+    {
+      "id": 1874,
+      "verse_number": 72,
+      "verse_key": "15:72",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 106,
+      "ruku_number": 222,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "لَعَمْرُكَ إِنَّهُمْ لَفِى سَكْرَتِهِمْ يَعْمَهُونَ",
+      "chapter_id": 15,
+      "page_number": 266,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 182776,
+          "resource_id": 33,
+          "text": "(Allah berfirman), \"Demi umurmu<sup foot_note=135390>1</sup> (Muhammad), sungguh, mereka terombang-ambing dalam kemabukan (kesesatan).\""
+        }
+      ]
+    },
+    {
+      "id": 1875,
+      "verse_number": 73,
+      "verse_key": "15:73",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 106,
+      "ruku_number": 222,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَخَذَتْهُمُ ٱلصَّيْحَةُ مُشْرِقِينَ",
+      "chapter_id": 15,
+      "page_number": 266,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 181098,
+          "resource_id": 33,
+          "text": "Maka mereka dibinasakan oleh suara keras yang mengguntur, ketika matahari akan terbit,"
+        }
+      ]
+    },
+    {
+      "id": 1876,
+      "verse_number": 74,
+      "verse_key": "15:74",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 106,
+      "ruku_number": 222,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "فَجَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِّن سِجِّيلٍ",
+      "chapter_id": 15,
+      "page_number": 266,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 181856,
+          "resource_id": 33,
+          "text": "maka Kami jungkirbalikan (negeri itu) dan Kami hujani mereka dengan batu dari tanah yang keras."
+        }
+      ]
+    },
+    {
+      "id": 1877,
+      "verse_number": 75,
+      "verse_key": "15:75",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 106,
+      "ruku_number": 222,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّلْمُتَوَسِّمِينَ",
+      "chapter_id": 15,
+      "page_number": 266,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 182858,
+          "resource_id": 33,
+          "text": "Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda (kekuasaan Allah) bagi orang yang memperhatikan tanda-tanda,"
+        }
+      ]
+    },
+    {
+      "id": 1878,
+      "verse_number": 76,
+      "verse_key": "15:76",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 106,
+      "ruku_number": 222,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّهَا لَبِسَبِيلٍ مُّقِيمٍ",
+      "chapter_id": 15,
+      "page_number": 266,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 182848,
+          "resource_id": 33,
+          "text": "dan sungguh, (negeri) itu benar-benar terletak di jalan yang masih tetap (dilalui manusia)."
+        }
+      ]
+    },
+    {
+      "id": 1879,
+      "verse_number": 77,
+      "verse_key": "15:77",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 106,
+      "ruku_number": 222,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّلْمُؤْمِنِينَ",
+      "chapter_id": 15,
+      "page_number": 266,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 181859,
+          "resource_id": 33,
+          "text": "Sungguh, pada yang demikian itu benar-benar terdapat tanda (kekuasaan Allah) bagi orang yang beriman."
+        }
+      ]
+    },
+    {
+      "id": 1880,
+      "verse_number": 78,
+      "verse_key": "15:78",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 106,
+      "ruku_number": 222,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِن كَانَ أَصْحَـٰبُ ٱلْأَيْكَةِ لَظَـٰلِمِينَ",
+      "chapter_id": 15,
+      "page_number": 266,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 181855,
+          "resource_id": 33,
+          "text": "Dan sesungguhnya penduduk Aikah<sup foot_note=135391>1</sup> itu benar-benar kaum yang zalim,"
+        }
+      ]
+    },
+    {
+      "id": 1881,
+      "verse_number": 79,
+      "verse_key": "15:79",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 106,
+      "ruku_number": 222,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍ مُّبِينٍ",
+      "chapter_id": 15,
+      "page_number": 266,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 182785,
+          "resource_id": 33,
+          "text": "maka Kami membinasakan mereka. Dan sesungguhnya kedua (negeri)<sup foot_note=135392>1</sup> itu terletak di satu jalur jalan raya."
+        }
+      ]
+    },
+    {
+      "id": 1882,
+      "verse_number": 80,
+      "verse_key": "15:80",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 106,
+      "ruku_number": 223,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ كَذَّبَ أَصْحَـٰبُ ٱلْحِجْرِ ٱلْمُرْسَلِينَ",
+      "chapter_id": 15,
+      "page_number": 266,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 182851,
+          "resource_id": 33,
+          "text": "Dan sesungguhnya penduduk negeri Hijr<sup foot_note=135393>1</sup> benar-benar telah mendustakan para rasul (mereka),<sup foot_note=135394>2</sup>"
+        }
+      ]
+    },
+    {
+      "id": 1883,
+      "verse_number": 81,
+      "verse_key": "15:81",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 106,
+      "ruku_number": 223,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "وَءَاتَيْنَـٰهُمْ ءَايَـٰتِنَا فَكَانُوا۟ عَنْهَا مُعْرِضِينَ",
+      "chapter_id": 15,
+      "page_number": 266,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 181863,
+          "resource_id": 33,
+          "text": "dan Kami telah mendatangkan kepada mereka tanda-tanda (kekuasaan) Kami, tetapi mereka selalu berpaling darinya,"
+        }
+      ]
+    },
+    {
+      "id": 1884,
+      "verse_number": 82,
+      "verse_key": "15:82",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 106,
+      "ruku_number": 223,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "وَكَانُوا۟ يَنْحِتُونَ مِنَ ٱلْجِبَالِ بُيُوتًا ءَامِنِينَ",
+      "chapter_id": 15,
+      "page_number": 266,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 182835,
+          "resource_id": 33,
+          "text": "dan mereka memahat rumah-rumah dari gunung batu, (yang didiami) dengan rasa aman."
+        }
+      ]
+    },
+    {
+      "id": 1885,
+      "verse_number": 83,
+      "verse_key": "15:83",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 106,
+      "ruku_number": 223,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَخَذَتْهُمُ ٱلصَّيْحَةُ مُصْبِحِينَ",
+      "chapter_id": 15,
+      "page_number": 266,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 182843,
+          "resource_id": 33,
+          "text": "Kemudian mereka dibinasakan oleh suara keras yang mengguntur pada pagi hari,<sup foot_note=135395>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 1886,
+      "verse_number": 84,
+      "verse_key": "15:84",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 106,
+      "ruku_number": 223,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "فَمَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يَكْسِبُونَ",
+      "chapter_id": 15,
+      "page_number": 266,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 182801,
+          "resource_id": 33,
+          "text": "sehingga tidak berguna bagi mereka, apa yang telah mereka usahakan."
+        }
+      ]
+    },
+    {
+      "id": 1887,
+      "verse_number": 85,
+      "verse_key": "15:85",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 106,
+      "ruku_number": 223,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا خَلَقْنَا ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ ۗ وَإِنَّ ٱلسَّاعَةَ لَـَٔاتِيَةٌ ۖ فَٱصْفَحِ ٱلصَّفْحَ ٱلْجَمِيلَ",
+      "chapter_id": 15,
+      "page_number": 266,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 181866,
+          "resource_id": 33,
+          "text": "Dan Kami tidak menciptakan langit dan bumi serta apa yang ada di antara keduanya, melainkan dengan kebenaran. Dan sungguh, Kiamat pasti akan datang, maka maafkanlah (mereka) dengan cara yang baik."
+        }
+      ]
+    },
+    {
+      "id": 1888,
+      "verse_number": 86,
+      "verse_key": "15:86",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 106,
+      "ruku_number": 223,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ رَبَّكَ هُوَ ٱلْخَلَّـٰقُ ٱلْعَلِيمُ",
+      "chapter_id": 15,
+      "page_number": 266,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 181862,
+          "resource_id": 33,
+          "text": "Sungguh, Tuhanmu, Dialah Yang Maha Pencipta, Maha Mengetahui."
+        }
+      ]
+    },
+    {
+      "id": 1889,
+      "verse_number": 87,
+      "verse_key": "15:87",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 106,
+      "ruku_number": 223,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ ءَاتَيْنَـٰكَ سَبْعًا مِّنَ ٱلْمَثَانِى وَٱلْقُرْءَانَ ٱلْعَظِيمَ",
+      "chapter_id": 15,
+      "page_number": 266,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 181895,
+          "resource_id": 33,
+          "text": "Dan sungguh, Kami telah memberikan kepadamu tujuh (ayat) yang (dibaca) berulang-ulang<sup foot_note=135396>1</sup> dan Alquran yang agung."
+        }
+      ]
+    },
+    {
+      "id": 1890,
+      "verse_number": 88,
+      "verse_key": "15:88",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 106,
+      "ruku_number": 223,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "لَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًا مِّنْهُمْ وَلَا تَحْزَنْ عَلَيْهِمْ وَٱخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ",
+      "chapter_id": 15,
+      "page_number": 266,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 181854,
+          "resource_id": 33,
+          "text": "Jangan sekali-kali engkau (Muhammad) tujukan pandanganmu kepada kenikmatan hidup yang telah Kami berikan kepada beberapa golongan di antara mereka (orang kafir), dan jangan engkau bersedih hati terhadap mereka dan berendah hatilah engkau terhadap orang yang beriman."
+        }
+      ]
+    },
+    {
+      "id": 1891,
+      "verse_number": 89,
+      "verse_key": "15:89",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 106,
+      "ruku_number": 223,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "وَقُلْ إِنِّىٓ أَنَا ٱلنَّذِيرُ ٱلْمُبِينُ",
+      "chapter_id": 15,
+      "page_number": 266,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 181871,
+          "resource_id": 33,
+          "text": "Dan katakanlah (Muhammad), \"Sesungguhnya aku adalah pemberi peringatan yang jelas.\""
+        }
+      ]
+    },
+    {
+      "id": 1892,
+      "verse_number": 90,
+      "verse_key": "15:90",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 106,
+      "ruku_number": 223,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "كَمَآ أَنزَلْنَا عَلَى ٱلْمُقْتَسِمِينَ",
+      "chapter_id": 15,
+      "page_number": 266,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 182840,
+          "resource_id": 33,
+          "text": "Sebagaimana (Kami telah memberi peringatan), Kami telah menurunkan (azab) kepada orang yang memilah-milah (Kitab Allah),<sup foot_note=135397>1</sup>"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 20,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 20
+  }
+}

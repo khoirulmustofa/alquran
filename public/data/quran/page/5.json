@@ -1,0 +1,116 @@
+{
+  "verses": [
+    {
+      "id": 32,
+      "verse_number": 25,
+      "verse_key": "2:25",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "ruku_number": 4,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَبَشِّرِ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أَنَّ لَهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ كُلَّمَا رُزِقُوا۟ مِنْهَا مِن ثَمَرَةٍ رِّزْقًا ۙ قَالُوا۟ هَـٰذَا ٱلَّذِى رُزِقْنَا مِن قَبْلُ ۖ وَأُتُوا۟ بِهِۦ مُتَشَـٰبِهًا ۖ وَلَهُمْ فِيهَآ أَزْوَٰجٌ مُّطَهَّرَةٌ ۖ وَهُمْ فِيهَا خَـٰلِدُونَ",
+      "chapter_id": 2,
+      "page_number": 5,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 182783,
+          "resource_id": 33,
+          "text": "Dan sampaikanlah kabar gembira kepada orang-orang yang beriman dan berbuat kebajikan, bahwa untuk mereka (disediakan) surga-surga yang mengalir di bawahnya sungai-sungai. Setiap kali mereka diberi rezeki buah-buahan dari surga, mereka berkata, \"Inilah rezeki yang diberikan kepada kami dahulu.\" Mereka telah diberi (buah-buahan) yang serupa. Dan di sana mereka (memperoleh) pasangan-pasangan yang suci. Mereka kekal di dalamnya."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "verse_number": 26,
+      "verse_key": "2:26",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 2,
+      "ruku_number": 4,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "۞ إِنَّ ٱللَّهَ لَا يَسْتَحْىِۦٓ أَن يَضْرِبَ مَثَلًا مَّا بَعُوضَةً فَمَا فَوْقَهَا ۚ فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ فَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ ۖ وَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَيَقُولُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلًا ۘ يُضِلُّ بِهِۦ كَثِيرًا وَيَهْدِى بِهِۦ كَثِيرًا ۚ وَمَا يُضِلُّ بِهِۦٓ إِلَّا ٱلْفَـٰسِقِينَ",
+      "chapter_id": 2,
+      "page_number": 5,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 182815,
+          "resource_id": 33,
+          "text": "Sesungguhnya Allah tidak segan membuat perumpamaan seekor nyamuk atau yang lebih kecil dari itu. Adapun orang-orang yang beriman, mereka tahu bahwa itu kebenaran dari Tuhan. Tetapi mereka yang kafir berkata, \"Apa maksud Allah dengan perumpamaan ini?\" Dengan (perumpamaan) itu banyak orang yang dibiarkan-Nya sesat,<sup foot_note=134964>1</sup> dan dengan itu banyak (pula) orang yang diberi-Nya petunjuk. Tetapi tidak ada yang Dia sesatkan dengan (perumpamaan) itu selain orang-orang fasik,<sup foot_note=134965>2</sup>"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "verse_number": 27,
+      "verse_key": "2:27",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 2,
+      "ruku_number": 4,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِنۢ بَعْدِ مِيثَـٰقِهِۦ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفْسِدُونَ فِى ٱلْأَرْضِ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ",
+      "chapter_id": 2,
+      "page_number": 5,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 182857,
+          "resource_id": 33,
+          "text": "(yaitu) orang–orang yang melanggar perjanjian Allah setelah (perjanjian) itu diteguhkan, dan memutuskan apa yang diperintahkan Allah untuk disambungkan dan berbuat kerusakan di bumi. Mereka itulah orang-orang yang rugi."
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "verse_number": 28,
+      "verse_key": "2:28",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 2,
+      "ruku_number": 4,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "كَيْفَ تَكْفُرُونَ بِٱللَّهِ وَكُنتُمْ أَمْوَٰتًا فَأَحْيَـٰكُمْ ۖ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ثُمَّ إِلَيْهِ تُرْجَعُونَ",
+      "chapter_id": 2,
+      "page_number": 5,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 182877,
+          "resource_id": 33,
+          "text": "Bagaimana kamu ingkar kepada Allah, padahal kamu (tadinya) mati, lalu dia menghidupkan kamu, kemudian Dia mematikan kamu lalu Dia menghidupkan kamu kembali. Kemudian kepada-Nyalah kamu dikembalikan."
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "verse_number": 29,
+      "verse_key": "2:29",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 2,
+      "ruku_number": 4,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "هُوَ ٱلَّذِى خَلَقَ لَكُم مَّا فِى ٱلْأَرْضِ جَمِيعًا ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ فَسَوَّىٰهُنَّ سَبْعَ سَمَـٰوَٰتٍ ۚ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "chapter_id": 2,
+      "page_number": 5,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 182930,
+          "resource_id": 33,
+          "text": "Dialah (Allah) yang menciptakan segala apa yang ada di bumi untuk kalian kemudian Dia menuju ke langit, lalu Dia menyempurnakannya menjadi tujuh langit. Dan Dia Maha Mengetahui segala sesuatu."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 5,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 5
+  }
+}

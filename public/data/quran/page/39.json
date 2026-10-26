@@ -1,0 +1,179 @@
+{
+  "verses": [
+    {
+      "id": 245,
+      "verse_number": 238,
+      "verse_key": "2:238",
+      "hizb_number": 4,
+      "rub_el_hizb_number": 15,
+      "ruku_number": 32,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "حَـٰفِظُوا۟ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلْوُسْطَىٰ وَقُومُوا۟ لِلَّهِ قَـٰنِتِينَ",
+      "chapter_id": 2,
+      "page_number": 39,
+      "juz_number": 2,
+      "translations": [
+        {
+          "id": 177290,
+          "resource_id": 33,
+          "text": "Peliharalah semua salat dan salat wusṭa.<sup foot_note=135042>1</sup> Dan laksanakanlah (salat) karena Allah dengan khusyuk."
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "verse_number": 239,
+      "verse_key": "2:239",
+      "hizb_number": 4,
+      "rub_el_hizb_number": 15,
+      "ruku_number": 32,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "فَإِنْ خِفْتُمْ فَرِجَالًا أَوْ رُكْبَانًا ۖ فَإِذَآ أَمِنتُمْ فَٱذْكُرُوا۟ ٱللَّهَ كَمَا عَلَّمَكُم مَّا لَمْ تَكُونُوا۟ تَعْلَمُونَ",
+      "chapter_id": 2,
+      "page_number": 39,
+      "juz_number": 2,
+      "translations": [
+        {
+          "id": 182749,
+          "resource_id": 33,
+          "text": "Jika kamu takut (ada bahaya), salatlah sambil berjalan kaki atau berkendaraan. Kemudian apabila telah aman, maka ingatlah Allah (salatlah), sebagaimana Dia telah mengajarkan kepadamu apa yang tidak kamu ketahui."
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "verse_number": 240,
+      "verse_key": "2:240",
+      "hizb_number": 4,
+      "rub_el_hizb_number": 15,
+      "ruku_number": 32,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَٰجًا وَصِيَّةً لِّأَزْوَٰجِهِم مَّتَـٰعًا إِلَى ٱلْحَوْلِ غَيْرَ إِخْرَاجٍ ۚ فَإِنْ خَرَجْنَ فَلَا جُنَاحَ عَلَيْكُمْ فِى مَا فَعَلْنَ فِىٓ أَنفُسِهِنَّ مِن مَّعْرُوفٍ ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+      "chapter_id": 2,
+      "page_number": 39,
+      "juz_number": 2,
+      "translations": [
+        {
+          "id": 182758,
+          "resource_id": 33,
+          "text": "Dan orang-orang yang akan mati di antara kamu dan meninggalkan istri-istri, hendaklah membuat wasiat untuk istri-istrinya, (yaitu) nafkah sampai setahun tanpa mengeluarkannya (dari rumah). Tetapi jika mereka keluar (sendiri), maka tidak ada dosa bagimu (mengenai apa) yang mereka lakukan terhadap diri mereka sendiri dalam hal-hal yang baik. Allah Mahaperkasa, Mahabijaksana."
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "verse_number": 241,
+      "verse_key": "2:241",
+      "hizb_number": 4,
+      "rub_el_hizb_number": 15,
+      "ruku_number": 32,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَلِلْمُطَلَّقَـٰتِ مَتَـٰعٌۢ بِٱلْمَعْرُوفِ ۖ حَقًّا عَلَى ٱلْمُتَّقِينَ",
+      "chapter_id": 2,
+      "page_number": 39,
+      "juz_number": 2,
+      "translations": [
+        {
+          "id": 182755,
+          "resource_id": 33,
+          "text": "Dan bagi perempuan-perempuan yang diceraikan hendaklah diberi mut'ah menurut cara yang patut, sebagai suatu kewajiban bagi orang yang bertakwa."
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "verse_number": 242,
+      "verse_key": "2:242",
+      "hizb_number": 4,
+      "rub_el_hizb_number": 15,
+      "ruku_number": 32,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَـٰتِهِۦ لَعَلَّكُمْ تَعْقِلُونَ",
+      "chapter_id": 2,
+      "page_number": 39,
+      "juz_number": 2,
+      "translations": [
+        {
+          "id": 182765,
+          "resource_id": 33,
+          "text": "Demikianlah Allah menerangkan kepadamu ayat-ayat-Nya agar kamu mengerti."
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "verse_number": 243,
+      "verse_key": "2:243",
+      "hizb_number": 4,
+      "rub_el_hizb_number": 16,
+      "ruku_number": 33,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ خَرَجُوا۟ مِن دِيَـٰرِهِمْ وَهُمْ أُلُوفٌ حَذَرَ ٱلْمَوْتِ فَقَالَ لَهُمُ ٱللَّهُ مُوتُوا۟ ثُمَّ أَحْيَـٰهُمْ ۚ إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ",
+      "chapter_id": 2,
+      "page_number": 39,
+      "juz_number": 2,
+      "translations": [
+        {
+          "id": 182764,
+          "resource_id": 33,
+          "text": "Tidakkah kamu memperhatikan orang-orang yang keluar dari kampung halamannya, sedang jumlahnya ribuan karena takut mati? Lalu Allah berfirman kepada mereka, \"Matilah kamu!\" Kemudian Allah menghidupkan mereka. Sesungguhnya Allah memberikan karunia kepada manusia, tetapi kebanyakan manusia tidak bersyukur."
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "verse_number": 244,
+      "verse_key": "2:244",
+      "hizb_number": 4,
+      "rub_el_hizb_number": 16,
+      "ruku_number": 33,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَـٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ",
+      "chapter_id": 2,
+      "page_number": 39,
+      "juz_number": 2,
+      "translations": [
+        {
+          "id": 182733,
+          "resource_id": 33,
+          "text": "Dan berperanglah kamu di jalan Allah, dan ketahuilah bahwa Allah Maha Mendengar, Maha Mengetahui."
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "verse_number": 245,
+      "verse_key": "2:245",
+      "hizb_number": 4,
+      "rub_el_hizb_number": 16,
+      "ruku_number": 33,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "مَّن ذَا ٱلَّذِى يُقْرِضُ ٱللَّهَ قَرْضًا حَسَنًا فَيُضَـٰعِفَهُۥ لَهُۥٓ أَضْعَافًا كَثِيرَةً ۚ وَٱللَّهُ يَقْبِضُ وَيَبْصُۜطُ وَإِلَيْهِ تُرْجَعُونَ",
+      "chapter_id": 2,
+      "page_number": 39,
+      "juz_number": 2,
+      "translations": [
+        {
+          "id": 182754,
+          "resource_id": 33,
+          "text": "Barang siapa meminjami<sup foot_note=135043>1</sup> Allah dengan pinjaman yang baik maka Allah melipat gandakan ganti kepadanya dengan banyak. Allah menahan dan melapangkan (rezeki) dan kepada-Nyalah kamu dikembalikan."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 8,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 8
+  }
+}

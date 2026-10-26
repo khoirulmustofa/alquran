@@ -1,0 +1,242 @@
+{
+  "verses": [
+    {
+      "id": 3312,
+      "verse_number": 60,
+      "verse_key": "28:60",
+      "hizb_number": 40,
+      "rub_el_hizb_number": 157,
+      "ruku_number": 339,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أُوتِيتُم مِّن شَىْءٍ فَمَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَزِينَتُهَا ۚ وَمَا عِندَ ٱللَّهِ خَيْرٌ وَأَبْقَىٰٓ ۚ أَفَلَا تَعْقِلُونَ",
+      "chapter_id": 28,
+      "page_number": 393,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177453,
+          "resource_id": 33,
+          "text": "Dan apa saja (kekayaan, jabatan, keturunan) yang diberikan kepada kamu, maka itu adalah kesenangan hidup duniawi dan perhiasannya; sedang apa yang di sisi Allah adalah lebih baik dan lebih kekal. Tidakkah kamu mengerti?"
+        }
+      ]
+    },
+    {
+      "id": 3313,
+      "verse_number": 61,
+      "verse_key": "28:61",
+      "hizb_number": 40,
+      "rub_el_hizb_number": 157,
+      "ruku_number": 340,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "أَفَمَن وَعَدْنَـٰهُ وَعْدًا حَسَنًا فَهُوَ لَـٰقِيهِ كَمَن مَّتَّعْنَـٰهُ مَتَـٰعَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ثُمَّ هُوَ يَوْمَ ٱلْقِيَـٰمَةِ مِنَ ٱلْمُحْضَرِينَ",
+      "chapter_id": 28,
+      "page_number": 393,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177455,
+          "resource_id": 33,
+          "text": "Maka apakah sama orang yang Kami janjikan kepadanya suatu janji yang baik (surga) lalu dia memperolehnya, dengan orang yang Kami berikan kepadanya kesenangan hidup duniawi;<sup foot_note=135564>1</sup> kemudian pada hari Kiamat dia termasuk orang-orang yang diseret (ke dalam neraka)?"
+        }
+      ]
+    },
+    {
+      "id": 3314,
+      "verse_number": 62,
+      "verse_key": "28:62",
+      "hizb_number": 40,
+      "rub_el_hizb_number": 157,
+      "ruku_number": 340,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَآءِىَ ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ",
+      "chapter_id": 28,
+      "page_number": 393,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177460,
+          "resource_id": 33,
+          "text": "Dan (ingatlah) pada hari ketika Dia (Allah) menyeru mereka dan berfirman, \"Di manakah sekutu-sekutu-Ku yang dahulu kamu klaim?\""
+        }
+      ]
+    },
+    {
+      "id": 3315,
+      "verse_number": 63,
+      "verse_key": "28:63",
+      "hizb_number": 40,
+      "rub_el_hizb_number": 157,
+      "ruku_number": 340,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ ٱلَّذِينَ حَقَّ عَلَيْهِمُ ٱلْقَوْلُ رَبَّنَا هَـٰٓؤُلَآءِ ٱلَّذِينَ أَغْوَيْنَآ أَغْوَيْنَـٰهُمْ كَمَا غَوَيْنَا ۖ تَبَرَّأْنَآ إِلَيْكَ ۖ مَا كَانُوٓا۟ إِيَّانَا يَعْبُدُونَ",
+      "chapter_id": 28,
+      "page_number": 393,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177458,
+          "resource_id": 33,
+          "text": "Orang-orang yang sudah pasti akan mendapatkan hukuman berkata, \"Ya Tuhan kami, mereka inilah orang-orang yang kami sesatkan; kami telah menyesatkan mereka sebagaimana kami (sendiri) sesat, kami menyatakan kepada Engkau berlepas diri (dari mereka), mereka sekali-kali tidak menyembah kami.\""
+        }
+      ]
+    },
+    {
+      "id": 3316,
+      "verse_number": 64,
+      "verse_key": "28:64",
+      "hizb_number": 40,
+      "rub_el_hizb_number": 157,
+      "ruku_number": 340,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَقِيلَ ٱدْعُوا۟ شُرَكَآءَكُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا۟ لَهُمْ وَرَأَوُا۟ ٱلْعَذَابَ ۚ لَوْ أَنَّهُمْ كَانُوا۟ يَهْتَدُونَ",
+      "chapter_id": 28,
+      "page_number": 393,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177462,
+          "resource_id": 33,
+          "text": "Dan dikatakan (kepada mereka), \"Serulah sekutu-sekutumu,\" lalu mereka menyerunya, tetapi yang diseru tidak menyambutnya, dan mereka melihat azab. (Mereka itu berkeinginan) sekiranya mereka dahulu menerima petunjuk."
+        }
+      ]
+    },
+    {
+      "id": 3317,
+      "verse_number": 65,
+      "verse_key": "28:65",
+      "hizb_number": 40,
+      "rub_el_hizb_number": 157,
+      "ruku_number": 340,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ مَاذَآ أَجَبْتُمُ ٱلْمُرْسَلِينَ",
+      "chapter_id": 28,
+      "page_number": 393,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177464,
+          "resource_id": 33,
+          "text": "Dan (Ingatlah) pada hari ketika Dia (Allah) menyeru mereka, dan berfirman, \"Apakah jawabanmu terhadap para rasul?\""
+        }
+      ]
+    },
+    {
+      "id": 3318,
+      "verse_number": 66,
+      "verse_key": "28:66",
+      "hizb_number": 40,
+      "rub_el_hizb_number": 157,
+      "ruku_number": 340,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "فَعَمِيَتْ عَلَيْهِمُ ٱلْأَنۢبَآءُ يَوْمَئِذٍ فَهُمْ لَا يَتَسَآءَلُونَ",
+      "chapter_id": 28,
+      "page_number": 393,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177474,
+          "resource_id": 33,
+          "text": "Maka gelaplah bagi mereka segala macam alasan pada hari itu, karena itu mereka tidak saling bertanya."
+        }
+      ]
+    },
+    {
+      "id": 3319,
+      "verse_number": 67,
+      "verse_key": "28:67",
+      "hizb_number": 40,
+      "rub_el_hizb_number": 157,
+      "ruku_number": 340,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَمَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَـٰلِحًا فَعَسَىٰٓ أَن يَكُونَ مِنَ ٱلْمُفْلِحِينَ",
+      "chapter_id": 28,
+      "page_number": 393,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177466,
+          "resource_id": 33,
+          "text": "Maka adapun orang yang bertobat dan beriman, serta mengerjakan kebajikan, maka mudah-mudahan dia termasuk orang yang beruntung."
+        }
+      ]
+    },
+    {
+      "id": 3320,
+      "verse_number": 68,
+      "verse_key": "28:68",
+      "hizb_number": 40,
+      "rub_el_hizb_number": 157,
+      "ruku_number": 340,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَرَبُّكَ يَخْلُقُ مَا يَشَآءُ وَيَخْتَارُ ۗ مَا كَانَ لَهُمُ ٱلْخِيَرَةُ ۚ سُبْحَـٰنَ ٱللَّهِ وَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ",
+      "chapter_id": 28,
+      "page_number": 393,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177468,
+          "resource_id": 33,
+          "text": "DanTuhanmu menciptakan dan memilih apa yang Dia kehendaki. Bagi mereka (manusia) tidak ada pilihan. Mahasuci Allah dan Mahatinggi Dia dari apa yang mereka persekutukan."
+        }
+      ]
+    },
+    {
+      "id": 3321,
+      "verse_number": 69,
+      "verse_key": "28:69",
+      "hizb_number": 40,
+      "rub_el_hizb_number": 157,
+      "ruku_number": 340,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَرَبُّكَ يَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ",
+      "chapter_id": 28,
+      "page_number": 393,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177470,
+          "resource_id": 33,
+          "text": "Dan Tuhanmu mengetahui apa yang disembunyikan dalam dada mereka dan apa yang mereka tampakkan."
+        }
+      ]
+    },
+    {
+      "id": 3322,
+      "verse_number": 70,
+      "verse_key": "28:70",
+      "hizb_number": 40,
+      "rub_el_hizb_number": 157,
+      "ruku_number": 340,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَهُوَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ لَهُ ٱلْحَمْدُ فِى ٱلْأُولَىٰ وَٱلْـَٔاخِرَةِ ۖ وَلَهُ ٱلْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ",
+      "chapter_id": 28,
+      "page_number": 393,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177479,
+          "resource_id": 33,
+          "text": "Dan Dialah Allah, tidak ada tuhan (yang berhak disembah) selain Dia, segala puji bagi-Nya di dunia dan di akhirat, dan bagi-Nya segala penentuan dan kepada-Nya kamu dikembalikan."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 11,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 11
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "verses": [
+    {
+      "id": 3540,
+      "verse_number": 7,
+      "verse_key": "33:7",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 363,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ أَخَذْنَا مِنَ ٱلنَّبِيِّـۧنَ مِيثَـٰقَهُمْ وَمِنكَ وَمِن نُّوحٍ وَإِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَى ٱبْنِ مَرْيَمَ ۖ وَأَخَذْنَا مِنْهُم مِّيثَـٰقًا غَلِيظًا",
+      "chapter_id": 33,
+      "page_number": 419,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177943,
+          "resource_id": 33,
+          "text": "Dan (ingatlah) ketika Kami mengambil perjanjian dari para nabi dan dari engkau (sendiri), dari Nuh, Ibrahim, Musa dan Isa putra Maryam, dan Kami telah mengambil dari mereka perjanjian yang teguh,<sup foot_note=135619>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 3541,
+      "verse_number": 8,
+      "verse_key": "33:8",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 363,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "لِّيَسْـَٔلَ ٱلصَّـٰدِقِينَ عَن صِدْقِهِمْ ۚ وَأَعَدَّ لِلْكَـٰفِرِينَ عَذَابًا أَلِيمًا",
+      "chapter_id": 33,
+      "page_number": 419,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177949,
+          "resource_id": 33,
+          "text": "agar Dia menanyakan kepada orang-orang yang benar tentang kebenaran mereka.<sup foot_note=135620>1</sup> Dia menyediakan azab yang pedih bagi orang-orang kafir."
+        }
+      ]
+    },
+    {
+      "id": 3542,
+      "verse_number": 9,
+      "verse_key": "33:9",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 364,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَآءَتْكُمْ جُنُودٌ فَأَرْسَلْنَا عَلَيْهِمْ رِيحًا وَجُنُودًا لَّمْ تَرَوْهَا ۚ وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا",
+      "chapter_id": 33,
+      "page_number": 419,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177952,
+          "resource_id": 33,
+          "text": "Wahai orang-orang yang beriman! Ingatlah akan nikmat Allah (yang telah dikaruniakan) kepadamu ketika bala tentara datang kepadamu, lalu Kami kirimkan kepada mereka angin topan dan bala tentara yang tidak dapat terlihat olehmu.<sup foot_note=135621>1</sup> Allah Maha Melihat apa yang kamu kerjakan."
+        }
+      ]
+    },
+    {
+      "id": 3543,
+      "verse_number": 10,
+      "verse_key": "33:10",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 364,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ جَآءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ ٱلْأَبْصَـٰرُ وَبَلَغَتِ ٱلْقُلُوبُ ٱلْحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠",
+      "chapter_id": 33,
+      "page_number": 419,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177875,
+          "resource_id": 33,
+          "text": "(Yaitu) ketika mereka datang kepadamu dari atas dan dari bawahmu, dan ketika penglihatan(mu) terpana dan hatimu menyesak sampai ke tenggorokan<sup foot_note=135622>1</sup> dan kamu berprasangka yang bukan-bukan terhadap Allah."
+        }
+      ]
+    },
+    {
+      "id": 3544,
+      "verse_number": 11,
+      "verse_key": "33:11",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 364,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ وَزُلْزِلُوا۟ زِلْزَالًا شَدِيدًا",
+      "chapter_id": 33,
+      "page_number": 419,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177879,
+          "resource_id": 33,
+          "text": "Disitulah diuji orang-orang mukmin dan digoncangkan (hatinya) dengan goncangan yang dahsyat."
+        }
+      ]
+    },
+    {
+      "id": 3545,
+      "verse_number": 12,
+      "verse_key": "33:12",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 364,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ يَقُولُ ٱلْمُنَـٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ مَّا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥٓ إِلَّا غُرُورًا",
+      "chapter_id": 33,
+      "page_number": 419,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177877,
+          "resource_id": 33,
+          "text": "Dan (ingatlah) ketika orang-orang munafik dan orang-orang yang hatinya berpenyakit berkata, \"Yang dijanjikan Allah dan Rasul-Nya kepada kami hanya tipu daya belaka.\""
+        }
+      ]
+    },
+    {
+      "id": 3546,
+      "verse_number": 13,
+      "verse_key": "33:13",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 364,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ قَالَت طَّآئِفَةٌ مِّنْهُمْ يَـٰٓأَهْلَ يَثْرِبَ لَا مُقَامَ لَكُمْ فَٱرْجِعُوا۟ ۚ وَيَسْتَـْٔذِنُ فَرِيقٌ مِّنْهُمُ ٱلنَّبِىَّ يَقُولُونَ إِنَّ بُيُوتَنَا عَوْرَةٌ وَمَا هِىَ بِعَوْرَةٍ ۖ إِن يُرِيدُونَ إِلَّا فِرَارًا",
+      "chapter_id": 33,
+      "page_number": 419,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177878,
+          "resource_id": 33,
+          "text": "Dan (ingatlah) ketika segolongan di antara mereka berkata, \"Wahai penduduk Yasrib (Madinah)! Tidak ada tempat bagimu, maka kembalilah kamu.\" Dan sebagian dari mereka meminta izin kepada Nabi (untuk kembali pulang) dengan berkata, \"Sesungguhnya rumah-rumah kami terbuka (tidak ada penjaga).\" Padahal rumah-rumah itu tidak terbuka, mereka hanyalah hendak lari."
+        }
+      ]
+    },
+    {
+      "id": 3547,
+      "verse_number": 14,
+      "verse_key": "33:14",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 364,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَوْ دُخِلَتْ عَلَيْهِم مِّنْ أَقْطَارِهَا ثُمَّ سُئِلُوا۟ ٱلْفِتْنَةَ لَـَٔاتَوْهَا وَمَا تَلَبَّثُوا۟ بِهَآ إِلَّا يَسِيرًا",
+      "chapter_id": 33,
+      "page_number": 419,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177883,
+          "resource_id": 33,
+          "text": "Dan kalau (Yasrib) diserang dari segala penjuru, dan mereka diminta agar membuat kekacauan, niscaya mereka mengerjakannya; dan hanya sebentar saja mereka menunggu."
+        }
+      ]
+    },
+    {
+      "id": 3548,
+      "verse_number": 15,
+      "verse_key": "33:15",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 364,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ كَانُوا۟ عَـٰهَدُوا۟ ٱللَّهَ مِن قَبْلُ لَا يُوَلُّونَ ٱلْأَدْبَـٰرَ ۚ وَكَانَ عَهْدُ ٱللَّهِ مَسْـُٔولًا",
+      "chapter_id": 33,
+      "page_number": 419,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177880,
+          "resource_id": 33,
+          "text": "Dan sungguh, mereka sebelum itu telah berjanji kepada Allah, tidak akan berbalik ke belakang (mundur). Dan perjanjian dengan Allah akan diminta pertanggung jawabannya."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 9,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 9
+  }
+}

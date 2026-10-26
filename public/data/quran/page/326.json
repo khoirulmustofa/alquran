@@ -1,0 +1,284 @@
+{
+  "verses": [
+    {
+      "id": 2528,
+      "verse_number": 45,
+      "verse_key": "21:45",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 130,
+      "ruku_number": 281,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ إِنَّمَآ أُنذِرُكُم بِٱلْوَحْىِ ۚ وَلَا يَسْمَعُ ٱلصُّمُّ ٱلدُّعَآءَ إِذَا مَا يُنذَرُونَ",
+      "chapter_id": 21,
+      "page_number": 326,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182511,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Sesungguhnya aku hanya memberimu peringatan sesuai dengan wahyu.\" Tetapi orang tuli tidak mendengar seruan apabila mereka diberi peringatan."
+        }
+      ]
+    },
+    {
+      "id": 2529,
+      "verse_number": 46,
+      "verse_key": "21:46",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 130,
+      "ruku_number": 281,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَئِن مَّسَّتْهُمْ نَفْحَةٌ مِّنْ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَـٰوَيْلَنَآ إِنَّا كُنَّا ظَـٰلِمِينَ",
+      "chapter_id": 21,
+      "page_number": 326,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182513,
+          "resource_id": 33,
+          "text": "Dan jika mereka ditimpa sedikit saja azab Tuhanmu, pastilah mereka berkata, \"Celakalah kami! Sesungguhnya kami termasuk orang yang selalu menzalimi (diri sendiri).\""
+        }
+      ]
+    },
+    {
+      "id": 2530,
+      "verse_number": 47,
+      "verse_key": "21:47",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 130,
+      "ruku_number": 281,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَنَضَعُ ٱلْمَوَٰزِينَ ٱلْقِسْطَ لِيَوْمِ ٱلْقِيَـٰمَةِ فَلَا تُظْلَمُ نَفْسٌ شَيْـًٔا ۖ وَإِن كَانَ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ أَتَيْنَا بِهَا ۗ وَكَفَىٰ بِنَا حَـٰسِبِينَ",
+      "chapter_id": 21,
+      "page_number": 326,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182516,
+          "resource_id": 33,
+          "text": "Dan Kami akan memasang timbangan yang tepat pada hari Kiamat, maka tidak seorang pun dirugikan walau sedikit; sekali pun hanya seberat biji sawi, pasti Kami mendatangkannya (pahala). Dan cukuplah Kami yang membuat perhitungan."
+        }
+      ]
+    },
+    {
+      "id": 2531,
+      "verse_number": 48,
+      "verse_key": "21:48",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 130,
+      "ruku_number": 281,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ وَهَـٰرُونَ ٱلْفُرْقَانَ وَضِيَآءً وَذِكْرًا لِّلْمُتَّقِينَ",
+      "chapter_id": 21,
+      "page_number": 326,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182509,
+          "resource_id": 33,
+          "text": "Dan sungguh, Kami telah memberikan kepada Musa dan Harun, Furqan (Kitab Taurat) dan penerangan serta pelajaran bagi orang-orang yang bertakwa,"
+        }
+      ]
+    },
+    {
+      "id": 2532,
+      "verse_number": 49,
+      "verse_key": "21:49",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 130,
+      "ruku_number": 281,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَهُم مِّنَ ٱلسَّاعَةِ مُشْفِقُونَ",
+      "chapter_id": 21,
+      "page_number": 326,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182518,
+          "resource_id": 33,
+          "text": "(yaitu) orang-orang yang takut (azab) Tuhannya, sekalipun mereka tidak melihat-Nya, dan mereka merasa takut akan (tibanya) hari Kiamat."
+        }
+      ]
+    },
+    {
+      "id": 2533,
+      "verse_number": 50,
+      "verse_key": "21:50",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 130,
+      "ruku_number": 281,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَهَـٰذَا ذِكْرٌ مُّبَارَكٌ أَنزَلْنَـٰهُ ۚ أَفَأَنتُمْ لَهُۥ مُنكِرُونَ",
+      "chapter_id": 21,
+      "page_number": 326,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182508,
+          "resource_id": 33,
+          "text": "Dan ini (Alquran) adalah suatu peringatan yang mempunyai berkah yang telah Kami turunkan. Maka apakah kamu mengingkarinya?"
+        }
+      ]
+    },
+    {
+      "id": 2534,
+      "verse_number": 51,
+      "verse_key": "21:51",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 131,
+      "ruku_number": 282,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "۞ وَلَقَدْ ءَاتَيْنَآ إِبْرَٰهِيمَ رُشْدَهُۥ مِن قَبْلُ وَكُنَّا بِهِۦ عَـٰلِمِينَ",
+      "chapter_id": 21,
+      "page_number": 326,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182464,
+          "resource_id": 33,
+          "text": "Dan sungguh, sebelum dia (Musa dan Harun) telah Kami berikan kepada Ibrahim petunjuk, dan Kami telah mengetahui dia."
+        }
+      ]
+    },
+    {
+      "id": 2535,
+      "verse_number": 52,
+      "verse_key": "21:52",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 131,
+      "ruku_number": 282,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَـٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِىٓ أَنتُمْ لَهَا عَـٰكِفُونَ",
+      "chapter_id": 21,
+      "page_number": 326,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182401,
+          "resource_id": 33,
+          "text": "(Ingatlah), ketika dia (Ibrahim) berkata kepada ayahnya dan kaumnya, \"Patung-patung apakah ini yang kamu tekun menyembahnya?\""
+        }
+      ]
+    },
+    {
+      "id": 2536,
+      "verse_number": 53,
+      "verse_key": "21:53",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 131,
+      "ruku_number": 282,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَـٰبِدِينَ",
+      "chapter_id": 21,
+      "page_number": 326,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182601,
+          "resource_id": 33,
+          "text": "Mereka menjawab, \"Kami mendapati nenek moyang kami menyembahnya.\""
+        }
+      ]
+    },
+    {
+      "id": 2537,
+      "verse_number": 54,
+      "verse_key": "21:54",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 131,
+      "ruku_number": 282,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ لَقَدْ كُنتُمْ أَنتُمْ وَءَابَآؤُكُمْ فِى ضَلَـٰلٍ مُّبِينٍ",
+      "chapter_id": 21,
+      "page_number": 326,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182016,
+          "resource_id": 33,
+          "text": "Dia (Ibrahim) berkata, \"Sesungguhnya kamu dan nenek moyang kamu berada dalam kesesatan yang nyata.\""
+        }
+      ]
+    },
+    {
+      "id": 2538,
+      "verse_number": 55,
+      "verse_key": "21:55",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 131,
+      "ruku_number": 282,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوٓا۟ أَجِئْتَنَا بِٱلْحَقِّ أَمْ أَنتَ مِنَ ٱللَّـٰعِبِينَ",
+      "chapter_id": 21,
+      "page_number": 326,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182528,
+          "resource_id": 33,
+          "text": "Mereka berkata, \"Apakah engkau datang kepada kami membawa kebenaran atau engkau main-main?\""
+        }
+      ]
+    },
+    {
+      "id": 2539,
+      "verse_number": 56,
+      "verse_key": "21:56",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 131,
+      "ruku_number": 282,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ بَل رَّبُّكُمْ رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ٱلَّذِى فَطَرَهُنَّ وَأَنَا۠ عَلَىٰ ذَٰلِكُم مِّنَ ٱلشَّـٰهِدِينَ",
+      "chapter_id": 21,
+      "page_number": 326,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 177262,
+          "resource_id": 33,
+          "text": "Dia (Ibrahim) menjawab, \"Sebenarnya Tuhan kamu ialah Tuhan (pemilik) langit dan bumi; (Dialah) yang telah menciptakannya; dan aku termasuk orang yang dapat bersaksi atas itu.\""
+        }
+      ]
+    },
+    {
+      "id": 2540,
+      "verse_number": 57,
+      "verse_key": "21:57",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 131,
+      "ruku_number": 282,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَتَٱللَّهِ لَأَكِيدَنَّ أَصْنَـٰمَكُم بَعْدَ أَن تُوَلُّوا۟ مُدْبِرِينَ",
+      "chapter_id": 21,
+      "page_number": 326,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182533,
+          "resource_id": 33,
+          "text": "Dan demi Allah, sungguh, aku akan melakukan tipu daya terhadap berhala-berhalamu setelah kamu pergi meninggalkannya.<sup foot_note=135483>1</sup>"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 13,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 13
+  }
+}

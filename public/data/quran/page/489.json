@@ -1,0 +1,263 @@
+{
+  "verses": [
+    {
+      "id": 4324,
+      "verse_number": 52,
+      "verse_key": "42:52",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 196,
+      "ruku_number": 425,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ رُوحًا مِّنْ أَمْرِنَا ۚ مَا كُنتَ تَدْرِى مَا ٱلْكِتَـٰبُ وَلَا ٱلْإِيمَـٰنُ وَلَـٰكِن جَعَلْنَـٰهُ نُورًا نَّهْدِى بِهِۦ مَن نَّشَآءُ مِنْ عِبَادِنَا ۚ وَإِنَّكَ لَتَهْدِىٓ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "chapter_id": 42,
+      "page_number": 489,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178810,
+          "resource_id": 33,
+          "text": "Dan demikianlah Kami wahyukan kepadamu (Muhammad) rūh (Alquran) dengan perintah Kami. Sebelumnya engkau tidaklah mengetahui apakah Kitab (Alquran) dan apakah iman itu, tetapi Kami jadikan Alquran itu cahaya, dengan itu Kami memberi petunjuk pada siapa yang Kami kehendaki di antara hamba-hamba Kami. Dan sungguh, engkau benar-benar membimbing (manusia) ke jalan yang lurus,"
+        }
+      ]
+    },
+    {
+      "id": 4325,
+      "verse_number": 53,
+      "verse_key": "42:53",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 196,
+      "ruku_number": 425,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "صِرَٰطِ ٱللَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ أَلَآ إِلَى ٱللَّهِ تَصِيرُ ٱلْأُمُورُ",
+      "chapter_id": 42,
+      "page_number": 489,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178811,
+          "resource_id": 33,
+          "text": "(Yaitu) jalan Allah yang milik-Nyalah apa yang ada di langit dan apa yang ada di bumi. Ingatlah, segala urusan kembali kepada Allah."
+        }
+      ]
+    },
+    {
+      "id": 4326,
+      "verse_number": 1,
+      "verse_key": "43:1",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 196,
+      "ruku_number": 426,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": " حمٓ",
+      "chapter_id": 43,
+      "page_number": 489,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 177376,
+          "resource_id": 33,
+          "text": "Ḥā Mīm."
+        }
+      ]
+    },
+    {
+      "id": 4327,
+      "verse_number": 2,
+      "verse_key": "43:2",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 196,
+      "ruku_number": 426,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلْكِتَـٰبِ ٱلْمُبِينِ",
+      "chapter_id": 43,
+      "page_number": 489,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178834,
+          "resource_id": 33,
+          "text": "Demi Kitab (Alquran) yang jelas."
+        }
+      ]
+    },
+    {
+      "id": 4328,
+      "verse_number": 3,
+      "verse_key": "43:3",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 196,
+      "ruku_number": 426,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا جَعَلْنَـٰهُ قُرْءَٰنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ",
+      "chapter_id": 43,
+      "page_number": 489,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178849,
+          "resource_id": 33,
+          "text": "Kami menjadikan Alquran dalam bahasa Arab agar kamu mengerti."
+        }
+      ]
+    },
+    {
+      "id": 4329,
+      "verse_number": 4,
+      "verse_key": "43:4",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 196,
+      "ruku_number": 426,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّهُۥ فِىٓ أُمِّ ٱلْكِتَـٰبِ لَدَيْنَا لَعَلِىٌّ حَكِيمٌ",
+      "chapter_id": 43,
+      "page_number": 489,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178867,
+          "resource_id": 33,
+          "text": "Dan sesungguhnya Alquran itu dalam ummul Kitāb (Lauḥ Maḥfūẓ) di sisi Kami, benar-benar (bernilai) tinggi dan penuh hikmah."
+        }
+      ]
+    },
+    {
+      "id": 4330,
+      "verse_number": 5,
+      "verse_key": "43:5",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 196,
+      "ruku_number": 426,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "أَفَنَضْرِبُ عَنكُمُ ٱلذِّكْرَ صَفْحًا أَن كُنتُمْ قَوْمًا مُّسْرِفِينَ",
+      "chapter_id": 43,
+      "page_number": 489,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178869,
+          "resource_id": 33,
+          "text": "Maka apakah Kami akan berhenti menurunkan ayat-ayat (sebagai peringatan) Alquran kepadamu, karena kamu kaum yang melampuai batas?"
+        }
+      ]
+    },
+    {
+      "id": 4331,
+      "verse_number": 6,
+      "verse_key": "43:6",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 196,
+      "ruku_number": 426,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَكَمْ أَرْسَلْنَا مِن نَّبِىٍّ فِى ٱلْأَوَّلِينَ",
+      "chapter_id": 43,
+      "page_number": 489,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178881,
+          "resource_id": 33,
+          "text": "Dan betapa banyak nabi-nabi yang telah Kami utus kepada umat-umat yang terdahulu."
+        }
+      ]
+    },
+    {
+      "id": 4332,
+      "verse_number": 7,
+      "verse_key": "43:7",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 196,
+      "ruku_number": 426,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "chapter_id": 43,
+      "page_number": 489,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178890,
+          "resource_id": 33,
+          "text": "Dan setiap kali seorang nabi datang kepada mereka, mereka selalu memperolok-olokkannya."
+        }
+      ]
+    },
+    {
+      "id": 4333,
+      "verse_number": 8,
+      "verse_key": "43:8",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 196,
+      "ruku_number": 426,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَهْلَكْنَآ أَشَدَّ مِنْهُم بَطْشًا وَمَضَىٰ مَثَلُ ٱلْأَوَّلِينَ",
+      "chapter_id": 43,
+      "page_number": 489,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178903,
+          "resource_id": 33,
+          "text": "Karena itu, Kami binasakan orang-orang yang lebih besar kekuatannya di antara mereka dan telah berlalu contoh umat-umat terdahulu."
+        }
+      ]
+    },
+    {
+      "id": 4334,
+      "verse_number": 9,
+      "verse_key": "43:9",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 196,
+      "ruku_number": 426,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ خَلَقَهُنَّ ٱلْعَزِيزُ ٱلْعَلِيمُ",
+      "chapter_id": 43,
+      "page_number": 489,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178913,
+          "resource_id": 33,
+          "text": "Dan jika kamu tanyakan kepada mereka, \"Siapakah yang menciptakan langit dan bumi?\" pastilah mereka akan menjawab, \"Semuanya diciptakan oleh Yang Mahaperkasa, Maha Mengetahui.\""
+        }
+      ]
+    },
+    {
+      "id": 4335,
+      "verse_number": 10,
+      "verse_key": "43:10",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 196,
+      "ruku_number": 426,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ مَهْدًا وَجَعَلَ لَكُمْ فِيهَا سُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ",
+      "chapter_id": 43,
+      "page_number": 489,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178822,
+          "resource_id": 33,
+          "text": "Yang menjadikan bumi sebagai tempat menetap bagimu dan Dia menjadikan jalan-jalan di atas bumi untukmu agar kamu mendapat petunjuk."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 12,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 12
+  }
+}

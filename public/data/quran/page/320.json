@@ -1,0 +1,263 @@
+{
+  "verses": [
+    {
+      "id": 2462,
+      "verse_number": 114,
+      "verse_key": "20:114",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 128,
+      "ruku_number": 275,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَتَعَـٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۗ وَلَا تَعْجَلْ بِٱلْقُرْءَانِ مِن قَبْلِ أَن يُقْضَىٰٓ إِلَيْكَ وَحْيُهُۥ ۖ وَقُل رَّبِّ زِدْنِى عِلْمًا",
+      "chapter_id": 20,
+      "page_number": 320,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182241,
+          "resource_id": 33,
+          "text": "Maka Mahatinggi Allah, Raja yang sebenar-benarnya. Dan janganlah engkau (Muhammad) tergesa-gesa (membaca) Alquran sebelum selesai diwahyukan kepadamu,<sup foot_note=135476>1</sup> dan katakanlah, \"Ya Tuhanku, tambahkanlah ilmu kepadaku.\""
+        }
+      ]
+    },
+    {
+      "id": 2463,
+      "verse_number": 115,
+      "verse_key": "20:115",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 128,
+      "ruku_number": 275,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ عَهِدْنَآ إِلَىٰٓ ءَادَمَ مِن قَبْلُ فَنَسِىَ وَلَمْ نَجِدْ لَهُۥ عَزْمًا",
+      "chapter_id": 20,
+      "page_number": 320,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182258,
+          "resource_id": 33,
+          "text": "Dan sungguh telah Kami pesankan<sup foot_note=135477>1</sup> kepada Adam dahulu, tetapi dia lupa, dan Kami tidak dapati kemauan yang kuat padanya."
+        }
+      ]
+    },
+    {
+      "id": 2464,
+      "verse_number": 116,
+      "verse_key": "20:116",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 128,
+      "ruku_number": 276,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ قُلْنَا لِلْمَلَـٰٓئِكَةِ ٱسْجُدُوا۟ لِـَٔادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ",
+      "chapter_id": 20,
+      "page_number": 320,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182208,
+          "resource_id": 33,
+          "text": "Dan (ingatlah) ketika Kami berfirman kepada para malaikat, \"Sujudlah kamu kepada Adam!\" Lalu mereka pun sujud kecuali Iblis; dia menolak."
+        }
+      ]
+    },
+    {
+      "id": 2465,
+      "verse_number": 117,
+      "verse_key": "20:117",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 128,
+      "ruku_number": 276,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَقُلْنَا يَـٰٓـَٔادَمُ إِنَّ هَـٰذَا عَدُوٌّ لَّكَ وَلِزَوْجِكَ فَلَا يُخْرِجَنَّكُمَا مِنَ ٱلْجَنَّةِ فَتَشْقَىٰٓ",
+      "chapter_id": 20,
+      "page_number": 320,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182143,
+          "resource_id": 33,
+          "text": "Kemudian Kami berfirman, \"Wahai Adam! Sungguh ini (Iblis) musuh bagimu dan bagi istrimu, maka sekali-kali jangan sampai dia mengeluarkan kamu berdua dari surga, nanti kamu celaka."
+        }
+      ]
+    },
+    {
+      "id": 2466,
+      "verse_number": 118,
+      "verse_key": "20:118",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 128,
+      "ruku_number": 276,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعْرَىٰ",
+      "chapter_id": 20,
+      "page_number": 320,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182017,
+          "resource_id": 33,
+          "text": "Sungguh, ada (jaminan) untukmu di sana, engkau tidak akan kelaparan dan tidak akan telanjang,"
+        }
+      ]
+    },
+    {
+      "id": 2467,
+      "verse_number": 119,
+      "verse_key": "20:119",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 128,
+      "ruku_number": 276,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَنَّكَ لَا تَظْمَؤُا۟ فِيهَا وَلَا تَضْحَىٰ",
+      "chapter_id": 20,
+      "page_number": 320,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182292,
+          "resource_id": 33,
+          "text": "dan sungguh, di sana engkau tidak akan merasa dahaga dan tidak akan ditimpa panas matahari.\""
+        }
+      ]
+    },
+    {
+      "id": 2468,
+      "verse_number": 120,
+      "verse_key": "20:120",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 128,
+      "ruku_number": 276,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَوَسْوَسَ إِلَيْهِ ٱلشَّيْطَـٰنُ قَالَ يَـٰٓـَٔادَمُ هَلْ أَدُلُّكَ عَلَىٰ شَجَرَةِ ٱلْخُلْدِ وَمُلْكٍ لَّا يَبْلَىٰ",
+      "chapter_id": 20,
+      "page_number": 320,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182290,
+          "resource_id": 33,
+          "text": "Kemudian setan membisikkan (pikiran jahat) kepadanya, dengan berkata, \"Wahai Adam! maukah aku tunjukkan kepadamu pohon keabadian (khuldi) dan kerajaan yang tidak akan binasa?\""
+        }
+      ]
+    },
+    {
+      "id": 2469,
+      "verse_number": 121,
+      "verse_key": "20:121",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 128,
+      "ruku_number": 276,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَكَلَا مِنْهَا فَبَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ ۚ وَعَصَىٰٓ ءَادَمُ رَبَّهُۥ فَغَوَىٰ",
+      "chapter_id": 20,
+      "page_number": 320,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182282,
+          "resource_id": 33,
+          "text": "Lalu keduanya memakannya, lalu tampaklah oleh keduanya aurat mereka dan mulailah keduanya menutupinya dengan daun-daun (yang ada di) surga, dan telah durhakalah Adam kepada Tuhan-Nya, dan sesatlah dia.<sup foot_note=135478>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 2470,
+      "verse_number": 122,
+      "verse_key": "20:122",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 128,
+      "ruku_number": 276,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ ٱجْتَبَـٰهُ رَبُّهُۥ فَتَابَ عَلَيْهِ وَهَدَىٰ",
+      "chapter_id": 20,
+      "page_number": 320,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182280,
+          "resource_id": 33,
+          "text": "Kemudian Tuhannya memilih dia,<sup foot_note=135479>1</sup> maka Dia menerima tobatnya dan memberinya petunjuk."
+        }
+      ]
+    },
+    {
+      "id": 2471,
+      "verse_number": 123,
+      "verse_key": "20:123",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 128,
+      "ruku_number": 276,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ ٱهْبِطَا مِنْهَا جَمِيعًۢا ۖ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًى فَمَنِ ٱتَّبَعَ هُدَاىَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ",
+      "chapter_id": 20,
+      "page_number": 320,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182284,
+          "resource_id": 33,
+          "text": "Dia (Allah) berfirman, \"Turunlah kamu berdua dari surga bersama-sama, sebagian kamu menjadi musuh bagi sebagian yang lain. Jika datang kepadamu petunjuk dari-Ku, maka (ketahuilah) barang siapa mengikuti petunjuk-Ku, dia tidak akan sesat dan tidak akan celaka."
+        }
+      ]
+    },
+    {
+      "id": 2472,
+      "verse_number": 124,
+      "verse_key": "20:124",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 128,
+      "ruku_number": 276,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَنْ أَعْرَضَ عَن ذِكْرِى فَإِنَّ لَهُۥ مَعِيشَةً ضَنكًا وَنَحْشُرُهُۥ يَوْمَ ٱلْقِيَـٰمَةِ أَعْمَىٰ",
+      "chapter_id": 20,
+      "page_number": 320,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182285,
+          "resource_id": 33,
+          "text": "Dan barangsiapa berpaling dari peringatan-Ku, maka sungguh, dia akan menjalani kehidupan yang sempit, dan Kami akan mengumpulkannya pada hari Kiamat dalam keadaan buta.\""
+        }
+      ]
+    },
+    {
+      "id": 2473,
+      "verse_number": 125,
+      "verse_key": "20:125",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 128,
+      "ruku_number": 276,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ رَبِّ لِمَ حَشَرْتَنِىٓ أَعْمَىٰ وَقَدْ كُنتُ بَصِيرًا",
+      "chapter_id": 20,
+      "page_number": 320,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182283,
+          "resource_id": 33,
+          "text": "Dia berkata, \"Ya Tuhanku, mengapa Engkau kumpulkan aku dalam keadaan buta, padahal dahulu aku dapat melihat?\""
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 12,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 12
+  }
+}

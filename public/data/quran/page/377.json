@@ -1,0 +1,284 @@
+{
+  "verses": [
+    {
+      "id": 3160,
+      "verse_number": 1,
+      "verse_key": "27:1",
+      "hizb_number": 38,
+      "rub_el_hizb_number": 151,
+      "ruku_number": 327,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": " طسٓ ۚ تِلْكَ ءَايَـٰتُ ٱلْقُرْءَانِ وَكِتَابٍ مُّبِينٍ",
+      "chapter_id": 27,
+      "page_number": 377,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183432,
+          "resource_id": 33,
+          "text": "Ṭā Sīn. Inilah ayat-ayat Alquran, dan Kitab yang jelas,"
+        }
+      ]
+    },
+    {
+      "id": 3161,
+      "verse_number": 2,
+      "verse_key": "27:2",
+      "hizb_number": 38,
+      "rub_el_hizb_number": 151,
+      "ruku_number": 327,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "هُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ",
+      "chapter_id": 27,
+      "page_number": 377,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183440,
+          "resource_id": 33,
+          "text": "petunjuk dan berita gembira bagi orang-orang yang beriman,"
+        }
+      ]
+    },
+    {
+      "id": 3162,
+      "verse_number": 3,
+      "verse_key": "27:3",
+      "hizb_number": 38,
+      "rub_el_hizb_number": 151,
+      "ruku_number": 327,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
+      "chapter_id": 27,
+      "page_number": 377,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183451,
+          "resource_id": 33,
+          "text": "(yaitu) orang-orang yang melaksanakan salat dan menunaikan zakat, dan mereka meyakini adanya akhirat."
+        }
+      ]
+    },
+    {
+      "id": 3163,
+      "verse_number": 4,
+      "verse_key": "27:4",
+      "hizb_number": 38,
+      "rub_el_hizb_number": 151,
+      "ruku_number": 327,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ زَيَّنَّا لَهُمْ أَعْمَـٰلَهُمْ فَهُمْ يَعْمَهُونَ",
+      "chapter_id": 27,
+      "page_number": 377,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183462,
+          "resource_id": 33,
+          "text": "Sesungguhnya orang-orang yang tidak beriman kepada akhirat, Kami jadikan terasa indah bagi mereka (yang buruk), sehingga mereka bergelimang dalam kesesatan."
+        }
+      ]
+    },
+    {
+      "id": 3164,
+      "verse_number": 5,
+      "verse_key": "27:5",
+      "hizb_number": 38,
+      "rub_el_hizb_number": 151,
+      "ruku_number": 327,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ لَهُمْ سُوٓءُ ٱلْعَذَابِ وَهُمْ فِى ٱلْـَٔاخِرَةِ هُمُ ٱلْأَخْسَرُونَ",
+      "chapter_id": 27,
+      "page_number": 377,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 177221,
+          "resource_id": 33,
+          "text": "Mereka itulah orang-orang yang mendapat siksaan buruk (di dunia) dan mereka di akhirat adalah orang-orang yang paling rugi."
+        }
+      ]
+    },
+    {
+      "id": 3165,
+      "verse_number": 6,
+      "verse_key": "27:6",
+      "hizb_number": 38,
+      "rub_el_hizb_number": 151,
+      "ruku_number": 327,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّكَ لَتُلَقَّى ٱلْقُرْءَانَ مِن لَّدُنْ حَكِيمٍ عَلِيمٍ",
+      "chapter_id": 27,
+      "page_number": 377,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 177251,
+          "resource_id": 33,
+          "text": "Dan sesungguhnya engkau (Muhammad) benar-benar telah diberi Alquran dari sisi (Allah) Yang Mahabijaksana, Maha Mengetahui."
+        }
+      ]
+    },
+    {
+      "id": 3166,
+      "verse_number": 7,
+      "verse_key": "27:7",
+      "hizb_number": 38,
+      "rub_el_hizb_number": 151,
+      "ruku_number": 327,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ قَالَ مُوسَىٰ لِأَهْلِهِۦٓ إِنِّىٓ ءَانَسْتُ نَارًا سَـَٔاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ ءَاتِيكُم بِشِهَابٍ قَبَسٍ لَّعَلَّكُمْ تَصْطَلُونَ",
+      "chapter_id": 27,
+      "page_number": 377,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 177278,
+          "resource_id": 33,
+          "text": "(Ingatlah) ketika Musa berkata kepada keluarganya, \"Sungguh, aku melihat api. Aku akan membawa kabar tentang itu kepadamu, atau aku akan membawa suluh api (obor) kepadamu agar kamu dapat berdiang (menghangatkan badan dekat api).\""
+        }
+      ]
+    },
+    {
+      "id": 3167,
+      "verse_number": 8,
+      "verse_key": "27:8",
+      "hizb_number": 38,
+      "rub_el_hizb_number": 151,
+      "ruku_number": 327,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَمَّا جَآءَهَا نُودِىَ أَنۢ بُورِكَ مَن فِى ٱلنَّارِ وَمَنْ حَوْلَهَا وَسُبْحَـٰنَ ٱللَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+      "chapter_id": 27,
+      "page_number": 377,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 177299,
+          "resource_id": 33,
+          "text": "Maka ketika dia tiba di sana (tempat api itu), dia diseru, \"Telah diberkahi orang-orang yang berada di dekat api, dan orang-orang yang berada di sekitarnya. Mahasuci Allah, Tuhan seluruh alam.\""
+        }
+      ]
+    },
+    {
+      "id": 3168,
+      "verse_number": 9,
+      "verse_key": "27:9",
+      "hizb_number": 38,
+      "rub_el_hizb_number": 151,
+      "ruku_number": 327,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰمُوسَىٰٓ إِنَّهُۥٓ أَنَا ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "chapter_id": 27,
+      "page_number": 377,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 177430,
+          "resource_id": 33,
+          "text": "(Allah berfirman), \"Wahai Musa! Sesungguhnya Aku adalah Allah, Yang Mahaperkasa, Mahabijaksana."
+        }
+      ]
+    },
+    {
+      "id": 3169,
+      "verse_number": 10,
+      "verse_key": "27:10",
+      "hizb_number": 38,
+      "rub_el_hizb_number": 151,
+      "ruku_number": 327,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَلْقِ عَصَاكَ ۚ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ ۚ يَـٰمُوسَىٰ لَا تَخَفْ إِنِّى لَا يَخَافُ لَدَىَّ ٱلْمُرْسَلُونَ",
+      "chapter_id": 27,
+      "page_number": 377,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183427,
+          "resource_id": 33,
+          "text": "dan lemparkanlah tongkatmu!\" Maka ketika (tongkat itu menjadi ular dan) Musa melihatnya bergerak-gerak seperti seekor ular yang gesit, larilah dia berbalik ke belakang tanpa menoleh. \"Wahai Musa! Jangan takut! Sesungguhnya dihadapan-Ku para rasul tidak perlu takut,"
+        }
+      ]
+    },
+    {
+      "id": 3170,
+      "verse_number": 11,
+      "verse_key": "27:11",
+      "hizb_number": 38,
+      "rub_el_hizb_number": 151,
+      "ruku_number": 327,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّا مَن ظَلَمَ ثُمَّ بَدَّلَ حُسْنًۢا بَعْدَ سُوٓءٍ فَإِنِّى غَفُورٌ رَّحِيمٌ",
+      "chapter_id": 27,
+      "page_number": 377,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183428,
+          "resource_id": 33,
+          "text": "kecuali orang yang berlaku zalim yang kemudian mengubah (dirinya) dengan kebaikan setelah kejahatan (bertobat); maka sungguh, Aku Maha Pengampun, Maha Penyayang."
+        }
+      ]
+    },
+    {
+      "id": 3171,
+      "verse_number": 12,
+      "verse_key": "27:12",
+      "hizb_number": 38,
+      "rub_el_hizb_number": 151,
+      "ruku_number": 327,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَدْخِلْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ ۖ فِى تِسْعِ ءَايَـٰتٍ إِلَىٰ فِرْعَوْنَ وَقَوْمِهِۦٓ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًا فَـٰسِقِينَ",
+      "chapter_id": 27,
+      "page_number": 377,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183426,
+          "resource_id": 33,
+          "text": "Dan masukkanlah tanganmu ke leher bajumu,<sup foot_note=135543>1</sup> niscaya ia akan ke luar menjadi putih (bersinar) tanpa cacat. (Kedua mukjizat ini) termasuk sembilan macam mukjizat (yang akan dikemukakan) kepada Fir'aun dan kaumnya. Mereka benar-benar orang-orang yang fasik.\""
+        }
+      ]
+    },
+    {
+      "id": 3172,
+      "verse_number": 13,
+      "verse_key": "27:13",
+      "hizb_number": 38,
+      "rub_el_hizb_number": 151,
+      "ruku_number": 327,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَمَّا جَآءَتْهُمْ ءَايَـٰتُنَا مُبْصِرَةً قَالُوا۟ هَـٰذَا سِحْرٌ مُّبِينٌ",
+      "chapter_id": 27,
+      "page_number": 377,
+      "juz_number": 19,
+      "translations": [
+        {
+          "id": 183423,
+          "resource_id": 33,
+          "text": "Maka ketika mukjizat-mukjizat Kami yang terang itu sampai kepada mereka, mereka berkata, \"Ini sihir yang nyata.\""
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 13,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 13
+  }
+}

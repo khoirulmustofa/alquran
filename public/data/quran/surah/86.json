@@ -1,0 +1,368 @@
+{
+  "verses": [
+    {
+      "id": 5932,
+      "verse_number": 1,
+      "verse_key": "86:1",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " وَٱلسَّمَآءِ وَٱلطَّارِقِ",
+      "chapter_id": 86,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180984,
+          "resource_id": 33,
+          "text": "Demi langit dan yang datang pada malam hari."
+        }
+      ]
+    },
+    {
+      "id": 5933,
+      "verse_number": 2,
+      "verse_key": "86:2",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ",
+      "chapter_id": 86,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180995,
+          "resource_id": 33,
+          "text": "Dan tahukah kamu apakah yang datang pada malam hari itu?"
+        }
+      ]
+    },
+    {
+      "id": 5934,
+      "verse_number": 3,
+      "verse_key": "86:3",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلنَّجْمُ ٱلثَّاقِبُ",
+      "chapter_id": 86,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180999,
+          "resource_id": 33,
+          "text": "(Yaitu) bintang yang bersinar tajam,"
+        }
+      ]
+    },
+    {
+      "id": 5935,
+      "verse_number": 4,
+      "verse_key": "86:4",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ",
+      "chapter_id": 86,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180997,
+          "resource_id": 33,
+          "text": "setiap orang pasti ada penjaganya."
+        }
+      ]
+    },
+    {
+      "id": 5936,
+      "verse_number": 5,
+      "verse_key": "86:5",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَلْيَنظُرِ ٱلْإِنسَـٰنُ مِمَّ خُلِقَ",
+      "chapter_id": 86,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181001,
+          "resource_id": 33,
+          "text": "Maka hendaklah manusia memperhatikan dari apa dia diciptakan."
+        }
+      ]
+    },
+    {
+      "id": 5937,
+      "verse_number": 6,
+      "verse_key": "86:6",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "خُلِقَ مِن مَّآءٍ دَافِقٍ",
+      "chapter_id": 86,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181003,
+          "resource_id": 33,
+          "text": "Dia diciptakan dari air (mani) yang terpancar,"
+        }
+      ]
+    },
+    {
+      "id": 5938,
+      "verse_number": 7,
+      "verse_key": "86:7",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ",
+      "chapter_id": 86,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181005,
+          "resource_id": 33,
+          "text": "yang keluar dari antara tulang punggung (sulbi) dan tulang dada."
+        }
+      ]
+    },
+    {
+      "id": 5939,
+      "verse_number": 8,
+      "verse_key": "86:8",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌ",
+      "chapter_id": 86,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181007,
+          "resource_id": 33,
+          "text": "Sungguh, Allah benar-benar kuasa untuk mengembalikannya (hidup setelah mati)."
+        }
+      ]
+    },
+    {
+      "id": 5940,
+      "verse_number": 9,
+      "verse_key": "86:9",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَ تُبْلَى ٱلسَّرَآئِرُ",
+      "chapter_id": 86,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 182871,
+          "resource_id": 33,
+          "text": "Pada hari ditampakkan segala rahasia,"
+        }
+      ]
+    },
+    {
+      "id": 5941,
+      "verse_number": 10,
+      "verse_key": "86:10",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَمَا لَهُۥ مِن قُوَّةٍ وَلَا نَاصِرٍ",
+      "chapter_id": 86,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180986,
+          "resource_id": 33,
+          "text": "maka manusia tidak lagi mempunyai suatu kekuatan dan tidak (pula) ada penolong."
+        }
+      ]
+    },
+    {
+      "id": 5942,
+      "verse_number": 11,
+      "verse_key": "86:11",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ",
+      "chapter_id": 86,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181009,
+          "resource_id": 33,
+          "text": "Demi langit yang mengandung hujan,<sup foot_note=135856>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 5943,
+      "verse_number": 12,
+      "verse_key": "86:12",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ",
+      "chapter_id": 86,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180993,
+          "resource_id": 33,
+          "text": "dan bumi yang mempunyai tumbuh-tumbuhan,"
+        }
+      ]
+    },
+    {
+      "id": 5944,
+      "verse_number": 13,
+      "verse_key": "86:13",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّهُۥ لَقَوْلٌ فَصْلٌ",
+      "chapter_id": 86,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180987,
+          "resource_id": 33,
+          "text": "sungguh, (Alquran) itu benar-benar firman pemisah (antara yang hak dan yang batil),"
+        }
+      ]
+    },
+    {
+      "id": 5945,
+      "verse_number": 14,
+      "verse_key": "86:14",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا هُوَ بِٱلْهَزْلِ",
+      "chapter_id": 86,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180988,
+          "resource_id": 33,
+          "text": "dan (Alquran) itu bukanlah senda gurauan."
+        }
+      ]
+    },
+    {
+      "id": 5946,
+      "verse_number": 15,
+      "verse_key": "86:15",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
+      "chapter_id": 86,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180989,
+          "resource_id": 33,
+          "text": "Sungguh, mereka (orang kafir) merencanakan tipu daya yang jahat,"
+        }
+      ]
+    },
+    {
+      "id": 5947,
+      "verse_number": 16,
+      "verse_key": "86:16",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَكِيدُ كَيْدًا",
+      "chapter_id": 86,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180990,
+          "resource_id": 33,
+          "text": "dan Aku pun membuat rencana (tipu daya) yang jitu."
+        }
+      ]
+    },
+    {
+      "id": 5948,
+      "verse_number": 17,
+      "verse_key": "86:17",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَمَهِّلِ ٱلْكَـٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا",
+      "chapter_id": 86,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180991,
+          "resource_id": 33,
+          "text": "Karena itu berilah penangguhan kepada orang-orang kafir. Berilah mereka kesempatan untuk sementara waktu."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 300,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 17
+  }
+}

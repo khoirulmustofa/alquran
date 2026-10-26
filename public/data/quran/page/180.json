@@ -1,0 +1,179 @@
+{
+  "verses": [
+    {
+      "id": 1186,
+      "verse_number": 26,
+      "verse_key": "8:26",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 148,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱذْكُرُوٓا۟ إِذْ أَنتُمْ قَلِيلٌ مُّسْتَضْعَفُونَ فِى ٱلْأَرْضِ تَخَافُونَ أَن يَتَخَطَّفَكُمُ ٱلنَّاسُ فَـَٔاوَىٰكُمْ وَأَيَّدَكُم بِنَصْرِهِۦ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَـٰتِ لَعَلَّكُمْ تَشْكُرُونَ",
+      "chapter_id": 8,
+      "page_number": 180,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 180862,
+          "resource_id": 33,
+          "text": "Dan ingatlah ketika kamu (para Muhajirin) masih (berjumlah) sedikit, lagi tertindas di bumi (Mekkah), dan kamu takut orang-orang (Mekkah) akan menculik kamu, maka Dia memberi kamu tempat menetap (Madinah) dan dijadikan-Nya kamu kuat dengan pertolongan-Nya dan diberi-Nya kamu rezeki yang baik agar kamu bersyukur."
+        }
+      ]
+    },
+    {
+      "id": 1187,
+      "verse_number": 27,
+      "verse_key": "8:27",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 148,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَخُونُوا۟ ٱللَّهَ وَٱلرَّسُولَ وَتَخُونُوٓا۟ أَمَـٰنَـٰتِكُمْ وَأَنتُمْ تَعْلَمُونَ",
+      "chapter_id": 8,
+      "page_number": 180,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 180864,
+          "resource_id": 33,
+          "text": "Wahai orang-orang yang beriman! Janganlah kamu mengkhianati Allah dan Rasul dan (juga) janganlah kamu mengkhianati amanat yang dipercayakan kepadamu, sedang kamu mengetahui."
+        }
+      ]
+    },
+    {
+      "id": 1188,
+      "verse_number": 28,
+      "verse_key": "8:28",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 148,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱعْلَمُوٓا۟ أَنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَـٰدُكُمْ فِتْنَةٌ وَأَنَّ ٱللَّهَ عِندَهُۥٓ أَجْرٌ عَظِيمٌ",
+      "chapter_id": 8,
+      "page_number": 180,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 180867,
+          "resource_id": 33,
+          "text": "Dan ketahuilah bahwa hartamu dan anak-anakmu itu hanyalah sebagai cobaan dan sesungguhnya di sisi Allah ada pahala yang besar."
+        }
+      ]
+    },
+    {
+      "id": 1189,
+      "verse_number": 29,
+      "verse_key": "8:29",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 149,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تَتَّقُوا۟ ٱللَّهَ يَجْعَل لَّكُمْ فُرْقَانًا وَيُكَفِّرْ عَنكُمْ سَيِّـَٔاتِكُمْ وَيَغْفِرْ لَكُمْ ۗ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "chapter_id": 8,
+      "page_number": 180,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 180869,
+          "resource_id": 33,
+          "text": "Wahai orang-orang yang beriman! Jika kamu bertakwa kepada Allah, niscaya Dia akan memberikan furqān (kemampuan membedakan antara yang hak dan batil) kepadamu dan menghapus segala kesalahanmu dan mengampuni (dosa-dosa)mu. Allah memiliki karunia yang besar."
+        }
+      ]
+    },
+    {
+      "id": 1190,
+      "verse_number": 30,
+      "verse_key": "8:30",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 149,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ يَمْكُرُ بِكَ ٱلَّذِينَ كَفَرُوا۟ لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ ۚ وَيَمْكُرُونَ وَيَمْكُرُ ٱللَّهُ ۖ وَٱللَّهُ خَيْرُ ٱلْمَـٰكِرِينَ",
+      "chapter_id": 8,
+      "page_number": 180,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 180871,
+          "resource_id": 33,
+          "text": "Dan (ingatlah), ketika orang-orang kafir (Quraisy) memikirkan tipu daya terhadapmu (Muhammad) untuk menangkap dan memenjarakanmu atau membunuhmu, atau mengusirmu. Mereka membuat tipu daya dan Allah menggagalkan tipu daya itu. Allah adalah sebaik-baik pembalas tipu daya."
+        }
+      ]
+    },
+    {
+      "id": 1191,
+      "verse_number": 31,
+      "verse_key": "8:31",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 149,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا قَالُوا۟ قَدْ سَمِعْنَا لَوْ نَشَآءُ لَقُلْنَا مِثْلَ هَـٰذَآ ۙ إِنْ هَـٰذَآ إِلَّآ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+      "chapter_id": 8,
+      "page_number": 180,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 180873,
+          "resource_id": 33,
+          "text": "Dan apabila ayat-ayat Kami dibacakan kepada mereka, mereka berkata, \"Sesungguhnya kami telah mendengar (ayat-ayat seperti ini), jika kami menghendaki niscaya kami dapat membacakan yang seperti ini. (Alquran) ini tidak lain hanyalah dongeng orang-orang terdahulu.\""
+        }
+      ]
+    },
+    {
+      "id": 1192,
+      "verse_number": 32,
+      "verse_key": "8:32",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 149,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ قَالُوا۟ ٱللَّهُمَّ إِن كَانَ هَـٰذَا هُوَ ٱلْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ ٱلسَّمَآءِ أَوِ ٱئْتِنَا بِعَذَابٍ أَلِيمٍ",
+      "chapter_id": 8,
+      "page_number": 180,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 180881,
+          "resource_id": 33,
+          "text": "Dan (ingatlah), ketika mereka (orang-orang musyrik) berkata, \"Ya Allah, jika (Alquran) ini benar (wahyu) dari Engkau, maka hujanilah kami dengan batu dari langit, atau datangkanlah kepada kami azab yang pedih.\""
+        }
+      ]
+    },
+    {
+      "id": 1193,
+      "verse_number": 33,
+      "verse_key": "8:33",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 149,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا كَانَ ٱللَّهُ لِيُعَذِّبَهُمْ وَأَنتَ فِيهِمْ ۚ وَمَا كَانَ ٱللَّهُ مُعَذِّبَهُمْ وَهُمْ يَسْتَغْفِرُونَ",
+      "chapter_id": 8,
+      "page_number": 180,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 180892,
+          "resource_id": 33,
+          "text": "Tetapi Allah tidak akan menghukum mereka, selama engkau (Muhammad) berada di antara mereka. Dan tidaklah (pula) Allah akan menghukum mereka, sedang mereka (masih) memohon ampunan."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 8,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 8
+  }
+}

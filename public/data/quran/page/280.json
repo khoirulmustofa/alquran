@@ -1,0 +1,179 @@
+{
+  "verses": [
+    {
+      "id": 2012,
+      "verse_number": 111,
+      "verse_key": "16:111",
+      "hizb_number": 28,
+      "rub_el_hizb_number": 112,
+      "ruku_number": 238,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "۞ يَوْمَ تَأْتِى كُلُّ نَفْسٍ تُجَـٰدِلُ عَن نَّفْسِهَا وَتُوَفَّىٰ كُلُّ نَفْسٍ مَّا عَمِلَتْ وَهُمْ لَا يُظْلَمُونَ",
+      "chapter_id": 16,
+      "page_number": 280,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 182812,
+          "resource_id": 33,
+          "text": "(Ingatlah) pada hari (ketika) setiap orang datang untuk membela dirinya sendiri dan bagi setiap orang diberi (balasan) penuh sesuai dengan apa yang telah dikerjakannya, dan mereka tidak dizalimi (dirugikan)."
+        }
+      ]
+    },
+    {
+      "id": 2013,
+      "verse_number": 112,
+      "verse_key": "16:112",
+      "hizb_number": 28,
+      "rub_el_hizb_number": 112,
+      "ruku_number": 238,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "وَضَرَبَ ٱللَّهُ مَثَلًا قَرْيَةً كَانَتْ ءَامِنَةً مُّطْمَئِنَّةً يَأْتِيهَا رِزْقُهَا رَغَدًا مِّن كُلِّ مَكَانٍ فَكَفَرَتْ بِأَنْعُمِ ٱللَّهِ فَأَذَٰقَهَا ٱللَّهُ لِبَاسَ ٱلْجُوعِ وَٱلْخَوْفِ بِمَا كَانُوا۟ يَصْنَعُونَ",
+      "chapter_id": 16,
+      "page_number": 280,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 182811,
+          "resource_id": 33,
+          "text": "Dan Allah telah membuat suatu perumpamaan (dengan) suatu negeri yang dahulunya aman lagi tenteram, rezeki datang kepadanya melimpah ruah dari segenap tempat, tetapi (penduduk)nya mengingkari nikmat-nikmat Allah, karena itu Allah menimpakan kepada mereka bencana kelaparan dan ketakutan,<sup foot_note=135416>1</sup> disebabkan apa yang mereka perbuat."
+        }
+      ]
+    },
+    {
+      "id": 2014,
+      "verse_number": 113,
+      "verse_key": "16:113",
+      "hizb_number": 28,
+      "rub_el_hizb_number": 112,
+      "ruku_number": 238,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ جَآءَهُمْ رَسُولٌ مِّنْهُمْ فَكَذَّبُوهُ فَأَخَذَهُمُ ٱلْعَذَابُ وَهُمْ ظَـٰلِمُونَ",
+      "chapter_id": 16,
+      "page_number": 280,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 182806,
+          "resource_id": 33,
+          "text": "Dan sungguh, telah datang kepada mereka seorang rasul dari (kalangan) mereka sendiri, tetapi mereka mendustakannya, karena itu mereka ditimpa azab dan mereka adalah orang yang zalim."
+        }
+      ]
+    },
+    {
+      "id": 2015,
+      "verse_number": 114,
+      "verse_key": "16:114",
+      "hizb_number": 28,
+      "rub_el_hizb_number": 112,
+      "ruku_number": 238,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "فَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَـٰلًا طَيِّبًا وَٱشْكُرُوا۟ نِعْمَتَ ٱللَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+      "chapter_id": 16,
+      "page_number": 280,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 182795,
+          "resource_id": 33,
+          "text": "Maka makanlah yang halal lagi baik dari rezeki yang telah diberikan Allah kepadamu; dan syukurilah nikmat Allah, jika kamu hanya menyembah kepada-Nya."
+        }
+      ]
+    },
+    {
+      "id": 2016,
+      "verse_number": 115,
+      "verse_key": "16:115",
+      "hizb_number": 28,
+      "rub_el_hizb_number": 112,
+      "ruku_number": 238,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "chapter_id": 16,
+      "page_number": 280,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 181897,
+          "resource_id": 33,
+          "text": "Sesungguhnya Allah hanya mengharamkan atasmu bangkai, darah, daging babi dan (hewan) yang disembelih dengan (menyebut nama) selain Allah, tetapi barangsiapa terpaksa (memakannya) bukan karena menginginkannya dan tidak (pula) melampaui batas, maka sungguh, Allah Maha Pengampun, Maha Penyayang."
+        }
+      ]
+    },
+    {
+      "id": 2017,
+      "verse_number": 116,
+      "verse_key": "16:116",
+      "hizb_number": 28,
+      "rub_el_hizb_number": 112,
+      "ruku_number": 238,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَا تَقُولُوا۟ لِمَا تَصِفُ أَلْسِنَتُكُمُ ٱلْكَذِبَ هَـٰذَا حَلَـٰلٌ وَهَـٰذَا حَرَامٌ لِّتَفْتَرُوا۟ عَلَى ٱللَّهِ ٱلْكَذِبَ ۚ إِنَّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ لَا يُفْلِحُونَ",
+      "chapter_id": 16,
+      "page_number": 280,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 181888,
+          "resource_id": 33,
+          "text": "Dan janganlah kamu mengatakan terhadap apa yang disebut-sebut oleh lidahmu secara dusta \"Ini halal dan ini haram,\" untuk mengada-adakan kebohongan terhadap Allah. Sesungguhnya orang yang mengada-adakan kebohongan terhadap Allah tidak akan beruntung."
+        }
+      ]
+    },
+    {
+      "id": 2018,
+      "verse_number": 117,
+      "verse_key": "16:117",
+      "hizb_number": 28,
+      "rub_el_hizb_number": 112,
+      "ruku_number": 238,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "مَتَـٰعٌ قَلِيلٌ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "chapter_id": 16,
+      "page_number": 280,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 182797,
+          "resource_id": 33,
+          "text": "(Itu adalah) kesenangan yang sedikit; dan mereka akan mendapat azab yang pedih."
+        }
+      ]
+    },
+    {
+      "id": 2019,
+      "verse_number": 118,
+      "verse_key": "16:118",
+      "hizb_number": 28,
+      "rub_el_hizb_number": 112,
+      "ruku_number": 238,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا مَا قَصَصْنَا عَلَيْكَ مِن قَبْلُ ۖ وَمَا ظَلَمْنَـٰهُمْ وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+      "chapter_id": 16,
+      "page_number": 280,
+      "juz_number": 14,
+      "translations": [
+        {
+          "id": 181899,
+          "resource_id": 33,
+          "text": "Dan terhadap orang Yahudi, Kami haramkan apa yang telah Kami ceritakan dahulu kepadamu (Muhammad).<sup foot_note=135417>1</sup> Kami tidak menzalimi mereka, justru merekalah yang menzalimi diri sendiri."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 8,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 8
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "verses": [
+    {
+      "id": 2116,
+      "verse_number": 87,
+      "verse_key": "17:87",
+      "hizb_number": 29,
+      "rub_el_hizb_number": 116,
+      "ruku_number": 249,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّا رَحْمَةً مِّن رَّبِّكَ ۚ إِنَّ فَضْلَهُۥ كَانَ عَلَيْكَ كَبِيرًا",
+      "chapter_id": 17,
+      "page_number": 291,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182050,
+          "resource_id": 33,
+          "text": "kecuali karena rahmat dari Tuhanmu. Sungguh, karunia-Nya atasmu (Muhammad) sangat besar."
+        }
+      ]
+    },
+    {
+      "id": 2117,
+      "verse_number": 88,
+      "verse_key": "17:88",
+      "hizb_number": 29,
+      "rub_el_hizb_number": 116,
+      "ruku_number": 249,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قُل لَّئِنِ ٱجْتَمَعَتِ ٱلْإِنسُ وَٱلْجِنُّ عَلَىٰٓ أَن يَأْتُوا۟ بِمِثْلِ هَـٰذَا ٱلْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِۦ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍ ظَهِيرًا",
+      "chapter_id": 17,
+      "page_number": 291,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182007,
+          "resource_id": 33,
+          "text": "Katakanlah, \"Sesungguhnya jika manusia dan jin berkumpul untuk membuat yang serupa (dengan) Alquran ini, mereka tidak akan dapat membuat yang serupa dengannya, sekali pun mereka saling membantu satu sama lain.\""
+        }
+      ]
+    },
+    {
+      "id": 2118,
+      "verse_number": 89,
+      "verse_key": "17:89",
+      "hizb_number": 29,
+      "rub_el_hizb_number": 116,
+      "ruku_number": 249,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ صَرَّفْنَا لِلنَّاسِ فِى هَـٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍ فَأَبَىٰٓ أَكْثَرُ ٱلنَّاسِ إِلَّا كُفُورًا",
+      "chapter_id": 17,
+      "page_number": 291,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182005,
+          "resource_id": 33,
+          "text": "Dan sungguh, Kami telah menjelaskan berulang-ulang kepada manusia dalam Alquran ini dengan bermacam-macam perumpamaan, tetapi kebanyakan manusia tidak menyukainya bahkan mengingkari(nya)."
+        }
+      ]
+    },
+    {
+      "id": 2119,
+      "verse_number": 90,
+      "verse_key": "17:90",
+      "hizb_number": 29,
+      "rub_el_hizb_number": 116,
+      "ruku_number": 249,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَالُوا۟ لَن نُّؤْمِنَ لَكَ حَتَّىٰ تَفْجُرَ لَنَا مِنَ ٱلْأَرْضِ يَنۢبُوعًا",
+      "chapter_id": 17,
+      "page_number": 291,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182048,
+          "resource_id": 33,
+          "text": "Dan mereka berkata, \"Kami tidak akan percaya kepadamu (Muhammad) sebelum engkau memancarkan mata air dari bumi untuk kami,"
+        }
+      ]
+    },
+    {
+      "id": 2120,
+      "verse_number": 91,
+      "verse_key": "17:91",
+      "hizb_number": 29,
+      "rub_el_hizb_number": 116,
+      "ruku_number": 249,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "أَوْ تَكُونَ لَكَ جَنَّةٌ مِّن نَّخِيلٍ وَعِنَبٍ فَتُفَجِّرَ ٱلْأَنْهَـٰرَ خِلَـٰلَهَا تَفْجِيرًا",
+      "chapter_id": 17,
+      "page_number": 291,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182010,
+          "resource_id": 33,
+          "text": "atau engkau mempunyai sebuah kebun kurma dan anggur, lalu engkau alirkan di celah-celahnya sungai yang deras alirannya,"
+        }
+      ]
+    },
+    {
+      "id": 2121,
+      "verse_number": 92,
+      "verse_key": "17:92",
+      "hizb_number": 29,
+      "rub_el_hizb_number": 116,
+      "ruku_number": 249,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "أَوْ تُسْقِطَ ٱلسَّمَآءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا أَوْ تَأْتِىَ بِٱللَّهِ وَٱلْمَلَـٰٓئِكَةِ قَبِيلًا",
+      "chapter_id": 17,
+      "page_number": 291,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182043,
+          "resource_id": 33,
+          "text": "atau engkau jatuhkan langit berkeping-keping atas kami, sebagaimana engkau katakan, atau (sebelum) engkau datangkan Allah dan para malaikat berhadapan muka dengan kami,"
+        }
+      ]
+    },
+    {
+      "id": 2122,
+      "verse_number": 93,
+      "verse_key": "17:93",
+      "hizb_number": 29,
+      "rub_el_hizb_number": 116,
+      "ruku_number": 249,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "أَوْ يَكُونَ لَكَ بَيْتٌ مِّن زُخْرُفٍ أَوْ تَرْقَىٰ فِى ٱلسَّمَآءِ وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَـٰبًا نَّقْرَؤُهُۥ ۗ قُلْ سُبْحَانَ رَبِّى هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا",
+      "chapter_id": 17,
+      "page_number": 291,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182011,
+          "resource_id": 33,
+          "text": "atau engkau mempunyai satu rumah (terbuat) dari emas, atau engkau naik ke langit. Dan kami tidak akan mempercayai kenaikanmu itu sebelum engkau turunkan kepada kami satu kitab untuk kami baca.\" Katakanlah (Muhammad), \"Mahasuci Tuhanku, bukankah aku ini hanya seorang manusia yang menjadi rasul?\""
+        }
+      ]
+    },
+    {
+      "id": 2123,
+      "verse_number": 94,
+      "verse_key": "17:94",
+      "hizb_number": 29,
+      "rub_el_hizb_number": 116,
+      "ruku_number": 250,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا مَنَعَ ٱلنَّاسَ أَن يُؤْمِنُوٓا۟ إِذْ جَآءَهُمُ ٱلْهُدَىٰٓ إِلَّآ أَن قَالُوٓا۟ أَبَعَثَ ٱللَّهُ بَشَرًا رَّسُولًا",
+      "chapter_id": 17,
+      "page_number": 291,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182009,
+          "resource_id": 33,
+          "text": "Dan tidak ada sesuatu yang menghalangi manusia untuk beriman ketika petunjuk datang kepadanya, selain perkataan mereka, \"Mengapa Allah mengutus seorang manusia menjadi rasul?\""
+        }
+      ]
+    },
+    {
+      "id": 2124,
+      "verse_number": 95,
+      "verse_key": "17:95",
+      "hizb_number": 29,
+      "rub_el_hizb_number": 116,
+      "ruku_number": 250,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قُل لَّوْ كَانَ فِى ٱلْأَرْضِ مَلَـٰٓئِكَةٌ يَمْشُونَ مُطْمَئِنِّينَ لَنَزَّلْنَا عَلَيْهِم مِّنَ ٱلسَّمَآءِ مَلَكًا رَّسُولًا",
+      "chapter_id": 17,
+      "page_number": 291,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182000,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Sekiranya di bumi ada para malaikat, yang berjalan-jalan dengan tenang, niscaya Kami turunkan kepada mereka malaikat dari langit untuk menjadi rasul.\""
+        }
+      ]
+    },
+    {
+      "id": 2125,
+      "verse_number": 96,
+      "verse_key": "17:96",
+      "hizb_number": 29,
+      "rub_el_hizb_number": 116,
+      "ruku_number": 250,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ كَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۚ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِيرًۢا بَصِيرًا",
+      "chapter_id": 17,
+      "page_number": 291,
+      "juz_number": 15,
+      "translations": [
+        {
+          "id": 182012,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Cukuplah Allah menjadi saksi antara aku dan kamu sekalian. Sungguh, Dia Maha Mengetahui, Maha Melihat akan hamba-hamba-Nya.\""
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 10
+  }
+}

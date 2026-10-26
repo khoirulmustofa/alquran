@@ -1,0 +1,200 @@
+{
+  "verses": [
+    {
+      "id": 1666,
+      "verse_number": 70,
+      "verse_key": "12:70",
+      "hizb_number": 25,
+      "rub_el_hizb_number": 97,
+      "ruku_number": 201,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ جَعَلَ ٱلسِّقَايَةَ فِى رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا ٱلْعِيرُ إِنَّكُمْ لَسَـٰرِقُونَ",
+      "chapter_id": 12,
+      "page_number": 244,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 181676,
+          "resource_id": 33,
+          "text": "Maka ketika telah disiapkan bahan makanan untuk mereka, dia (Yusuf) memasukkan piala<sup foot_note=135368>1</sup> ke dalam karung saudaranya. Kemudian berteriaklah seseorang yang menyerukan, \"Wahai kafilah! Sesungguhnya kamu pasti pencuri.\""
+        }
+      ]
+    },
+    {
+      "id": 1667,
+      "verse_number": 71,
+      "verse_key": "12:71",
+      "hizb_number": 25,
+      "rub_el_hizb_number": 97,
+      "ruku_number": 201,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ وَأَقْبَلُوا۟ عَلَيْهِم مَّاذَا تَفْقِدُونَ",
+      "chapter_id": 12,
+      "page_number": 244,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 181675,
+          "resource_id": 33,
+          "text": "Mereka bertanya, sambil menghadap kepada mereka (yang menuduh), \" Kamu kehilangan apa?\""
+        }
+      ]
+    },
+    {
+      "id": 1668,
+      "verse_number": 72,
+      "verse_key": "12:72",
+      "hizb_number": 25,
+      "rub_el_hizb_number": 97,
+      "ruku_number": 201,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ نَفْقِدُ صُوَاعَ ٱلْمَلِكِ وَلِمَن جَآءَ بِهِۦ حِمْلُ بَعِيرٍ وَأَنَا۠ بِهِۦ زَعِيمٌ",
+      "chapter_id": 12,
+      "page_number": 244,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 181672,
+          "resource_id": 33,
+          "text": "Mereka menjawab, \"Kami kehilangan piala raja, dan siapa yang dapat mengembalikannya akan memperoleh (bahan makanan seberat) beban unta, dan aku jamin itu.\""
+        }
+      ]
+    },
+    {
+      "id": 1669,
+      "verse_number": 73,
+      "verse_key": "12:73",
+      "hizb_number": 25,
+      "rub_el_hizb_number": 97,
+      "ruku_number": 201,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ تَٱللَّهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنُفْسِدَ فِى ٱلْأَرْضِ وَمَا كُنَّا سَـٰرِقِينَ",
+      "chapter_id": 12,
+      "page_number": 244,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 181664,
+          "resource_id": 33,
+          "text": "Mereka (saudara-saudara Yusuf) menjawab, \"Demi Allah, sungguh, kamu mengetahui bahwa kami datang bukan untuk berbuat kerusakan di negeri ini dan kami bukanlah para pencuri.\""
+        }
+      ]
+    },
+    {
+      "id": 1670,
+      "verse_number": 74,
+      "verse_key": "12:74",
+      "hizb_number": 25,
+      "rub_el_hizb_number": 97,
+      "ruku_number": 201,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمْ كَـٰذِبِينَ",
+      "chapter_id": 12,
+      "page_number": 244,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 177240,
+          "resource_id": 33,
+          "text": "Mereka berkata, \"Tetapi apa hukumannya jika kamu dusta?\""
+        }
+      ]
+    },
+    {
+      "id": 1671,
+      "verse_number": 75,
+      "verse_key": "12:75",
+      "hizb_number": 25,
+      "rub_el_hizb_number": 97,
+      "ruku_number": 201,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ ۚ كَذَٰلِكَ نَجْزِى ٱلظَّـٰلِمِينَ",
+      "chapter_id": 12,
+      "page_number": 244,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 181647,
+          "resource_id": 33,
+          "text": "Mereka menjawab, \"Hukumannya ialah pada siapa yang ditemukan dalam karungnya (barang yang hilang itu), maka dia sendirilah yang menerima hukumannya.<sup foot_note=135369>1</sup> Demikianlah kami memberi hukuman kepada orang-orang zalim.\""
+        }
+      ]
+    },
+    {
+      "id": 1672,
+      "verse_number": 76,
+      "verse_key": "12:76",
+      "hizb_number": 25,
+      "rub_el_hizb_number": 97,
+      "ruku_number": 201,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ ۚ كَذَٰلِكَ كِدْنَا لِيُوسُفَ ۖ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ نَرْفَعُ دَرَجَـٰتٍ مَّن نَّشَآءُ ۗ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ",
+      "chapter_id": 12,
+      "page_number": 244,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 183273,
+          "resource_id": 33,
+          "text": "Maka mulailah dia (memeriksa) karung-karung mereka sebelum (memeriksa) karung saudaranya sendiri, kemudian dia mengeluarkan (piala raja) itu dari karung saudaranya. Demikianlah Kami mengatur (rencana) untuk Yusuf. Dia tidak dapat menghukum saudaranya menurut undang-undang raja, kecuali Allah menghendakinya. Kami angkat derajat orang yang Kami kehendaki; dan di atas setiap orang yang berpengetahuan ada yang lebih mengetahui."
+        }
+      ]
+    },
+    {
+      "id": 1673,
+      "verse_number": 77,
+      "verse_key": "12:77",
+      "hizb_number": 25,
+      "rub_el_hizb_number": 98,
+      "ruku_number": 201,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "۞ قَالُوٓا۟ إِن يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَّهُۥ مِن قَبْلُ ۚ فَأَسَرَّهَا يُوسُفُ فِى نَفْسِهِۦ وَلَمْ يُبْدِهَا لَهُمْ ۚ قَالَ أَنتُمْ شَرٌّ مَّكَانًا ۖ وَٱللَّهُ أَعْلَمُ بِمَا تَصِفُونَ",
+      "chapter_id": 12,
+      "page_number": 244,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 183275,
+          "resource_id": 33,
+          "text": "Mereka berkata, \"Jika dia mencuri, maka sungguh sebelum itu saudaranya pun pernah pula mencuri.\" Maka Yusuf menyembunyikan (kejengkelan) dalam hatinya dan tidak ditampakkannya kepada mereka. Dia berkata (dalam hatinya), \"Kedudukanmu justru lebih buruk. Dan Allah Maha Mengetahui apa yang kamu terangkan.\""
+        }
+      ]
+    },
+    {
+      "id": 1674,
+      "verse_number": 78,
+      "verse_key": "12:78",
+      "hizb_number": 25,
+      "rub_el_hizb_number": 98,
+      "ruku_number": 201,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ يَـٰٓأَيُّهَا ٱلْعَزِيزُ إِنَّ لَهُۥٓ أَبًا شَيْخًا كَبِيرًا فَخُذْ أَحَدَنَا مَكَانَهُۥٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ",
+      "chapter_id": 12,
+      "page_number": 244,
+      "juz_number": 13,
+      "translations": [
+        {
+          "id": 181680,
+          "resource_id": 33,
+          "text": "Mereka berkata, \"Wahai Al-Aziz! Dia mempunyai ayah yang sudah lanjut usia, karena itu ambillah salah seorang di antara kami sebagai gantinya, sesungguhnya kami melihat engkau termasuk orang-orang yang berbuat baik.\""
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 9,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 9
+  }
+}

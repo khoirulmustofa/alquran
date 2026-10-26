@@ -1,0 +1,221 @@
+{
+  "verses": [
+    {
+      "id": 4054,
+      "verse_number": 84,
+      "verse_key": "38:84",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ فَٱلْحَقُّ وَٱلْحَقَّ أَقُولُ",
+      "chapter_id": 38,
+      "page_number": 458,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178433,
+          "resource_id": 33,
+          "text": "(Allah) berfirman, \"Maka yang benar (adalah sumpahku), dan hanya kebenaran itulah yang Aku katakan."
+        }
+      ]
+    },
+    {
+      "id": 4055,
+      "verse_number": 85,
+      "verse_key": "38:85",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "لَأَمْلَأَنَّ جَهَنَّمَ مِنكَ وَمِمَّن تَبِعَكَ مِنْهُمْ أَجْمَعِينَ",
+      "chapter_id": 38,
+      "page_number": 458,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178434,
+          "resource_id": 33,
+          "text": "Sungguh, Aku akan memenuhi neraka Jahanam dengan kamu dan dengan orang-orang yang mengikutimu di antara mereka semuanya.\""
+        }
+      ]
+    },
+    {
+      "id": 4056,
+      "verse_number": 86,
+      "verse_key": "38:86",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ مَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَمَآ أَنَا۠ مِنَ ٱلْمُتَكَلِّفِينَ",
+      "chapter_id": 38,
+      "page_number": 458,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178436,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Aku tidak meminta imbalan sedikit pun kepadamu atasnya (dakwahku); dan aku bukanlah termasuk orang yang mengada-ada."
+        }
+      ]
+    },
+    {
+      "id": 4057,
+      "verse_number": 87,
+      "verse_key": "38:87",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+      "chapter_id": 38,
+      "page_number": 458,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178437,
+          "resource_id": 33,
+          "text": "(Alquran) ini tidak lain hanyalah peringatan bagi seluruh alam."
+        }
+      ]
+    },
+    {
+      "id": 4058,
+      "verse_number": 88,
+      "verse_key": "38:88",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَتَعْلَمُنَّ نَبَأَهُۥ بَعْدَ حِينٍۭ",
+      "chapter_id": 38,
+      "page_number": 458,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178439,
+          "resource_id": 33,
+          "text": "Dan sungguh, kamu akan mengetahui (kebenaran) beritanya Alquran setelah beberapa waktu lagi.\"<sup foot_note=135707>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 4059,
+      "verse_number": 1,
+      "verse_key": "39:1",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 398,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": " تَنزِيلُ ٱلْكِتَـٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
+      "chapter_id": 39,
+      "page_number": 458,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178445,
+          "resource_id": 33,
+          "text": "Kitab (Alquran) ini diturunkan oleh Allah Yang Mahamulia, Mahabijaksana."
+        }
+      ]
+    },
+    {
+      "id": 4060,
+      "verse_number": 2,
+      "verse_key": "39:2",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 398,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّآ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ فَٱعْبُدِ ٱللَّهَ مُخْلِصًا لَّهُ ٱلدِّينَ",
+      "chapter_id": 39,
+      "page_number": 458,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178454,
+          "resource_id": 33,
+          "text": "Sesungguhnya Kami menurunkan Kitab (Alquran) kepadamu (Muhammad) dengan (membawa) kebenaran. Maka sembahlah Allah dengan tulus ikhlas beragama kepada-Nya."
+        }
+      ]
+    },
+    {
+      "id": 4061,
+      "verse_number": 3,
+      "verse_key": "39:3",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 398,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَا لِلَّهِ ٱلدِّينُ ٱلْخَالِصُ ۚ وَٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَآ إِلَى ٱللَّهِ زُلْفَىٰٓ إِنَّ ٱللَّهَ يَحْكُمُ بَيْنَهُمْ فِى مَا هُمْ فِيهِ يَخْتَلِفُونَ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ كَـٰذِبٌ كَفَّارٌ",
+      "chapter_id": 39,
+      "page_number": 458,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178466,
+          "resource_id": 33,
+          "text": "Ingatlah! Hanya milik Allah agama yang murni (dari syirik). Dan orang-orang yang mengambil pelindung selain Dia (berkata), \"Kami tidak menyembah mereka melainkan (berharap) agar mereka mendekatkan kami kepada Allah dengan sedekat-dekatnya.\" Sungguh, Allah akan memberi putusan di antara mereka tentang apa yang mereka perselisihkan. Sungguh, Allah tidak memberi petunjuk kepada pendusta dan orang yang sangat ingkar."
+        }
+      ]
+    },
+    {
+      "id": 4062,
+      "verse_number": 4,
+      "verse_key": "39:4",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 398,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "لَّوْ أَرَادَ ٱللَّهُ أَن يَتَّخِذَ وَلَدًا لَّٱصْطَفَىٰ مِمَّا يَخْلُقُ مَا يَشَآءُ ۚ سُبْحَـٰنَهُۥ ۖ هُوَ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ",
+      "chapter_id": 39,
+      "page_number": 458,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178478,
+          "resource_id": 33,
+          "text": "Sekiranya Allah hendak mengambil anak, tentu Dia akan memilih apa yang Dia kehendaki dari apa yang telah diciptakan-Nya. Mahasuci Dia. Dialah Yang Maha Esa, Mahaperkasa."
+        }
+      ]
+    },
+    {
+      "id": 4063,
+      "verse_number": 5,
+      "verse_key": "39:5",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 398,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۖ يُكَوِّرُ ٱلَّيْلَ عَلَى ٱلنَّهَارِ وَيُكَوِّرُ ٱلنَّهَارَ عَلَى ٱلَّيْلِ ۖ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى ۗ أَلَا هُوَ ٱلْعَزِيزُ ٱلْغَفَّـٰرُ",
+      "chapter_id": 39,
+      "page_number": 458,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178490,
+          "resource_id": 33,
+          "text": "Dia menciptakan langit dan bumi dengan (tujuan) yang benar; Dia memasukkan malam atas siang dan memasukkan siang atas malam dan menundukkan matahari dan bulan, masing-masing berjalan menurut waktu yang ditentukan. Ingatlah! Dialah Yang Mahamulia, Maha Pengampun."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 10
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "verses": [
+    {
+      "id": 6177,
+      "verse_number": 1,
+      "verse_key": "103:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 547,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " وَٱلْعَصْرِ",
+      "chapter_id": 103,
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177413,
+          "resource_id": 33,
+          "text": "Demi masa."
+        }
+      ]
+    },
+    {
+      "id": 6178,
+      "verse_number": 2,
+      "verse_key": "103:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 547,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+      "chapter_id": 103,
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181335,
+          "resource_id": 33,
+          "text": "Sungguh, manusia berada dalam kerugian,"
+        }
+      ]
+    },
+    {
+      "id": 6179,
+      "verse_number": 3,
+      "verse_key": "103:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 547,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+      "chapter_id": 103,
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181346,
+          "resource_id": 33,
+          "text": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran."
+        }
+      ]
+    },
+    {
+      "id": 6180,
+      "verse_number": 1,
+      "verse_key": "104:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+      "chapter_id": 104,
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181357,
+          "resource_id": 33,
+          "text": "Celakalah bagi setiap pengumpat dan pencela,"
+        }
+      ]
+    },
+    {
+      "id": 6181,
+      "verse_number": 2,
+      "verse_key": "104:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+      "chapter_id": 104,
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181359,
+          "resource_id": 33,
+          "text": "yang mengumpulkan harta dan menghitung-hitungnya,<sup foot_note=135875>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 6182,
+      "verse_number": 3,
+      "verse_key": "104:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+      "chapter_id": 104,
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181356,
+          "resource_id": 33,
+          "text": "dia (manusia) mengira bahwa hartanya itu dapat mengekalkannya."
+        }
+      ]
+    },
+    {
+      "id": 6183,
+      "verse_number": 4,
+      "verse_key": "104:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+      "chapter_id": 104,
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181361,
+          "resource_id": 33,
+          "text": "Sekali-kali tidak! Pasti dia akan dilemparkan ke dalam (neraka) Ḥuṭamah."
+        }
+      ]
+    },
+    {
+      "id": 6184,
+      "verse_number": 5,
+      "verse_key": "104:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+      "chapter_id": 104,
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 182313,
+          "resource_id": 33,
+          "text": "Dan tahukah kamu apakah (neraka) Ḥuṭamah itu?"
+        }
+      ]
+    },
+    {
+      "id": 6185,
+      "verse_number": 6,
+      "verse_key": "104:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+      "chapter_id": 104,
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181363,
+          "resource_id": 33,
+          "text": "(Yaitu) api (azab) Allah yang dinyalakan,"
+        }
+      ]
+    },
+    {
+      "id": 6186,
+      "verse_number": 7,
+      "verse_key": "104:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+      "chapter_id": 104,
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181372,
+          "resource_id": 33,
+          "text": "yang (membakar) sampai ke hati."
+        }
+      ]
+    },
+    {
+      "id": 6187,
+      "verse_number": 8,
+      "verse_key": "104:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+      "chapter_id": 104,
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181355,
+          "resource_id": 33,
+          "text": "Sungguh, api itu ditutup rapat atas (diri) mereka,"
+        }
+      ]
+    },
+    {
+      "id": 6188,
+      "verse_number": 9,
+      "verse_key": "104:9",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+      "chapter_id": 104,
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181370,
+          "resource_id": 33,
+          "text": "(sedang mereka itu) diikat pada tiang-tiang yang panjang."
+        }
+      ]
+    },
+    {
+      "id": 6189,
+      "verse_number": 1,
+      "verse_key": "105:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+      "chapter_id": 105,
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181373,
+          "resource_id": 33,
+          "text": "Tidakkah engkau (Muhammad) perhatikan bagaimana Tuhanmu telah bertindak terhadap pasukan bergajah?<sup foot_note=135876>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 6190,
+      "verse_number": 2,
+      "verse_key": "105:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+      "chapter_id": 105,
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181354,
+          "resource_id": 33,
+          "text": "Bukankah Dia telah menjadikan tipu daya mereka itu sia-sia?"
+        }
+      ]
+    },
+    {
+      "id": 6191,
+      "verse_number": 3,
+      "verse_key": "105:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "chapter_id": 105,
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181379,
+          "resource_id": 33,
+          "text": "dan Dia mengirimkan kepada mereka burung yang berbondong-bondong,"
+        }
+      ]
+    },
+    {
+      "id": 6192,
+      "verse_number": 4,
+      "verse_key": "105:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+      "chapter_id": 105,
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181390,
+          "resource_id": 33,
+          "text": "yang melempari mereka dengan batu dari tanah liat yang dibakar,"
+        }
+      ]
+    },
+    {
+      "id": 6193,
+      "verse_number": 5,
+      "verse_key": "105:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+      "chapter_id": 105,
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181382,
+          "resource_id": 33,
+          "text": "sehingga mereka dijadikan-Nya seperti daun-daun yang dimakan (ulat)."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 17,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 17
+  }
+}

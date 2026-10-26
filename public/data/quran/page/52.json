@@ -1,0 +1,158 @@
+{
+  "verses": [
+    {
+      "id": 309,
+      "verse_number": 16,
+      "verse_key": "3:16",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 21,
+      "ruku_number": 43,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِينَ يَقُولُونَ رَبَّنَآ إِنَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ",
+      "chapter_id": 3,
+      "page_number": 52,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 177781,
+          "resource_id": 33,
+          "text": "(Yaitu) orang-orang yang berdoa, \"Ya Tuhan kami, kami benar-benar beriman, maka ampunilah dosa-dosa kami dan lindungilah kami dari azab neraka.\""
+        }
+      ]
+    },
+    {
+      "id": 310,
+      "verse_number": 17,
+      "verse_key": "3:17",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 21,
+      "ruku_number": 43,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلصَّـٰبِرِينَ وَٱلصَّـٰدِقِينَ وَٱلْقَـٰنِتِينَ وَٱلْمُنفِقِينَ وَٱلْمُسْتَغْفِرِينَ بِٱلْأَسْحَارِ",
+      "chapter_id": 3,
+      "page_number": 52,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 177793,
+          "resource_id": 33,
+          "text": "(Juga) orang yang sabar, orang yang jujur, orang yang taat, orang yang menginfakkan hartanya, dan orang yang memohon ampunan pada waktu sebelum fajar."
+        }
+      ]
+    },
+    {
+      "id": 311,
+      "verse_number": 18,
+      "verse_key": "3:18",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 21,
+      "ruku_number": 43,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "شَهِدَ ٱللَّهُ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا هُوَ وَٱلْمَلَـٰٓئِكَةُ وَأُو۟لُوا۟ ٱلْعِلْمِ قَآئِمًۢا بِٱلْقِسْطِ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "chapter_id": 3,
+      "page_number": 52,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 177805,
+          "resource_id": 33,
+          "text": "Allah menyatakan bahwa tidak ada tuhan selain Dia; (demikian pula) para malaikat dan orang berilmu yang menegakkan keadilan, tidak ada tuhan selain Dia,Yang Mahaperkasa, Mahabijaksana."
+        }
+      ]
+    },
+    {
+      "id": 312,
+      "verse_number": 19,
+      "verse_key": "3:19",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 21,
+      "ruku_number": 43,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلدِّينَ عِندَ ٱللَّهِ ٱلْإِسْلَـٰمُ ۗ وَمَا ٱخْتَلَفَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۗ وَمَن يَكْفُرْ بِـَٔايَـٰتِ ٱللَّهِ فَإِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "chapter_id": 3,
+      "page_number": 52,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 177816,
+          "resource_id": 33,
+          "text": "Sesungguhnya agama di sisi Allah ialah Islam. Tidaklah berselisih orang-orang yang telah diberi Kitab<sup foot_note=135066>1</sup> kecuali setelah mereka memperoleh ilmu, karena kedengkian di antara mereka. Barang siapa ingkar terhadap ayat-ayat Allah, maka sungguh, Allah sangat cepat perhitungan-Nya."
+        }
+      ]
+    },
+    {
+      "id": 313,
+      "verse_number": 20,
+      "verse_key": "3:20",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 21,
+      "ruku_number": 43,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "فَإِنْ حَآجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِىَ لِلَّهِ وَمَنِ ٱتَّبَعَنِ ۗ وَقُل لِّلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْأُمِّيِّـۧنَ ءَأَسْلَمْتُمْ ۚ فَإِنْ أَسْلَمُوا۟ فَقَدِ ٱهْتَدَوا۟ ۖ وَّإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْكَ ٱلْبَلَـٰغُ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ",
+      "chapter_id": 3,
+      "page_number": 52,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 177829,
+          "resource_id": 33,
+          "text": "Kemudian jika mereka membantah engkau (Muhammad) katakanlah, \"Aku berserah diri kepada Allah dan (demikian pula) orang-orang yang mengikutiku.\" Dan katakanlah kepada orang-orang yang telah diberi Kitab dan kepada orang-orang buta huruf,<sup foot_note=135067>1</sup> \"Sudahkah kamu masuk Islam?\" Jika mereka masuk Islam, berarti mereka telah mendapat petunjuk, tetapi jika mereka berpaling, maka kewajibanmu hanyalah menyampaikan. Dan Allah Maha Melihat hamba-hamba-Nya."
+        }
+      ]
+    },
+    {
+      "id": 314,
+      "verse_number": 21,
+      "verse_key": "3:21",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 21,
+      "ruku_number": 44,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّـۧنَ بِغَيْرِ حَقٍّ وَيَقْتُلُونَ ٱلَّذِينَ يَأْمُرُونَ بِٱلْقِسْطِ مِنَ ٱلنَّاسِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+      "chapter_id": 3,
+      "page_number": 52,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 177831,
+          "resource_id": 33,
+          "text": "Sesungguhnya orang-orang yang mengingkari ayat-ayat Allah dan membunuh para nabi tanpa hak (alasan yang benar) dan membunuh orang-orang yang menyuruh manusia berbuat adil, sampaikanlah kepada mereka kabar gembira yaitu azab yang pedih."
+        }
+      ]
+    },
+    {
+      "id": 315,
+      "verse_number": 22,
+      "verse_key": "3:22",
+      "hizb_number": 6,
+      "rub_el_hizb_number": 21,
+      "ruku_number": 44,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ حَبِطَتْ أَعْمَـٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَمَا لَهُم مِّن نَّـٰصِرِينَ",
+      "chapter_id": 3,
+      "page_number": 52,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 177844,
+          "resource_id": 33,
+          "text": "Mereka itulah orang-orang yang sia-sia pekerjaannya di dunia dan di akhirat, dan mereka tidak punya penolong."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 7,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 7
+  }
+}

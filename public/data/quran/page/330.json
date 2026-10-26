@@ -1,0 +1,242 @@
+{
+  "verses": [
+    {
+      "id": 2574,
+      "verse_number": 91,
+      "verse_key": "21:91",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 283,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهَا مِن رُّوحِنَا وَجَعَلْنَـٰهَا وَٱبْنَهَآ ءَايَةً لِّلْعَـٰلَمِينَ",
+      "chapter_id": 21,
+      "page_number": 330,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182604,
+          "resource_id": 33,
+          "text": "Dan (ingatlah kisah Maryam) yang memelihara kehormatannya, lalu Kami tiupkan (roh) dari Kami ke dalam (tubuh)nya; Kami jadikan dia dan anaknya sebagai tanda (kebesaran Allah) bagi seluruh alam."
+        }
+      ]
+    },
+    {
+      "id": 2575,
+      "verse_number": 92,
+      "verse_key": "21:92",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 283,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ هَـٰذِهِۦٓ أُمَّتُكُمْ أُمَّةً وَٰحِدَةً وَأَنَا۠ رَبُّكُمْ فَٱعْبُدُونِ",
+      "chapter_id": 21,
+      "page_number": 330,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182613,
+          "resource_id": 33,
+          "text": "Sungguh, (agama tauhid) inilah agama kamu, agama yang satu dan Aku adalah Tuhanmu, maka sembahlah Aku!"
+        }
+      ]
+    },
+    {
+      "id": 2576,
+      "verse_number": 93,
+      "verse_key": "21:93",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 283,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَتَقَطَّعُوٓا۟ أَمْرَهُم بَيْنَهُمْ ۖ كُلٌّ إِلَيْنَا رَٰجِعُونَ",
+      "chapter_id": 21,
+      "page_number": 330,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182587,
+          "resource_id": 33,
+          "text": "Tetapi mereka terpecah belah dalam urusan (agama) mereka di antara mereka. Masing-masing (golongan itu semua) akan kembali kepada Kami."
+        }
+      ]
+    },
+    {
+      "id": 2577,
+      "verse_number": 94,
+      "verse_key": "21:94",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 284,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَمَن يَعْمَلْ مِنَ ٱلصَّـٰلِحَـٰتِ وَهُوَ مُؤْمِنٌ فَلَا كُفْرَانَ لِسَعْيِهِۦ وَإِنَّا لَهُۥ كَـٰتِبُونَ",
+      "chapter_id": 21,
+      "page_number": 330,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182617,
+          "resource_id": 33,
+          "text": "Barangsiapa yang mengerjakan kebajikan, dan dia beriman, maka usahanya tidak akan di ingkari (disia-siakan), dan sungguh, Kamilah yang mencatat untuknya."
+        }
+      ]
+    },
+    {
+      "id": 2578,
+      "verse_number": 95,
+      "verse_key": "21:95",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 284,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَحَرَٰمٌ عَلَىٰ قَرْيَةٍ أَهْلَكْنَـٰهَآ أَنَّهُمْ لَا يَرْجِعُونَ",
+      "chapter_id": 21,
+      "page_number": 330,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182611,
+          "resource_id": 33,
+          "text": "Dan tidak mungkin bagi (penduduk) suatu negeri yang telah Kami binasakan, bahwa mereka tidak akan kembali (kepada Kami)."
+        }
+      ]
+    },
+    {
+      "id": 2579,
+      "verse_number": 96,
+      "verse_key": "21:96",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 284,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "حَتَّىٰٓ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُم مِّن كُلِّ حَدَبٍ يَنسِلُونَ",
+      "chapter_id": 21,
+      "page_number": 330,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182620,
+          "resource_id": 33,
+          "text": "Hingga apabila (tembok) Ya`jūj dan Ma`jūj dibukakan dan mereka turun dengan cepat dari seluruh tempat yang tinggi."
+        }
+      ]
+    },
+    {
+      "id": 2580,
+      "verse_number": 97,
+      "verse_key": "21:97",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 284,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱقْتَرَبَ ٱلْوَعْدُ ٱلْحَقُّ فَإِذَا هِىَ شَـٰخِصَةٌ أَبْصَـٰرُ ٱلَّذِينَ كَفَرُوا۟ يَـٰوَيْلَنَا قَدْ كُنَّا فِى غَفْلَةٍ مِّنْ هَـٰذَا بَلْ كُنَّا ظَـٰلِمِينَ",
+      "chapter_id": 21,
+      "page_number": 330,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182628,
+          "resource_id": 33,
+          "text": "Dan (apabila) janji yang benar (hari berbangkit) telah dekat, maka tiba-tiba mata orang-orang yang kafir terbelalak. (Mereka berkata), \"Alangkah celakanya kami! Kami benar-benar lengah tentang ini, bahkan kami benar-benar orang yang zalim.\""
+        }
+      ]
+    },
+    {
+      "id": 2581,
+      "verse_number": 98,
+      "verse_key": "21:98",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 284,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ حَصَبُ جَهَنَّمَ أَنتُمْ لَهَا وَٰرِدُونَ",
+      "chapter_id": 21,
+      "page_number": 330,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182631,
+          "resource_id": 33,
+          "text": "Sungguh, kamu (orang kafir) dan apa yang kamu sembah selain Allah, adalah bahan bakar Jahanam. Kamu (pasti) masuk ke dalamnya."
+        }
+      ]
+    },
+    {
+      "id": 2582,
+      "verse_number": 99,
+      "verse_key": "21:99",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 284,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "لَوْ كَانَ هَـٰٓؤُلَآءِ ءَالِهَةً مَّا وَرَدُوهَا ۖ وَكُلٌّ فِيهَا خَـٰلِدُونَ",
+      "chapter_id": 21,
+      "page_number": 330,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182625,
+          "resource_id": 33,
+          "text": "Seandainya (berhala-berhala) itu tuhan, tentu mereka tidak akan memasukinya (neraka). Tetapi semuanya akan kekal di dalamnya."
+        }
+      ]
+    },
+    {
+      "id": 2583,
+      "verse_number": 100,
+      "verse_key": "21:100",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 284,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "لَهُمْ فِيهَا زَفِيرٌ وَهُمْ فِيهَا لَا يَسْمَعُونَ",
+      "chapter_id": 21,
+      "page_number": 330,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 177273,
+          "resource_id": 33,
+          "text": "Mereka merintih dan menjerit di dalamnya (neraka), dan mereka di dalamnya tidak dapat mendengar."
+        }
+      ]
+    },
+    {
+      "id": 2584,
+      "verse_number": 101,
+      "verse_key": "21:101",
+      "hizb_number": 33,
+      "rub_el_hizb_number": 132,
+      "ruku_number": 284,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ سَبَقَتْ لَهُم مِّنَّا ٱلْحُسْنَىٰٓ أُو۟لَـٰٓئِكَ عَنْهَا مُبْعَدُونَ",
+      "chapter_id": 21,
+      "page_number": 330,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182409,
+          "resource_id": 33,
+          "text": "Sungguh, sejak dahulu bagi orang-orang yang telah ada (ketetapan) yang baik dari Kami, mereka itu akan dijauhkan (dari neraka)."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 11,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 11
+  }
+}

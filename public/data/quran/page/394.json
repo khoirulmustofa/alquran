@@ -1,0 +1,158 @@
+{
+  "verses": [
+    {
+      "id": 3323,
+      "verse_number": 71,
+      "verse_key": "28:71",
+      "hizb_number": 40,
+      "rub_el_hizb_number": 157,
+      "ruku_number": 340,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ أَرَءَيْتُمْ إِن جَعَلَ ٱللَّهُ عَلَيْكُمُ ٱلَّيْلَ سَرْمَدًا إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ مَنْ إِلَـٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِضِيَآءٍ ۖ أَفَلَا تَسْمَعُونَ",
+      "chapter_id": 28,
+      "page_number": 394,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177483,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Bagaimana pendapatmu, jika Allah menjadikan untukmu malam itu terus menerus sampai hari Kiamat. Siapakah tuhan selain Allah yang akan mendatangkan sinar terang kepadamu? Apakah kamu tidak mendengar?\""
+        }
+      ]
+    },
+    {
+      "id": 3324,
+      "verse_number": 72,
+      "verse_key": "28:72",
+      "hizb_number": 40,
+      "rub_el_hizb_number": 157,
+      "ruku_number": 340,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ أَرَءَيْتُمْ إِن جَعَلَ ٱللَّهُ عَلَيْكُمُ ٱلنَّهَارَ سَرْمَدًا إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ مَنْ إِلَـٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِلَيْلٍ تَسْكُنُونَ فِيهِ ۖ أَفَلَا تُبْصِرُونَ",
+      "chapter_id": 28,
+      "page_number": 394,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177481,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Bagaimana pendapatmu, jika Allah menjadikan untukmu siang itu terus menerus sampai hari Kiamat. Siapakah tuhan selain Allah yang akan mendatangkan malam kepadamu sebagai waktu istirahatmu? Apakah kamu tidak memperhatikan?\""
+        }
+      ]
+    },
+    {
+      "id": 3325,
+      "verse_number": 73,
+      "verse_key": "28:73",
+      "hizb_number": 40,
+      "rub_el_hizb_number": 157,
+      "ruku_number": 340,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِن رَّحْمَتِهِۦ جَعَلَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ لِتَسْكُنُوا۟ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "chapter_id": 28,
+      "page_number": 394,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177489,
+          "resource_id": 33,
+          "text": "Dan adalah karena rahmat-Nya, Dia jadikan untukmu malam dan siang, agar kamu beristirahat pada malam hari dan agar kamu mencari sebagian karunia-Nya (pada siang hari) dan agar kamu bersyukur kepada-Nya."
+        }
+      ]
+    },
+    {
+      "id": 3326,
+      "verse_number": 74,
+      "verse_key": "28:74",
+      "hizb_number": 40,
+      "rub_el_hizb_number": 157,
+      "ruku_number": 340,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَآءِىَ ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ",
+      "chapter_id": 28,
+      "page_number": 394,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177485,
+          "resource_id": 33,
+          "text": "Dan (ingatlah) pada hari ketika Dia (Allah) menyeru mereka, dan berfirman, \"Di manakah sekutu-sekutu-Ku yang dahulu kamu klaim?\""
+        }
+      ]
+    },
+    {
+      "id": 3327,
+      "verse_number": 75,
+      "verse_key": "28:75",
+      "hizb_number": 40,
+      "rub_el_hizb_number": 157,
+      "ruku_number": 340,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَنَزَعْنَا مِن كُلِّ أُمَّةٍ شَهِيدًا فَقُلْنَا هَاتُوا۟ بُرْهَـٰنَكُمْ فَعَلِمُوٓا۟ أَنَّ ٱلْحَقَّ لِلَّهِ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ",
+      "chapter_id": 28,
+      "page_number": 394,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177487,
+          "resource_id": 33,
+          "text": "Dan Kami datangkan dari setiap umat seorang saksi,<sup foot_note=135565>1</sup> lalu Kami katakan, \"Kemukakanlah bukti kebenaranmu,\" maka tahulah mereka bahwa yang hak (kebenaran) itu milik Allah dan lenyaplah dari mereka apa yang dahulu mereka ada-adakan."
+        }
+      ]
+    },
+    {
+      "id": 3328,
+      "verse_number": 76,
+      "verse_key": "28:76",
+      "hizb_number": 40,
+      "rub_el_hizb_number": 158,
+      "ruku_number": 341,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "۞ إِنَّ قَـٰرُونَ كَانَ مِن قَوْمِ مُوسَىٰ فَبَغَىٰ عَلَيْهِمْ ۖ وَءَاتَيْنَـٰهُ مِنَ ٱلْكُنُوزِ مَآ إِنَّ مَفَاتِحَهُۥ لَتَنُوٓأُ بِٱلْعُصْبَةِ أُو۟لِى ٱلْقُوَّةِ إِذْ قَالَ لَهُۥ قَوْمُهُۥ لَا تَفْرَحْ ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْفَرِحِينَ",
+      "chapter_id": 28,
+      "page_number": 394,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177491,
+          "resource_id": 33,
+          "text": "Sesungguhnya Karun termasuk kaum Musa,<sup foot_note=135566>1</sup> tetapi dia berlaku zalim terhadap mereka, dan Kami telah menganugerahkan kepadanya perbendaraan harta yang kunci-kuncinya sungguh berat dipikul oleh sejumlah orang yang kuat-kuat. (Ingatlah) ketika kaumnya berkata kepadanya, \"Janganlah engkau terlalu bangga. Sungguh, Allah tidak menyukai orang yang membanggakan diri.\""
+        }
+      ]
+    },
+    {
+      "id": 3329,
+      "verse_number": 77,
+      "verse_key": "28:77",
+      "hizb_number": 40,
+      "rub_el_hizb_number": 158,
+      "ruku_number": 341,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱبْتَغِ فِيمَآ ءَاتَىٰكَ ٱللَّهُ ٱلدَّارَ ٱلْـَٔاخِرَةَ ۖ وَلَا تَنسَ نَصِيبَكَ مِنَ ٱلدُّنْيَا ۖ وَأَحْسِن كَمَآ أَحْسَنَ ٱللَّهُ إِلَيْكَ ۖ وَلَا تَبْغِ ٱلْفَسَادَ فِى ٱلْأَرْضِ ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُفْسِدِينَ",
+      "chapter_id": 28,
+      "page_number": 394,
+      "juz_number": 20,
+      "translations": [
+        {
+          "id": 177493,
+          "resource_id": 33,
+          "text": "Dan carilah (pahala) negeri akhirat dengan apa yang telah dianugerahkan Allah kepadamu, tetapi janganlah kamu lupakan bagianmu di dunia dan berbuat baiklah (kepada orang lain) sebagaimana Allah telah berbuat baik kepadamu, dan janganlah kamu berbuat kerusakan di bumi. Sungguh, Allah tidak menyukai orang yang berbuat kerusakan."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 7,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 7
+  }
+}

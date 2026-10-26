@@ -1,0 +1,200 @@
+{
+  "verses": [
+    {
+      "id": 4487,
+      "verse_number": 14,
+      "verse_key": "45:14",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 437,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قُل لِّلَّذِينَ ءَامَنُوا۟ يَغْفِرُوا۟ لِلَّذِينَ لَا يَرْجُونَ أَيَّامَ ٱللَّهِ لِيَجْزِىَ قَوْمًۢا بِمَا كَانُوا۟ يَكْسِبُونَ",
+      "chapter_id": 45,
+      "page_number": 500,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178993,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad) kepada orang-orang yang beriman, hendaklah mereka memaafkan orang-orang yang tidak takut akan hari-hari Allah,<sup foot_note=135751>1</sup> karena Dia akan membalas suatu kaum sesuai dengan apa yang telah mereka kerjakan."
+        }
+      ]
+    },
+    {
+      "id": 4488,
+      "verse_number": 15,
+      "verse_key": "45:15",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 437,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "مَنْ عَمِلَ صَـٰلِحًا فَلِنَفْسِهِۦ ۖ وَمَنْ أَسَآءَ فَعَلَيْهَا ۖ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ",
+      "chapter_id": 45,
+      "page_number": 500,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178990,
+          "resource_id": 33,
+          "text": "Barangsiapa mengerjakan kebajikan, maka itu untuk dirinya sendiri, dan barangsiapa mengerjakan kejahatan, maka itu akan menimpa dirinya sendiri; kemudian kepada Tuhanmu kamu dikembalikan."
+        }
+      ]
+    },
+    {
+      "id": 4489,
+      "verse_number": 16,
+      "verse_key": "45:16",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 437,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ ءَاتَيْنَا بَنِىٓ إِسْرَٰٓءِيلَ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ وَرَزَقْنَـٰهُم مِّنَ ٱلطَّيِّبَـٰتِ وَفَضَّلْنَـٰهُمْ عَلَى ٱلْعَـٰلَمِينَ",
+      "chapter_id": 45,
+      "page_number": 500,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178991,
+          "resource_id": 33,
+          "text": "Dan sungguh, kepada Bani Israil telah Kami berikan Kitab (Taurat), kekuasaan dan kenabian, Kami anugerahkan kepada mereka rezeki yang baik, dan Kami lebihkan mereka atas bangsa-bangsa (pada masa itu)."
+        }
+      ]
+    },
+    {
+      "id": 4490,
+      "verse_number": 17,
+      "verse_key": "45:17",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 437,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَءَاتَيْنَـٰهُم بَيِّنَـٰتٍ مِّنَ ٱلْأَمْرِ ۖ فَمَا ٱخْتَلَفُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۚ إِنَّ رَبَّكَ يَقْضِى بَيْنَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ",
+      "chapter_id": 45,
+      "page_number": 500,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178992,
+          "resource_id": 33,
+          "text": "Dan Kami berikan kepada mereka keterangan-keterangan yang jelas tentang urusan (agama); maka mereka tidak berselisih kecuali setelah datang ilmu kepada mereka, karena kedengkian (yang ada) di antara mereka. Sungguh, Tuhanmu akan memberi putusan kepada mereka pada hari Kiamat terhadap apa yang selalu mereka perselisihkan."
+        }
+      ]
+    },
+    {
+      "id": 4491,
+      "verse_number": 18,
+      "verse_key": "45:18",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 437,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ جَعَلْنَـٰكَ عَلَىٰ شَرِيعَةٍ مِّنَ ٱلْأَمْرِ فَٱتَّبِعْهَا وَلَا تَتَّبِعْ أَهْوَآءَ ٱلَّذِينَ لَا يَعْلَمُونَ",
+      "chapter_id": 45,
+      "page_number": 500,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178995,
+          "resource_id": 33,
+          "text": "Kemudian Kami jadikan engkau (Muhammad) mengikuti syariat (peraturan) dari agama itu, maka ikutilah (syariat itu) dan janganlah engkau ikuti keinginan orang-orang yang tidak tahu."
+        }
+      ]
+    },
+    {
+      "id": 4492,
+      "verse_number": 19,
+      "verse_key": "45:19",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 437,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّهُمْ لَن يُغْنُوا۟ عَنكَ مِنَ ٱللَّهِ شَيْـًٔا ۚ وَإِنَّ ٱلظَّـٰلِمِينَ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ ۖ وَٱللَّهُ وَلِىُّ ٱلْمُتَّقِينَ",
+      "chapter_id": 45,
+      "page_number": 500,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178994,
+          "resource_id": 33,
+          "text": "Sungguh, mereka tidak akan dapat menghindarkan engkau sedikit pun dari (azab) Allah. Dan sungguh, orang-orang yang zalim itu sebagian menjadi pelindung atas sebagian yang lain; sedang Allah pelindung bagi orang-orang yang bertakwa."
+        }
+      ]
+    },
+    {
+      "id": 4493,
+      "verse_number": 20,
+      "verse_key": "45:20",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 437,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "هَـٰذَا بَصَـٰٓئِرُ لِلنَّاسِ وَهُدًى وَرَحْمَةٌ لِّقَوْمٍ يُوقِنُونَ",
+      "chapter_id": 45,
+      "page_number": 500,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178998,
+          "resource_id": 33,
+          "text": "(Alquran) ini adalah pedoman bagi manusia, petunjuk dan rahmat bagi kaum yang meyakini."
+        }
+      ]
+    },
+    {
+      "id": 4494,
+      "verse_number": 21,
+      "verse_key": "45:21",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 437,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "أَمْ حَسِبَ ٱلَّذِينَ ٱجْتَرَحُوا۟ ٱلسَّيِّـَٔاتِ أَن نَّجْعَلَهُمْ كَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَوَآءً مَّحْيَاهُمْ وَمَمَاتُهُمْ ۚ سَآءَ مَا يَحْكُمُونَ",
+      "chapter_id": 45,
+      "page_number": 500,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178997,
+          "resource_id": 33,
+          "text": "Apakah orang-orang yang melakukan kejahatan itu mengira bahwa Kami akan memperlakukan mereka seperti orang-orang yang beriman dan yang mengerjakan kebajikan, yaitu sama dalam kehidupan dan kematian mereka? Alangkah buruknya penilaian mereka itu."
+        }
+      ]
+    },
+    {
+      "id": 4495,
+      "verse_number": 22,
+      "verse_key": "45:22",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 438,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَخَلَقَ ٱللَّهُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَلِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+      "chapter_id": 45,
+      "page_number": 500,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178999,
+          "resource_id": 33,
+          "text": "Dan Allah menciptakan langit dan bumi dengan tujuan yang benar, dan agar setiap jiwa diberi balasan sesuai dengan apa yang dikerjakannya, dan mereka tidak akan dirugikan."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 9,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 9
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "verses": [
+    {
+      "id": 5056,
+      "verse_number": 77,
+      "verse_key": "56:77",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 473,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّهُۥ لَقُرْءَانٌ كَرِيمٌ",
+      "chapter_id": 56,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179661,
+          "resource_id": 33,
+          "text": "dan (ini) sesungguhnya Alquran yang sangat mulia,"
+        }
+      ]
+    },
+    {
+      "id": 5057,
+      "verse_number": 78,
+      "verse_key": "56:78",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 473,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِى كِتَـٰبٍ مَّكْنُونٍ",
+      "chapter_id": 56,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179662,
+          "resource_id": 33,
+          "text": "dalam Kitab yang terpelihara (Lauḥ Maḥfūẓ),"
+        }
+      ]
+    },
+    {
+      "id": 5058,
+      "verse_number": 79,
+      "verse_key": "56:79",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 473,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلْمُطَهَّرُونَ",
+      "chapter_id": 56,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179663,
+          "resource_id": 33,
+          "text": "tidak ada yang menyentuhnya selain hamba-hamba yang disucikan."
+        }
+      ]
+    },
+    {
+      "id": 5059,
+      "verse_number": 80,
+      "verse_key": "56:80",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 473,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "تَنزِيلٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ",
+      "chapter_id": 56,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179667,
+          "resource_id": 33,
+          "text": "Diturunkan dari Tuhan seluruh alam."
+        }
+      ]
+    },
+    {
+      "id": 5060,
+      "verse_number": 81,
+      "verse_key": "56:81",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 473,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَفَبِهَـٰذَا ٱلْحَدِيثِ أَنتُم مُّدْهِنُونَ",
+      "chapter_id": 56,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179666,
+          "resource_id": 33,
+          "text": "Apakah kamu menganggap remeh berita ini (Alquran)?"
+        }
+      ]
+    },
+    {
+      "id": 5061,
+      "verse_number": 82,
+      "verse_key": "56:82",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 473,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ",
+      "chapter_id": 56,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179668,
+          "resource_id": 33,
+          "text": "dan kamu menjadikan rezeki yang kamu terima (dari Allah) justru untuk mendustakan(-Nya)."
+        }
+      ]
+    },
+    {
+      "id": 5062,
+      "verse_number": 83,
+      "verse_key": "56:83",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 473,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَوْلَآ إِذَا بَلَغَتِ ٱلْحُلْقُومَ",
+      "chapter_id": 56,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179669,
+          "resource_id": 33,
+          "text": "Maka kalau begitu mengapa (tidak mencegah) ketika (nyawa) telah sampai di kerongkongan,"
+        }
+      ]
+    },
+    {
+      "id": 5063,
+      "verse_number": 84,
+      "verse_key": "56:84",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 473,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَنتُمْ حِينَئِذٍ تَنظُرُونَ",
+      "chapter_id": 56,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179670,
+          "resource_id": 33,
+          "text": "dan kamu ketika itu melihat,"
+        }
+      ]
+    },
+    {
+      "id": 5064,
+      "verse_number": 85,
+      "verse_key": "56:85",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 473,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَـٰكِن لَّا تُبْصِرُونَ",
+      "chapter_id": 56,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179671,
+          "resource_id": 33,
+          "text": "dan Kami lebih dekat kepadanya daripada kamu, tetapi kamu tidak melihat,"
+        }
+      ]
+    },
+    {
+      "id": 5065,
+      "verse_number": 86,
+      "verse_key": "56:86",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 473,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَوْلَآ إِن كُنتُمْ غَيْرَ مَدِينِينَ",
+      "chapter_id": 56,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179672,
+          "resource_id": 33,
+          "text": "maka mengapa jika kamu memang tidak dikuasai (oleh Allah),"
+        }
+      ]
+    },
+    {
+      "id": 5066,
+      "verse_number": 87,
+      "verse_key": "56:87",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 473,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "تَرْجِعُونَهَآ إِن كُنتُمْ صَـٰدِقِينَ",
+      "chapter_id": 56,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179673,
+          "resource_id": 33,
+          "text": "kamu tidak mengembalikannya (nyawa itu) jika kamu orang yang benar?"
+        }
+      ]
+    },
+    {
+      "id": 5067,
+      "verse_number": 88,
+      "verse_key": "56:88",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 473,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَمَّآ إِن كَانَ مِنَ ٱلْمُقَرَّبِينَ",
+      "chapter_id": 56,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179674,
+          "resource_id": 33,
+          "text": "Jika dia (orang yang mati) itu termasuk yang didekatkan (kepada Allah),"
+        }
+      ]
+    },
+    {
+      "id": 5068,
+      "verse_number": 89,
+      "verse_key": "56:89",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 473,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ",
+      "chapter_id": 56,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179675,
+          "resource_id": 33,
+          "text": "maka dia memperoleh ketenteraman dan rezeki serta surga (yang penuh) kenikmatan."
+        }
+      ]
+    },
+    {
+      "id": 5069,
+      "verse_number": 90,
+      "verse_key": "56:90",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 473,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَمَّآ إِن كَانَ مِنْ أَصْحَـٰبِ ٱلْيَمِينِ",
+      "chapter_id": 56,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179678,
+          "resource_id": 33,
+          "text": "Dan jika dia termasuk golongan kanan,"
+        }
+      ]
+    },
+    {
+      "id": 5070,
+      "verse_number": 91,
+      "verse_key": "56:91",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 473,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَسَلَـٰمٌ لَّكَ مِنْ أَصْحَـٰبِ ٱلْيَمِينِ",
+      "chapter_id": 56,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179679,
+          "resource_id": 33,
+          "text": "maka, \"Salam bagimu (wahai) dari golongan kanan!\" (sambut malaikat)."
+        }
+      ]
+    },
+    {
+      "id": 5071,
+      "verse_number": 92,
+      "verse_key": "56:92",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 473,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَمَّآ إِن كَانَ مِنَ ٱلْمُكَذِّبِينَ ٱلضَّآلِّينَ",
+      "chapter_id": 56,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179473,
+          "resource_id": 33,
+          "text": "Namun jika dia termasuk golongan yang mendustakan dan sesat,"
+        }
+      ]
+    },
+    {
+      "id": 5072,
+      "verse_number": 93,
+      "verse_key": "56:93",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 473,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَنُزُلٌ مِّنْ حَمِيمٍ",
+      "chapter_id": 56,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179089,
+          "resource_id": 33,
+          "text": "maka dia disambut siraman air yang mendidih,"
+        }
+      ]
+    },
+    {
+      "id": 5073,
+      "verse_number": 94,
+      "verse_key": "56:94",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 473,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَتَصْلِيَةُ جَحِيمٍ",
+      "chapter_id": 56,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179341,
+          "resource_id": 33,
+          "text": "dan dibakar di dalam neraka."
+        }
+      ]
+    },
+    {
+      "id": 5074,
+      "verse_number": 95,
+      "verse_key": "56:95",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 473,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ هَـٰذَا لَهُوَ حَقُّ ٱلْيَقِينِ",
+      "chapter_id": 56,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179680,
+          "resource_id": 33,
+          "text": "Sungguh, inilah keyakinan yang benar."
+        }
+      ]
+    },
+    {
+      "id": 5075,
+      "verse_number": 96,
+      "verse_key": "56:96",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 473,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "chapter_id": 56,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179681,
+          "resource_id": 33,
+          "text": "Maka bertasbihlah dengan (menyebut) nama Tuhanmu Yang Mahabesar."
+        }
+      ]
+    },
+    {
+      "id": 5076,
+      "verse_number": 1,
+      "verse_key": "57:1",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 474,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "chapter_id": 57,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179687,
+          "resource_id": 33,
+          "text": "Apa yang di langit dan di bumi bertasbih kepada Allah. Dialah Yang Mahaperkasa, Mahabijaksana."
+        }
+      ]
+    },
+    {
+      "id": 5077,
+      "verse_number": 2,
+      "verse_key": "57:2",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 474,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ يُحْىِۦ وَيُمِيتُ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "chapter_id": 57,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179699,
+          "resource_id": 33,
+          "text": "Milik-Nyalah kerajaan langit dan bumi, Dia menghidupkan dan mematikan, dan Dia Mahakuasa atas segala sesuatu."
+        }
+      ]
+    },
+    {
+      "id": 5078,
+      "verse_number": 3,
+      "verse_key": "57:3",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 215,
+      "ruku_number": 474,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "هُوَ ٱلْأَوَّلُ وَٱلْـَٔاخِرُ وَٱلظَّـٰهِرُ وَٱلْبَاطِنُ ۖ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "chapter_id": 57,
+      "page_number": 537,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179716,
+          "resource_id": 33,
+          "text": "Dialah Yang Awal, Yang Akhir, Yang Zahir dan Yang Batin;<sup foot_note=135781>1</sup> dan Dia Maha Mengetahui segala sesuatu."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 23,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 23
+  }
+}

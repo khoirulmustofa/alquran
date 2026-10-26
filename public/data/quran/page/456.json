@@ -1,0 +1,410 @@
+{
+  "verses": [
+    {
+      "id": 4013,
+      "verse_number": 43,
+      "verse_key": "38:43",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةً مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+      "chapter_id": 38,
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178389,
+          "resource_id": 33,
+          "text": "Dan Kami anugerahi dia (dengan mengumpulkan kembali) keluarganya dan Kami lipat gandakan jumlah mereka, sebagai rahmat dari Kami dan pelajaran bagi orang-orang yang berpikiran sehat.<sup foot_note=135705>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 4014,
+      "verse_number": 44,
+      "verse_key": "38:44",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَخُذْ بِيَدِكَ ضِغْثًا فَٱضْرِب بِّهِۦ وَلَا تَحْنَثْ ۗ إِنَّا وَجَدْنَـٰهُ صَابِرًا ۚ نِّعْمَ ٱلْعَبْدُ ۖ إِنَّهُۥٓ أَوَّابٌ",
+      "chapter_id": 38,
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178390,
+          "resource_id": 33,
+          "text": "Dan ambillah seikat (rumput) dengan tanganmu, lalu pukullah dengan itu dan janganlah engkau melanggar sumpah. Sesungguhnya Kami dapati dia (Ayyub) seorang yang sabar. Dialah sebaik-baik hamba. Sungguh, dia sangat taat (kepada Allah)."
+        }
+      ]
+    },
+    {
+      "id": 4015,
+      "verse_number": 45,
+      "verse_key": "38:45",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱذْكُرْ عِبَـٰدَنَآ إِبْرَٰهِيمَ وَإِسْحَـٰقَ وَيَعْقُوبَ أُو۟لِى ٱلْأَيْدِى وَٱلْأَبْصَـٰرِ",
+      "chapter_id": 38,
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178409,
+          "resource_id": 33,
+          "text": "Dan ingatlah hamba-hamba Kami: Ibrahim, Ishak dan Yakub yang mempunyai kekuatan-kekuatan yang besar dan ilmu-ilmu (yang tinggi)."
+        }
+      ]
+    },
+    {
+      "id": 4016,
+      "verse_number": 46,
+      "verse_key": "38:46",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّآ أَخْلَصْنَـٰهُم بِخَالِصَةٍ ذِكْرَى ٱلدَّارِ",
+      "chapter_id": 38,
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178392,
+          "resource_id": 33,
+          "text": "Sungguh, Kami telah menyucikan mereka dengan (menganugerahkan) akhlak yang tinggi kepadanya yaitu selalu mengingatkan (manusia) kepada negeri akhirat."
+        }
+      ]
+    },
+    {
+      "id": 4017,
+      "verse_number": 47,
+      "verse_key": "38:47",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّهُمْ عِندَنَا لَمِنَ ٱلْمُصْطَفَيْنَ ٱلْأَخْيَارِ",
+      "chapter_id": 38,
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178393,
+          "resource_id": 33,
+          "text": "Dan sungguh, di sisi Kami mereka termasuk orang-orang pilihan yang paling baik."
+        }
+      ]
+    },
+    {
+      "id": 4018,
+      "verse_number": 48,
+      "verse_key": "38:48",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱذْكُرْ إِسْمَـٰعِيلَ وَٱلْيَسَعَ وَذَا ٱلْكِفْلِ ۖ وَكُلٌّ مِّنَ ٱلْأَخْيَارِ",
+      "chapter_id": 38,
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178395,
+          "resource_id": 33,
+          "text": "Dan ingatlah Ismail, Ilyasa' dan Zulkifli. Semuanya termasuk orang-orang yang terbaik."
+        }
+      ]
+    },
+    {
+      "id": 4019,
+      "verse_number": 49,
+      "verse_key": "38:49",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "هَـٰذَا ذِكْرٌ ۚ وَإِنَّ لِلْمُتَّقِينَ لَحُسْنَ مَـَٔابٍ",
+      "chapter_id": 38,
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178394,
+          "resource_id": 33,
+          "text": "Ini adalah kehormatan (bagi mereka). Dan sungguh, bagi orang-orang yang bertakwa (disediakan) tempat kembali yang terbaik,"
+        }
+      ]
+    },
+    {
+      "id": 4020,
+      "verse_number": 50,
+      "verse_key": "38:50",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "جَنَّـٰتِ عَدْنٍ مُّفَتَّحَةً لَّهُمُ ٱلْأَبْوَٰبُ",
+      "chapter_id": 38,
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178398,
+          "resource_id": 33,
+          "text": "(yaitu) surga 'Adn yang pintu-pintunya terbuka bagi mereka,"
+        }
+      ]
+    },
+    {
+      "id": 4021,
+      "verse_number": 51,
+      "verse_key": "38:51",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "مُتَّكِـِٔينَ فِيهَا يَدْعُونَ فِيهَا بِفَـٰكِهَةٍ كَثِيرَةٍ وَشَرَابٍ",
+      "chapter_id": 38,
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178399,
+          "resource_id": 33,
+          "text": "di dalamnya mereka bersandar (di atas dipan-dipan) sambil meminta buah-buahan yang banyak dan minuman (di surga itu)."
+        }
+      ]
+    },
+    {
+      "id": 4022,
+      "verse_number": 52,
+      "verse_key": "38:52",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "۞ وَعِندَهُمْ قَـٰصِرَٰتُ ٱلطَّرْفِ أَتْرَابٌ",
+      "chapter_id": 38,
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178400,
+          "resource_id": 33,
+          "text": "dan di samping mereka (ada bidadari-bidadari) yang redup pandangannya dan sebaya umurnya."
+        }
+      ]
+    },
+    {
+      "id": 4023,
+      "verse_number": 53,
+      "verse_key": "38:53",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "هَـٰذَا مَا تُوعَدُونَ لِيَوْمِ ٱلْحِسَابِ",
+      "chapter_id": 38,
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178403,
+          "resource_id": 33,
+          "text": "Inilah apa yang dijanjikan kepadamu pada hari perhitungan."
+        }
+      ]
+    },
+    {
+      "id": 4024,
+      "verse_number": 54,
+      "verse_key": "38:54",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ هَـٰذَا لَرِزْقُنَا مَا لَهُۥ مِن نَّفَادٍ",
+      "chapter_id": 38,
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178401,
+          "resource_id": 33,
+          "text": "Sungguh, inilah rezeki dari Kami yang tidak ada habis-habisnya."
+        }
+      ]
+    },
+    {
+      "id": 4025,
+      "verse_number": 55,
+      "verse_key": "38:55",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "هَـٰذَا ۚ وَإِنَّ لِلطَّـٰغِينَ لَشَرَّ مَـَٔابٍ",
+      "chapter_id": 38,
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178402,
+          "resource_id": 33,
+          "text": "Beginilah (keadaan mereka). Dan sungguh, bagi orang-orang yang durhaka pasti (disediakan) tempat kembali yang buruk,"
+        }
+      ]
+    },
+    {
+      "id": 4026,
+      "verse_number": 56,
+      "verse_key": "38:56",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "جَهَنَّمَ يَصْلَوْنَهَا فَبِئْسَ ٱلْمِهَادُ",
+      "chapter_id": 38,
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178404,
+          "resource_id": 33,
+          "text": "(yaitu) neraka Jahanam yang mereka masuki; maka itulah seburuk-buruk tempat tinggal."
+        }
+      ]
+    },
+    {
+      "id": 4027,
+      "verse_number": 57,
+      "verse_key": "38:57",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "هَـٰذَا فَلْيَذُوقُوهُ حَمِيمٌ وَغَسَّاقٌ",
+      "chapter_id": 38,
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178405,
+          "resource_id": 33,
+          "text": "Inilah (azab neraka), maka biarlah mereka merasakannya, (minuman mereka) air yang sangat panas dan air yang sangat dingin,"
+        }
+      ]
+    },
+    {
+      "id": 4028,
+      "verse_number": 58,
+      "verse_key": "38:58",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَءَاخَرُ مِن شَكْلِهِۦٓ أَزْوَٰجٌ",
+      "chapter_id": 38,
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178406,
+          "resource_id": 33,
+          "text": "dan berbagai macam (azab) yang lain yang serupa itu."
+        }
+      ]
+    },
+    {
+      "id": 4029,
+      "verse_number": 59,
+      "verse_key": "38:59",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "هَـٰذَا فَوْجٌ مُّقْتَحِمٌ مَّعَكُمْ ۖ لَا مَرْحَبًۢا بِهِمْ ۚ إِنَّهُمْ صَالُوا۟ ٱلنَّارِ",
+      "chapter_id": 38,
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178408,
+          "resource_id": 33,
+          "text": "(Dikatakan kepada mereka), \"Ini rombongan besar (pengikut-pengikutmu) yang masuk berdesak-desak bersama kamu (ke neraka).\" Tidak ada ucapan selamat datang bagi mereka karena sesungguhnya mereka akan masuk neraka (kata pemimpin-pemimpin mereka)."
+        }
+      ]
+    },
+    {
+      "id": 4030,
+      "verse_number": 60,
+      "verse_key": "38:60",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ بَلْ أَنتُمْ لَا مَرْحَبًۢا بِكُمْ ۖ أَنتُمْ قَدَّمْتُمُوهُ لَنَا ۖ فَبِئْسَ ٱلْقَرَارُ",
+      "chapter_id": 38,
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 181836,
+          "resource_id": 33,
+          "text": "(Para pengikut mereka menjawab), \"Sebenarnya kamulah yang (lebih pantas) tidak menerima ucapan selamat datang, karena kamulah yang menjerumuskan kami ke dalam azab, maka itulah seburuk-buruk tempat menetap.\""
+        }
+      ]
+    },
+    {
+      "id": 4031,
+      "verse_number": 61,
+      "verse_key": "38:61",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ رَبَّنَا مَن قَدَّمَ لَنَا هَـٰذَا فَزِدْهُ عَذَابًا ضِعْفًا فِى ٱلنَّارِ",
+      "chapter_id": 38,
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178412,
+          "resource_id": 33,
+          "text": "Mereka berkata (lagi), \"Ya Tuhan kami, barangsiapa menjerumuskan kami ke dalam (azab) ini, maka tambahkanlah azab kepadanya dua kali lipat di dalam neraka.\""
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 19,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 19
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "verses": [
+    {
+      "id": 3425,
+      "verse_number": 16,
+      "verse_key": "30:16",
+      "hizb_number": 41,
+      "rub_el_hizb_number": 162,
+      "ruku_number": 351,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَمَّا ٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَا وَلِقَآئِ ٱلْـَٔاخِرَةِ فَأُو۟لَـٰٓئِكَ فِى ٱلْعَذَابِ مُحْضَرُونَ",
+      "chapter_id": 30,
+      "page_number": 406,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177622,
+          "resource_id": 33,
+          "text": "Sedangkan orang-orang yang kafir dan mendustakan ayat-ayat Kami serta (mendustakan) pertemuan hari akhirat, maka mereka tetap berada di dalam azab (neraka)."
+        }
+      ]
+    },
+    {
+      "id": 3426,
+      "verse_number": 17,
+      "verse_key": "30:17",
+      "hizb_number": 41,
+      "rub_el_hizb_number": 162,
+      "ruku_number": 351,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "فَسُبْحَـٰنَ ٱللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ",
+      "chapter_id": 30,
+      "page_number": 406,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177623,
+          "resource_id": 33,
+          "text": "Maka bertasbihlah kepada Allah pada petang hari dan pada pagi hari (waktu subuh),"
+        }
+      ]
+    },
+    {
+      "id": 3427,
+      "verse_number": 18,
+      "verse_key": "30:18",
+      "hizb_number": 41,
+      "rub_el_hizb_number": 162,
+      "ruku_number": 351,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَهُ ٱلْحَمْدُ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَعَشِيًّا وَحِينَ تُظْهِرُونَ",
+      "chapter_id": 30,
+      "page_number": 406,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177624,
+          "resource_id": 33,
+          "text": "dan segala puji bagi-Nya di langit, di bumi, pada malam hari dan pada waktu zuhur (tengah hari).<sup foot_note=135588>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 3428,
+      "verse_number": 19,
+      "verse_key": "30:19",
+      "hizb_number": 41,
+      "rub_el_hizb_number": 162,
+      "ruku_number": 351,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَيُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا ۚ وَكَذَٰلِكَ تُخْرَجُونَ",
+      "chapter_id": 30,
+      "page_number": 406,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177626,
+          "resource_id": 33,
+          "text": "Dia mengeluarkan yang hidup dari yang mati dan mengeluarkan yang mati dari yang hidup dan menghidupkan bumi setelah mati (kering). Dan seperti itulah kamu akan dikeluarkan (dari kubur)."
+        }
+      ]
+    },
+    {
+      "id": 3429,
+      "verse_number": 20,
+      "verse_key": "30:20",
+      "hizb_number": 41,
+      "rub_el_hizb_number": 162,
+      "ruku_number": 352,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ خَلَقَكُم مِّن تُرَابٍ ثُمَّ إِذَآ أَنتُم بَشَرٌ تَنتَشِرُونَ",
+      "chapter_id": 30,
+      "page_number": 406,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177628,
+          "resource_id": 33,
+          "text": "Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan kamu dari tanah, kemudian tiba-tiba kamu (menjadi) manusia yang berkembang biak."
+        }
+      ]
+    },
+    {
+      "id": 3430,
+      "verse_number": 21,
+      "verse_key": "30:21",
+      "hizb_number": 41,
+      "rub_el_hizb_number": 162,
+      "ruku_number": 352,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+      "chapter_id": 30,
+      "page_number": 406,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177629,
+          "resource_id": 33,
+          "text": "Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari jenismu sendiri, agar kamu cenderung dan merasa tenteram kepadanya, dan Dia menjadikan diantaramu rasa kasih dan sayang. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda (kebesaran Allah) bagi kaum yang berpikir."
+        }
+      ]
+    },
+    {
+      "id": 3431,
+      "verse_number": 22,
+      "verse_key": "30:22",
+      "hizb_number": 41,
+      "rub_el_hizb_number": 162,
+      "ruku_number": 352,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِنْ ءَايَـٰتِهِۦ خَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفُ أَلْسِنَتِكُمْ وَأَلْوَٰنِكُمْ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّلْعَـٰلِمِينَ",
+      "chapter_id": 30,
+      "page_number": 406,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177632,
+          "resource_id": 33,
+          "text": "Dan di antara tanda-tanda (kebesaran)-Nya ialah penciptaan langit dan bumi, perbedaan bahasamu dan warna kulitmu. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda bagi orang-orang yang mengetahui."
+        }
+      ]
+    },
+    {
+      "id": 3432,
+      "verse_number": 23,
+      "verse_key": "30:23",
+      "hizb_number": 41,
+      "rub_el_hizb_number": 162,
+      "ruku_number": 352,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِنْ ءَايَـٰتِهِۦ مَنَامُكُم بِٱلَّيْلِ وَٱلنَّهَارِ وَٱبْتِغَآؤُكُم مِّن فَضْلِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَسْمَعُونَ",
+      "chapter_id": 30,
+      "page_number": 406,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177631,
+          "resource_id": 33,
+          "text": "Dan di antara tanda-tanda (kebesaran)-Nya ialah tidurmu pada waktu malam dan siang hari serta usahamu mencari sebagian dari karunia-Nya. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang mendengarkan."
+        }
+      ]
+    },
+    {
+      "id": 3433,
+      "verse_number": 24,
+      "verse_key": "30:24",
+      "hizb_number": 41,
+      "rub_el_hizb_number": 162,
+      "ruku_number": 352,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِنْ ءَايَـٰتِهِۦ يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مَآءً فَيُحْىِۦ بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَعْقِلُونَ",
+      "chapter_id": 30,
+      "page_number": 406,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 177633,
+          "resource_id": 33,
+          "text": "Dan di antara tanda-tanda (kebesaran)-Nya, Dia memperlihatkan kilat kepadamu untuk (menimbulkan) ketakutan dan harapan, dan Dia menurunkan air (hujan) dari langit, lalu dengan air itu dihidupkannya bumi setelah mati (kering). Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang mengerti."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 9,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 9
+  }
+}

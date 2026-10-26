@@ -1,0 +1,200 @@
+{
+  "verses": [
+    {
+      "id": 5200,
+      "verse_number": 1,
+      "verse_key": "64:1",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 492,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " يُسَبِّحُ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ لَهُ ٱلْمُلْكُ وَلَهُ ٱلْحَمْدُ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "chapter_id": 64,
+      "page_number": 556,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179955,
+          "resource_id": 33,
+          "text": "Apa yang ada di langit dan apa yang ada di bumi senantiasa bertasbih kepada Allah; milik-Nya semua kerajaan dan bagi-Nya (pula) segala puji; dan Dia Mahakuasa atas segala sesuatu."
+        }
+      ]
+    },
+    {
+      "id": 5201,
+      "verse_number": 2,
+      "verse_key": "64:2",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 492,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "هُوَ ٱلَّذِى خَلَقَكُمْ فَمِنكُمْ كَافِرٌ وَمِنكُم مُّؤْمِنٌ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "chapter_id": 64,
+      "page_number": 556,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179967,
+          "resource_id": 33,
+          "text": "Dialah yang menciptakan kamu, lalu di antara kamu ada yang kafir dan di antara kamu (juga) ada yang mukmin. Dan Allah Maha Melihat apa yang kamu kerjakan."
+        }
+      ]
+    },
+    {
+      "id": 5202,
+      "verse_number": 3,
+      "verse_key": "64:3",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 492,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ ۖ وَإِلَيْهِ ٱلْمَصِيرُ",
+      "chapter_id": 64,
+      "page_number": 556,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179968,
+          "resource_id": 33,
+          "text": "Dia menciptakan langit dan bumi dengan (tujuan) yang benar, Dia membentuk rupamu lalu memperbagus rupamu, dan kepada-Nya tempat kembali."
+        }
+      ]
+    },
+    {
+      "id": 5203,
+      "verse_number": 4,
+      "verse_key": "64:4",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 492,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَيَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ ۚ وَٱللَّهُ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+      "chapter_id": 64,
+      "page_number": 556,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179974,
+          "resource_id": 33,
+          "text": "Dia mengetahui apa yang ada di langit dan di bumi, dan mengetahui apa yang kamu rahasiakan dan apa yang kamu nyatakan. Dan Allah Maha Mengetahui segala isi hati."
+        }
+      ]
+    },
+    {
+      "id": 5204,
+      "verse_number": 5,
+      "verse_key": "64:5",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 492,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَمْ يَأْتِكُمْ نَبَؤُا۟ ٱلَّذِينَ كَفَرُوا۟ مِن قَبْلُ فَذَاقُوا۟ وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "chapter_id": 64,
+      "page_number": 556,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179972,
+          "resource_id": 33,
+          "text": "Apakah belum sampai kepadamu (orang-orang kafir) berita orang-orang kafir dahulu? Maka mereka telah merasakan akibat buruk dari perbuatannya dan mereka memperoleh azab yang pedih."
+        }
+      ]
+    },
+    {
+      "id": 5205,
+      "verse_number": 6,
+      "verse_key": "64:6",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 492,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ذَٰلِكَ بِأَنَّهُۥ كَانَت تَّأْتِيهِمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ فَقَالُوٓا۟ أَبَشَرٌ يَهْدُونَنَا فَكَفَرُوا۟ وَتَوَلَّوا۟ ۚ وَّٱسْتَغْنَى ٱللَّهُ ۚ وَٱللَّهُ غَنِىٌّ حَمِيدٌ",
+      "chapter_id": 64,
+      "page_number": 556,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179975,
+          "resource_id": 33,
+          "text": "Yang demikian itu karena sesungguhnya ketika rasul-rasul datang kepada mereka membawa keterangan-keterangan, lalu mereka berkata, \"Apakah (pantas) manusia yang memberi petunjuk kepada kami?\" Lalu mereka ingkar dan berpaling; padahal Allah tidak memerlukan (mereka). Dan Allah Mahakaya, Maha Terpuji."
+        }
+      ]
+    },
+    {
+      "id": 5206,
+      "verse_number": 7,
+      "verse_key": "64:7",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 492,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "زَعَمَ ٱلَّذِينَ كَفَرُوٓا۟ أَن لَّن يُبْعَثُوا۟ ۚ قُلْ بَلَىٰ وَرَبِّى لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ ۚ وَذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ",
+      "chapter_id": 64,
+      "page_number": 556,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179977,
+          "resource_id": 33,
+          "text": "Orang-orang yang kafir mengira, bahwa mereka tidak akan dibangkitkan. Katakanlah (Muhammad), \"Tidak demikian, demi Tuhanku, kamu pasti dibangkitkan, kemudian diberitakan semua yang telah kamu kerjakan.\" Dan yang demikian itu mudah bagi Allah."
+        }
+      ]
+    },
+    {
+      "id": 5207,
+      "verse_number": 8,
+      "verse_key": "64:8",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 492,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَـَٔامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱلنُّورِ ٱلَّذِىٓ أَنزَلْنَا ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "chapter_id": 64,
+      "page_number": 556,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179979,
+          "resource_id": 33,
+          "text": "Maka berimanlah kamu kepada Allah dan Rasul-Nya dan kepada cahaya (Alquran) yang telah Kami turunkan. Dan Allah Mahateliti terhadap apa yang kamu kerjakan."
+        }
+      ]
+    },
+    {
+      "id": 5208,
+      "verse_number": 9,
+      "verse_key": "64:9",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 492,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَ يَجْمَعُكُمْ لِيَوْمِ ٱلْجَمْعِ ۖ ذَٰلِكَ يَوْمُ ٱلتَّغَابُنِ ۗ وَمَن يُؤْمِنۢ بِٱللَّهِ وَيَعْمَلْ صَـٰلِحًا يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِۦ وَيُدْخِلْهُ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "chapter_id": 64,
+      "page_number": 556,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179980,
+          "resource_id": 33,
+          "text": "(Ingatlah) pada hari (ketika) Allah mengumpulkan kamu pada hari berhimpun, itulah hari pengungkapan kesalahan-kesalahan. Dan barangsiapa beriman kepada Allah dan mengerjakan kebajikan niscaya Allah akan menghapus kesalahan-kesalahannya dan memasukkannya ke dalam surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya selama-lamanya. Itulah kemenangan yang agung."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 9,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 9
+  }
+}

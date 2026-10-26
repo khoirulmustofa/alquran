@@ -1,0 +1,179 @@
+{
+  "verses": [
+    {
+      "id": 2626,
+      "verse_number": 31,
+      "verse_key": "22:31",
+      "hizb_number": 34,
+      "rub_el_hizb_number": 134,
+      "ruku_number": 288,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "حُنَفَآءَ لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِۦ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَكَأَنَّمَا خَرَّ مِنَ ٱلسَّمَآءِ فَتَخْطَفُهُ ٱلطَّيْرُ أَوْ تَهْوِى بِهِ ٱلرِّيحُ فِى مَكَانٍ سَحِيقٍ",
+      "chapter_id": 22,
+      "page_number": 336,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182716,
+          "resource_id": 33,
+          "text": "(Beribadahlah) dengan ikhlas kepada Allah, tanpa mempersekutukan-Nya. Barangsiapa mempersekutukan Allah, maka seakan-akan dia jatuh dari langit lalu disambar oleh burung, atau diterbangkan angin ke tempat yang jauh."
+        }
+      ]
+    },
+    {
+      "id": 2627,
+      "verse_number": 32,
+      "verse_key": "22:32",
+      "hizb_number": 34,
+      "rub_el_hizb_number": 134,
+      "ruku_number": 288,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "ذَٰلِكَ وَمَن يُعَظِّمْ شَعَـٰٓئِرَ ٱللَّهِ فَإِنَّهَا مِن تَقْوَى ٱلْقُلُوبِ",
+      "chapter_id": 22,
+      "page_number": 336,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182719,
+          "resource_id": 33,
+          "text": "Demikianlah (perintah Allah). Dan barangsiapa mengagungkan syiar-syiar Allah,<sup foot_note=135496>1</sup> maka sesungguhnya hal itu timbul dari ketakwaan hati."
+        }
+      ]
+    },
+    {
+      "id": 2628,
+      "verse_number": 33,
+      "verse_key": "22:33",
+      "hizb_number": 34,
+      "rub_el_hizb_number": 134,
+      "ruku_number": 288,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "لَكُمْ فِيهَا مَنَـٰفِعُ إِلَىٰٓ أَجَلٍ مُّسَمًّى ثُمَّ مَحِلُّهَآ إِلَى ٱلْبَيْتِ ٱلْعَتِيقِ",
+      "chapter_id": 22,
+      "page_number": 336,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182724,
+          "resource_id": 33,
+          "text": "Bagi kamu padanya (hewan hadyu)<sup foot_note=135497>1</sup> ada beberapa manfaat,<sup foot_note=135498>2</sup> sampai waktu yang ditentukan, kemudian tempat penyembelihannya adalah di sekitar Baitul Atiq (Baitullah)."
+        }
+      ]
+    },
+    {
+      "id": 2629,
+      "verse_number": 34,
+      "verse_key": "22:34",
+      "hizb_number": 34,
+      "rub_el_hizb_number": 134,
+      "ruku_number": 289,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَلِكُلِّ أُمَّةٍ جَعَلْنَا مَنسَكًا لِّيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَـٰمِ ۗ فَإِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ فَلَهُۥٓ أَسْلِمُوا۟ ۗ وَبَشِّرِ ٱلْمُخْبِتِينَ",
+      "chapter_id": 22,
+      "page_number": 336,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182727,
+          "resource_id": 33,
+          "text": "Dan bagi setiap umat telah Kami syariatkan penyembelihan (kurban), agar mereka menyebut nama Allah atas rezeki yang dikaruniakan Allah kepada mereka berupa hewan ternak. Maka Tuhanmu ialah Tuhan Yang Maha Esa, karena itu berserah dirilah kamu kepada-Nya. Dan sampaikanlah (Muhammad) kabar gembira kepada orang-orang yang tunduk patuh (kepada Allah),"
+        }
+      ]
+    },
+    {
+      "id": 2630,
+      "verse_number": 35,
+      "verse_key": "22:35",
+      "hizb_number": 34,
+      "rub_el_hizb_number": 134,
+      "ruku_number": 289,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتْ قُلُوبُهُمْ وَٱلصَّـٰبِرِينَ عَلَىٰ مَآ أَصَابَهُمْ وَٱلْمُقِيمِى ٱلصَّلَوٰةِ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+      "chapter_id": 22,
+      "page_number": 336,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182738,
+          "resource_id": 33,
+          "text": "(yaitu) orang-orang yang apabila disebut nama Allah dihati mereka bergetar, orang yang sabar atas apa yang menimpa mereka, dan orang yang melaksanakan salat dan orang yang menginfakkan sebagian rezeki yang Kami karuniakan kepada mereka."
+        }
+      ]
+    },
+    {
+      "id": 2631,
+      "verse_number": 36,
+      "verse_key": "22:36",
+      "hizb_number": 34,
+      "rub_el_hizb_number": 134,
+      "ruku_number": 289,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلْبُدْنَ جَعَلْنَـٰهَا لَكُم مِّن شَعَـٰٓئِرِ ٱللَّهِ لَكُمْ فِيهَا خَيْرٌ ۖ فَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهَا صَوَآفَّ ۖ فَإِذَا وَجَبَتْ جُنُوبُهَا فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْقَانِعَ وَٱلْمُعْتَرَّ ۚ كَذَٰلِكَ سَخَّرْنَـٰهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+      "chapter_id": 22,
+      "page_number": 336,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182743,
+          "resource_id": 33,
+          "text": "Dan unta-unta itu Kami jadikan untukmu bagian dari syiar agama Allah, kamu banyak memperoleh kebaikan padanya. Maka sebutlah nama Allah (ketika kamu akan menyembelihnya) dalam keadaan berdiri<sup foot_note=135499>1</sup> (dan kaki-kaki telah terikat). Kemudian apabila telah rebah (mati), maka makanlah sebagiannya dan berilah makan orang yang merasa cukup dengan apa yang ada padanya (tidak meminta-minta) dan orang yang meminta. Demikianlah Kami tundukkan (unta-unta itu) untukmu, agar kamu bersyukur."
+        }
+      ]
+    },
+    {
+      "id": 2632,
+      "verse_number": 37,
+      "verse_key": "22:37",
+      "hizb_number": 34,
+      "rub_el_hizb_number": 134,
+      "ruku_number": 289,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "لَن يَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَآؤُهَا وَلَـٰكِن يَنَالُهُ ٱلتَّقْوَىٰ مِنكُمْ ۚ كَذَٰلِكَ سَخَّرَهَا لَكُمْ لِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ ۗ وَبَشِّرِ ٱلْمُحْسِنِينَ",
+      "chapter_id": 22,
+      "page_number": 336,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182741,
+          "resource_id": 33,
+          "text": "Daging (hewan kurban) dan darahnya itu sekali-kali tidak akan sampai kepada Allah, tetapi yang sampai kepada-Nya adalah ketakwaan kamu. Demikianlah dia menundukkannya untukmu agar kamu mengagungkan Allah atas petunjuk yang Dia berikan kepadamu. Dan sampaikanlah kabar gembira kepada orang-orang yang berbuat baik."
+        }
+      ]
+    },
+    {
+      "id": 2633,
+      "verse_number": 38,
+      "verse_key": "22:38",
+      "hizb_number": 34,
+      "rub_el_hizb_number": 135,
+      "ruku_number": 289,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "۞ إِنَّ ٱللَّهَ يُدَٰفِعُ عَنِ ٱلَّذِينَ ءَامَنُوٓا۟ ۗ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ خَوَّانٍ كَفُورٍ",
+      "chapter_id": 22,
+      "page_number": 336,
+      "juz_number": 17,
+      "translations": [
+        {
+          "id": 182751,
+          "resource_id": 33,
+          "text": "Sesungguhnya Allah membela orang yang beriman. Sungguh, Allah tidak menyukai setiap orang yang berkhianat dan kufur nikmat."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 8,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 8
+  }
+}

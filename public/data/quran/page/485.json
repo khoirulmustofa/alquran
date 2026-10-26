@@ -1,0 +1,158 @@
+{
+  "verses": [
+    {
+      "id": 4288,
+      "verse_number": 16,
+      "verse_key": "42:16",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 194,
+      "ruku_number": 422,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ يُحَآجُّونَ فِى ٱللَّهِ مِنۢ بَعْدِ مَا ٱسْتُجِيبَ لَهُۥ حُجَّتُهُمْ دَاحِضَةٌ عِندَ رَبِّهِمْ وَعَلَيْهِمْ غَضَبٌ وَلَهُمْ عَذَابٌ شَدِيدٌ",
+      "chapter_id": 42,
+      "page_number": 485,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178768,
+          "resource_id": 33,
+          "text": "Dan orang-orang yang berbantah-bantah tentang (agama) Allah setelah (agama itu) diterima, perbantahan mereka itu sia-sia di sisi Tuhan mereka. Mereka mendapat kemurkaan (Allah) dan mereka mendapat azab yang sangat keras."
+        }
+      ]
+    },
+    {
+      "id": 4289,
+      "verse_number": 17,
+      "verse_key": "42:17",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 194,
+      "ruku_number": 422,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "ٱللَّهُ ٱلَّذِىٓ أَنزَلَ ٱلْكِتَـٰبَ بِٱلْحَقِّ وَٱلْمِيزَانَ ۗ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ قَرِيبٌ",
+      "chapter_id": 42,
+      "page_number": 485,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178769,
+          "resource_id": 33,
+          "text": "Allah yang menurunkan kitab (Alquran) dengan (membawa) kebenaran dan neraca (keadilan). Dan tahukah kamu, boleh jadi hari Kiamat itu sudah dekat?"
+        }
+      ]
+    },
+    {
+      "id": 4290,
+      "verse_number": 18,
+      "verse_key": "42:18",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 194,
+      "ruku_number": 422,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "يَسْتَعْجِلُ بِهَا ٱلَّذِينَ لَا يُؤْمِنُونَ بِهَا ۖ وَٱلَّذِينَ ءَامَنُوا۟ مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا ٱلْحَقُّ ۗ أَلَآ إِنَّ ٱلَّذِينَ يُمَارُونَ فِى ٱلسَّاعَةِ لَفِى ضَلَـٰلٍۭ بَعِيدٍ",
+      "chapter_id": 42,
+      "page_number": 485,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178770,
+          "resource_id": 33,
+          "text": "Orang-orang yang tidak percaya adanya hari Kiamat meminta agar hari itu segera terjadi, dan orang-orang yang beriman merasa takut kepadanya dan mereka yakin bahwa Kiamat itu adalah benar (akan terjadi). Ketahuilah bahwa sesungguhnya orang-orang yang membantah tentang terjadinya Kiamat itu benar-benar telah tersesat jauh."
+        }
+      ]
+    },
+    {
+      "id": 4291,
+      "verse_number": 19,
+      "verse_key": "42:19",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 194,
+      "ruku_number": 422,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "ٱللَّهُ لَطِيفٌۢ بِعِبَادِهِۦ يَرْزُقُ مَن يَشَآءُ ۖ وَهُوَ ٱلْقَوِىُّ ٱلْعَزِيزُ",
+      "chapter_id": 42,
+      "page_number": 485,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 181843,
+          "resource_id": 33,
+          "text": "Allah Mahalembut terhadap hamba-hamba-Nya; Dia memberi rezeki kepada siapa yang Dia kehendaki, dan Dia Mahakuat, Mahaperkasa."
+        }
+      ]
+    },
+    {
+      "id": 4292,
+      "verse_number": 20,
+      "verse_key": "42:20",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 194,
+      "ruku_number": 423,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "مَن كَانَ يُرِيدُ حَرْثَ ٱلْـَٔاخِرَةِ نَزِدْ لَهُۥ فِى حَرْثِهِۦ ۖ وَمَن كَانَ يُرِيدُ حَرْثَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَا لَهُۥ فِى ٱلْـَٔاخِرَةِ مِن نَّصِيبٍ",
+      "chapter_id": 42,
+      "page_number": 485,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178774,
+          "resource_id": 33,
+          "text": "Barangsiapa menghendaki keuntungan di akhirat akan Kami tambahkan keuntungan itu baginya, dan barangsiapa menghendaki keuntungan di dunia Kami berikan kepadanya sebagian darinya (keuntungan dunia), tetapi dia tidak akan mendapat bagian di akhirat."
+        }
+      ]
+    },
+    {
+      "id": 4293,
+      "verse_number": 21,
+      "verse_key": "42:21",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 194,
+      "ruku_number": 423,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "أَمْ لَهُمْ شُرَكَـٰٓؤُا۟ شَرَعُوا۟ لَهُم مِّنَ ٱلدِّينِ مَا لَمْ يَأْذَنۢ بِهِ ٱللَّهُ ۚ وَلَوْلَا كَلِمَةُ ٱلْفَصْلِ لَقُضِىَ بَيْنَهُمْ ۗ وَإِنَّ ٱلظَّـٰلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ",
+      "chapter_id": 42,
+      "page_number": 485,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178775,
+          "resource_id": 33,
+          "text": "Apakah mereka mempunyai sesembahan selain Allah yang menetapkan aturan agama bagi mereka yang tidak diizinkan (diridai) Allah? Dan sekiranya tidak ada ketetapan yang menunda (hukuman dari Allah) tentulah hukuman di antara mereka telah dilaksanakan. Dan sungguh, orang-orang zalim itu akan mendapatkan azab yang sangat pedih."
+        }
+      ]
+    },
+    {
+      "id": 4294,
+      "verse_number": 22,
+      "verse_key": "42:22",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 194,
+      "ruku_number": 423,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "تَرَى ٱلظَّـٰلِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا۟ وَهُوَ وَاقِعٌۢ بِهِمْ ۗ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فِى رَوْضَاتِ ٱلْجَنَّاتِ ۖ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ۚ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ",
+      "chapter_id": 42,
+      "page_number": 485,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 178776,
+          "resource_id": 33,
+          "text": "Kamu akan melihat orang-orang zalim itu sangat ketakutan karena (kejahatan-kejahatan) yang telah mereka lakukan, dan (azab) menimpa mereka. Dan orang-orang yang beriman dan mengerjakan kebajikan (berada) di dalam taman-taman surga, mereka memperoleh apa yang mereka kehendaki di sisi Tuhan. Yang demikian itu adalah karunia yang besar."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 7,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 7
+  }
+}

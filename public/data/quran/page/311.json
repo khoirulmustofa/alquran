@@ -1,0 +1,410 @@
+{
+  "verses": [
+    {
+      "id": 2327,
+      "verse_number": 77,
+      "verse_key": "19:77",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 268,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "أَفَرَءَيْتَ ٱلَّذِى كَفَرَ بِـَٔايَـٰتِنَا وَقَالَ لَأُوتَيَنَّ مَالًا وَوَلَدًا",
+      "chapter_id": 19,
+      "page_number": 311,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182239,
+          "resource_id": 33,
+          "text": "Lalu apakah engkau telah melihat orang yang mengingkari ayat-ayat Kami dan dia mengatakan, \"Pasti aku akan diberi harta dan anak.\""
+        }
+      ]
+    },
+    {
+      "id": 2328,
+      "verse_number": 78,
+      "verse_key": "19:78",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 268,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "أَطَّلَعَ ٱلْغَيْبَ أَمِ ٱتَّخَذَ عِندَ ٱلرَّحْمَـٰنِ عَهْدًا",
+      "chapter_id": 19,
+      "page_number": 311,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182240,
+          "resource_id": 33,
+          "text": "Adakah dia melihat yang gaib atau dia telah membuat perjanjian di sisi Tuhan Yang Maha Pengasih?"
+        }
+      ]
+    },
+    {
+      "id": 2329,
+      "verse_number": 79,
+      "verse_key": "19:79",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 268,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "كَلَّا ۚ سَنَكْتُبُ مَا يَقُولُ وَنَمُدُّ لَهُۥ مِنَ ٱلْعَذَابِ مَدًّا",
+      "chapter_id": 19,
+      "page_number": 311,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182303,
+          "resource_id": 33,
+          "text": "sama sekali tidak! Kami akan menulis apa yang dia katakan, dan Kami akan memperpanjang azab untuknya secara sempurna,"
+        }
+      ]
+    },
+    {
+      "id": 2330,
+      "verse_number": 80,
+      "verse_key": "19:80",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 268,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَنَرِثُهُۥ مَا يَقُولُ وَيَأْتِينَا فَرْدًا",
+      "chapter_id": 19,
+      "page_number": 311,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182304,
+          "resource_id": 33,
+          "text": "dan Kami akan mewarisi apa yang dia katakan itu,<sup foot_note=135458>1</sup> dan dia akan datang kepada Kami seorang diri."
+        }
+      ]
+    },
+    {
+      "id": 2331,
+      "verse_number": 81,
+      "verse_key": "19:81",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 268,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ ءَالِهَةً لِّيَكُونُوا۟ لَهُمْ عِزًّا",
+      "chapter_id": 19,
+      "page_number": 311,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182209,
+          "resource_id": 33,
+          "text": "Dan mereka telah memilih tuhan-tuhan selain Allah, agar tuhan-tuhan itu menjadi pelindung bagi mereka,"
+        }
+      ]
+    },
+    {
+      "id": 2332,
+      "verse_number": 82,
+      "verse_key": "19:82",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 268,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "كَلَّا ۚ سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدًّا",
+      "chapter_id": 19,
+      "page_number": 311,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182234,
+          "resource_id": 33,
+          "text": "sama sekali tidak! Kelak mereka (sesembahan) itu akan mengingkari penyembahan mereka terhadapnya, dan akan menjadi musuh bagi mereka."
+        }
+      ]
+    },
+    {
+      "id": 2333,
+      "verse_number": 83,
+      "verse_key": "19:83",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 269,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَمْ تَرَ أَنَّآ أَرْسَلْنَا ٱلشَّيَـٰطِينَ عَلَى ٱلْكَـٰفِرِينَ تَؤُزُّهُمْ أَزًّا",
+      "chapter_id": 19,
+      "page_number": 311,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182226,
+          "resource_id": 33,
+          "text": "Tidakkah engkau melihat, bahwa sesungguhnya Kami telah mengutus setan-setan itu kepada orang-orang kafir untuk mendorong mereka (berbuat maksiat) dengan sungguh-sungguh?"
+        }
+      ]
+    },
+    {
+      "id": 2334,
+      "verse_number": 84,
+      "verse_key": "19:84",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 269,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَا تَعْجَلْ عَلَيْهِمْ ۖ إِنَّمَا نَعُدُّ لَهُمْ عَدًّا",
+      "chapter_id": 19,
+      "page_number": 311,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182246,
+          "resource_id": 33,
+          "text": "maka janganlah engkau (Muhammad) tergesa-gesa (memintakan azab) terhadap mereka, karena Kami menghitung dengan hitungan teliti (datangnya hari siksaan) untuk mereka."
+        }
+      ]
+    },
+    {
+      "id": 2335,
+      "verse_number": 85,
+      "verse_key": "19:85",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 269,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَ نَحْشُرُ ٱلْمُتَّقِينَ إِلَى ٱلرَّحْمَـٰنِ وَفْدًا",
+      "chapter_id": 19,
+      "page_number": 311,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182247,
+          "resource_id": 33,
+          "text": "(Ingatlah) pada hari (ketika) Kami mengumpulkan orang-orang yang bertakwa kepada (Allah) Yang Maha Pengasih, bagaikan kafilah yang terhormat,"
+        }
+      ]
+    },
+    {
+      "id": 2336,
+      "verse_number": 86,
+      "verse_key": "19:86",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 269,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَنَسُوقُ ٱلْمُجْرِمِينَ إِلَىٰ جَهَنَّمَ وِرْدًا",
+      "chapter_id": 19,
+      "page_number": 311,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182295,
+          "resource_id": 33,
+          "text": "dan Kami akan menggiring orang yang durhaka ke neraka Jahanam dalam keadaan dahaga."
+        }
+      ]
+    },
+    {
+      "id": 2337,
+      "verse_number": 87,
+      "verse_key": "19:87",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 269,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "لَّا يَمْلِكُونَ ٱلشَّفَـٰعَةَ إِلَّا مَنِ ٱتَّخَذَ عِندَ ٱلرَّحْمَـٰنِ عَهْدًا",
+      "chapter_id": 19,
+      "page_number": 311,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182245,
+          "resource_id": 33,
+          "text": "Mereka tidak berhak mendapat syafaat, (pertolongan) kecuali orang yang telah mengadakan perjanjian di sisi (Allah) Yang Maha Pengasih.<sup foot_note=135459>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 2338,
+      "verse_number": 88,
+      "verse_key": "19:88",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 269,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَـٰنُ وَلَدًا",
+      "chapter_id": 19,
+      "page_number": 311,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182249,
+          "resource_id": 33,
+          "text": "Dan mereka berkata, \"(Allah) Yang Maha Pengasih mempunyai anak.\""
+        }
+      ]
+    },
+    {
+      "id": 2339,
+      "verse_number": 89,
+      "verse_key": "19:89",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 269,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "لَّقَدْ جِئْتُمْ شَيْـًٔا إِدًّا",
+      "chapter_id": 19,
+      "page_number": 311,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182250,
+          "resource_id": 33,
+          "text": "Sungguh, kamu telah membawa sesuatu yang sangat mungkar,"
+        }
+      ]
+    },
+    {
+      "id": 2340,
+      "verse_number": 90,
+      "verse_key": "19:90",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 269,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "تَكَادُ ٱلسَّمَـٰوَٰتُ يَتَفَطَّرْنَ مِنْهُ وَتَنشَقُّ ٱلْأَرْضُ وَتَخِرُّ ٱلْجِبَالُ هَدًّا",
+      "chapter_id": 19,
+      "page_number": 311,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182244,
+          "resource_id": 33,
+          "text": "hampir saja langit pecah, dan bumi terbelah, dan gunung-gunung runtuh, (karena ucapan itu),’"
+        }
+      ]
+    },
+    {
+      "id": 2341,
+      "verse_number": 91,
+      "verse_key": "19:91",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 269,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "أَن دَعَوْا۟ لِلرَّحْمَـٰنِ وَلَدًا",
+      "chapter_id": 19,
+      "page_number": 311,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182251,
+          "resource_id": 33,
+          "text": "karena mereka menganggap (Allah) Yang Maha Pengasih mempunyai anak."
+        }
+      ]
+    },
+    {
+      "id": 2342,
+      "verse_number": 92,
+      "verse_key": "19:92",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 269,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا يَنۢبَغِى لِلرَّحْمَـٰنِ أَن يَتَّخِذَ وَلَدًا",
+      "chapter_id": 19,
+      "page_number": 311,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182253,
+          "resource_id": 33,
+          "text": "Dan tidak mungkin bagi (Allah) Yang Maha Pengasih mempunyai anak."
+        }
+      ]
+    },
+    {
+      "id": 2343,
+      "verse_number": 93,
+      "verse_key": "19:93",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 269,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِن كُلُّ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ إِلَّآ ءَاتِى ٱلرَّحْمَـٰنِ عَبْدًا",
+      "chapter_id": 19,
+      "page_number": 311,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182254,
+          "resource_id": 33,
+          "text": "Tidak ada seorang pun di langit dan di bumi, melainkan akan datang kepada (Allah) Yang Maha Pengasih sebagai seorang hamba."
+        }
+      ]
+    },
+    {
+      "id": 2344,
+      "verse_number": 94,
+      "verse_key": "19:94",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 269,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "لَّقَدْ أَحْصَىٰهُمْ وَعَدَّهُمْ عَدًّا",
+      "chapter_id": 19,
+      "page_number": 311,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182252,
+          "resource_id": 33,
+          "text": "Dia (Allah) benar-benar telah menentukan jumlah mereka dan menghitung mereka dengan hitungan yang teliti."
+        }
+      ]
+    },
+    {
+      "id": 2345,
+      "verse_number": 95,
+      "verse_key": "19:95",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 124,
+      "ruku_number": 269,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَكُلُّهُمْ ءَاتِيهِ يَوْمَ ٱلْقِيَـٰمَةِ فَرْدًا",
+      "chapter_id": 19,
+      "page_number": 311,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 182257,
+          "resource_id": 33,
+          "text": "Dan setiap orang dari mereka akan datang kepada Allah sendiri-sendiri pada hari Kiamat."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 19,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 19
+  }
+}

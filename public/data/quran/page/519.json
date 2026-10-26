@@ -1,0 +1,431 @@
+{
+  "verses": [
+    {
+      "id": 4646,
+      "verse_number": 16,
+      "verse_key": "50:16",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 455,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ ۖ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ",
+      "chapter_id": 50,
+      "page_number": 519,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179197,
+          "resource_id": 33,
+          "text": "Dan sungguh, Kami telah menciptakan manusia dan mengetahui apa yang dibisikkan oleh hatinya, dan Kami lebih dekat kepadanya daripada urat lehernya."
+        }
+      ]
+    },
+    {
+      "id": 4647,
+      "verse_number": 17,
+      "verse_key": "50:17",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 455,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ يَتَلَقَّى ٱلْمُتَلَقِّيَانِ عَنِ ٱلْيَمِينِ وَعَنِ ٱلشِّمَالِ قَعِيدٌ",
+      "chapter_id": 50,
+      "page_number": 519,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179199,
+          "resource_id": 33,
+          "text": "(Ingatlah) ketika dua malaikat mencatat (perbuatannya), yang satu duduk di sebelah kanan dan yang lain di sebelah kiri."
+        }
+      ]
+    },
+    {
+      "id": 4648,
+      "verse_number": 18,
+      "verse_key": "50:18",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 455,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ",
+      "chapter_id": 50,
+      "page_number": 519,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179201,
+          "resource_id": 33,
+          "text": "Tidak ada suatu kata yang diucapkannya melainkan ada di sisinya malaikat pengawas yang selalu siap (mencatat)."
+        }
+      ]
+    },
+    {
+      "id": 4649,
+      "verse_number": 19,
+      "verse_key": "50:19",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 455,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَجَآءَتْ سَكْرَةُ ٱلْمَوْتِ بِٱلْحَقِّ ۖ ذَٰلِكَ مَا كُنتَ مِنْهُ تَحِيدُ",
+      "chapter_id": 50,
+      "page_number": 519,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179236,
+          "resource_id": 33,
+          "text": "Dan datanglah sakaratulmaut dengan sebenar-benarnya. Itulah yang dahulu hendak kamu hindari."
+        }
+      ]
+    },
+    {
+      "id": 4650,
+      "verse_number": 20,
+      "verse_key": "50:20",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 455,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَنُفِخَ فِى ٱلصُّورِ ۚ ذَٰلِكَ يَوْمُ ٱلْوَعِيدِ",
+      "chapter_id": 50,
+      "page_number": 519,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179203,
+          "resource_id": 33,
+          "text": "Dan ditiuplah sangkakala. Itulah hari yang diancamkan."
+        }
+      ]
+    },
+    {
+      "id": 4651,
+      "verse_number": 21,
+      "verse_key": "50:21",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 455,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَجَآءَتْ كُلُّ نَفْسٍ مَّعَهَا سَآئِقٌ وَشَهِيدٌ",
+      "chapter_id": 50,
+      "page_number": 519,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179204,
+          "resource_id": 33,
+          "text": "Setiap orang akan datang bersama (malaikat) penggiring dan (malaikat) saksi."
+        }
+      ]
+    },
+    {
+      "id": 4652,
+      "verse_number": 22,
+      "verse_key": "50:22",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 455,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَّقَدْ كُنتَ فِى غَفْلَةٍ مِّنْ هَـٰذَا فَكَشَفْنَا عَنكَ غِطَآءَكَ فَبَصَرُكَ ٱلْيَوْمَ حَدِيدٌ",
+      "chapter_id": 50,
+      "page_number": 519,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179205,
+          "resource_id": 33,
+          "text": "Sungguh, kamu dahulu lalai tentang (peristiwa) ini, maka Kami singkapkan tutup (yang menutupi) matamu, sehingga penglihatanmu pada hari ini sangat tajam."
+        }
+      ]
+    },
+    {
+      "id": 4653,
+      "verse_number": 23,
+      "verse_key": "50:23",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 455,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَالَ قَرِينُهُۥ هَـٰذَا مَا لَدَىَّ عَتِيدٌ",
+      "chapter_id": 50,
+      "page_number": 519,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179206,
+          "resource_id": 33,
+          "text": "Dan (malaikat) yang menyertainya berkata, \"Inilah (catatan perbuatan) yang ada padaku.\""
+        }
+      ]
+    },
+    {
+      "id": 4654,
+      "verse_number": 24,
+      "verse_key": "50:24",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 455,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَلْقِيَا فِى جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍ",
+      "chapter_id": 50,
+      "page_number": 519,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179207,
+          "resource_id": 33,
+          "text": "(Allah berfirman), \"Lemparkanlah olehmu berdua ke dalam neraka Jahanam, semua orang yang sangat ingkar dan keras kepala,"
+        }
+      ]
+    },
+    {
+      "id": 4655,
+      "verse_number": 25,
+      "verse_key": "50:25",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 455,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ مُّرِيبٍ",
+      "chapter_id": 50,
+      "page_number": 519,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179208,
+          "resource_id": 33,
+          "text": "yang sangat enggan melakukan kebajikan, melampaui batas, dan bersikap ragu-ragu,"
+        }
+      ]
+    },
+    {
+      "id": 4656,
+      "verse_number": 26,
+      "verse_key": "50:26",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 207,
+      "ruku_number": 455,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِى جَعَلَ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ فَأَلْقِيَاهُ فِى ٱلْعَذَابِ ٱلشَّدِيدِ",
+      "chapter_id": 50,
+      "page_number": 519,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179211,
+          "resource_id": 33,
+          "text": "yang mempersekutukan Allah dengan tuhan lain, maka lemparkanlah dia ke dalam azab yang keras.\""
+        }
+      ]
+    },
+    {
+      "id": 4657,
+      "verse_number": 27,
+      "verse_key": "50:27",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 455,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "۞ قَالَ قَرِينُهُۥ رَبَّنَا مَآ أَطْغَيْتُهُۥ وَلَـٰكِن كَانَ فِى ضَلَـٰلٍۭ بَعِيدٍ",
+      "chapter_id": 50,
+      "page_number": 519,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179210,
+          "resource_id": 33,
+          "text": "(Setan) yang menyertainya berkata (pula), \"Ya Tuhan kami, aku tidak menyesatkannya, tetapi dia sendiri yang berada dalam kesesatan yang jauh.\""
+        }
+      ]
+    },
+    {
+      "id": 4658,
+      "verse_number": 28,
+      "verse_key": "50:28",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 455,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ لَا تَخْتَصِمُوا۟ لَدَىَّ وَقَدْ قَدَّمْتُ إِلَيْكُم بِٱلْوَعِيدِ",
+      "chapter_id": 50,
+      "page_number": 519,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179212,
+          "resource_id": 33,
+          "text": "(Allah) berfirman, \"Janganlah kamu bertengkar di hadapan-Ku, dan sungguh, dahulu Aku telah memberikan ancaman kepadamu.\""
+        }
+      ]
+    },
+    {
+      "id": 4659,
+      "verse_number": 29,
+      "verse_key": "50:29",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 455,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَا يُبَدَّلُ ٱلْقَوْلُ لَدَىَّ وَمَآ أَنَا۠ بِظَلَّـٰمٍ لِّلْعَبِيدِ",
+      "chapter_id": 50,
+      "page_number": 519,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179213,
+          "resource_id": 33,
+          "text": "Keputusan-Ku tidak dapat diubah, dan Aku tidak menzalimi hamba-hamba-Ku.\""
+        }
+      ]
+    },
+    {
+      "id": 4660,
+      "verse_number": 30,
+      "verse_key": "50:30",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 456,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍ",
+      "chapter_id": 50,
+      "page_number": 519,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 177405,
+          "resource_id": 33,
+          "text": "(Ingatlah) pada hari (ketika) Kami bertanya kepada Jahanam, \"Apakah kamu sudah penuh?\" Ia menjawab, \"Masih adakah tambahan?\""
+        }
+      ]
+    },
+    {
+      "id": 4661,
+      "verse_number": 31,
+      "verse_key": "50:31",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 456,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأُزْلِفَتِ ٱلْجَنَّةُ لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ",
+      "chapter_id": 50,
+      "page_number": 519,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179215,
+          "resource_id": 33,
+          "text": "Sedangkan surga didekatkan kepada orang-orang yang bertakwa pada tempat yang tidak jauh (dari mereka)."
+        }
+      ]
+    },
+    {
+      "id": 4662,
+      "verse_number": 32,
+      "verse_key": "50:32",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 456,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "هَـٰذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٍ",
+      "chapter_id": 50,
+      "page_number": 519,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179216,
+          "resource_id": 33,
+          "text": "(Kepada mereka dikatakan), \"Inilah nikmat yang dijanjikan kepadamu, (yaitu) kepada setiap hamba yang senantiasa bertobat (kepada Allah) dan memelihara (semua peraturan-peraturan-Nya)."
+        }
+      ]
+    },
+    {
+      "id": 4663,
+      "verse_number": 33,
+      "verse_key": "50:33",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 456,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَّنْ خَشِىَ ٱلرَّحْمَـٰنَ بِٱلْغَيْبِ وَجَآءَ بِقَلْبٍ مُّنِيبٍ",
+      "chapter_id": 50,
+      "page_number": 519,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179217,
+          "resource_id": 33,
+          "text": "(Yaitu) orang yang takut kepada Allah Yang Maha Pengasih, sekalipun tidak kelihatan (olehnya) dan dia datang dengan hati yang bertobat,"
+        }
+      ]
+    },
+    {
+      "id": 4664,
+      "verse_number": 34,
+      "verse_key": "50:34",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 456,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱدْخُلُوهَا بِسَلَـٰمٍ ۖ ذَٰلِكَ يَوْمُ ٱلْخُلُودِ",
+      "chapter_id": 50,
+      "page_number": 519,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179218,
+          "resource_id": 33,
+          "text": "masuklah ke (dalam surga) dengan aman dan damai, itulah hari yang abadi.\""
+        }
+      ]
+    },
+    {
+      "id": 4665,
+      "verse_number": 35,
+      "verse_key": "50:35",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 208,
+      "ruku_number": 456,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَهُم مَّا يَشَآءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ",
+      "chapter_id": 50,
+      "page_number": 519,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179220,
+          "resource_id": 33,
+          "text": "Mereka di dalamnya memperoleh apa yang mereka kehendaki, dan pada Kami ada tambahannya."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 20,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 20
+  }
+}

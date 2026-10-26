@@ -1,0 +1,557 @@
+{
+  "verses": [
+    {
+      "id": 5571,
+      "verse_number": 20,
+      "verse_key": "75:20",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 514,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَلَّا بَلْ تُحِبُّونَ ٱلْعَاجِلَةَ",
+      "chapter_id": 75,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180525,
+          "resource_id": 33,
+          "text": "Tidak! Bahkan Kamu mencintai kehidupan dunia,"
+        }
+      ]
+    },
+    {
+      "id": 5572,
+      "verse_number": 21,
+      "verse_key": "75:21",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 514,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَتَذَرُونَ ٱلْـَٔاخِرَةَ",
+      "chapter_id": 75,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180537,
+          "resource_id": 33,
+          "text": "dan mengabaikan (kehidupan) akhirat."
+        }
+      ]
+    },
+    {
+      "id": 5573,
+      "verse_number": 22,
+      "verse_key": "75:22",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 514,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ",
+      "chapter_id": 75,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180526,
+          "resource_id": 33,
+          "text": "Wajah-wajah (orang mukmin) pada hari itu berseri-seri."
+        }
+      ]
+    },
+    {
+      "id": 5574,
+      "verse_number": 23,
+      "verse_key": "75:23",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 514,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَىٰ رَبِّهَا نَاظِرَةٌ",
+      "chapter_id": 75,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180527,
+          "resource_id": 33,
+          "text": "Memandang Tuhannya."
+        }
+      ]
+    },
+    {
+      "id": 5575,
+      "verse_number": 24,
+      "verse_key": "75:24",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 514,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَوُجُوهٌ يَوْمَئِذٍۭ بَاسِرَةٌ",
+      "chapter_id": 75,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180528,
+          "resource_id": 33,
+          "text": "Dan wajah-wajah (orang kafir) pada hari itu muram,"
+        }
+      ]
+    },
+    {
+      "id": 5576,
+      "verse_number": 25,
+      "verse_key": "75:25",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 514,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ",
+      "chapter_id": 75,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180529,
+          "resource_id": 33,
+          "text": "mereka yakin bahwa akan ditimpakan kepadanya malapetaka yang sangat dahsyat."
+        }
+      ]
+    },
+    {
+      "id": 5577,
+      "verse_number": 26,
+      "verse_key": "75:26",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 514,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِىَ",
+      "chapter_id": 75,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180530,
+          "resource_id": 33,
+          "text": "Tidak! Apabila (nyawa) telah sampai ke kerongkongan,"
+        }
+      ]
+    },
+    {
+      "id": 5578,
+      "verse_number": 27,
+      "verse_key": "75:27",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 514,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَقِيلَ مَنْ ۜ رَاقٍ",
+      "chapter_id": 75,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180531,
+          "resource_id": 33,
+          "text": "dan dikatakan (kepadanya), \"Siapa yang dapat menyembuhkan?\""
+        }
+      ]
+    },
+    {
+      "id": 5579,
+      "verse_number": 28,
+      "verse_key": "75:28",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 514,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَظَنَّ أَنَّهُ ٱلْفِرَاقُ",
+      "chapter_id": 75,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180532,
+          "resource_id": 33,
+          "text": "dan dia yakin bahwa itulah waktu perpisahan (dengan dunia),"
+        }
+      ]
+    },
+    {
+      "id": 5580,
+      "verse_number": 29,
+      "verse_key": "75:29",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 514,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+      "chapter_id": 75,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180533,
+          "resource_id": 33,
+          "text": "dan bertaut betis (kiri) dengan betis (kanan),<sup foot_note=135832>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 5581,
+      "verse_number": 30,
+      "verse_key": "75:30",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 514,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمَسَاقُ",
+      "chapter_id": 75,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180538,
+          "resource_id": 33,
+          "text": "kepada Tuhanmu lah pada hari itu kamu dihalau."
+        }
+      ]
+    },
+    {
+      "id": 5582,
+      "verse_number": 31,
+      "verse_key": "75:31",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 515,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+      "chapter_id": 75,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180540,
+          "resource_id": 33,
+          "text": "Karena dia (dahulu) tidak mau membenarkan (Alquran dan Rasul) dan tidak mau melaksanakan salat,"
+        }
+      ]
+    },
+    {
+      "id": 5583,
+      "verse_number": 32,
+      "verse_key": "75:32",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 515,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَـٰكِن كَذَّبَ وَتَوَلَّىٰ",
+      "chapter_id": 75,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180541,
+          "resource_id": 33,
+          "text": "tetapi justru dia mendustakan (Rasul) dan berpaling (dari kebenaran),"
+        }
+      ]
+    },
+    {
+      "id": 5584,
+      "verse_number": 33,
+      "verse_key": "75:33",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 515,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ ذَهَبَ إِلَىٰٓ أَهْلِهِۦ يَتَمَطَّىٰٓ",
+      "chapter_id": 75,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180542,
+          "resource_id": 33,
+          "text": "kemudian dia pergi kepada keluarganya dengan sombong."
+        }
+      ]
+    },
+    {
+      "id": 5585,
+      "verse_number": 34,
+      "verse_key": "75:34",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 515,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَوْلَىٰ لَكَ فَأَوْلَىٰ",
+      "chapter_id": 75,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180543,
+          "resource_id": 33,
+          "text": "Celakalah kamu! Maka celakalah!"
+        }
+      ]
+    },
+    {
+      "id": 5586,
+      "verse_number": 35,
+      "verse_key": "75:35",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 515,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰٓ",
+      "chapter_id": 75,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180544,
+          "resource_id": 33,
+          "text": "sekali lagi, celakalah kamu (manusia)! Maka celakalah!"
+        }
+      ]
+    },
+    {
+      "id": 5587,
+      "verse_number": 36,
+      "verse_key": "75:36",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 515,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَيَحْسَبُ ٱلْإِنسَـٰنُ أَن يُتْرَكَ سُدًى",
+      "chapter_id": 75,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180545,
+          "resource_id": 33,
+          "text": "Apakah manusia mengira, dia akan dibiarkan begitu saja (tanpa pertanggung-jawaban)?"
+        }
+      ]
+    },
+    {
+      "id": 5588,
+      "verse_number": 37,
+      "verse_key": "75:37",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 515,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَمْ يَكُ نُطْفَةً مِّن مَّنِىٍّ يُمْنَىٰ",
+      "chapter_id": 75,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180546,
+          "resource_id": 33,
+          "text": "Bukankah dia mulanya hanya setetes mani yang ditumpahkan (ke dalam rahim),"
+        }
+      ]
+    },
+    {
+      "id": 5589,
+      "verse_number": 38,
+      "verse_key": "75:38",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 515,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ",
+      "chapter_id": 75,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180547,
+          "resource_id": 33,
+          "text": "kemudian (mani itu) menjadi sesuatu yang melekat, lalu Allah menciptakannya dan menyempurnakannya,"
+        }
+      ]
+    },
+    {
+      "id": 5590,
+      "verse_number": 39,
+      "verse_key": "75:39",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 515,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَجَعَلَ مِنْهُ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+      "chapter_id": 75,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 177475,
+          "resource_id": 33,
+          "text": "lalu Dia menjadikan darinya sepasang laki-laki dan perempuan."
+        }
+      ]
+    },
+    {
+      "id": 5591,
+      "verse_number": 40,
+      "verse_key": "75:40",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 515,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَيْسَ ذَٰلِكَ بِقَـٰدِرٍ عَلَىٰٓ أَن يُحْـِۧىَ ٱلْمَوْتَىٰ",
+      "chapter_id": 75,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180550,
+          "resource_id": 33,
+          "text": "Bukankah (Allah yang berbuat) demikian berkuasa (pula) menghidupkan orang mati?"
+        }
+      ]
+    },
+    {
+      "id": 5592,
+      "verse_number": 1,
+      "verse_key": "76:1",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " هَلْ أَتَىٰ عَلَى ٱلْإِنسَـٰنِ حِينٌ مِّنَ ٱلدَّهْرِ لَمْ يَكُن شَيْـًٔا مَّذْكُورًا",
+      "chapter_id": 76,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180564,
+          "resource_id": 33,
+          "text": "Bukankah pernah datang kepada manusia waktu dari masa, yang ketika itu belum merupakan sesuatu yang dapat disebut?"
+        }
+      ]
+    },
+    {
+      "id": 5593,
+      "verse_number": 2,
+      "verse_key": "76:2",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا خَلَقْنَا ٱلْإِنسَـٰنَ مِن نُّطْفَةٍ أَمْشَاجٍ نَّبْتَلِيهِ فَجَعَلْنَـٰهُ سَمِيعًۢا بَصِيرًا",
+      "chapter_id": 76,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180576,
+          "resource_id": 33,
+          "text": "Sungguh, Kami telah menciptakan manusia dari setetes mani yang bercampur<sup foot_note=135833>1</sup> yang Kami hendak mengujinya (dengan perintah dan larangan), karena itu Kami jadikan dia mendengar dan melihat."
+        }
+      ]
+    },
+    {
+      "id": 5594,
+      "verse_number": 3,
+      "verse_key": "76:3",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا هَدَيْنَـٰهُ ٱلسَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا",
+      "chapter_id": 76,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180588,
+          "resource_id": 33,
+          "text": "Sungguh, Kami telah menunjukkan kepadanya jalan yang lurus; ada yang bersyukur dan ada pula yang kufur."
+        }
+      ]
+    },
+    {
+      "id": 5595,
+      "verse_number": 4,
+      "verse_key": "76:4",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّآ أَعْتَدْنَا لِلْكَـٰفِرِينَ سَلَـٰسِلَا۟ وَأَغْلَـٰلًا وَسَعِيرًا",
+      "chapter_id": 76,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180598,
+          "resource_id": 33,
+          "text": "Sungguh, Kami telah menyediakan bagi orang-orang kafir rantai, belenggu dan neraka yang menyala-nyala."
+        }
+      ]
+    },
+    {
+      "id": 5596,
+      "verse_number": 5,
+      "verse_key": "76:5",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلْأَبْرَارَ يَشْرَبُونَ مِن كَأْسٍ كَانَ مِزَاجُهَا كَافُورًا",
+      "chapter_id": 76,
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 180590,
+          "resource_id": 33,
+          "text": "Sungguh, orang-orang yang berbuat kebajikan akan minum dari gelas (berisi minuman) yang campurannya adalah air kafur,<sup foot_note=135834>1</sup>"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 26,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 26
+  }
+}

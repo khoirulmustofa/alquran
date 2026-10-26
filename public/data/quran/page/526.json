@@ -1,0 +1,557 @@
+{
+  "verses": [
+    {
+      "id": 4785,
+      "verse_number": 1,
+      "verse_key": "53:1",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " وَٱلنَّجْمِ إِذَا هَوَىٰ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 177535,
+          "resource_id": 33,
+          "text": "Demi bintang ketika terbenam,"
+        }
+      ]
+    },
+    {
+      "id": 4786,
+      "verse_number": 2,
+      "verse_key": "53:2",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 181868,
+          "resource_id": 33,
+          "text": "kawanmu (Muhammad) tidak sesat dan tidak (pula) keliru,"
+        }
+      ]
+    },
+    {
+      "id": 4787,
+      "verse_number": 3,
+      "verse_key": "53:3",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179400,
+          "resource_id": 33,
+          "text": "dan tidaklah yang diucapkannya itu (Alquran) menurut keinginannya."
+        }
+      ]
+    },
+    {
+      "id": 4788,
+      "verse_number": 4,
+      "verse_key": "53:4",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنْ هُوَ إِلَّا وَحْىٌ يُوحَىٰ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179422,
+          "resource_id": 33,
+          "text": "Tidak lain (Alquran itu) adalah wahyu yang diwahyukan (kepadanya),"
+        }
+      ]
+    },
+    {
+      "id": 4789,
+      "verse_number": 5,
+      "verse_key": "53:5",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَلَّمَهُۥ شَدِيدُ ٱلْقُوَىٰ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179426,
+          "resource_id": 33,
+          "text": "yang diajarkan kepadanya oleh (Jibril) yang sangat kuat,"
+        }
+      ]
+    },
+    {
+      "id": 4790,
+      "verse_number": 6,
+      "verse_key": "53:6",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ذُو مِرَّةٍ فَٱسْتَوَىٰ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179439,
+          "resource_id": 33,
+          "text": "yang mempunyai keteguhan; maka (Jibril itu) menampakkan diri dengan rupa yang asli (rupa yang bagus dan perkasa)"
+        }
+      ]
+    },
+    {
+      "id": 4791,
+      "verse_number": 7,
+      "verse_key": "53:7",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَهُوَ بِٱلْأُفُقِ ٱلْأَعْلَىٰ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179445,
+          "resource_id": 33,
+          "text": "Sedang dia berada di ufuk yang tinggi."
+        }
+      ]
+    },
+    {
+      "id": 4792,
+      "verse_number": 8,
+      "verse_key": "53:8",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ دَنَا فَتَدَلَّىٰ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179441,
+          "resource_id": 33,
+          "text": "Kemudian dia mendekat (pada Muhammad), lalu bertambah dekat,"
+        }
+      ]
+    },
+    {
+      "id": 4793,
+      "verse_number": 9,
+      "verse_key": "53:9",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179443,
+          "resource_id": 33,
+          "text": "sehingga jaraknya (sekitar) dua busur panah atau lebih dekat (lagi)."
+        }
+      ]
+    },
+    {
+      "id": 4794,
+      "verse_number": 10,
+      "verse_key": "53:10",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَوْحَىٰٓ إِلَىٰ عَبْدِهِۦ مَآ أَوْحَىٰ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 181867,
+          "resource_id": 33,
+          "text": "Lalu disampaikannya wahyu kepada hamba-Nya (Muhammad) apa yang telah diwahyukan Allah."
+        }
+      ]
+    },
+    {
+      "id": 4795,
+      "verse_number": 11,
+      "verse_key": "53:11",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَا كَذَبَ ٱلْفُؤَادُ مَا رَأَىٰٓ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 178258,
+          "resource_id": 33,
+          "text": "Hatinya tidak mendustakan apa yang telah dilihatnya."
+        }
+      ]
+    },
+    {
+      "id": 4796,
+      "verse_number": 12,
+      "verse_key": "53:12",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَفَتُمَـٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179391,
+          "resource_id": 33,
+          "text": "Maka apakah kamu (musyrikin Mekkah) hendak membantahnya tentang apa yang dilihatnya itu?"
+        }
+      ]
+    },
+    {
+      "id": 4797,
+      "verse_number": 13,
+      "verse_key": "53:13",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ رَءَاهُ نَزْلَةً أُخْرَىٰ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179381,
+          "resource_id": 33,
+          "text": "Dan sungguh, dia (Muhammad) telah melihatnya (dalam rupanya yang asli) pada waktu yang lain,"
+        }
+      ]
+    },
+    {
+      "id": 4798,
+      "verse_number": 14,
+      "verse_key": "53:14",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عِندَ سِدْرَةِ ٱلْمُنتَهَىٰ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179382,
+          "resource_id": 33,
+          "text": "(yaitu) di Sidratilmuntahā,<sup foot_note=135768>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 4799,
+      "verse_number": 15,
+      "verse_key": "53:15",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عِندَهَا جَنَّةُ ٱلْمَأْوَىٰٓ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179384,
+          "resource_id": 33,
+          "text": "di dekatnya ada surga tempat tinggal,"
+        }
+      ]
+    },
+    {
+      "id": 4800,
+      "verse_number": 16,
+      "verse_key": "53:16",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ يَغْشَى ٱلسِّدْرَةَ مَا يَغْشَىٰ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179383,
+          "resource_id": 33,
+          "text": "(Muhammad melihat Jibril) ketika Sidratilmuntahā diliputi oleh sesuatu yang meliputinya,"
+        }
+      ]
+    },
+    {
+      "id": 4801,
+      "verse_number": 17,
+      "verse_key": "53:17",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَا زَاغَ ٱلْبَصَرُ وَمَا طَغَىٰ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179385,
+          "resource_id": 33,
+          "text": "penglihatannya (Muhammad) tidak menyimpang dari yang dilihatnya itu dan tidak (pula) melampauinya."
+        }
+      ]
+    },
+    {
+      "id": 4802,
+      "verse_number": 18,
+      "verse_key": "53:18",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَقَدْ رَأَىٰ مِنْ ءَايَـٰتِ رَبِّهِ ٱلْكُبْرَىٰٓ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179386,
+          "resource_id": 33,
+          "text": "Sungguh, dia telah melihat sebagian tanda-tanda (kebesaran) Tuhannya yang paling besar."
+        }
+      ]
+    },
+    {
+      "id": 4803,
+      "verse_number": 19,
+      "verse_key": "53:19",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَفَرَءَيْتُمُ ٱللَّـٰتَ وَٱلْعُزَّىٰ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179387,
+          "resource_id": 33,
+          "text": "Maka apakah patut kamu (orang-orang musyrik) menganggap (berhala) Al-Lāta dan Al-'Uzzā,"
+        }
+      ]
+    },
+    {
+      "id": 4804,
+      "verse_number": 20,
+      "verse_key": "53:20",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلْأُخْرَىٰٓ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179405,
+          "resource_id": 33,
+          "text": "dan Manāt, yang ketiga yang paling kemudian (sebagai anak perempuan Allah)."
+        }
+      ]
+    },
+    {
+      "id": 4805,
+      "verse_number": 21,
+      "verse_key": "53:21",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلْأُنثَىٰ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179403,
+          "resource_id": 33,
+          "text": "Apakah (pantas) untuk kamu yang laki-laki dan untuk-Nya yang perempuan?"
+        }
+      ]
+    },
+    {
+      "id": 4806,
+      "verse_number": 22,
+      "verse_key": "53:22",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "تِلْكَ إِذًا قِسْمَةٌ ضِيزَىٰٓ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179393,
+          "resource_id": 33,
+          "text": "Yang demikian itu tentulah suatu pembagian yang timpang."
+        }
+      ]
+    },
+    {
+      "id": 4807,
+      "verse_number": 23,
+      "verse_key": "53:23",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنْ هِىَ إِلَّآ أَسْمَآءٌ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَـٰنٍ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهْوَى ٱلْأَنفُسُ ۖ وَلَقَدْ جَآءَهُم مِّن رَّبِّهِمُ ٱلْهُدَىٰٓ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179392,
+          "resource_id": 33,
+          "text": "Itu tidak lain hanyalah nama-nama yang kamu dan nenek moyangmu mengada-adakannya; Allah tidak menurunkan suatu keterangan apa pun untuk (menyembah)nya. Mereka hanya mengikuti dugaan, dan apa yang diingini oleh keinginannya. Padahal sungguh, telah datang petunjuk dari Tuhan mereka."
+        }
+      ]
+    },
+    {
+      "id": 4808,
+      "verse_number": 24,
+      "verse_key": "53:24",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَمْ لِلْإِنسَـٰنِ مَا تَمَنَّىٰ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179396,
+          "resource_id": 33,
+          "text": "Atau apakah manusia akan mendapat segala yang dicita-citakannya?"
+        }
+      ]
+    },
+    {
+      "id": 4809,
+      "verse_number": 25,
+      "verse_key": "53:25",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَلِلَّهِ ٱلْـَٔاخِرَةُ وَٱلْأُولَىٰ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179394,
+          "resource_id": 33,
+          "text": "(Tidak!) Maka milik Allah lah kehidupan akhirat dan kehidupan dunia."
+        }
+      ]
+    },
+    {
+      "id": 4810,
+      "verse_number": 26,
+      "verse_key": "53:26",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 211,
+      "ruku_number": 463,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "۞ وَكَم مِّن مَّلَكٍ فِى ٱلسَّمَـٰوَٰتِ لَا تُغْنِى شَفَـٰعَتُهُمْ شَيْـًٔا إِلَّا مِنۢ بَعْدِ أَن يَأْذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرْضَىٰٓ",
+      "chapter_id": 53,
+      "page_number": 526,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179395,
+          "resource_id": 33,
+          "text": "Dan betapa banyak malaikat di langit, syafaat (pertolongan) mereka sedikit pun tidak berguna kecuali apabila Allah telah mengizinkan (dan hanya) bagi siapa yang Dia kehendaki dan Dia ridai."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 26,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 26
+  }
+}

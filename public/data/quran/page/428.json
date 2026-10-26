@@ -1,0 +1,158 @@
+{
+  "verses": [
+    {
+      "id": 3607,
+      "verse_number": 1,
+      "verse_key": "34:1",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 171,
+      "ruku_number": 372,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": " ٱلْحَمْدُ لِلَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَلَهُ ٱلْحَمْدُ فِى ٱلْـَٔاخِرَةِ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ",
+      "chapter_id": 34,
+      "page_number": 428,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 177956,
+          "resource_id": 33,
+          "text": "Segala puji bagi Allah yang memiliki apa yang ada di langit dan apa yang ada di bumi dan segala puji di akhirat bagi Allah. Dan Dialah Yang Mahabijaksana, Mahateliti."
+        }
+      ]
+    },
+    {
+      "id": 3608,
+      "verse_number": 2,
+      "verse_key": "34:2",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 171,
+      "ruku_number": 372,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا ۚ وَهُوَ ٱلرَّحِيمُ ٱلْغَفُورُ",
+      "chapter_id": 34,
+      "page_number": 428,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 177968,
+          "resource_id": 33,
+          "text": "Dia mengetahui apa yang masuk ke dalam bumi, apa yang keluar darinya, apa yang turun dari langit dan apa yang naik kepadanya. Dan Dialah Yang Maha Penyayang, Maha Pengampun."
+        }
+      ]
+    },
+    {
+      "id": 3609,
+      "verse_number": 3,
+      "verse_key": "34:3",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 171,
+      "ruku_number": 372,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَا تَأْتِينَا ٱلسَّاعَةُ ۖ قُلْ بَلَىٰ وَرَبِّى لَتَأْتِيَنَّكُمْ عَـٰلِمِ ٱلْغَيْبِ ۖ لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍ فِى ٱلسَّمَـٰوَٰتِ وَلَا فِى ٱلْأَرْضِ وَلَآ أَصْغَرُ مِن ذَٰلِكَ وَلَآ أَكْبَرُ إِلَّا فِى كِتَـٰبٍ مُّبِينٍ",
+      "chapter_id": 34,
+      "page_number": 428,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 177980,
+          "resource_id": 33,
+          "text": "Dan orang-orang yang kafir berkata, \"Hari Kiamat itu tidak akan datang kepada kami.\" Katakanlah, \"Pasti datang, demi Tuhanku Yang mengetahui yang gaib, Kiamat itu pasti akan datang kepadamu. Tidak ada yang tersembunyi bagi-Nya sekalipun seberat zarah<sup foot_note=135642>1</sup>baik yang di langit maupun yang di bumi, yang lebih kecil dari itu atau yang lebih besar, semuanya (tertulis) dalam Kitab yang jelas (Lauḥ Maḥfūẓ),\""
+        }
+      ]
+    },
+    {
+      "id": 3610,
+      "verse_number": 4,
+      "verse_key": "34:4",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 171,
+      "ruku_number": 372,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "لِّيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ ۚ أُو۟لَـٰٓئِكَ لَهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+      "chapter_id": 34,
+      "page_number": 428,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 177995,
+          "resource_id": 33,
+          "text": "agar Dia (Allah) memberi balasan kepada orang-orang yang beriman dan mengerjakan kebajikan. Mereka memperoleh ampunan dan rezeki yang mulia (surga)."
+        }
+      ]
+    },
+    {
+      "id": 3611,
+      "verse_number": 5,
+      "verse_key": "34:5",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 171,
+      "ruku_number": 372,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ سَعَوْ فِىٓ ءَايَـٰتِنَا مُعَـٰجِزِينَ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ مِّن رِّجْزٍ أَلِيمٌ",
+      "chapter_id": 34,
+      "page_number": 428,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178009,
+          "resource_id": 33,
+          "text": "Dan orang-orang yang berusaha untuk (menentang) ayat-ayat Kami dengan anggapan mereka dapat melemahkan (menggagalkan azab Kami), mereka itu akan memperoleh azab, yaitu azab yang sangat pedih."
+        }
+      ]
+    },
+    {
+      "id": 3612,
+      "verse_number": 6,
+      "verse_key": "34:6",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 171,
+      "ruku_number": 372,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَيَرَى ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ ٱلَّذِىٓ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ هُوَ ٱلْحَقَّ وَيَهْدِىٓ إِلَىٰ صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+      "chapter_id": 34,
+      "page_number": 428,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178015,
+          "resource_id": 33,
+          "text": "Dan orang-orang yang diberi ilmu (Ahli Kitab) berpendapat bahwa (wahyu) yang diturunkan kepadamu (Muhammad) dari Tuhanmu itulah yang benar dan memberi petunjuk (bagi manusia) kepada jalan (Allah) Yang Mahaperkasa, Maha Terpuji."
+        }
+      ]
+    },
+    {
+      "id": 3613,
+      "verse_number": 7,
+      "verse_key": "34:7",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 171,
+      "ruku_number": 372,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ هَلْ نَدُلُّكُمْ عَلَىٰ رَجُلٍ يُنَبِّئُكُمْ إِذَا مُزِّقْتُمْ كُلَّ مُمَزَّقٍ إِنَّكُمْ لَفِى خَلْقٍ جَدِيدٍ",
+      "chapter_id": 34,
+      "page_number": 428,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 178018,
+          "resource_id": 33,
+          "text": "Dan orang-orang kafir berkata (kepada teman-temannya), \"Maukah kami tunjukkan kepadamu seorang laki-laki<sup foot_note=135643>1</sup> yang memberitakan kepadamu bahwa apabila badanmu telah hancur sehancur-hancurnya, kamu pasti (akan dibangkitkan kembali) dalam ciptaan yang baru."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 7,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 7
+  }
+}

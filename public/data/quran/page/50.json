@@ -1,0 +1,200 @@
+{
+  "verses": [
+    {
+      "id": 294,
+      "verse_number": 1,
+      "verse_key": "3:1",
+      "hizb_number": 5,
+      "rub_el_hizb_number": 20,
+      "ruku_number": 42,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": " الٓمٓ",
+      "chapter_id": 3,
+      "page_number": 50,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 177313,
+          "resource_id": 33,
+          "text": "Alif lām Mīm."
+        }
+      ]
+    },
+    {
+      "id": 295,
+      "verse_number": 2,
+      "verse_key": "3:2",
+      "hizb_number": 5,
+      "rub_el_hizb_number": 20,
+      "ruku_number": 42,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ",
+      "chapter_id": 3,
+      "page_number": 50,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 177828,
+          "resource_id": 33,
+          "text": "Allah, tidak ada tuhan selain Dia. Yang Mahahidup, Yang terus menerus mengurus (makhluk-Nya).<sup foot_note=135060>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 296,
+      "verse_number": 3,
+      "verse_key": "3:3",
+      "hizb_number": 5,
+      "rub_el_hizb_number": 20,
+      "ruku_number": 42,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "نَزَّلَ عَلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ",
+      "chapter_id": 3,
+      "page_number": 50,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 177871,
+          "resource_id": 33,
+          "text": "Dia menurunkan Kitab (Alquran) kepadamu (Muhammad) yang mengandung kebenaran, membenarkan (kitab-kitab) sebelumnya, dan Dia menurunkan Taurat dan Injil,"
+        }
+      ]
+    },
+    {
+      "id": 297,
+      "verse_number": 4,
+      "verse_key": "3:4",
+      "hizb_number": 5,
+      "rub_el_hizb_number": 20,
+      "ruku_number": 42,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "مِن قَبْلُ هُدًى لِّلنَّاسِ وَأَنزَلَ ٱلْفُرْقَانَ ۗ إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ ٱللَّهِ لَهُمْ عَذَابٌ شَدِيدٌ ۗ وَٱللَّهُ عَزِيزٌ ذُو ٱنتِقَامٍ",
+      "chapter_id": 3,
+      "page_number": 50,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 177953,
+          "resource_id": 33,
+          "text": "sebelumnya, sebagai petunjuk bagi manusia, dan Dia menurunkan Al-Furqan.<sup foot_note=135061>1</sup> Sungguh, orang-orang yang ingkar terhadap ayat-ayat Allah akan memperoleh azab yang berat. Allah Mahaperkasa lagi mempunyai balasan (siksa)."
+        }
+      ]
+    },
+    {
+      "id": 298,
+      "verse_number": 5,
+      "verse_key": "3:5",
+      "hizb_number": 5,
+      "rub_el_hizb_number": 20,
+      "ruku_number": 42,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَىْءٌ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ",
+      "chapter_id": 3,
+      "page_number": 50,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 178022,
+          "resource_id": 33,
+          "text": "Bagi Allah tidak ada sesuatu pun yang tersembunyi di bumi dan di langit."
+        }
+      ]
+    },
+    {
+      "id": 299,
+      "verse_number": 6,
+      "verse_key": "3:6",
+      "hizb_number": 5,
+      "rub_el_hizb_number": 20,
+      "ruku_number": 42,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "هُوَ ٱلَّذِى يُصَوِّرُكُمْ فِى ٱلْأَرْحَامِ كَيْفَ يَشَآءُ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "chapter_id": 3,
+      "page_number": 50,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 178077,
+          "resource_id": 33,
+          "text": "Dialah yang membentuk kamu dalam rahim menurut yang Dia kehendaki. Tidak ada tuhan selain Dia. Yang Mahaperkasa, Mahabijaksana."
+        }
+      ]
+    },
+    {
+      "id": 300,
+      "verse_number": 7,
+      "verse_key": "3:7",
+      "hizb_number": 5,
+      "rub_el_hizb_number": 20,
+      "ruku_number": 42,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَـٰبَ مِنْهُ ءَايَـٰتٌ مُّحْكَمَـٰتٌ هُنَّ أُمُّ ٱلْكِتَـٰبِ وَأُخَرُ مُتَشَـٰبِهَـٰتٌ ۖ فَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَـٰبَهَ مِنْهُ ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ ۗ وَمَا يَعْلَمُ تَأْوِيلَهُۥٓ إِلَّا ٱللَّهُ ۗ وَٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلٌّ مِّنْ عِندِ رَبِّنَا ۗ وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+      "chapter_id": 3,
+      "page_number": 50,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 178172,
+          "resource_id": 33,
+          "text": "Dialah yang menurunkan Kitab (Alquran) kepadamu (Muhammad). Di antaranya ada ayat-ayat yang muḥkamāt,<sup foot_note=135062>1</sup> itulah pokok-pokok Kitab (Alquran) dan yang lain mutasyābihāt.<sup foot_note=135063>2</sup> Adapun orang-orang yang dalam hatinya condong pada kesesatan, mereka mengikuti yang mutasyābihāt untuk mencari-cari fitnah dan untuk mencari-cari takwilnya, padahal tidak ada yang mengetahui takwilnya kecuali Allah. Dan orang-orang yang ilmunya mendalam berkata, \"Kami beriman kepadanya (Alquran), semuanya dari sisi Tuhan kami.\" Tidak ada yang dapat mengambil pelajaran kecuali orang yang berakal."
+        }
+      ]
+    },
+    {
+      "id": 301,
+      "verse_number": 8,
+      "verse_key": "3:8",
+      "hizb_number": 5,
+      "rub_el_hizb_number": 20,
+      "ruku_number": 42,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+      "chapter_id": 3,
+      "page_number": 50,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 178343,
+          "resource_id": 33,
+          "text": "(Mereka berdoa), \"Ya Tuhan kami, janganlah Engkau condongkan hati kami kepada kesesatan setelah Engkau berikan petunjuk kepada kami, dan karuniakanlah kepada kami rahmat dari sisi-Mu, sesungguhnya Engkau Maha Pemberi.\""
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "verse_number": 9,
+      "verse_key": "3:9",
+      "hizb_number": 5,
+      "rub_el_hizb_number": 20,
+      "ruku_number": 42,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوْمٍ لَّا رَيْبَ فِيهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ",
+      "chapter_id": 3,
+      "page_number": 50,
+      "juz_number": 3,
+      "translations": [
+        {
+          "id": 178441,
+          "resource_id": 33,
+          "text": "\"Ya Tuhan kami, Engkaulah yang mengumpulkan manusia pada hari yang tidak ada keraguan padanya.\" Sungguh, Allah tidak menyalahi janji."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 9,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 9
+  }
+}

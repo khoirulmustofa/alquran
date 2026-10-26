@@ -1,0 +1,95 @@
+{
+  "verses": [
+    {
+      "id": 65,
+      "verse_number": 58,
+      "verse_key": "2:58",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 3,
+      "ruku_number": 7,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ قُلْنَا ٱدْخُلُوا۟ هَـٰذِهِ ٱلْقَرْيَةَ فَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ رَغَدًا وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا وَقُولُوا۟ حِطَّةٌ نَّغْفِرْ لَكُمْ خَطَـٰيَـٰكُمْ ۚ وَسَنَزِيدُ ٱلْمُحْسِنِينَ",
+      "chapter_id": 2,
+      "page_number": 9,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 183267,
+          "resource_id": 33,
+          "text": "Dan (ingatlah) ketika Kami berfirman, \"Masuklah kamu ke negeri ini (Baitulmaqdis), maka makanlah dengan nikmat (berbagai makanan) yang ada di sana sesukamu. Dan masukilah pintu gerbangnya sambil membungkuk, dan katakanlah, \"Bebaskanlah kami (dari dosa-dosa kami),\" niscaya Kami ampuni kesalahan-kesalahanmu. Dan Kami akan menambah (karunia) bagi orang-orang yang berbuat kebaikan.\""
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "verse_number": 59,
+      "verse_key": "2:59",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 3,
+      "ruku_number": 7,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "فَبَدَّلَ ٱلَّذِينَ ظَلَمُوا۟ قَوْلًا غَيْرَ ٱلَّذِى قِيلَ لَهُمْ فَأَنزَلْنَا عَلَى ٱلَّذِينَ ظَلَمُوا۟ رِجْزًا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+      "chapter_id": 2,
+      "page_number": 9,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 183257,
+          "resource_id": 33,
+          "text": "Lalu orang-orang yang zalim mengganti perintah dengan (perintah lain) yang tidak diperintahkan kepada mereka. Maka Kami turunkan malapetaka dari langit kepada orang-orang yang zalim itu, karena mereka (selalu) berbuat fasik."
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "verse_number": 60,
+      "verse_key": "2:60",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 4,
+      "ruku_number": 8,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "۞ وَإِذِ ٱسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِۦ فَقُلْنَا ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ ۖ فَٱنفَجَرَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ ۖ كُلُوا۟ وَٱشْرَبُوا۟ مِن رِّزْقِ ٱللَّهِ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+      "chapter_id": 2,
+      "page_number": 9,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 183272,
+          "resource_id": 33,
+          "text": "Dan (ingatlah) ketika Musa memohon air untuk kaumnya, lalu Kami berfirman, \"Pukullah batu itu dengan tongkatmu!\" Maka memacarlah darinya dua belas mata air. Setiap suku telah mengetahui tempat minumnya (masing-masing).<sup foot_note=134981>1</sup> Makan dan minumlah dari rezeki (yang diberikan) Allah, dan janganlah kamu melakukan kejahatan di bumi dengan berbuat kerusakan."
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "verse_number": 61,
+      "verse_key": "2:61",
+      "hizb_number": 1,
+      "rub_el_hizb_number": 4,
+      "ruku_number": 8,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ قُلْتُمْ يَـٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا ۖ قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ۚ ٱهْبِطُوا۟ مِصْرًا فَإِنَّ لَكُم مَّا سَأَلْتُمْ ۗ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ ۗ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّـۧنَ بِغَيْرِ ٱلْحَقِّ ۗ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+      "chapter_id": 2,
+      "page_number": 9,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 183274,
+          "resource_id": 33,
+          "text": "Dan (ingatlah), ketika kamu berkata, \"Wahai Musa! Kami tidak tahan hanya (makan) dengan satu macam makanan saja, maka mohonkanlah kepada Tuhanmu untuk kami, agar Dia memberi kami apa yang ditumbuhkan bumi, seperti: sayur-mayur, mentimun, bawang putih, kacang adas dan bawang merah.\" Dia (Musa) menjawab, \"Apakah kamu meminta sesuatu yang buruk sebagai ganti dari sesuatu yang baik? Pergilah ke suatu kota, pasti kamu memperoleh apa yang kamu minta.\" Kemudian mereka ditimpa kenistaan dan kemiskinan, dan mereka (kembali) mendapat kemurkaan dari Allah. Hal itu (terjadi) karena mereka mengingkari ayat-ayat Allah dan membunuh para nabi tanpa hak (alasan yang benar). Yang demikian itu karena mereka durhaka dan melampaui batas."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 4,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 4
+  }
+}

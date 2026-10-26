@@ -1,0 +1,515 @@
+{
+  "verses": [
+    {
+      "id": 3891,
+      "verse_number": 103,
+      "verse_key": "37:103",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 390,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178180,
+          "resource_id": 33,
+          "text": "Maka ketika keduanya telah berserah diri dan dia (Ibrahim) membaringkan anaknya atas pelipisnya, (untuk melaksanakan perintah Allah)."
+        }
+      ]
+    },
+    {
+      "id": 3892,
+      "verse_number": 104,
+      "verse_key": "37:104",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 390,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَنَـٰدَيْنَـٰهُ أَن يَـٰٓإِبْرَٰهِيمُ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 177541,
+          "resource_id": 33,
+          "text": "Lalu Kami panggil dia, \"Wahai Ibrahim!"
+        }
+      ]
+    },
+    {
+      "id": 3893,
+      "verse_number": 105,
+      "verse_key": "37:105",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 390,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قَدْ صَدَّقْتَ ٱلرُّءْيَآ ۚ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178181,
+          "resource_id": 33,
+          "text": "Sungguh, engkau telah membenarkan mimpi itu.\"<sup foot_note=135684>1</sup> Sungguh, demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik."
+        }
+      ]
+    },
+    {
+      "id": 3894,
+      "verse_number": 106,
+      "verse_key": "37:106",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 390,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ هَـٰذَا لَهُوَ ٱلْبَلَـٰٓؤُا۟ ٱلْمُبِينُ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 177343,
+          "resource_id": 33,
+          "text": "Sesungguhnya ini benar-benar suatu ujian yang nyata."
+        }
+      ]
+    },
+    {
+      "id": 3895,
+      "verse_number": 107,
+      "verse_key": "37:107",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 390,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَفَدَيْنَـٰهُ بِذِبْحٍ عَظِيمٍ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178182,
+          "resource_id": 33,
+          "text": "Dan Kami tebus anak itu dengan seekor sembelihan yang besar.<sup foot_note=135685>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 3896,
+      "verse_number": 108,
+      "verse_key": "37:108",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 390,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 181832,
+          "resource_id": 33,
+          "text": "Dan Kami abadikan untuk Ibrahim (pujian) di kalangan orang-orang yang datang kemudian,"
+        }
+      ]
+    },
+    {
+      "id": 3897,
+      "verse_number": 109,
+      "verse_key": "37:109",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 390,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "سَلَـٰمٌ عَلَىٰٓ إِبْرَٰهِيمَ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178183,
+          "resource_id": 33,
+          "text": "\" Selamat sejahtera bagi Ibrahim.\""
+        }
+      ]
+    },
+    {
+      "id": 3898,
+      "verse_number": 110,
+      "verse_key": "37:110",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 390,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178371,
+          "resource_id": 33,
+          "text": "Demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik."
+        }
+      ]
+    },
+    {
+      "id": 3899,
+      "verse_number": 111,
+      "verse_key": "37:111",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 390,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178186,
+          "resource_id": 33,
+          "text": "Sungguh, dia termasuk hamba-hamba Kami yang beriman."
+        }
+      ]
+    },
+    {
+      "id": 3900,
+      "verse_number": 112,
+      "verse_key": "37:112",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 390,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَبَشَّرْنَـٰهُ بِإِسْحَـٰقَ نَبِيًّا مِّنَ ٱلصَّـٰلِحِينَ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178187,
+          "resource_id": 33,
+          "text": "Dan Kami beri dia kabar gembira dengan (kelahiran) Ishak seorang nabi yang termasuk orang-orang yang saleh."
+        }
+      ]
+    },
+    {
+      "id": 3901,
+      "verse_number": 113,
+      "verse_key": "37:113",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 390,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَبَـٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ إِسْحَـٰقَ ۚ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِۦ مُبِينٌ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178188,
+          "resource_id": 33,
+          "text": "Dan Kami limpahkan keberkahan kepadanya dan kepada Ishak. Dan di antara keturunan keduanya ada yang berbuat baik dan ada (pula) yang terang-terangan berbuat zalim terhadap dirinya sendiri."
+        }
+      ]
+    },
+    {
+      "id": 3902,
+      "verse_number": 114,
+      "verse_key": "37:114",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 391,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَـٰرُونَ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178189,
+          "resource_id": 33,
+          "text": "Dan sungguh, Kami telah melimpahkan nikmat kepada Musa dan Harun."
+        }
+      ]
+    },
+    {
+      "id": 3903,
+      "verse_number": 115,
+      "verse_key": "37:115",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 391,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَنَجَّيْنَـٰهُمَا وَقَوْمَهُمَا مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 177281,
+          "resource_id": 33,
+          "text": "Dan Kami selamatkan keduanya dan kaumnya dari bencana yang besar,"
+        }
+      ]
+    },
+    {
+      "id": 3904,
+      "verse_number": 116,
+      "verse_key": "37:116",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 391,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَنَصَرْنَـٰهُمْ فَكَانُوا۟ هُمُ ٱلْغَـٰلِبِينَ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178211,
+          "resource_id": 33,
+          "text": "dan Kami tolong mereka, sehingga jadilah mereka orang-orang yang menang."
+        }
+      ]
+    },
+    {
+      "id": 3905,
+      "verse_number": 117,
+      "verse_key": "37:117",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 391,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَءَاتَيْنَـٰهُمَا ٱلْكِتَـٰبَ ٱلْمُسْتَبِينَ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178190,
+          "resource_id": 33,
+          "text": "Dan Kami berikan kepada keduanya Kitab yang sangat jelas,"
+        }
+      ]
+    },
+    {
+      "id": 3906,
+      "verse_number": 118,
+      "verse_key": "37:118",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 391,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَهَدَيْنَـٰهُمَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178191,
+          "resource_id": 33,
+          "text": "dan Kami tunjukkan keduanya jalan yang lurus."
+        }
+      ]
+    },
+    {
+      "id": 3907,
+      "verse_number": 119,
+      "verse_key": "37:119",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 391,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَتَرَكْنَا عَلَيْهِمَا فِى ٱلْـَٔاخِرِينَ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178192,
+          "resource_id": 33,
+          "text": "Dan Kami abadikan untuk keduanya (pujian) di kalangan orang-orang yang datang kemudian,"
+        }
+      ]
+    },
+    {
+      "id": 3908,
+      "verse_number": 120,
+      "verse_key": "37:120",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 391,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "سَلَـٰمٌ عَلَىٰ مُوسَىٰ وَهَـٰرُونَ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178194,
+          "resource_id": 33,
+          "text": "\"Selamat sejahtera bagi Musa dan Harun.\""
+        }
+      ]
+    },
+    {
+      "id": 3909,
+      "verse_number": 121,
+      "verse_key": "37:121",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 391,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178195,
+          "resource_id": 33,
+          "text": "Demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik."
+        }
+      ]
+    },
+    {
+      "id": 3910,
+      "verse_number": 122,
+      "verse_key": "37:122",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 391,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّهُمَا مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178196,
+          "resource_id": 33,
+          "text": "Sungguh, keduanya termasuk hamba-hamba Kami yang beriman."
+        }
+      ]
+    },
+    {
+      "id": 3911,
+      "verse_number": 123,
+      "verse_key": "37:123",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 391,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178197,
+          "resource_id": 33,
+          "text": "Dan sungguh, Ilyas benar-benar termasuk salah seorang rasul."
+        }
+      ]
+    },
+    {
+      "id": 3912,
+      "verse_number": 124,
+      "verse_key": "37:124",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 391,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ قَالَ لِقَوْمِهِۦٓ أَلَا تَتَّقُونَ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178198,
+          "resource_id": 33,
+          "text": "(Ingatlah) ketika dia berkata kepada kaumnya, \"Mengapa kamu tidak bertakwa?"
+        }
+      ]
+    },
+    {
+      "id": 3913,
+      "verse_number": 125,
+      "verse_key": "37:125",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 391,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ ٱلْخَـٰلِقِينَ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178199,
+          "resource_id": 33,
+          "text": "Patutkah kamu menyembah Ba'l <sup foot_note=135686>1</sup> dan kamu tinggalkan (Allah) sebaik-baik Pencipta,"
+        }
+      ]
+    },
+    {
+      "id": 3914,
+      "verse_number": 126,
+      "verse_key": "37:126",
+      "hizb_number": 45,
+      "rub_el_hizb_number": 180,
+      "ruku_number": 391,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "ٱللَّهَ رَبَّكُمْ وَرَبَّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+      "chapter_id": 37,
+      "page_number": 450,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 178200,
+          "resource_id": 33,
+          "text": "(yaitu) Allah Tuhanmu dan Tuhan nenek moyangmu yang terdahulu?\""
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 24,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 24
+  }
+}

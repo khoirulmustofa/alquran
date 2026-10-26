@@ -1,0 +1,116 @@
+{
+  "verses": [
+    {
+      "id": 91,
+      "verse_number": 84,
+      "verse_key": "2:84",
+      "hizb_number": 2,
+      "rub_el_hizb_number": 5,
+      "ruku_number": 11,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ أَخَذْنَا مِيثَـٰقَكُمْ لَا تَسْفِكُونَ دِمَآءَكُمْ وَلَا تُخْرِجُونَ أَنفُسَكُم مِّن دِيَـٰرِكُمْ ثُمَّ أَقْرَرْتُمْ وَأَنتُمْ تَشْهَدُونَ",
+      "chapter_id": 2,
+      "page_number": 13,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 177404,
+          "resource_id": 33,
+          "text": "Dan (ingatlah) ketika Kami mengambil janji kamu, \"Janganlah kamu menumpahkan darahmu (membunuh orang), dan mengusir dirimu (saudara sebangsamu) dari kampung halamanmu.\" kemudian kamu berikrar dan bersaksi."
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "verse_number": 85,
+      "verse_key": "2:85",
+      "hizb_number": 2,
+      "rub_el_hizb_number": 5,
+      "ruku_number": 11,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ أَنتُمْ هَـٰٓؤُلَآءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِّنكُم مِّن دِيَـٰرِهِمْ تَظَـٰهَرُونَ عَلَيْهِم بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَإِن يَأْتُوكُمْ أُسَـٰرَىٰ تُفَـٰدُوهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ ۚ أَفَتُؤْمِنُونَ بِبَعْضِ ٱلْكِتَـٰبِ وَتَكْفُرُونَ بِبَعْضٍ ۚ فَمَا جَزَآءُ مَن يَفْعَلُ ذَٰلِكَ مِنكُمْ إِلَّا خِزْىٌ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَيَوْمَ ٱلْقِيَـٰمَةِ يُرَدُّونَ إِلَىٰٓ أَشَدِّ ٱلْعَذَابِ ۗ وَمَا ٱللَّهُ بِغَـٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "chapter_id": 2,
+      "page_number": 13,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 177428,
+          "resource_id": 33,
+          "text": "Kemudian kamu (Bani Israil) membunuh dirimu (sesamamu), dan mengusir segolongan dari kamu dari kampung halamannya. Kamu saling membantu (menghadapi) mereka dalam kejahatan dan permusuhan. Dan jika mereka datang kepadamu sebagai tawanan, kamu tebus mereka, padahal kamu dilarang mengusir mereka. Apakah kamu beriman kepada sebagian Kitab (Taurat) dan ingkar kepada sebagian (yang lain)? Maka tidak ada balasan (yang pantas) bagi orang yang berbuat demikian di antara kamu selain kenistaan dalam kehidupan dunia, dan pada hari Kiamat mereka dikembalikan kepada azab yang paling berat. Dan Allah tidak lengah terhadap apa yang kamu kerjakan.<sup foot_note=134989>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "verse_number": 86,
+      "verse_key": "2:86",
+      "hizb_number": 2,
+      "rub_el_hizb_number": 5,
+      "ruku_number": 11,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْـَٔاخِرَةِ ۖ فَلَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنصَرُونَ",
+      "chapter_id": 2,
+      "page_number": 13,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 177451,
+          "resource_id": 33,
+          "text": "Mereka itulah orang-orang yang membeli kehidupan dunia dengan (kehidupan) akhirat. Maka tidak akan diringankan azabnya dan mereka tidak akan ditolong."
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "verse_number": 87,
+      "verse_key": "2:87",
+      "hizb_number": 2,
+      "rub_el_hizb_number": 5,
+      "ruku_number": 12,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَقَفَّيْنَا مِنۢ بَعْدِهِۦ بِٱلرُّسُلِ ۖ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَـٰتِ وَأَيَّدْنَـٰهُ بِرُوحِ ٱلْقُدُسِ ۗ أَفَكُلَّمَا جَآءَكُمْ رَسُولٌۢ بِمَا لَا تَهْوَىٰٓ أَنفُسُكُمُ ٱسْتَكْبَرْتُمْ فَفَرِيقًا كَذَّبْتُمْ وَفَرِيقًا تَقْتُلُونَ",
+      "chapter_id": 2,
+      "page_number": 13,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 177472,
+          "resource_id": 33,
+          "text": "Dan sungguh, Kami telah memberikan Kitab (Taurat) kepada Musa, dan Kami susulkan setelahnya dengan Rasul-rasul, dan kami telah berikan kepada Isa putra Maryam bukti-bukti kebenaran serta Kami perkuat dia dengan Ruhulkudus (Jibril). Mengapa setiap Rasul yang datang kepadamu (membawa) sesuatu (pelajaran) yang tidak kamu inginkan, kamu menyombongkan diri, lalu sebagian kamu dustakan dan sebagian kamu bunuh?"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "verse_number": 88,
+      "verse_key": "2:88",
+      "hizb_number": 2,
+      "rub_el_hizb_number": 5,
+      "ruku_number": 12,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ ۚ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ",
+      "chapter_id": 2,
+      "page_number": 13,
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 177499,
+          "resource_id": 33,
+          "text": "Dan mereka berkata, \"Hati kami tertutup.\" Tidak! Allah telah melaknat mereka itu karena keingkaran mereka, tetapi sedikit sekali mereka yang beriman."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 5,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 5
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "verses": [
+    {
+      "id": 4516,
+      "verse_number": 6,
+      "verse_key": "46:6",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 440,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا حُشِرَ ٱلنَّاسُ كَانُوا۟ لَهُمْ أَعْدَآءً وَكَانُوا۟ بِعِبَادَتِهِمْ كَـٰفِرِينَ",
+      "chapter_id": 46,
+      "page_number": 503,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 177390,
+          "resource_id": 33,
+          "text": "Dan apabila manusia dikumpulkan (pada hari Kiamat), sesembahan itu menjadi musuh mereka, dan mengingkari pemujaan-pemujaan yang mereka lakukan kepadanya."
+        }
+      ]
+    },
+    {
+      "id": 4517,
+      "verse_number": 7,
+      "verse_key": "46:7",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 440,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا بَيِّنَـٰتٍ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلْحَقِّ لَمَّا جَآءَهُمْ هَـٰذَا سِحْرٌ مُّبِينٌ",
+      "chapter_id": 46,
+      "page_number": 503,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179079,
+          "resource_id": 33,
+          "text": "Dan apabila dibacakan ayat-ayat Kami yang jelas kepada mereka, orang-orang yang kafir berkata, ketika kebenaran itu datang kepada mereka, \"Ini adalah sihir yang nyata.\""
+        }
+      ]
+    },
+    {
+      "id": 4518,
+      "verse_number": 8,
+      "verse_key": "46:8",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 440,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَلَا تَمْلِكُونَ لِى مِنَ ٱللَّهِ شَيْـًٔا ۖ هُوَ أَعْلَمُ بِمَا تُفِيضُونَ فِيهِ ۖ كَفَىٰ بِهِۦ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۖ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+      "chapter_id": 46,
+      "page_number": 503,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179076,
+          "resource_id": 33,
+          "text": "Bahkan mereka berkata, \"Dia (Muhammad) telah mengada-adakannya (Alquran).\" Katakanlah, \"Jika aku mengada-adakannya, maka kamu tidak kuasa sedikit pun menghindarkan aku dari (azab) Allah. Dia lebih tahu apa yang kamu percakapkan tentang Alquran ini. Cukuplah Dia menjadi saksi antara aku dengan kamu. Dia Maha Pengampun, Maha Penyayang.\""
+        }
+      ]
+    },
+    {
+      "id": 4519,
+      "verse_number": 9,
+      "verse_key": "46:9",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 440,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ مَا كُنتُ بِدْعًا مِّنَ ٱلرُّسُلِ وَمَآ أَدْرِى مَا يُفْعَلُ بِى وَلَا بِكُمْ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ وَمَآ أَنَا۠ إِلَّا نَذِيرٌ مُّبِينٌ",
+      "chapter_id": 46,
+      "page_number": 503,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179080,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Aku bukanlah Rasul yang pertama di antara rasul-rasul, dan aku tidak tahu apa yang akan diperbuat terhadapku dan terhadapmu. Aku hanyalah mengikuti apa yang diwahyukan kepadaku, dan aku hanyalah pemberi peringatan yang menjelaskan.\""
+        }
+      ]
+    },
+    {
+      "id": 4520,
+      "verse_number": 10,
+      "verse_key": "46:10",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 440,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ وَكَفَرْتُم بِهِۦ وَشَهِدَ شَاهِدٌ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ عَلَىٰ مِثْلِهِۦ فَـَٔامَنَ وَٱسْتَكْبَرْتُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+      "chapter_id": 46,
+      "page_number": 503,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179035,
+          "resource_id": 33,
+          "text": "Katakanlah, \"Terangkan kepadaku, bagaimana pendapatmu jika sebenarnya (Alquran) ini datang dari Allah, dan kamu mengingkarinya, padahal ada seorang saksi dari Bani Israil<sup foot_note=135753>1</sup> yang mengakui (kebenaran) yang serupa dengan (yang disebut dalam) Alquran lalu dia beriman; kamu menyombongkan diri. Sungguh, Allah tidak memberi petunjuk kepada orang-orang yang zalim.\""
+        }
+      ]
+    },
+    {
+      "id": 4521,
+      "verse_number": 11,
+      "verse_key": "46:11",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 441,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ لَوْ كَانَ خَيْرًا مَّا سَبَقُونَآ إِلَيْهِ ۚ وَإِذْ لَمْ يَهْتَدُوا۟ بِهِۦ فَسَيَقُولُونَ هَـٰذَآ إِفْكٌ قَدِيمٌ",
+      "chapter_id": 46,
+      "page_number": 503,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179036,
+          "resource_id": 33,
+          "text": "Dan orang-orang yang kafir berkata kepada orang-orang yang beriman, \"Sekiranya Alquran itu sesuatu yang baik, tentu mereka tidak pantas mendahului kami (beriman) kepadanya.<sup foot_note=135754>1</sup> Tetapi karena mereka tidak mendapat petunjuk dengannya, maka mereka akan berkata, \"Ini adalah dusta yang lama.\""
+        }
+      ]
+    },
+    {
+      "id": 4522,
+      "verse_number": 12,
+      "verse_key": "46:12",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 441,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِن قَبْلِهِۦ كِتَـٰبُ مُوسَىٰٓ إِمَامًا وَرَحْمَةً ۚ وَهَـٰذَا كِتَـٰبٌ مُّصَدِّقٌ لِّسَانًا عَرَبِيًّا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُوا۟ وَبُشْرَىٰ لِلْمُحْسِنِينَ",
+      "chapter_id": 46,
+      "page_number": 503,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179037,
+          "resource_id": 33,
+          "text": "Dan sebelum (Alquran) itu telah ada Kitab Musa sebagai petunjuk dan rahmat. Dan (Alquran) ini adalah Kitab yang membenarkannya dalam bahasa Arab untuk memberi peringatan kepada orang-orang yang zalim dan memberi kabar gembira kepada orang-orang yang berbuat baik."
+        }
+      ]
+    },
+    {
+      "id": 4523,
+      "verse_number": 13,
+      "verse_key": "46:13",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 441,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَـٰمُوا۟ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "chapter_id": 46,
+      "page_number": 503,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 179038,
+          "resource_id": 33,
+          "text": "Sesungguhnya orang-orang yang berkata, \"Tuhan kami adalah Allah,\" kemudian mereka tetap istikamah,<sup foot_note=135755>1</sup> tidak ada rasa khawatir pada mereka, dan mereka tidak (pula) bersedih hati."
+        }
+      ]
+    },
+    {
+      "id": 4524,
+      "verse_number": 14,
+      "verse_key": "46:14",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 441,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَنَّةِ خَـٰلِدِينَ فِيهَا جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "chapter_id": 46,
+      "page_number": 503,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 177388,
+          "resource_id": 33,
+          "text": "Mereka itulah para penghuni surga, kekal di dalamnya; sebagai balasan atas apa yang telah mereka kerjakan."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 9,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 9
+  }
+}
