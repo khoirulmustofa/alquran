@@ -29,6 +29,7 @@ export default defineNuxtConfig({
     '~/assets/css/main.css'
   ],
   app: {
+    baseURL: process.env.NUXT_APP_BASE_URL || (process.env.GITHUB_PAGES === 'true' ? '/alquran/' : '/'),
     head: {
       title: 'Khoirul Mustofa Mengaji - Al-Qur\'an Digital & Ibadah',
       meta: [

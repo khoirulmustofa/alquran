@@ -19,6 +19,15 @@ export interface BookmarkItem {
   createdAt: number
 }
 
+function getBaseUrl(): string {
+  try {
+    const config = useRuntimeConfig()
+    return config.app?.baseURL || '/'
+  } catch {
+    return '/'
+  }
+}
+
 export const useQuranStore = defineStore('quran', {
   state: () => ({
     // Mode tampilan: 'surah' (default) atau 'page' (per halaman mushaf)
@@ -58,7 +67,6 @@ export const useQuranStore = defineStore('quran', {
       )
     },
 
-    // Informasi juz dan surah untuk halaman aktif saat ini
     currentPageInfo(state): { juz: number, surahNames: string[] } {
       if (state.pageVerses.length > 0) {
         const juz = state.pageVerses[0].juzNumber || 1
@@ -91,7 +99,7 @@ export const useQuranStore = defineStore('quran', {
     initBookmarks() {
       if (import.meta.client) {
         try {
-          const saved = localStorage.getItem('ramadhan_pro_bookmarks')
+          const saved = localStorage.getItem('km_mengaji_bookmarks') || localStorage.getItem('ramadhan_pro_bookmarks')
           if (saved) {
             this.bookmarks = JSON.parse(saved)
           }
@@ -102,8 +110,15 @@ export const useQuranStore = defineStore('quran', {
     },
 
     async initChapters() {
+      const base = getBaseUrl().replace(/\/$/, '')
       try {
-        const response = await fetch('/api/quran/chapters')
+        // Coba load dari file JSON statis lokal (didukung di GitHub Pages & offline)
+        let response = await fetch(`${base}/data/quran/chapters.json`)
+        if (!response.ok) {
+          // Fallback ke server API route jika mode SSR
+          response = await fetch('/api/quran/chapters')
+        }
+
         if (response.ok) {
           const chapters = await response.json()
           if (Array.isArray(chapters) && chapters.length > 0) {
@@ -144,7 +159,7 @@ export const useQuranStore = defineStore('quran', {
 
       if (import.meta.client) {
         try {
-          localStorage.setItem('ramadhan_pro_bookmarks', JSON.stringify(this.bookmarks))
+          localStorage.setItem('km_mengaji_bookmarks', JSON.stringify(this.bookmarks))
         } catch (e) {
           console.error('Gagal menyimpan bookmarks', e)
         }
@@ -173,8 +188,17 @@ export const useQuranStore = defineStore('quran', {
       this.isLoading = true
       this.errorMessage = ''
 
+      const base = getBaseUrl().replace(/\/$/, '')
+
       try {
-        const response = await fetch(`/api/quran/surah/${nomor}`)
+        // 1. Coba baca file JSON statis lokal (kompatibel GitHub Pages & 0ms)
+        let response = await fetch(`${base}/data/quran/surah/${nomor}.json`)
+        
+        // 2. Jika 404, coba endpoint server jika dev/SSR
+        if (!response.ok) {
+          response = await fetch(`/api/quran/surah/${nomor}`)
+        }
+
         if (response.ok) {
           const res = await response.json()
           if (res && Array.isArray(res.verses)) {
@@ -199,7 +223,7 @@ export const useQuranStore = defineStore('quran', {
           }
         }
       } catch (err: any) {
-        console.warn('Gagal memuat ayat dari server route, menggunakan fallback:', err)
+        console.warn('Gagal memuat ayat dari file JSON/API:', err)
       } finally {
         this.isLoading = false
       }
@@ -213,8 +237,17 @@ export const useQuranStore = defineStore('quran', {
       this.isLoading = true
       this.errorMessage = ''
 
+      const base = getBaseUrl().replace(/\/$/, '')
+
       try {
-        const response = await fetch(`/api/quran/page/${pageNumber}`)
+        // 1. Coba baca file JSON statis lokal (kompatibel GitHub Pages)
+        let response = await fetch(`${base}/data/quran/page/${pageNumber}.json`)
+
+        // 2. Jika tidak ada, coba server API route
+        if (!response.ok) {
+          response = await fetch(`/api/quran/page/${pageNumber}`)
+        }
+
         if (response.ok) {
           const res = await response.json()
           if (res && Array.isArray(res.verses)) {

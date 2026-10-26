@@ -1,5 +1,7 @@
 # 📖 Khoirul Mustofa Mengaji — Al-Qur'an Digital & Ibadah
 
+> 🌐 **Live Demo (GitHub Pages):** [https://khoirulmustofa.github.io/alquran/](https://khoirulmustofa.github.io/alquran/)
+
 Aplikasi web Al-Qur'an digital modern berkinerja tinggi dengan antarmuka yang bersih, tenang, dan elegan. Dibangun menggunakan teknologi modern **Nuxt 4**, **Vue 3**, **PrimeVue 4.5**, **Pinia**, dan **Tailwind CSS 4**, serta terintegrasi langsung dengan **Quran Foundation Content API (v4)** dan sistem *offline-ready file caching*.
 
 ---
